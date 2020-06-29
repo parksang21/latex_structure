@@ -1,0 +1,3 @@
+\begin{equation}
+	E _ { S } ^ { * } \approx 1 . 9 \vert \times E _ { S }
+\end{equation}

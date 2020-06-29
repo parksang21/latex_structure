@@ -1,0 +1,3 @@
+\begin{equation}
+	( u ) = \lim _ { j } y _ { j } H _ { j } + i \lim _ { \alpha } \tau _ { \alpha } E _ { \alpha }
+\end{equation}

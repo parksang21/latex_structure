@@ -1,0 +1,19 @@
+# IUD, v2_rendered_25354
+# Objects(8):
+O, \prime_4, \prime, 1.0, OSup
+O, ω_3, ω, 1.0, O
+O, ω_8, ω, 1.0, ORRRR
+O, \circle_9, \circle, 1.0, ORRRRR
+O, n_6, n, 1.0, ORR
+O, \theta_10, \theta, 1.0, ORRRRRR
+O, \circle_7, \circle, 1.0, ORRR
+O, \geq_5, \geq, 1.0, OR
+
+# Relations from SRT:
+R, \circle_7, ω_8, Right, 1.0
+R, \circle_9, \theta_10, Right, 1.0
+R, \geq_5, n_6, Right, 1.0
+R, n_6, \circle_7, Right, 1.0
+R, ω_3, \geq_5, Right, 1.0
+R, ω_3, \prime_4, Sup, 1.0
+R, ω_8, \circle_9, Right, 1.0

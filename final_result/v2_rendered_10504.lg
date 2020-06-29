@@ -1,0 +1,39 @@
+# IUD, v2_rendered_10504
+# Objects(18):
+O, )_21, ), 1.0, ORRRRRRRRRRRRRRR
+O, \lambda_10, \lambda, 1.0, ORRRRRRR
+O, (_3, (, 1.0, OR
+O, \phi_2, \phi, 1.0, O
+O, COMMA_5, COMMA, 1.0, ORRR
+O, s_13, s, 1.0, ORRRRRRRSupR
+O, x_4, x, 1.0, ORR
+O, y_20, y, 1.0, ORRRRRRRRRRRRRR
+O, x_17, x, 1.0, ORRRRRRRRRRR
+O, (_15, (, 1.0, ORRRRRRRRR
+O, COMMA_18, COMMA, 1.0, ORRRRRRRRRRRR
+O, \lambda_16, \lambda, 1.0, ORRRRRRRRRR
+O, 2_12, 2, 1.0, ORRRRRRRSup
+O, y_6, y, 1.0, ORRRR
+O, )_7, ), 1.0, ORRRRR
+O, \geq_8, \geq, 1.0, ORRRRRR
+O, \phi_14, \phi, 1.0, ORRRRRRRR
+O, \lambda_19, \lambda, 1.0, ORRRRRRRRRRRRR
+
+# Relations from SRT:
+R, (_15, \lambda_16, Right, 1.0
+R, (_3, x_4, Right, 1.0
+R, )_7, \geq_8, Right, 1.0
+R, 2_12, s_13, Right, 1.0
+R, COMMA_18, \lambda_19, Right, 1.0
+R, COMMA_5, y_6, Right, 1.0
+R, \geq_8, \lambda_10, Right, 1.0
+R, \lambda_10, 2_12, Sup, 1.0
+R, \lambda_10, \phi_14, Right, 1.0
+R, \lambda_16, x_17, Right, 1.0
+R, \lambda_19, y_20, Right, 1.0
+R, \phi_14, (_15, Right, 1.0
+R, \phi_2, (_3, Right, 1.0
+R, x_17, COMMA_18, Right, 1.0
+R, x_4, COMMA_5, Right, 1.0
+R, y_20, )_21, Right, 1.0
+R, y_6, )_7, Right, 1.0

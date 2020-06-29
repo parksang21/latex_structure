@@ -1,0 +1,3 @@
+\begin{equation}
+	C _ { a } = q _ { u i } \Delta _ { a } u ^ { i } + \mu _ { n } \Delta _ { a } \phi _ { n }
+\end{equation}

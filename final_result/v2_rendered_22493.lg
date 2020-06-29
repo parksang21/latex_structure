@@ -1,0 +1,17 @@
+# IUD, v2_rendered_22493
+# Objects(7):
+O, \varepsilon_9, \varepsilon, 1.0, ORRRR
+O, \div_7, \div, 1.0, ORRR
+O, -_10, -, 1.0, ORRRRSup
+O, \varepsilon_2, \varepsilon, 1.0, O
+O, =_3, =, 1.0, OR
+O, \div_6, \div, 1.0, ORRSup
+O, \varepsilon_5, \varepsilon, 1.0, ORR
+
+# Relations from SRT:
+R, =_3, \varepsilon_5, Right, 1.0
+R, \div_7, \varepsilon_9, Right, 1.0
+R, \varepsilon_2, =_3, Right, 1.0
+R, \varepsilon_5, \div_6, Sup, 1.0
+R, \varepsilon_5, \div_7, Right, 1.0
+R, \varepsilon_9, -_10, Sup, 1.0

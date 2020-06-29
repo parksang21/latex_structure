@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta _ { t } ^ { 2 } \phi _ { \sqrt { k } } + \Omega _ { k } ^ { 2 } \phi _ { \sqrt { k } } = 0
+\end{equation}

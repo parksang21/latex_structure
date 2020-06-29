@@ -1,0 +1,3 @@
+\begin{equation}
+	\vert \psi \rangle = \lim _ { i } \alpha _ { i } \vert i \rangle
+\end{equation}

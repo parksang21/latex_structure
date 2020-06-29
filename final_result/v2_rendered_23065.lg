@@ -1,0 +1,41 @@
+# IUD, v2_rendered_23065
+# Objects(19):
+O, )_5, ), 1.0, ORRR
+O, j_9, j, 1.0, ORRRRRBelow
+O, \lim_8, \lim, 1.0, ORRRRR
+O, i_17, i, 1.0, ORRRRRRRRR
+O, =_6, =, 1.0, ORRRR
+O, +_16, +, 1.0, ORRRRRRRR
+O, \lim_19, \lim, 1.0, ORRRRRRRRRR
+O, (_3, (, 1.0, OR
+O, \alpha_26, \alpha, 1.0, ORRRRRRRRRRRRSub
+O, E_25, E, 1.0, ORRRRRRRRRRRR
+O, \tau_22, \tau, 1.0, ORRRRRRRRRRR
+O, j_12, j, 1.0, ORRRRRRSub
+O, \alpha_23, \alpha, 1.0, ORRRRRRRRRRRSub
+O, j_15, j, 1.0, ORRRRRRRSub
+O, \alpha_20, \alpha, 1.0, ORRRRRRRRRRBelow
+O, u_4, u, 1.0, ORR
+O, H_14, H, 1.0, ORRRRRRR
+O, y_11, y, 1.0, ORRRRRR
+O, L_2, L, 1.0, O
+
+# Relations from SRT:
+R, (_3, u_4, Right, 1.0
+R, )_5, =_6, Right, 1.0
+R, +_16, i_17, Right, 1.0
+R, =_6, \lim_8, Right, 1.0
+R, E_25, \alpha_26, Sub, 1.0
+R, H_14, +_16, Right, 1.0
+R, H_14, j_15, Sub, 1.0
+R, L_2, (_3, Right, 1.0
+R, \lim_19, \alpha_20, Below, 1.0
+R, \lim_19, \tau_22, Right, 1.0
+R, \lim_8, j_9, Below, 1.0
+R, \lim_8, y_11, Right, 1.0
+R, \tau_22, E_25, Right, 1.0
+R, \tau_22, \alpha_23, Sub, 1.0
+R, i_17, \lim_19, Right, 1.0
+R, u_4, )_5, Right, 1.0
+R, y_11, H_14, Right, 1.0
+R, y_11, j_12, Sub, 1.0

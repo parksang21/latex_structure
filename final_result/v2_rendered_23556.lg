@@ -1,0 +1,43 @@
+# IUD, v2_rendered_23556
+# Objects(20):
+O, \Omega_18, \Omega, 1.0, ORRRRRAboveR
+O, 6_12, 6, 1.0, ORR
+O, s_25, s, 1.0, ORRRRRBelow
+O, s_4, s, 1.0, OSub
+O, P_3, P, 1.0, O
+O, s_23, s, 1.0, ORRRRRAboveRRRRSub
+O, _15, -, 1.0, ORRRRR
+O, COMMA_8, COMMA, 1.0, OSupRR
+O, \neq_14, \neq, 1.0, ORRRR
+O, (_11, (, 1.0, OR
+O, )_13, ), 1.0, ORRR
+O, -_19, -, 1.0, ORRRRRAboveRR
+O, !_26, !, 1.0, ORRRRRBelowR
+O, )_22, ), 1.0, ORRRRRAboveRRRR
+O, 6_20, 6, 1.0, ORRRRRAboveRRR
+O, (_17, (, 1.0, ORRRRRAbove
+O, (_6, (, 1.0, OSup
+O, \psi_9, \psi, 1.0, OSupRRR
+O, )_10, ), 1.0, OSupRRRR
+O, \Omega_7, \Omega, 1.0, OSupR
+
+# Relations from SRT:
+R, (_11, 6_12, Right, 1.0
+R, (_17, \Omega_18, Right, 1.0
+R, (_6, \Omega_7, Right, 1.0
+R, )_13, \neq_14, Right, 1.0
+R, )_22, s_23, Sub, 1.0
+R, -_19, 6_20, Right, 1.0
+R, 6_12, )_13, Right, 1.0
+R, 6_20, )_22, Right, 1.0
+R, COMMA_8, \psi_9, Right, 1.0
+R, P_3, (_11, Right, 1.0
+R, P_3, (_6, Sup, 1.0
+R, P_3, s_4, Sub, 1.0
+R, \Omega_18, -_19, Right, 1.0
+R, \Omega_7, COMMA_8, Right, 1.0
+R, \neq_14, _15, Right, 1.0
+R, \psi_9, )_10, Right, 1.0
+R, _15, (_17, Above, 1.0
+R, _15, s_25, Below, 1.0
+R, s_25, !_26, Right, 1.0

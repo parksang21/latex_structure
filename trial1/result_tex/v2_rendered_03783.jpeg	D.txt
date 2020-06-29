@@ -1,0 +1,3 @@
+\begin{equation}
+	( e ^ { A A ^ { \prime } } \notin e ^ { B } _ { A ^ { \prime } } ) = 0
+\end{equation}

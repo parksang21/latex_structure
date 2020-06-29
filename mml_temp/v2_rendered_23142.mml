@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msqrt><mi>Z</mi></msqrt><mo stretchy="false" form="prefix">(</mo><msub><mi>M</mi><mi>n</mi></msub><mo stretchy="false" form="postfix">)</mo><mo>=</mo><mo stretchy="false" form="prefix">(</mo><munder><mo>∏</mo><mi>x</mi></munder><mo stretchy="false" form="prefix">[</mo><mi>g</mi><mo stretchy="false" form="prefix">(</mo><mi>x</mi><mo stretchy="false" form="postfix">)</mo><msup><mo stretchy="false" form="postfix">]</mo><mrow><mo>−</mo><mi>k</mi></mrow></msup><mo stretchy="false" form="postfix">)</mo><mi>Z</mi><mo stretchy="false" form="prefix">(</mo><msub><mi>M</mi><mi>n</mi></msub><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \sqrt { Z } ( M _ { n } ) = ( \prod _ { x } [ g ( x ) ] ^ { - k } ) Z ( M _ { n } )
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

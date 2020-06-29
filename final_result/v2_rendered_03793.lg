@@ -1,0 +1,37 @@
+# IUD, v2_rendered_03793
+# Objects(17):
+O, _16, \sqrt, 1.0, ORRRRRRRSub
+O, (_19, (, 1.0, ORRRRRRRR
+O, +_12, +, 1.0, ORRRRRR
+O, )_23, ), 1.0, ORRRRRRRRRR
+O, \rho_11, \rho, 1.0, ORRRRR
+O, =_10, =, 1.0, ORRRR
+O, \gamma_3, \gamma, 1.0, O
+O, m_4, m, 1.0, OSub
+O, \psi_18, \psi, 1.0, ORRRRRRRSubR
+O, g_21, g, 1.0, ORRRRRRRRR
+O, g_7, g, 1.0, ORR
+O, \gamma_14, \gamma, 1.0, ORRRRRRR
+O, c_8, c, 1.0, ORRSub
+O, \psi_17, \psi, 1.0, ORRRRRRRSubInside
+O, (_5, (, 1.0, OR
+O, )_9, ), 1.0, ORRR
+O, c_22, c, 1.0, ORRRRRRRRRSub
+
+# Relations from SRT:
+R, (_19, g_21, Right, 1.0
+R, (_5, g_7, Right, 1.0
+R, )_9, =_10, Right, 1.0
+R, +_12, \gamma_14, Right, 1.0
+R, =_10, \rho_11, Right, 1.0
+R, \gamma_14, (_19, Right, 1.0
+R, \gamma_14, _16, Sub, 1.0
+R, \gamma_3, (_5, Right, 1.0
+R, \gamma_3, m_4, Sub, 1.0
+R, \rho_11, +_12, Right, 1.0
+R, _16, \psi_17, Inside, 1.0
+R, _16, \psi_18, Right, 1.0
+R, g_21, )_23, Right, 1.0
+R, g_21, c_22, Sub, 1.0
+R, g_7, )_9, Right, 1.0
+R, g_7, c_8, Sub, 1.0

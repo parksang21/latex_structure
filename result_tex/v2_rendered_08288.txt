@@ -1,0 +1,3 @@
+\begin{equation}
+	s _ { u p p } \sqrt { Q } \not\subset \{ k \vert k ^ { 2 } \geq 0 a n d k ^ { 0 } \leq 0 \}
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	[ \beta k _ { \phi } \beta k _ { \psi } ] = f _ { \phi \beta } ^ { \Delta } \beta k _ { \Delta }
+\end{equation}

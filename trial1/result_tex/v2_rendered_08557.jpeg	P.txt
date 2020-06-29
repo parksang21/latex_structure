@@ -1,0 +1,3 @@
+\begin{equation}
+	( T \sim T _ { c } ) = - F ( T \sim T _ { c } ) > 0
+\end{equation}

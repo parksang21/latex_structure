@@ -1,0 +1,3 @@
+\begin{equation}
+	= D ^ { k + 2 } + ( k + 2 ) \lim _ { i = 0 } ^ { k } v _ { i } D ^ { i }
+\end{equation}

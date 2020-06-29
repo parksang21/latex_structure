@@ -1,0 +1,35 @@
+# IUD, 1033
+# Objects(16):
+O, X_3, X, 1.0, O
+O, \beta_20, \beta, 1.0, ORRRRRRSubR
+O, \alpha_19, \alpha, 1.0, ORRRRRRSub
+O, \Omega_6, \Omega, 1.0, OR
+O, \gamma_24, \gamma, 1.0, ORRRRRRRSub
+O, c_17, c, 1.0, ORRRRRR
+O, \gamma_21, \gamma, 1.0, ORRRRRRSup
+O, \alpha_4, \alpha, 1.0, OSub
+O, \Omega_23, \Omega, 1.0, ORRRRRRR
+O, \Omega_13, \Omega, 1.0, ORRRR
+O, \alpha_14, \alpha, 1.0, ORRRRSub
+O, =_15, =, 1.0, ORRRRR
+O, \beta_7, \beta, 1.0, ORSub
+O, X_10, X, 1.0, ORRR
+O, \beta_11, \beta, 1.0, ORRRSub
+O, -_8, -, 1.0, ORR
+
+# Relations from SRT:
+R, -_8, X_10, Right, 1.0
+R, =_15, c_17, Right, 1.0
+R, X_10, \Omega_13, Right, 1.0
+R, X_10, \beta_11, Sub, 1.0
+R, X_3, \Omega_6, Right, 1.0
+R, X_3, \alpha_4, Sub, 1.0
+R, \Omega_13, =_15, Right, 1.0
+R, \Omega_13, \alpha_14, Sub, 1.0
+R, \Omega_23, \gamma_24, Sub, 1.0
+R, \Omega_6, -_8, Right, 1.0
+R, \Omega_6, \beta_7, Sub, 1.0
+R, \alpha_19, \beta_20, Right, 1.0
+R, c_17, \Omega_23, Right, 1.0
+R, c_17, \alpha_19, Sub, 1.0
+R, c_17, \gamma_21, Sup, 1.0

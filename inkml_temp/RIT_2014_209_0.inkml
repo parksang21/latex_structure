@@ -1,0 +1,41 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">RIT_2014_209_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mo xml:id="\int_2">∫</mo><mn xml:id="3_3">3</mn><mo xml:id="\sin_4">sin</mo><mi xml:id="x_5">x</mi><mi xml:id="d_6">d</mi><mi xml:id="x_7">x</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\int</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\int_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">3</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="3_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\sin</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\sin_4"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">x</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="x_5"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">d</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="d_6"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">x</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="x_7"/>
+	</traceGroup>
+</traceGroup>
+</ink>

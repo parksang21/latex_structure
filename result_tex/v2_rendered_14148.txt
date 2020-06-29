@@ -1,0 +1,3 @@
+\begin{equation}
+	f ( \alpha ) = \cos \Omega \cos \alpha + i \cos \Omega \sin \alpha + i l \alpha
+\end{equation}

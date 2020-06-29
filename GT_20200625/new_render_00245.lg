@@ -1,0 +1,41 @@
+# IUD, new_render_00245
+# Objects(19):
+O, m_6, m, 1.0, ORRRR
+O, n_17, n, 1.0, ORRRRRRRRRRBelow
+O, n_22, n, 1.0, ORRRRRRRRRRRSub
+O, \equiv_18, \equiv, 1.0, ORRRRRRRRRRBelowR
+O, ⊄_23, ⊄, 1.0, ORRRRRRRRRRRR
+O, n_4, n, 1.0, ORR
+O, I_8, I, 1.0, ORRRRR
+O, I_21, I, 1.0, ORRRRRRRRRRR
+O, \Leftrifhtarrow_13, \Leftrifhtarrow, 1.0, ORRRRRRRRR
+O, t_11, t, 1.0, ORRRRRRR
+O, (_2, (, 1.0, O
+O, n_9, n, 1.0, ORRRRRSub
+O, \equiv_5, \equiv, 1.0, ORRR
+O, s_24, s, 1.0, ORRRRRRRRRRRRR
+O, \therefore_3, \therefore, 1.0, OR
+O, ⊄_10, ⊄, 1.0, ORRRRRR
+O, \sum_15, \sum, 1.0, ORRRRRRRRRR
+O, )_12, ), 1.0, ORRRRRRRR
+O, m_19, m, 1.0, ORRRRRRRRRRBelowRR
+
+# Relations from SRT:
+R, (_2, \therefore_3, Right, 1.0
+R, )_12, \Leftrifhtarrow_13, Right, 1.0
+R, I_21, n_22, Sub, 1.0
+R, I_21, ⊄_23, Right, 1.0
+R, I_8, n_9, Sub, 1.0
+R, I_8, ⊄_10, Right, 1.0
+R, \Leftrifhtarrow_13, \sum_15, Right, 1.0
+R, \equiv_18, m_19, Right, 1.0
+R, \equiv_5, m_6, Right, 1.0
+R, \sum_15, I_21, Right, 1.0
+R, \sum_15, n_17, Below, 1.0
+R, \therefore_3, n_4, Right, 1.0
+R, m_6, I_8, Right, 1.0
+R, n_17, \equiv_18, Right, 1.0
+R, n_4, \equiv_5, Right, 1.0
+R, t_11, )_12, Right, 1.0
+R, ⊄_10, t_11, Right, 1.0
+R, ⊄_23, s_24, Right, 1.0

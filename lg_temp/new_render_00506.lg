@@ -1,0 +1,55 @@
+# IUD, new_render_00506
+# Objects(26):
+O, )_10, ), 1.0, 8
+O, \phi_11, \phi, 1.0, 9
+O, \vert_4, \vert, 1.0, 2
+O, \lt_2, \lt, 1.0, 0
+O, F_23, F, 1.0, 20
+O, \square_22, \square, 1.0, 19
+O, \tau_9, \tau, 1.0, 7
+O, \vert_15, \vert, 1.0, 13
+O, )_14, ), 1.0, 12
+O, 0_16, 0, 1.0, 14
+O, (_24, (, 1.0, 21
+O, =_18, =, 1.0, 16
+O, T_5, T, 1.0, 3
+O, \rangle_17, \rangle, 1.0, 15
+O, (_8, (, 1.0, 6
+O, x_25, x, 1.0, 22
+O, (_12, (, 1.0, 10
+O, 0_3, 0, 1.0, 1
+O, \delta_20, \delta, 1.0, 18
+O, y_13, y, 1.0, 11
+O, )_28, ), 1.0, 25
+O, (_6, (, 1.0, 4
+O, i_19, i, 1.0, 17
+O, \phi_7, \phi, 1.0, 5
+O, \times_26, \times, 1.0, 23
+O, y_27, y, 1.0, 24
+
+# Relations from SRT:
+R, (_12, y_13, Right, 1.0
+R, (_24, x_25, Right, 1.0
+R, (_6, \phi_7, Right, 1.0
+R, (_8, \tau_9, Right, 1.0
+R, )_10, \phi_11, Right, 1.0
+R, )_14, \vert_15, Right, 1.0
+R, 0_16, \rangle_17, Right, 1.0
+R, 0_3, \vert_4, Right, 1.0
+R, =_18, i_19, Right, 1.0
+R, T_5, (_6, Right, 1.0
+R, \delta_20, \square_22, Right, 1.0
+R, \lt_2, 0_3, Right, 1.0
+R, \phi_11, (_12, Right, 1.0
+R, \phi_7, (_8, Right, 1.0
+R, \rangle_17, =_18, Right, 1.0
+R, \square_22, (_24, Right, 1.0
+R, \square_22, F_23, Sub, 1.0
+R, \tau_9, )_10, Right, 1.0
+R, \times_26, y_27, Right, 1.0
+R, \vert_15, 0_16, Right, 1.0
+R, \vert_4, T_5, Right, 1.0
+R, i_19, \delta_20, Right, 1.0
+R, x_25, \times_26, Right, 1.0
+R, y_13, )_14, Right, 1.0
+R, y_27, )_28, Right, 1.0

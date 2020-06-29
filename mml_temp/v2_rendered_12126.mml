@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msqrt><mi>n</mi></msqrt><mo>=</mo><mi>T</mi><mi>r</mi><mi>ρ</mi><mi>n</mi><mo stretchy="false" form="prefix">(</mo><msqrt><mi>x</mi></msqrt><mo stretchy="false" form="postfix">)</mo><msqrt><mi>γ</mi></msqrt><mo>=</mo><mi>T</mi><mi>r</mi><mi>ρ</mi><mi>h</mi><mo stretchy="false" form="prefix">(</mo><mi>β</mi><mi>x</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \sqrt { n } = T r \rho n ( \sqrt { x } ) \sqrt { \gamma } = T r \rho h ( \beta x
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \mu } p ^ { \mu } S _ { L } = - i m S _ { L } ^ { * }
+\end{equation}

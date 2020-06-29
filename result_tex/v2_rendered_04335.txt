@@ -1,0 +1,3 @@
+\begin{equation}
+	\delta W _ { P \mu } \approx A _ { \mu } \varepsilon + B _ { P \mu } ^ { \alpha } K _ { P } ^ { \alpha }
+\end{equation}

@@ -1,0 +1,45 @@
+# IUD, 1053
+# Objects(21):
+O, f_18, f, 1.0, ORRRRRRRRRR
+O, A_21, A, 1.0, ORRRRRRRRRRRR
+O, (_3, (, 1.0, OR
+O, (_11, (, 1.0, ORRRRRR
+O, f_10, f, 1.0, ORRRRR
+O, ω_24, ω, 1.0, ORRRRRRRRRRRRSup
+O, \mu_6, \mu, 1.0, ORRSub
+O, \mu_14, \mu, 1.0, ORRRRRRRSub
+O, -_17, -, 1.0, ORRRRRRRRR
+O, )_16, ), 1.0, ORRRRRRRR
+O, )_8, ), 1.0, ORRR
+O, (_19, (, 1.0, ORRRRRRRRRRR
+O, 0_25, 0, 1.0, ORRRRRRRRRRRRSupSub
+O, \equiv_9, \equiv, 1.0, ORRRR
+O, A_13, A, 1.0, ORRRRRRR
+O, ω_7, ω, 1.0, ORRSup
+O, A_5, A, 1.0, ORR
+O, \mu_22, \mu, 1.0, ORRRRRRRRRRRRSub
+O, )_26, ), 1.0, ORRRRRRRRRRRRR
+O, ω_15, ω, 1.0, ORRRRRRRSup
+O, g_2, g, 1.0, O
+
+# Relations from SRT:
+R, (_11, A_13, Right, 1.0
+R, (_19, A_21, Right, 1.0
+R, (_3, A_5, Right, 1.0
+R, )_16, -_17, Right, 1.0
+R, )_8, \equiv_9, Right, 1.0
+R, -_17, f_18, Right, 1.0
+R, A_13, )_16, Right, 1.0
+R, A_13, \mu_14, Sub, 1.0
+R, A_13, ω_15, Sup, 1.0
+R, A_21, )_26, Right, 1.0
+R, A_21, \mu_22, Sub, 1.0
+R, A_21, ω_24, Sup, 1.0
+R, A_5, )_8, Right, 1.0
+R, A_5, \mu_6, Sub, 1.0
+R, A_5, ω_7, Sup, 1.0
+R, \equiv_9, f_10, Right, 1.0
+R, f_10, (_11, Right, 1.0
+R, f_18, (_19, Right, 1.0
+R, g_2, (_3, Right, 1.0
+R, ω_24, 0_25, Sub, 1.0

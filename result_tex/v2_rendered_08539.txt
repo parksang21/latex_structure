@@ -1,0 +1,3 @@
+\begin{equation}
+	F ( T ) \leq C T \log ( T / Q ) , T - \infty
+\end{equation}

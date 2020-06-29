@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { H } ( z ) = \tan ( z )
+\end{equation}

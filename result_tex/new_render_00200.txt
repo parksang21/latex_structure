@@ -1,0 +1,3 @@
+\begin{equation}
+	\mu ^ { ( a ) } < r , \therefore a = 1 , \lsqrts , N
+\end{equation}

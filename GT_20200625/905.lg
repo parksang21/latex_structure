@@ -1,0 +1,35 @@
+# IUD, 905
+# Objects(16):
+O, s_15, s, 1.0, ORRRR
+O, \sigma_14, \sigma, 1.0, ORRR
+O, )_21, ), 1.0, ORRRRRRRRRR
+O, \lim_3, \lim, 1.0, O
+O, (_13, (, 1.0, ORR
+O, V_6, V, 1.0, OBelow
+O, \delta_18, \delta, 1.0, ORRRRRRR
+O, =_17, =, 1.0, ORRRRRR
+O, )_16, ), 1.0, ORRRRR
+O, p_12, p, 1.0, ORSub
+O, (_19, (, 1.0, ORRRRRRRR
+O, 0_9, 0, 1.0, OBelowRR
+O, K_11, K, 1.0, OR
+O, \sigma_20, \sigma, 1.0, ORRRRRRRRR
+O, p_7, p, 1.0, OBelowSub
+O, \Leftrifhtarrow_8, \Leftrifhtarrow, 1.0, OBelowR
+
+# Relations from SRT:
+R, (_13, \sigma_14, Right, 1.0
+R, (_19, \sigma_20, Right, 1.0
+R, )_16, =_17, Right, 1.0
+R, =_17, \delta_18, Right, 1.0
+R, K_11, (_13, Right, 1.0
+R, K_11, p_12, Sub, 1.0
+R, V_6, \Leftrifhtarrow_8, Right, 1.0
+R, V_6, p_7, Sub, 1.0
+R, \Leftrifhtarrow_8, 0_9, Right, 1.0
+R, \delta_18, (_19, Right, 1.0
+R, \lim_3, K_11, Right, 1.0
+R, \lim_3, V_6, Below, 1.0
+R, \sigma_14, s_15, Right, 1.0
+R, \sigma_20, )_21, Right, 1.0
+R, s_15, )_16, Right, 1.0

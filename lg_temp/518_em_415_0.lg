@@ -1,0 +1,9 @@
+# IUD, 518_em_415_0
+# Objects(3):
+O, \vert_2, \vert, 1.0, 0
+O, 1_5, 1, 1.0, 2
+O, u_4, u, 1.0, 1
+
+# Relations from SRT:
+R, \vert_2, u_4, Right, 1.0
+R, u_4, 1_5, Sub, 1.0

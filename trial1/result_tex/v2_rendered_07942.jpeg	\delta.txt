@@ -1,0 +1,3 @@
+\begin{equation}
+	( \rho ) = \frac { 1 } { n ! } \prod _ { R } ^ { } d _ { R } \lambda _ { R } ( \rho )
+\end{equation}

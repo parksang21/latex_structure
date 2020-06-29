@@ -1,0 +1,45 @@
+# IUD, v2_rendered_05310
+# Objects(21):
+O, \delta_20, \delta, 1.0, ORRRRRRRRRR
+O, [_21, [, 1.0, ORRRRRRRRRRR
+O, \prime_13, \prime, 1.0, ORRRRRRSup
+O, ]_26, ], 1.0, ORRRRRRRRRRRRR
+O, \in_24, \in, 1.0, ORRRRRRRRRRRRSub
+O, \vert_2, \vert, 1.0, O
+O, \vert_14, \vert, 1.0, ORRRRRRR
+O, A_11, A, 1.0, ORRRRRR
+O, \in_17, \in, 1.0, ORRRRRRRRSub
+O, \delta_3, \delta, 1.0, OR
+O, D_8, D, 1.0, ORRRRR
+O, \prime_25, \prime, 1.0, ORRRRRRRRRRRRSup
+O, \rangle_4, \rangle, 1.0, ORR
+O, =_5, =, 1.0, ORRR
+O, A_23, A, 1.0, ORRRRRRRRRRRR
+O, \rangle_19, \rangle, 1.0, ORRRRRRRRR
+O, \in_12, \in, 1.0, ORRRRRRSub
+O, A_16, A, 1.0, ORRRRRRRR
+O, \int_6, \int, 1.0, ORRRR
+O, \prime_18, \prime, 1.0, ORRRRRRRRSup
+O, 2_9, 2, 1.0, ORRRRRSup
+
+# Relations from SRT:
+R, =_5, \int_6, Right, 1.0
+R, A_11, \in_12, Sub, 1.0
+R, A_11, \prime_13, Sup, 1.0
+R, A_11, \vert_14, Right, 1.0
+R, A_16, \in_17, Sub, 1.0
+R, A_16, \prime_18, Sup, 1.0
+R, A_16, \rangle_19, Right, 1.0
+R, A_23, \in_24, Sub, 1.0
+R, A_23, \prime_25, Sup, 1.0
+R, A_23, ]_26, Right, 1.0
+R, D_8, 2_9, Sup, 1.0
+R, D_8, A_11, Right, 1.0
+R, [_21, A_23, Right, 1.0
+R, \delta_20, [_21, Right, 1.0
+R, \delta_3, \rangle_4, Right, 1.0
+R, \int_6, D_8, Right, 1.0
+R, \rangle_19, \delta_20, Right, 1.0
+R, \rangle_4, =_5, Right, 1.0
+R, \vert_14, A_16, Right, 1.0
+R, \vert_2, \delta_3, Right, 1.0

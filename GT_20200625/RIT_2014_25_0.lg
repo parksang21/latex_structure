@@ -1,0 +1,41 @@
+# IUD, RIT_2014_25_0
+# Objects(19):
+O, \cos_7, \cos, 1.0, ORRRRR
+O, )_20, ), 1.0, ORRRRRRRRRRRRRRRRRR
+O, (_8, (, 1.0, ORRRRRR
+O, /_16, /, 1.0, ORRRRRRRRRRRRRR
+O, t_19, t, 1.0, ORRRRRRRRRRRRRRRRR
+O, )_10, ), 1.0, ORRRRRRRR
+O, (_3, (, 1.0, OR
+O, =_11, =, 1.0, ORRRRRRRRR
+O, t_4, t, 1.0, ORR
+O, (_18, (, 1.0, ORRRRRRRRRRRRRRRR
+O, \sin_12, \sin, 1.0, ORRRRRRRRRR
+O, )_5, ), 1.0, ORRR
+O, t_14, t, 1.0, ORRRRRRRRRRRR
+O, /_6, /, 1.0, ORRRR
+O, t_9, t, 1.0, ORRRRRRR
+O, \sin_2, \sin, 1.0, O
+O, )_15, ), 1.0, ORRRRRRRRRRRRR
+O, \cos_17, \cos, 1.0, ORRRRRRRRRRRRRRR
+O, (_13, (, 1.0, ORRRRRRRRRRR
+
+# Relations from SRT:
+R, (_13, t_14, Right, 1.0
+R, (_18, t_19, Right, 1.0
+R, (_3, t_4, Right, 1.0
+R, (_8, t_9, Right, 1.0
+R, )_10, =_11, Right, 1.0
+R, )_15, /_16, Right, 1.0
+R, )_5, /_6, Right, 1.0
+R, /_16, \cos_17, Right, 1.0
+R, /_6, \cos_7, Right, 1.0
+R, =_11, \sin_12, Right, 1.0
+R, \cos_17, (_18, Right, 1.0
+R, \cos_7, (_8, Right, 1.0
+R, \sin_12, (_13, Right, 1.0
+R, \sin_2, (_3, Right, 1.0
+R, t_14, )_15, Right, 1.0
+R, t_19, )_20, Right, 1.0
+R, t_4, )_5, Right, 1.0
+R, t_9, )_10, Right, 1.0

@@ -1,0 +1,51 @@
+# IUD, v2_rendered_02462
+# Objects(24):
+O, \div_5, \div, 1.0, ORRR
+O, j_13, j, 1.0, ORRRRRRRRRRR
+O, COMMA_21, COMMA, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, u_17, u, 1.0, ORRRRRRRRRRRRRRR
+O, \forall_19, \forall, 1.0, ORRRRRRRRRRRRRRRRR
+O, COMMA_7, COMMA, 1.0, ORRRRR
+O, (_3, (, 1.0, OR
+O, u_22, u, 1.0, ORRRRRRRRRRRRRRRRRRRR
+O, )_11, ), 1.0, ORRRRRRRRR
+O, T_24, T, 1.0, ORRRRRRRRRRRRRRRRRRRRRR
+O, \in_23, \in, 1.0, ORRRRRRRRRRRRRRRRRRRRR
+O, j_20, j, 1.0, ORRRRRRRRRRRRRRRRRR
+O, =_12, =, 1.0, ORRRRRRRRRR
+O, (_14, (, 1.0, ORRRRRRRRRRRR
+O, J_8, J, 1.0, ORRRRRR
+O, J_4, J, 1.0, ORR
+O, j_6, j, 1.0, ORRRR
+O, COMMA_16, COMMA, 1.0, ORRRRRRRRRRRRRR
+O, )_18, ), 1.0, ORRRRRRRRRRRRRRRR
+O, j_15, j, 1.0, ORRRRRRRRRRRRR
+O, \div_9, \div, 1.0, ORRRRRRR
+O, u_10, u, 1.0, ORRRRRRRR
+O, j_2, j, 1.0, O
+O, V_25, V, 1.0, ORRRRRRRRRRRRRRRRRRRRRRR
+
+# Relations from SRT:
+R, (_14, j_15, Right, 1.0
+R, (_3, J_4, Right, 1.0
+R, )_11, =_12, Right, 1.0
+R, )_18, \forall_19, Right, 1.0
+R, =_12, j_13, Right, 1.0
+R, COMMA_16, u_17, Right, 1.0
+R, COMMA_21, u_22, Right, 1.0
+R, COMMA_7, J_8, Right, 1.0
+R, J_4, \div_5, Right, 1.0
+R, J_8, \div_9, Right, 1.0
+R, T_24, V_25, Right, 1.0
+R, \div_5, j_6, Right, 1.0
+R, \div_9, u_10, Right, 1.0
+R, \forall_19, j_20, Right, 1.0
+R, \in_23, T_24, Right, 1.0
+R, j_13, (_14, Right, 1.0
+R, j_15, COMMA_16, Right, 1.0
+R, j_20, COMMA_21, Right, 1.0
+R, j_2, (_3, Right, 1.0
+R, j_6, COMMA_7, Right, 1.0
+R, u_10, )_11, Right, 1.0
+R, u_17, )_18, Right, 1.0
+R, u_22, \in_23, Right, 1.0

@@ -1,0 +1,33 @@
+# IUD, new_render_01352
+# Objects(15):
+O, \otimes_17, \otimes, 1.0, ORRRRRRR
+O, g_4, g, 1.0, ORR
+O, M_13, M, 1.0, ORRRRRR
+O, \geqq_6, \geqq, 1.0, ORRRR
+O, \oplus_8, \oplus, 1.0, ORRRRR
+O, M_2, M, 1.0, O
+O, \beta_15, \beta, 1.0, ORRRRRRSub
+O, V_19, V, 1.0, ORRRRRRRR
+O, g_11, g, 1.0, ORRRRRBelowSub
+O, \beta_21, \beta, 1.0, ORRRRRRRRSub
+O, g_22, g, 1.0, ORRRRRRRRSubSub
+O, \beta_10, \beta, 1.0, ORRRRRBelow
+O, )_5, ), 1.0, ORRR
+O, g_16, g, 1.0, ORRRRRRSubSub
+O, (_3, (, 1.0, OR
+
+# Relations from SRT:
+R, (_3, g_4, Right, 1.0
+R, )_5, \geqq_6, Right, 1.0
+R, M_13, \beta_15, Sub, 1.0
+R, M_13, \otimes_17, Right, 1.0
+R, M_2, (_3, Right, 1.0
+R, V_19, \beta_21, Sub, 1.0
+R, \beta_10, g_11, Sub, 1.0
+R, \beta_15, g_16, Sub, 1.0
+R, \beta_21, g_22, Sub, 1.0
+R, \geqq_6, \oplus_8, Right, 1.0
+R, \oplus_8, M_13, Right, 1.0
+R, \oplus_8, \beta_10, Below, 1.0
+R, \otimes_17, V_19, Right, 1.0
+R, g_4, )_5, Right, 1.0

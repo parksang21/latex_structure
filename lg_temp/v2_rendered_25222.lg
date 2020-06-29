@@ -1,0 +1,37 @@
+# IUD, v2_rendered_25222
+# Objects(17):
+O, d_12, d, 1.0, 7
+O, x_16, x, 1.0, 11
+O, 1_7, 1, 1.0, 2
+O, (_15, (, 1.0, 10
+O, \beta_19, \beta, 1.0, 14
+O, e_13, e, 1.0, 8
+O, )_20, ), 1.0, 15
+O, \div_8, \div, 1.0, 3
+O, \langle_11, \langle, 1.0, 6
+O, 1_9, 1, 1.0, 4
+O, c_14, c, 1.0, 9
+O, W_3, W, 1.0, 0
+O, \equiv_10, \equiv, 1.0, 5
+O, A_6, A, 1.0, 1
+O, \div_18, \div, 1.0, 13
+O, \vert_17, \vert, 1.0, 12
+O, \rangle_21, \rangle, 1.0, 16
+
+# Relations from SRT:
+R, (_15, x_16, Right, 1.0
+R, )_20, \rangle_21, Right, 1.0
+R, A_6, 1_7, Sub, 1.0
+R, A_6, \div_8, Right, 1.0
+R, W_3, A_6, Sub, 1.0
+R, W_3, \equiv_10, Right, 1.0
+R, \beta_19, )_20, Right, 1.0
+R, \div_18, \beta_19, Right, 1.0
+R, \div_8, 1_9, Right, 1.0
+R, \equiv_10, \langle_11, Right, 1.0
+R, \langle_11, d_12, Right, 1.0
+R, \vert_17, \div_18, Right, 1.0
+R, c_14, (_15, Right, 1.0
+R, d_12, e_13, Right, 1.0
+R, e_13, c_14, Right, 1.0
+R, x_16, \vert_17, Right, 1.0

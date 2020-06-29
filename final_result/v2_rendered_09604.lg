@@ -1,0 +1,45 @@
+# IUD, v2_rendered_09604
+# Objects(21):
+O, 2_17, 2, 1.0, ORRRRRRRBelowSup
+O, 1_19, 1, 1.0, ORRRRRRRRR
+O, 1_4, 1, 1.0, ORR
+O, 0_24, 0, 1.0, ORRRRRRRRRRRRRR
+O, c_6, c, 1.0, ORRRR
+O, COMMA_20, COMMA, 1.0, ORRRRRRRRRR
+O, 2_14, 2, 1.0, ORRRRRRRAboveSup
+O, \leq_18, \leq, 1.0, ORRRRRRRR
+O, \log_10, \log, 1.0, ORRRRRR
+O, Z_2, Z, 1.0, O
+O, (_21, (, 1.0, ORRRRRRRRRRR
+O, ⊄_23, ⊄, 1.0, ORRRRRRRRRRRRR
+O, =_3, =, 1.0, OR
+O, )_25, ), 1.0, ORRRRRRRRRRRRRRR
+O, -_5, -, 1.0, ORRR
+O, _11, -, 1.0, ORRRRRRR
+O, c_22, c, 1.0, ORRRRRRRRRRRR
+O, \beta_13, \beta, 1.0, ORRRRRRRAbove
+O, g_8, g, 1.0, ORRRRR
+O, \mu_16, \mu, 1.0, ORRRRRRRBelow
+O, 2_9, 2, 1.0, ORRRRRSup
+
+# Relations from SRT:
+R, (_21, c_22, Right, 1.0
+R, -_5, c_6, Right, 1.0
+R, 0_24, )_25, Right, 1.0
+R, 1_19, COMMA_20, Right, 1.0
+R, 1_4, -_5, Right, 1.0
+R, =_3, 1_4, Right, 1.0
+R, COMMA_20, (_21, Right, 1.0
+R, Z_2, =_3, Right, 1.0
+R, \beta_13, 2_14, Sup, 1.0
+R, \leq_18, 1_19, Right, 1.0
+R, \log_10, _11, Right, 1.0
+R, \mu_16, 2_17, Sup, 1.0
+R, _11, \beta_13, Above, 1.0
+R, _11, \leq_18, Right, 1.0
+R, _11, \mu_16, Below, 1.0
+R, c_22, ⊄_23, Right, 1.0
+R, c_6, g_8, Right, 1.0
+R, g_8, 2_9, Sup, 1.0
+R, g_8, \log_10, Right, 1.0
+R, ⊄_23, 0_24, Right, 1.0

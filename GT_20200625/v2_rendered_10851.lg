@@ -1,0 +1,37 @@
+# IUD, v2_rendered_10851
+# Objects(17):
+O, v_5, v, 1.0, OSub
+O, )_15, ), 1.0, ORRRAboveRRR
+O, c_7, c, 1.0, OSubRR
+O, 8_17, 8, 1.0, ORRRBelow
+O, G_21, G, 1.0, ORRRRRR
+O, \gamma_3, \gamma, 1.0, O
+O, g_14, g, 1.0, ORRRAboveRR
+O, \{_9, \{, 1.0, ORR
+O, \beta_12, \beta, 1.0, ORRRAbove
+O, =_8, =, 1.0, OR
+O, (_13, (, 1.0, ORRRAboveR
+O, G_19, G, 1.0, ORRRR
+O, \}_22, \}, 1.0, ORRRRRRR
+O, a_6, a, 1.0, OSubR
+O, g_18, g, 1.0, ORRRBelowR
+O, \times_20, \times, 1.0, ORRRRR
+O, _10, -, 1.0, ORRR
+
+# Relations from SRT:
+R, (_13, g_14, Right, 1.0
+R, 8_17, g_18, Right, 1.0
+R, =_8, \{_9, Right, 1.0
+R, G_19, \times_20, Right, 1.0
+R, G_21, \}_22, Right, 1.0
+R, \beta_12, (_13, Right, 1.0
+R, \gamma_3, =_8, Right, 1.0
+R, \gamma_3, v_5, Sub, 1.0
+R, \times_20, G_21, Right, 1.0
+R, \{_9, _10, Right, 1.0
+R, _10, 8_17, Below, 1.0
+R, _10, G_19, Right, 1.0
+R, _10, \beta_12, Above, 1.0
+R, a_6, c_7, Right, 1.0
+R, g_14, )_15, Right, 1.0
+R, v_5, a_6, Right, 1.0

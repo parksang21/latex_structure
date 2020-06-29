@@ -1,0 +1,3 @@
+\begin{equation}
+	Y ( n + B ) \equiv Y ( h ) , \exists h \wedge [ 7 , B ]
+\end{equation}

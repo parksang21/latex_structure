@@ -1,0 +1,3 @@
+\begin{equation}
+	F _ { b } ^ { a } = d A _ { b } ^ { a } + A _ { c } ^ { a } \wedge A _ { b } ^ { c }
+\end{equation}

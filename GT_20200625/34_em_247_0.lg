@@ -1,0 +1,49 @@
+# IUD, 34_em_247_0
+# Objects(23):
+O, k_28, k, 1.0, ORRRRRRSub
+O, \sum_4, \sum, 1.0, OR
+O, _29, -, 1.0, ORRRRRRSup
+O, 1_30, 1, 1.0, ORRRRRRSupAbove
+O, )_14, ), 1.0, ORRR
+O, 1_24, 1, 1.0, ORRRRRBelowRR
+O, n_25, n, 1.0, ORRRRRAbove
+O, k_22, k, 1.0, ORRRRRBelow
+O, k_6, k, 1.0, ORBelow
+O, =_7, =, 1.0, ORBelowR
+O, (_2, (, 1.0, O
+O, 1_16, 1, 1.0, ORRRSupAbove
+O, a_11, a, 1.0, ORR
+O, \sum_20, \sum, 1.0, ORRRRR
+O, n_9, n, 1.0, ORAbove
+O, 2_31, 2, 1.0, ORRRRRRSupBelow
+O, =_23, =, 1.0, ORRRRRBelowR
+O, \leq_18, \leq, 1.0, ORRRR
+O, 1_8, 1, 1.0, ORBelowRR
+O, k_12, k, 1.0, ORRSub
+O, _15, -, 1.0, ORRRSup
+O, 2_17, 2, 1.0, ORRRSupBelow
+O, a_27, a, 1.0, ORRRRRR
+
+# Relations from SRT:
+R, (_2, \sum_4, Right, 1.0
+R, )_14, \leq_18, Right, 1.0
+R, )_14, _15, Sup, 1.0
+R, =_23, 1_24, Right, 1.0
+R, =_7, 1_8, Right, 1.0
+R, \leq_18, \sum_20, Right, 1.0
+R, \sum_20, a_27, Right, 1.0
+R, \sum_20, k_22, Below, 1.0
+R, \sum_20, n_25, Above, 1.0
+R, \sum_4, a_11, Right, 1.0
+R, \sum_4, k_6, Below, 1.0
+R, \sum_4, n_9, Above, 1.0
+R, _15, 1_16, Above, 1.0
+R, _15, 2_17, Below, 1.0
+R, _29, 1_30, Above, 1.0
+R, _29, 2_31, Below, 1.0
+R, a_11, )_14, Right, 1.0
+R, a_11, k_12, Sub, 1.0
+R, a_27, _29, Sup, 1.0
+R, a_27, k_28, Sub, 1.0
+R, k_22, =_23, Right, 1.0
+R, k_6, =_7, Right, 1.0

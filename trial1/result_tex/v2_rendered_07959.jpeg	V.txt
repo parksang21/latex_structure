@@ -1,0 +1,3 @@
+\begin{equation}
+	( q ) = \frac { \alpha } { q } e ^ { - \beta q }
+\end{equation}

@@ -1,0 +1,25 @@
+# IUD, v2_rendered_09411
+# Objects(11):
+O, \geq_13, \geq, 1.0, 8
+O, \Delta_14, \Delta, 1.0, 9
+O, 2_10, 2, 1.0, 5
+O, i_6, i, 1.0, 3
+O, i_11, i, 1.0, 6
+O, )_12, ), 1.0, 7
+O, (_3, (, 1.0, 1
+O, P_15, P, 1.0, 10
+O, \delta_2, \delta, 1.0, 0
+O, P_8, P, 1.0, 4
+O, \Delta_5, \Delta, 1.0, 2
+
+# Relations from SRT:
+R, (_3, \Delta_5, Right, 1.0
+R, )_12, \geq_13, Right, 1.0
+R, 2_10, i_11, Right, 1.0
+R, P_8, )_12, Right, 1.0
+R, P_8, 2_10, Sub, 1.0
+R, \Delta_14, P_15, Right, 1.0
+R, \Delta_5, P_8, Right, 1.0
+R, \Delta_5, i_6, Sup, 1.0
+R, \delta_2, (_3, Right, 1.0
+R, \geq_13, \Delta_14, Right, 1.0

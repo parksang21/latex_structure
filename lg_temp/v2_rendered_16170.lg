@@ -1,0 +1,39 @@
+# IUD, v2_rendered_16170
+# Objects(18):
+O, ._20, ., 1.0, 14
+O, =_15, =, 1.0, 9
+O, COMMA_17, COMMA, 1.0, 11
+O, ._18, ., 1.0, 12
+O, \tau_7, \tau, 1.0, 2
+O, _2, -, 1.0, 17
+O, 0_12, 0, 1.0, 6
+O, u_9, u, 1.0, 3
+O, \tau_4, \tau, 1.0, 0
+O, =_11, =, 1.0, 5
+O, f_5, f, 1.0, 1
+O, ._19, ., 1.0, 13
+O, COMMA_13, COMMA, 1.0, 7
+O, 1_16, 1, 1.0, 10
+O, a_14, a, 1.0, 8
+O, COMMA_21, COMMA, 1.0, 15
+O, a_10, a, 1.0, 4
+O, A_22, A, 1.0, 16
+
+# Relations from SRT:
+R, ._18, ._19, Right, 1.0
+R, ._19, ._20, Right, 1.0
+R, ._20, COMMA_21, Right, 1.0
+R, 0_12, COMMA_13, Right, 1.0
+R, 1_16, COMMA_17, Right, 1.0
+R, =_11, 0_12, Right, 1.0
+R, =_15, 1_16, Right, 1.0
+R, COMMA_13, a_14, Right, 1.0
+R, COMMA_17, ._18, Right, 1.0
+R, COMMA_21, A_22, Right, 1.0
+R, \tau_4, f_5, Right, 1.0
+R, \tau_7, u_9, Right, 1.0
+R, _2, =_11, Right, 1.0
+R, _2, \tau_4, Above, 1.0
+R, _2, \tau_7, Below, 1.0
+R, a_14, =_15, Right, 1.0
+R, u_9, a_10, Sup, 1.0

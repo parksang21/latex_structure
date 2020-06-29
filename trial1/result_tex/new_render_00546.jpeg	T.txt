@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \psi } ^ { T } \equiv T _ { \psi } - \frac { \Delta _ { \psi } \Delta _ { \alpha } } { \square } T _ { \alpha }
+\end{equation}

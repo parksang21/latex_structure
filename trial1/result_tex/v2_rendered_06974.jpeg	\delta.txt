@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \alpha } Z ^ { M } E _ { M } ^ { a } = 0
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	g = [ D , g ] , \forall g \subset A
+\end{equation}

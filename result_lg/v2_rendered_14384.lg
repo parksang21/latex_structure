@@ -1,0 +1,37 @@
+# IUD, v2_rendered_14384
+# Objects(17):
+O, \sigma_17, \sigma, 1.0, ORRRSubR
+O, \sigma_8, \sigma, 1.0, ORAbove
+O, J_19, J, 1.0, ORRRR
+O, \sigma_20, \sigma, 1.0, ORRRRSub
+O, _13, \sqrt, 1.0, ORRR
+O, \Omega_14, \Omega, 1.0, ORRRInside
+O, _6, -, 1.0, OR
+O, [_21, [, 1.0, ORRRRR
+O, 2_10, 2, 1.0, ORBelow
+O, \mu_16, \mu, 1.0, ORRRSub
+O, \mu_4, \mu, 1.0, OSub
+O, ]_23, ], 1.0, ORRRRRRR
+O, a_5, a, 1.0, OSup
+O, a_9, a, 1.0, ORAboveSup
+O, \delta_22, \delta, 1.0, ORRRRRR
+O, A_3, A, 1.0, O
+O, =_11, =, 1.0, ORR
+
+# Relations from SRT:
+R, =_11, _13, Right, 1.0
+R, A_3, \mu_4, Sub, 1.0
+R, A_3, _6, Right, 1.0
+R, A_3, a_5, Sup, 1.0
+R, J_19, [_21, Right, 1.0
+R, J_19, \sigma_20, Sub, 1.0
+R, [_21, \delta_22, Right, 1.0
+R, \delta_22, ]_23, Right, 1.0
+R, \mu_16, \sigma_17, Right, 1.0
+R, \sigma_8, a_9, Sup, 1.0
+R, _13, J_19, Right, 1.0
+R, _13, \Omega_14, Inside, 1.0
+R, _13, \mu_16, Sub, 1.0
+R, _6, 2_10, Below, 1.0
+R, _6, =_11, Right, 1.0
+R, _6, \sigma_8, Above, 1.0

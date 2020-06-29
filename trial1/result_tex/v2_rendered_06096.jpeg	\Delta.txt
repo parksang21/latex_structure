@@ -1,0 +1,3 @@
+\begin{equation}
+	= \div D ^ { 2 } \div \frac { i } { 2 } \sigma _ { \mu \varepsilon } F _ { \mu \varepsilon }
+\end{equation}

@@ -1,0 +1,35 @@
+# IUD, v2_rendered_22377
+# Objects(16):
+O, \Delta_22, \Delta, 1.0, ORRRRRRRRRSub
+O, \phi_16, \phi, 1.0, ORRRRRRRSub
+O, \beta_19, \beta, 1.0, ORRRRRRRR
+O, \beta_17, \beta, 1.0, ORRRRRRRSubR
+O, =_12, =, 1.0, ORRRRRR
+O, \beta_7, \beta, 1.0, ORRR
+O, [_2, [, 1.0, O
+O, \Delta_18, \Delta, 1.0, ORRRRRRRSup
+O, f_14, f, 1.0, ORRRRRRR
+O, k_5, k, 1.0, ORR
+O, k_9, k, 1.0, ORRRR
+O, k_21, k, 1.0, ORRRRRRRRR
+O, \beta_3, \beta, 1.0, OR
+O, \psi_10, \psi, 1.0, ORRRRSub
+O, ]_11, ], 1.0, ORRRRR
+O, \phi_6, \phi, 1.0, ORRSub
+
+# Relations from SRT:
+R, =_12, f_14, Right, 1.0
+R, [_2, \beta_3, Right, 1.0
+R, \beta_19, k_21, Right, 1.0
+R, \beta_3, k_5, Right, 1.0
+R, \beta_7, k_9, Right, 1.0
+R, \phi_16, \beta_17, Right, 1.0
+R, ]_11, =_12, Right, 1.0
+R, f_14, \Delta_18, Sup, 1.0
+R, f_14, \beta_19, Right, 1.0
+R, f_14, \phi_16, Sub, 1.0
+R, k_21, \Delta_22, Sub, 1.0
+R, k_5, \beta_7, Right, 1.0
+R, k_5, \phi_6, Sub, 1.0
+R, k_9, \psi_10, Sub, 1.0
+R, k_9, ]_11, Right, 1.0

@@ -1,0 +1,29 @@
+# IUD, v2_rendered_01376
+# Objects(13):
+O, \Delta_14, \Delta, 1.0, ORRRRInside
+O, \circle_11, \circle, 1.0, ORRR
+O, _13, \sqrt, 1.0, ORRRR
+O, -_9, -, 1.0, ORRSup
+O, 0_16, 0, 1.0, ORRRRSup
+O, \tau_18, \tau, 1.0, ORRRRRR
+O, \Delta_3, \Delta, 1.0, O
+O, \approx_5, \approx, 1.0, OR
+O, i_15, i, 1.0, ORRRRSub
+O, \tau_7, \tau, 1.0, ORR
+O, i_4, i, 1.0, OSub
+O, \circle_17, \circle, 1.0, ORRRRR
+O, 1_10, 1, 1.0, ORRSupR
+
+# Relations from SRT:
+R, -_9, 1_10, Right, 1.0
+R, \Delta_3, \approx_5, Right, 1.0
+R, \Delta_3, i_4, Sub, 1.0
+R, \approx_5, \tau_7, Right, 1.0
+R, \circle_11, _13, Right, 1.0
+R, \circle_17, \tau_18, Right, 1.0
+R, \tau_7, -_9, Sup, 1.0
+R, \tau_7, \circle_11, Right, 1.0
+R, _13, 0_16, Sup, 1.0
+R, _13, \Delta_14, Inside, 1.0
+R, _13, \circle_17, Right, 1.0
+R, _13, i_15, Sub, 1.0

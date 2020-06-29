@@ -1,0 +1,3 @@
+\begin{equation}
+	j \vert m ^ { 2 } \alpha ^ { \prime } \vert j > _ { A d S } \approx d _ { j } \lambda N ^ { 2 }
+\end{equation}

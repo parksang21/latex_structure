@@ -1,0 +1,3 @@
+\begin{equation}
+	N \leqq \{ u \in R L _ { W } ( 2 ) \vert p u \leqq u p \therefore p \in R L _ { w } ( 2 ) \}
+\end{equation}

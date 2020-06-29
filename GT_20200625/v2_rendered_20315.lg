@@ -1,0 +1,35 @@
+# IUD, v2_rendered_20315
+# Objects(16):
+O, \rangle_14, \rangle, 1.0, ORRRRRR
+O, \otimes_15, \otimes, 1.0, ORRRRRRR
+O, \vert_2, \vert, 1.0, O
+O, \rangle_22, \rangle, 1.0, ORRRRRRRRRR
+O, g_5, g, 1.0, ORSub
+O, \gamma_21, \gamma, 1.0, ORRRRRRRRRSubR
+O, c_13, c, 1.0, ORRRRRSubR
+O, \rangle_6, \rangle, 1.0, ORR
+O, \vert_16, \vert, 1.0, ORRRRRRRR
+O, =_7, =, 1.0, ORRR
+O, \beta_20, \beta, 1.0, ORRRRRRRRRSub
+O, \varepsilon_18, \varepsilon, 1.0, ORRRRRRRRR
+O, \varepsilon_4, \varepsilon, 1.0, OR
+O, b_12, b, 1.0, ORRRRRSub
+O, \varepsilon_10, \varepsilon, 1.0, ORRRRR
+O, \vert_8, \vert, 1.0, ORRRR
+
+# Relations from SRT:
+R, =_7, \vert_8, Right, 1.0
+R, \beta_20, \gamma_21, Right, 1.0
+R, \otimes_15, \vert_16, Right, 1.0
+R, \rangle_14, \otimes_15, Right, 1.0
+R, \rangle_6, =_7, Right, 1.0
+R, \varepsilon_10, \rangle_14, Right, 1.0
+R, \varepsilon_10, b_12, Sub, 1.0
+R, \varepsilon_18, \beta_20, Sub, 1.0
+R, \varepsilon_18, \rangle_22, Right, 1.0
+R, \varepsilon_4, \rangle_6, Right, 1.0
+R, \varepsilon_4, g_5, Sub, 1.0
+R, \vert_16, \varepsilon_18, Right, 1.0
+R, \vert_2, \varepsilon_4, Right, 1.0
+R, \vert_8, \varepsilon_10, Right, 1.0
+R, b_12, c_13, Right, 1.0

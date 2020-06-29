@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mfrac><mrow><msubsup><mi>T</mi><mi>H</mi><mfrac><mn>1</mn><mi>z</mi></mfrac></msubsup><msub><mi>v</mi><mn>2</mn></msub></mrow><msup><mn>1</mn><mrow><msub><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>H</mi></msub><msub><mi>v</mi><mn>1</mn></msub></mrow></msup></mfrac><mo>=</mo><mfrac><mrow><msubsup><mi>T</mi><mi>c</mi><mfrac><mn>1</mn><mn>2</mn></mfrac></msubsup><msub><mi>v</mi><mn>3</mn></msub></mrow><mrow><msubsup><mi>t</mi><mi>c</mi><mfrac><mn>1</mn><mn>2</mn></mfrac></msubsup><msub><mi>v</mi><mn>4</mn></msub></mrow></mfrac></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \frac { T _ { H } ^ { \frac { 1 } { z } } v _ { 2 } } { 1 ^ { \frac { 1 } { 2 } _ { H } v _ { 1 } } } = \frac { T _ { c } ^ { \frac { 1 } { 2 } } v _ { 3 } } { t _ { c } ^ { \frac { 1 } { 2 } } v _ { 4 } }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

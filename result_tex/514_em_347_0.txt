@@ -1,0 +1,3 @@
+\begin{equation}
+	r = \rho _ { i m } \frac { 1 a _ { n } \vert } { 1 a _ { n } + 1 ) }
+\end{equation}

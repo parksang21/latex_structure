@@ -1,0 +1,41 @@
+# IUD, v2_rendered_25245
+# Objects(19):
+O, x_14, x, 1.0, ORRRSubR
+O, \leftrightarrow_8, \leftrightarrow, 1.0, ORRBelowR
+O, x_24, x, 1.0, ORRRRRRRR
+O, )_25, ), 1.0, ORRRRRRRRR
+O, Q_2, Q, 1.0, O
+O, C_17, C, 1.0, ORRRSubRRRR
+O, \infty_9, \infty, 1.0, ORRBelowRR
+O, \lim_5, \lim, 1.0, ORR
+O, x_21, x, 1.0, ORRRRR
+O, 2_20, 2, 1.0, ORRRRSup
+O, d_19, d, 1.0, ORRRR
+O, \rho_22, \rho, 1.0, ORRRRRR
+O, \vert_13, \vert, 1.0, ORRRSub
+O, \vert_15, \vert, 1.0, ORRRSubRR
+O, =_3, =, 1.0, OR
+O, (_23, (, 1.0, ORRRRRRR
+O, \int_11, \int, 1.0, ORRR
+O, C_7, C, 1.0, ORRBelow
+O, \cap_16, \cap, 1.0, ORRRSubRRR
+
+# Relations from SRT:
+R, (_23, x_24, Right, 1.0
+R, =_3, \lim_5, Right, 1.0
+R, C_7, \leftrightarrow_8, Right, 1.0
+R, Q_2, =_3, Right, 1.0
+R, \cap_16, C_17, Right, 1.0
+R, \int_11, \vert_13, Sub, 1.0
+R, \int_11, d_19, Right, 1.0
+R, \leftrightarrow_8, \infty_9, Right, 1.0
+R, \lim_5, C_7, Below, 1.0
+R, \lim_5, \int_11, Right, 1.0
+R, \rho_22, (_23, Right, 1.0
+R, \vert_13, x_14, Right, 1.0
+R, \vert_15, \cap_16, Right, 1.0
+R, d_19, 2_20, Sup, 1.0
+R, d_19, x_21, Right, 1.0
+R, x_14, \vert_15, Right, 1.0
+R, x_21, \rho_22, Right, 1.0
+R, x_24, )_25, Right, 1.0

@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>δ</mi><mi>V</mi></msub><msup><mi>P</mi><mi>μ</mi></msup><mo stretchy="false" form="prefix">(</mo><mi>ω</mi><mo stretchy="false" form="postfix">)</mo><mo>=</mo><msub><mo>∫</mo><mrow><mi>Δ</mi><mi>n</mi></mrow></msub><msub><mi>ψ</mi><mi>a</mi></msub><msub><mi>δ</mi><mi>V</mi></msub><msup><mi>P</mi><mrow><mi>a</mi><mi>μ</mi></mrow></msup></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \delta _ { V } P ^ { \mu } ( \omega ) = \int _ { \Delta n } \psi _ { a } \delta _ { V } P ^ { a \mu }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

@@ -1,0 +1,3 @@
+\begin{equation}
+	\tilde { \Omega _ { a } } , \tilde { H } \} = 0
+\end{equation}

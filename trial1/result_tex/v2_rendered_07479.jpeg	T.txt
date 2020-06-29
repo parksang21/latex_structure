@@ -1,0 +1,3 @@
+\begin{equation}
+	( E , x ) = \frac { \Delta W ( E , x ) } { \Delta E }
+\end{equation}

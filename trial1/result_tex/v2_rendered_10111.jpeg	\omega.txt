@@ -1,0 +1,3 @@
+\begin{equation}
+	( a ( f ) a ^ { * } ( g ) ) = ( f , T g ) 0 \leq T \leq 1
+\end{equation}

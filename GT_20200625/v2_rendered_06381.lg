@@ -1,0 +1,33 @@
+# IUD, v2_rendered_06381
+# Objects(15):
+O, \leq_5, \leq, 1.0, OR
+O, k_23, k, 1.0, ORRRRRRSup
+O, \phi_13, \phi, 1.0, ORRRR
+O, Z_3, Z, 1.0, O
+O, r_16, r, 1.0, ORRRRSubR
+O, i_4, i, 1.0, OSub
+O, 0_11, 0, 1.0, ORRRSupR
+O, k_17, k, 1.0, ORRRRSubRR
+O, i_15, i, 1.0, ORRRRSub
+O, \div_10, \div, 1.0, ORRRSup
+O, \triangle_8, \triangle, 1.0, ORRR
+O, \div_6, \div, 1.0, ORR
+O, \Delta_19, \Delta, 1.0, ORRRRR
+O, r_20, r, 1.0, ORRRRRSup
+O, \pi_22, \pi, 1.0, ORRRRRR
+
+# Relations from SRT:
+R, Z_3, \leq_5, Right, 1.0
+R, Z_3, i_4, Sub, 1.0
+R, \Delta_19, \pi_22, Right, 1.0
+R, \Delta_19, r_20, Sup, 1.0
+R, \div_10, 0_11, Right, 1.0
+R, \div_6, \triangle_8, Right, 1.0
+R, \leq_5, \div_6, Right, 1.0
+R, \phi_13, \Delta_19, Right, 1.0
+R, \phi_13, i_15, Sub, 1.0
+R, \pi_22, k_23, Sup, 1.0
+R, \triangle_8, \div_10, Sup, 1.0
+R, \triangle_8, \phi_13, Right, 1.0
+R, i_15, r_16, Right, 1.0
+R, r_16, k_17, Right, 1.0

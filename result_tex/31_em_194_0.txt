@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { b ^ { 2 2 } } { b ^ { y } }
+\end{equation}

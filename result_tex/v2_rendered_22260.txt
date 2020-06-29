@@ -1,0 +1,3 @@
+\begin{equation}
+	D \omega = d \omega - i A \cup \omega + i ( - 1 ) ^ { P } \omega \cup A
+\end{equation}

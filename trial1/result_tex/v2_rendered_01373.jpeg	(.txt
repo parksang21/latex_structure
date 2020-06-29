@@ -1,0 +1,3 @@
+\begin{equation}
+	x + y ) ^ { N } = x ^ { N } + y ^ { N } , x y = \omega y x
+\end{equation}

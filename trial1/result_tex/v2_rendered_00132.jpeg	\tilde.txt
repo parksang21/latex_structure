@@ -1,0 +1,3 @@
+\begin{equation}
+	{ \Delta } _ { \mu } \alpha = - \alpha \tilde { \Delta } _ { \mu } + \tilde { D } _ { \mu } \alpha
+\end{equation}

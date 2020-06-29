@@ -1,0 +1,3 @@
+\begin{equation}
+	h _ { j } ^ { i } = \sqrt { g } ^ { i } \sqrt { y } _ { k j } ^ { \prime }
+\end{equation}

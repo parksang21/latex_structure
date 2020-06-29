@@ -1,0 +1,41 @@
+# IUD, v2_rendered_16412
+# Objects(19):
+O, s_14, s, 1.0, ORRRRRRRRRRRR
+O, 1_7, 1, 1.0, ORRRRR
+O, V_15, V, 1.0, ORRRRRRRRRRRRR
+O, COMMA_18, COMMA, 1.0, ORRRRRRRRRRRRRRRR
+O, \infty_17, \infty, 1.0, ORRRRRRRRRRRRRRR
+O, 6_8, 6, 1.0, ORRRRRR
+O, s_9, s, 1.0, ORRRRRRR
+O, )_6, ), 1.0, ORRRR
+O, 6_3, 6, 1.0, OR
+O, \phi_20, \phi, 1.0, ORRRRRRRRRRRRRRRRRR
+O, \lt_2, \lt, 1.0, O
+O, \rightarrow_11, \rightarrow, 1.0, ORRRRRRRRR
+O, \forall_19, \forall, 1.0, ORRRRRRRRRRRRRRRRR
+O, \rightarrow_16, \rightarrow, 1.0, ORRRRRRRRRRRRRR
+O, (_4, (, 1.0, ORR
+O, \phi_5, \phi, 1.0, ORRR
+O, a_13, a, 1.0, ORRRRRRRRRRR
+O, V_10, V, 1.0, ORRRRRRRR
+O, 6_12, 6, 1.0, ORRRRRRRRRR
+
+# Relations from SRT:
+R, (_4, \phi_5, Right, 1.0
+R, )_6, 1_7, Right, 1.0
+R, 1_7, 6_8, Right, 1.0
+R, 6_12, a_13, Right, 1.0
+R, 6_3, (_4, Right, 1.0
+R, 6_8, s_9, Right, 1.0
+R, COMMA_18, \forall_19, Right, 1.0
+R, V_10, \rightarrow_11, Right, 1.0
+R, V_15, \rightarrow_16, Right, 1.0
+R, \forall_19, \phi_20, Right, 1.0
+R, \infty_17, COMMA_18, Right, 1.0
+R, \lt_2, 6_3, Right, 1.0
+R, \phi_5, )_6, Right, 1.0
+R, \rightarrow_11, 6_12, Right, 1.0
+R, \rightarrow_16, \infty_17, Right, 1.0
+R, a_13, s_14, Right, 1.0
+R, s_14, V_15, Right, 1.0
+R, s_9, V_10, Right, 1.0

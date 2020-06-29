@@ -1,0 +1,3 @@
+\begin{equation}
+	\omega ( G ) 4 - n _ { h } - n _ { n } - n \sqrt { u } - d + n
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	{ F } = F _ { a b } V ^ { a } \not\subset V ^ { b }
+\end{equation}

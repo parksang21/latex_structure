@@ -1,0 +1,3 @@
+\begin{equation}
+	( g ) \geqq \oplus _ { \varphi _ { g } } M _ { \varphi _ { g } } \otimes V _ { \varphi _ { g } }
+\end{equation}

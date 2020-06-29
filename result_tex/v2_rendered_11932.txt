@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta \circ \mu _ { h } \neq f _ { h } , f o r 1 \geq h \geq r
+\end{equation}

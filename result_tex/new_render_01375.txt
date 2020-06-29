@@ -1,0 +1,3 @@
+\begin{equation}
+	( \rho , \beta _ { i } ) = 1 \csqrt 9 ( \beta _ { i } , \beta _ { i } ) \exists i \geqq v
+\end{equation}

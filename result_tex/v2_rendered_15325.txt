@@ -1,0 +1,3 @@
+\begin{equation}
+	\vert \sqrt { K } , \sqrt { P } \rangle _ { \alpha } = \int \int \sqrt { \alpha }
+\end{equation}

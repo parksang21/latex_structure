@@ -1,0 +1,3 @@
+\begin{equation}
+	t _ { \theta } ^ { - 1 } = t - \theta
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\{ u \frac { d } { d 4 } - 1 \} A ( u ) = - B ( u )
+\end{equation}

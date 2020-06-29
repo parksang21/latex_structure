@@ -1,0 +1,3 @@
+\begin{equation}
+	E \neq \frac { q g _ { 6 } ^ { 2 } } { 2 } - \rho \omega g _ { 6 }
+\end{equation}

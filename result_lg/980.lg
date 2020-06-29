@@ -1,0 +1,35 @@
+# IUD, 980
+# Objects(16):
+O, P_6, P, 1.0, ORRInside
+O, 1_13, 1, 1.0, ORRRRRRAbove
+O, \rangle_8, \rangle, 1.0, ORRR
+O, 0_20, 0, 1.0, ORRRRRRBelowRRRSub
+O, =_10, =, 1.0, ORRRR
+O, _12, -, 1.0, ORRRRRR
+O, P_17, P, 1.0, ORRRRRRBelowRR
+O, _5, \sqrt, 1.0, ORR
+O, _3, \sqrt, 1.0, OR
+O, P_4, P, 1.0, ORInside
+O, P_16, P, 1.0, ORRRRRRBelowR
+O, \langle_15, \langle, 1.0, ORRRRRRBelow
+O, \langle_2, \langle, 1.0, O
+O, \rangle_19, \rangle, 1.0, ORRRRRRBelowRRR
+O, 0_9, 0, 1.0, ORRRSub
+O, -_11, -, 1.0, ORRRRR
+
+# Relations from SRT:
+R, -_11, _12, Right, 1.0
+R, =_10, -_11, Right, 1.0
+R, P_16, P_17, Right, 1.0
+R, P_17, \rangle_19, Right, 1.0
+R, \langle_15, P_16, Right, 1.0
+R, \langle_2, _3, Right, 1.0
+R, \rangle_19, 0_20, Sub, 1.0
+R, \rangle_8, 0_9, Sub, 1.0
+R, \rangle_8, =_10, Right, 1.0
+R, _12, 1_13, Above, 1.0
+R, _12, \langle_15, Below, 1.0
+R, _3, P_4, Inside, 1.0
+R, _3, _5, Right, 1.0
+R, _5, P_6, Inside, 1.0
+R, _5, \rangle_8, Right, 1.0

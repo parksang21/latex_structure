@@ -1,0 +1,3 @@
+\begin{equation}
+	\vert \lambda p > = \lim _ { z , \sqrt { z } \Leftrightarrow 0 } v ( z , \sqrt { z } ) \vert 0 >
+\end{equation}

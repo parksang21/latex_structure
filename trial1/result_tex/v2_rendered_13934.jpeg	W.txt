@@ -1,0 +1,3 @@
+\begin{equation}
+	[ s + ( q + c n ) N ] = W ( s ) , \exists t
+\end{equation}

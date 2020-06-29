@@ -1,0 +1,3 @@
+\begin{equation}
+	T o r \leq T _ { o p } ( T _ { y e } ) , \exists p , e
+\end{equation}

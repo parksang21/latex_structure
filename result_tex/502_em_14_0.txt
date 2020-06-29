@@ -1,0 +1,3 @@
+\begin{equation}
+	p ( \alpha ) = \alpha ^ { m } + b _ { m - 2 } \alpha ^ { m - 1 } + \csqrts + b _ { 3 } \alpha ^ { 4 } + b _ { 1 } \alpha + b _ { 0 }
+\end{equation}

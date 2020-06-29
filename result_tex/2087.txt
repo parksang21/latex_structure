@@ -1,0 +1,3 @@
+\begin{equation}
+	\beta = V o \mu \sqrt { V } _ { 1 } ^ { \mu } = - \sqrt { V } _ { 0 \mu } V _ { 1 } ^ { \mu }
+\end{equation}

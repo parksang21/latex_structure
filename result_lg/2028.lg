@@ -1,0 +1,33 @@
+# IUD, 2028
+# Objects(15):
+O, M_5, M, 1.0, ORSup
+O, M_13, M, 1.0, ORRRSub
+O, COMMA_19, COMMA, 1.0, ORRRRRRR
+O, )_7, ), 1.0, ORR
+O, \Delta_12, \Delta, 1.0, ORRR
+O, 0_18, 0, 1.0, ORRRRRR
+O, b_21, b, 1.0, ORRRRRRRRR
+O, b_10, b, 1.0, ORRSubR
+O, P_4, P, 1.0, OR
+O, \beta_15, \beta, 1.0, ORRRR
+O, =_17, =, 1.0, ORRRRR
+O, \forall_20, \forall, 1.0, ORRRRRRRR
+O, (_2, (, 1.0, O
+O, a_16, a, 1.0, ORRRRSup
+O, a_9, a, 1.0, ORRSub
+
+# Relations from SRT:
+R, (_2, P_4, Right, 1.0
+R, )_7, \Delta_12, Right, 1.0
+R, )_7, a_9, Sub, 1.0
+R, 0_18, COMMA_19, Right, 1.0
+R, =_17, 0_18, Right, 1.0
+R, COMMA_19, \forall_20, Right, 1.0
+R, P_4, )_7, Right, 1.0
+R, P_4, M_5, Sup, 1.0
+R, \Delta_12, M_13, Sub, 1.0
+R, \Delta_12, \beta_15, Right, 1.0
+R, \beta_15, =_17, Right, 1.0
+R, \beta_15, a_16, Sup, 1.0
+R, \forall_20, b_21, Right, 1.0
+R, a_9, b_10, Right, 1.0

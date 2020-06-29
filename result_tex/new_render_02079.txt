@@ -1,0 +1,3 @@
+\begin{equation}
+	i \frac { \Delta \rho \csqrts } { \Delta t } \leqq I _ { \vert 1 \rho } \csqrts
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\pi _ { 0 } ^ { a } = \frac { \Delta L } { \Delta \sqrt { A } _ { 0 } ^ { a } } = 0
+\end{equation}

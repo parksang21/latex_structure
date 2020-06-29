@@ -1,0 +1,43 @@
+# IUD, v2_rendered_20103
+# Objects(20):
+O, x_19, x, 1.0, ORRRRRRRSubR
+O, E_21, E, 1.0, ORRRRRRRR
+O, a_6, a, 1.0, ORSup
+O, )_14, ), 1.0, ORRRRRR
+O, x_7, x, 1.0, ORSupR
+O, \Delta_16, \Delta, 1.0, ORRRRRRR
+O, g_2, g, 1.0, O
+O, =_26, =, 1.0, ORRRRRRRRRRRR
+O, )_25, ), 1.0, ORRRRRRRRRRR
+O, =_8, =, 1.0, ORR
+O, 0_27, 0, 1.0, ORRRRRRRRRRRRR
+O, X_4, X, 1.0, OR
+O, x_24, x, 1.0, ORRRRRRRRRR
+O, (_23, (, 1.0, ORRRRRRRRR
+O, a_11, a, 1.0, ORRRSup
+O, a_18, a, 1.0, ORRRRRRRSub
+O, a_22, a, 1.0, ORRRRRRRRSup
+O, x_13, x, 1.0, ORRRRR
+O, E_10, E, 1.0, ORRR
+O, (_12, (, 1.0, ORRRR
+
+# Relations from SRT:
+R, (_12, x_13, Right, 1.0
+R, (_23, x_24, Right, 1.0
+R, )_14, \Delta_16, Right, 1.0
+R, )_25, =_26, Right, 1.0
+R, =_26, 0_27, Right, 1.0
+R, =_8, E_10, Right, 1.0
+R, E_10, (_12, Right, 1.0
+R, E_10, a_11, Sup, 1.0
+R, E_21, (_23, Right, 1.0
+R, E_21, a_22, Sup, 1.0
+R, X_4, =_8, Right, 1.0
+R, X_4, a_6, Sup, 1.0
+R, \Delta_16, E_21, Right, 1.0
+R, \Delta_16, a_18, Sub, 1.0
+R, a_18, x_19, Right, 1.0
+R, a_6, x_7, Right, 1.0
+R, g_2, X_4, Right, 1.0
+R, x_13, )_14, Right, 1.0
+R, x_24, )_25, Right, 1.0

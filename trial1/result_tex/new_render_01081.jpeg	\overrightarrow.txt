@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta \cdot \overrightarrow E \geqq g \overrightarrow \Delta f \cdot \overrightarrow E
+\end{equation}

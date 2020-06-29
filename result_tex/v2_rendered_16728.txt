@@ -1,0 +1,3 @@
+\begin{equation}
+	T = 1 \oplus d - \phi ^ { a } \oplus \delta _ { a }
+\end{equation}

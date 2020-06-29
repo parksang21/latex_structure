@@ -1,0 +1,76 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_20661</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msub><mi xml:id="\Delta_3">Δ</mi><mi xml:id="\mu_4">μ</mi></msub><msub><msqrt xml:id="_6"><mi xml:id="\varepsilon_7">ε</mi></msqrt><mi xml:id="i_8">i</mi></msub><mo xml:id="=_9">=</mo><msub><msqrt xml:id="_11"><mi xml:id="ω_12">ω</mi></msqrt><mi xml:id="\mu_13">μ</mi></msub><mo xml:id="\wedge_14">∧</mo><msub><msqrt xml:id="_16"><mi xml:id="\varepsilon_17">ε</mi></msqrt><mi xml:id="i_18">i</mi></msub></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\Delta</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\Delta_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\mu_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\varepsilon</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\varepsilon_7"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">i</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="i_8"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="=_9"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">ω</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="ω_12"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="\mu_13"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\wedge</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\wedge_14"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">\varepsilon</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="\varepsilon_17"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">i</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="i_18"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="_6"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="_11"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="_16"/>
+	</traceGroup>
+</traceGroup>
+</ink>

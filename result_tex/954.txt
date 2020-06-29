@@ -1,0 +1,3 @@
+\begin{equation}
+	m _ { K } ( \alpha ) = m _ { k } ^ { 0 } + g _ { I } m _ { k } ^ { 1 } ( \alpha ) + \csqrts
+\end{equation}

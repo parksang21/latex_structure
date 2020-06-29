@@ -1,0 +1,3 @@
+\begin{equation}
+	F _ { a } ( a , b ) = F ( a ) - P _ { a } ( a , b , a )
+\end{equation}

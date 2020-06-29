@@ -1,0 +1,19 @@
+# IUD, new_render_01633
+# Objects(8):
+O, \theta_3, \theta, 1.0, O
+O, /_8, /, 1.0, ORRSub
+O, \leqq_9, \leqq, 1.0, ORRR
+O, /_4, /, 1.0, OSub
+O, \div_12, \div, 1.0, ORRRRSub
+O, \varepsilon_7, \varepsilon, 1.0, ORR
+O, \circle_5, \circle, 1.0, OR
+O, \varepsilon_11, \varepsilon, 1.0, ORRRR
+
+# Relations from SRT:
+R, \circle_5, \varepsilon_7, Right, 1.0
+R, \leqq_9, \varepsilon_11, Right, 1.0
+R, \theta_3, /_4, Sub, 1.0
+R, \theta_3, \circle_5, Right, 1.0
+R, \varepsilon_11, \div_12, Sub, 1.0
+R, \varepsilon_7, /_8, Sub, 1.0
+R, \varepsilon_7, \leqq_9, Right, 1.0

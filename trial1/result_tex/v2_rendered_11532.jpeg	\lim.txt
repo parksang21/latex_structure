@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \phi _ { 0 } \leftrightarrow 0 } X _ { 3 } [ \phi _ { 0 } , m ( \mu ) , \lambda ( \mu ) ] = 0
+\end{equation}

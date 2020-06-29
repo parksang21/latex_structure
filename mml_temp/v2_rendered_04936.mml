@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>∪</mo><mfrac><mrow><mi>Δ</mi><msub><mi>W</mi><mrow><mi>σ</mi><msub><mi>H</mi><mn>1</mn></msub></mrow></msub></mrow><mrow><mi>Δ</mi><msup><mi>h</mi><mn>1</mn></msup></mrow></mfrac><mo>&gt;</mo><mo>=</mo><mi>α</mi><mo>=</mo><mi>c</mi><mi>o</mi><mi>n</mi><mi>s</mi><mi>t</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \cup \frac { \Delta W _ { \sigma H _ { 1 } } } { \Delta h ^ { 1 } } &gt; = \alpha = c o n s t
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \rho } B _ { \mu \alpha } ^ { A } = \Delta _ { \mu } \rho _ { \alpha } ^ { A } - \Delta _ { \alpha } \rho _ { \mu } ^ { A }
+\end{equation}

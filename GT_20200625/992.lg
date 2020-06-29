@@ -1,0 +1,19 @@
+# IUD, 992
+# Objects(8):
+O, 1_11, 1, 1.0, ORRRRR
+O, C_4, C, 1.0, OSub
+O, n_9, n, 1.0, ORRR
+O, +_10, +, 1.0, ORRRR
+O, n_7, n, 1.0, ORSup
+O, =_8, =, 1.0, ORR
+O, \int_3, \int, 1.0, O
+O, ω_6, ω, 1.0, OR
+
+# Relations from SRT:
+R, +_10, 1_11, Right, 1.0
+R, =_8, n_9, Right, 1.0
+R, \int_3, C_4, Sub, 1.0
+R, \int_3, ω_6, Right, 1.0
+R, n_9, +_10, Right, 1.0
+R, ω_6, =_8, Right, 1.0
+R, ω_6, n_7, Sup, 1.0

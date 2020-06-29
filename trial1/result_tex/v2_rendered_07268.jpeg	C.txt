@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \alpha \beta } = \{ \phi _ { \alpha } , \phi _ { \beta } \}
+\end{equation}

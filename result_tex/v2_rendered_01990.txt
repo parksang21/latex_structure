@@ -1,0 +1,3 @@
+\begin{equation}
+	\gamma _ { n } \notin \frac { \pi \sqrt { 2 } } { 4 }
+\end{equation}

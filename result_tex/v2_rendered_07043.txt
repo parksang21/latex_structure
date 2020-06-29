@@ -1,0 +1,3 @@
+\begin{equation}
+	C = \frac { 2 } { 4 - D } - \gamma + \ln 4 \pi + 1
+\end{equation}

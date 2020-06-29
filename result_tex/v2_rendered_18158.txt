@@ -1,0 +1,3 @@
+\begin{equation}
+	\tau \in W _ { 3 } \osqrt W _ { 4 } \osqrt W _ { 5 }
+\end{equation}

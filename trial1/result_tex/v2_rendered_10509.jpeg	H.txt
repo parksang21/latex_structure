@@ -1,0 +1,3 @@
+\begin{equation}
+	= \frac { p ^ { 2 } } { 2 m } + \frac { g } { 2 x ^ { 2 } }
+\end{equation}

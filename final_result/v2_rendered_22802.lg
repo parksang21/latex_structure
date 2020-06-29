@@ -1,0 +1,33 @@
+# IUD, v2_rendered_22802
+# Objects(15):
+O, )_15, ), 1.0, ORSupRR
+O, =_6, =, 1.0, OBelowR
+O, N_8, N, 1.0, OAbove
+O, i_11, i, 1.0, ORSub
+O, c_20, c, 1.0, ORRRRRR
+O, =_16, =, 1.0, ORR
+O, Q_10, Q, 1.0, OR
+O, \exists_19, \exists, 1.0, ORRRRR
+O, \sum_3, \sum, 1.0, O
+O, COMMA_18, COMMA, 1.0, ORRRR
+O, 9_7, 9, 1.0, OBelowRR
+O, 8_17, 8, 1.0, ORRR
+O, c_14, c, 1.0, ORSupR
+O, i_5, i, 1.0, OBelow
+O, (_13, (, 1.0, ORSup
+
+# Relations from SRT:
+R, (_13, c_14, Right, 1.0
+R, 8_17, COMMA_18, Right, 1.0
+R, =_16, 8_17, Right, 1.0
+R, =_6, 9_7, Right, 1.0
+R, COMMA_18, \exists_19, Right, 1.0
+R, Q_10, (_13, Sup, 1.0
+R, Q_10, =_16, Right, 1.0
+R, Q_10, i_11, Sub, 1.0
+R, \exists_19, c_20, Right, 1.0
+R, \sum_3, N_8, Above, 1.0
+R, \sum_3, Q_10, Right, 1.0
+R, \sum_3, i_5, Below, 1.0
+R, c_14, )_15, Right, 1.0
+R, i_5, =_6, Right, 1.0

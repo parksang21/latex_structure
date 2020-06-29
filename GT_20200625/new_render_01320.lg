@@ -1,0 +1,37 @@
+# IUD, new_render_01320
+# Objects(17):
+O, h_18, h, 1.0, ORRRRRRRRRRRSubR
+O, \in_13, \in, 1.0, ORRRRRRRRRR
+O, p_17, p, 1.0, ORRRRRRRRRRRSub
+O, \rangle_12, \rangle, 1.0, ORRRRRRRRR
+O, y_19, y, 1.0, ORRRRRRRRRRRSubRR
+O, \phi_3, \phi, 1.0, OInside
+O, \vert_4, \vert, 1.0, OR
+O, \rangle_6, \rangle, 1.0, ORRR
+O, \forall_9, \forall, 1.0, ORRRRRR
+O, \vert_10, \vert, 1.0, ORRRRRRR
+O, s_20, s, 1.0, ORRRRRRRRRRRSubRRR
+O, I_15, I, 1.0, ORRRRRRRRRRR
+O, 0_8, 0, 1.0, ORRRRR
+O, \phi_11, \phi, 1.0, ORRRRRRRR
+O, \geqq_7, \geqq, 1.0, ORRRR
+O, \phi_5, \phi, 1.0, ORR
+O, _2, \sqrt, 1.0, O
+
+# Relations from SRT:
+R, 0_8, \forall_9, Right, 1.0
+R, I_15, p_17, Sub, 1.0
+R, \forall_9, \vert_10, Right, 1.0
+R, \geqq_7, 0_8, Right, 1.0
+R, \in_13, I_15, Right, 1.0
+R, \phi_11, \rangle_12, Right, 1.0
+R, \phi_5, \rangle_6, Right, 1.0
+R, \rangle_12, \in_13, Right, 1.0
+R, \rangle_6, \geqq_7, Right, 1.0
+R, \vert_10, \phi_11, Right, 1.0
+R, \vert_4, \phi_5, Right, 1.0
+R, _2, \phi_3, Inside, 1.0
+R, _2, \vert_4, Right, 1.0
+R, h_18, y_19, Right, 1.0
+R, p_17, h_18, Right, 1.0
+R, y_19, s_20, Right, 1.0

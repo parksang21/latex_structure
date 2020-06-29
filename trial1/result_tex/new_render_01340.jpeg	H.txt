@@ -1,0 +1,3 @@
+\begin{equation}
+	\leqq \oplus _ { R } V _ { \bar { R } } \odot V _ { R }
+\end{equation}

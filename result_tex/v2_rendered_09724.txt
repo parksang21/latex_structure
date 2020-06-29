@@ -1,0 +1,3 @@
+\begin{equation}
+	\int d \rho i \psi _ { s } ^ { \prime } ( \rho ) \omega ( t , \tau , \rho ) = 0
+\end{equation}

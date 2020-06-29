@@ -1,0 +1,23 @@
+# IUD, 2079
+# Objects(10):
+O, [_2, [, 1.0, O
+O, A_11, A, 1.0, ORRRSubR
+O, D_4, D, 1.0, OR
+O, \lambda_5, \lambda, 1.0, ORSub
+O, 0_14, 0, 1.0, ORRRRRR
+O, D_8, D, 1.0, ORRR
+O, ]_12, ], 1.0, ORRRR
+O, COMMA_6, COMMA, 1.0, ORR
+O, -_10, -, 1.0, ORRRSub
+O, =_13, =, 1.0, ORRRRR
+
+# Relations from SRT:
+R, -_10, A_11, Right, 1.0
+R, =_13, 0_14, Right, 1.0
+R, COMMA_6, D_8, Right, 1.0
+R, D_4, COMMA_6, Right, 1.0
+R, D_4, \lambda_5, Sub, 1.0
+R, D_8, -_10, Sub, 1.0
+R, D_8, ]_12, Right, 1.0
+R, [_2, D_4, Right, 1.0
+R, ]_12, =_13, Right, 1.0

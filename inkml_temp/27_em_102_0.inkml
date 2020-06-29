@@ -1,0 +1,51 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">27_em_102_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><munder><mo xml:id="\lim_3">lim</mo><mrow><mi xml:id="a_5">a</mi><mo xml:id="\rightarrow_6">→</mo><mi xml:id="\infty_7">∞</mi></mrow></munder><mi xml:id="f_8">f</mi><mo form="prefix" stretchy="false" xml:id="(_9">(</mo><mi xml:id="a_10">a</mi><mo form="postfix" stretchy="false" xml:id=")_11">)</mo></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\lim</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\lim_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">a</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="a_5"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\rightarrow</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\rightarrow_6"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\infty</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\infty_7"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">f</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="f_8"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="(_9"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">a</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="a_10"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href=")_11"/>
+	</traceGroup>
+</traceGroup>
+</ink>

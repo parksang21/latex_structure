@@ -1,0 +1,3 @@
+\begin{equation}
+	e _ { \pm } ^ { \mu } = e _ { 0 } ^ { \mu } \pm e _ { 3 } ^ { \mu } = ( 1 , 0 , 0 , \pm 1 )
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	q - ( q \sqrt { 2 } ) = \sqrt { 2 }
+\end{equation}

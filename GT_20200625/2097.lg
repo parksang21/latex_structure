@@ -1,0 +1,43 @@
+# IUD, 2097
+# Objects(20):
+O, )_5, ), 1.0, ORRR
+O, (_3, (, 1.0, OR
+O, -_12, -, 1.0, ORRRRRRRR
+O, u_15, u, 1.0, ORRRRRRRRRSub
+O, d_22, d, 1.0, ORRRRRRRRRRRRR
+O, \geqq_6, \geqq, 1.0, ORRRR
+O, 4_7, 4, 1.0, ORRRRR
+O, h_11, h, 1.0, ORRRRRRRSub
+O, -_21, -, 1.0, ORRRRRRRRRRRR
+O, -_8, -, 1.0, ORRRRRR
+O, n_10, n, 1.0, ORRRRRRR
+O, +_23, +, 1.0, ORRRRRRRRRRRRRR
+O, n_24, n, 1.0, ORRRRRRRRRRRRRRR
+O, u_20, u, 1.0, ORRRRRRRRRRRSubInside
+O, n_18, n, 1.0, ORRRRRRRRRRR
+O, _19, \sqrt, 1.0, ORRRRRRRRRRRSub
+O, G_4, G, 1.0, ORR
+O, n_14, n, 1.0, ORRRRRRRRR
+O, -_16, -, 1.0, ORRRRRRRRRR
+O, ω_2, ω, 1.0, O
+
+# Relations from SRT:
+R, (_3, G_4, Right, 1.0
+R, )_5, \geqq_6, Right, 1.0
+R, +_23, n_24, Right, 1.0
+R, -_12, n_14, Right, 1.0
+R, -_16, n_18, Right, 1.0
+R, -_21, d_22, Right, 1.0
+R, -_8, n_10, Right, 1.0
+R, 4_7, -_8, Right, 1.0
+R, G_4, )_5, Right, 1.0
+R, \geqq_6, 4_7, Right, 1.0
+R, _19, u_20, Inside, 1.0
+R, d_22, +_23, Right, 1.0
+R, n_10, -_12, Right, 1.0
+R, n_10, h_11, Sub, 1.0
+R, n_14, -_16, Right, 1.0
+R, n_14, u_15, Sub, 1.0
+R, n_18, -_21, Right, 1.0
+R, n_18, _19, Sub, 1.0
+R, ω_2, (_3, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	( x ) = \frac { q } { 2 } s e c h [ B ( x ) ]
+\end{equation}

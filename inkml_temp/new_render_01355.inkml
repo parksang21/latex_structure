@@ -1,0 +1,96 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">new_render_01355</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msub><mi xml:id="p_3">p</mi><mi xml:id="r_4">r</mi></msub><mo xml:id="\leqq_5">≦</mo><mfrac xml:id="_6"><mi xml:id="\pi_7">π</mi><mi xml:id="\lambda_8">λ</mi></mfrac><mi xml:id="r_9">r</mi><mo xml:id=",_10">,</mo><mi xml:id="r_11">r</mi><mo xml:id="\leqq_12">≦</mo><mn xml:id="2_13">2</mn><mo xml:id=",_14">,</mo><mn xml:id="3_15">3</mn><mo xml:id=",_16">,</mo><mi xml:id="._17">.</mi><mi xml:id="._18">.</mi><mi xml:id="._19">.</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">p</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="p_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">r</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="r_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\leqq</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\leqq_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\pi</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\pi_7"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">\lambda</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="\lambda_8"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">r</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="r_9"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">,</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href=",_10"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">r</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="r_11"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">\leqq</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="\leqq_12"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">2</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="2_13"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">,</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href=",_14"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">3</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="3_15"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">,</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href=",_16"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">.</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="._17"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">.</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="._18"/>
+	</traceGroup>
+ <traceGroup xml:id="16">
+    <annotation type="truth">.</annotation>
+	<traceView traceDataRef="15"/>
+    <annotationXML href="._19"/>
+	</traceGroup>
+ <traceGroup xml:id="17">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="16"/>
+    <annotationXML href="_6"/>
+	</traceGroup>
+</traceGroup>
+</ink>

@@ -1,0 +1,3 @@
+\begin{equation}
+	E = f E , \overrightarrow B = f B , \vert \overrightarrow E \vert = \vert \overrightarrow B \vert
+\end{equation}

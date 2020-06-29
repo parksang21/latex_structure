@@ -1,0 +1,3 @@
+\begin{equation}
+	( \{ g _ { n } \} ) = \sum _ { n = 1 } ^ { \infty } \frac { g _ { n } } { n } \phi ^ { n }
+\end{equation}

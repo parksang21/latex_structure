@@ -1,0 +1,47 @@
+# IUD, new_render_01653
+# Objects(22):
+O, 0_5, 0, 1.0, ORSub
+O, e_20, e, 1.0, ORRRRRRRRSub
+O, \vert_24, \vert, 1.0, ORRRRRRRRRR
+O, x_10, x, 1.0, ORRRRRInside
+O, x_28, x, 1.0, ORRRRRRRRRRRRRInside
+O, +_11, +, 1.0, ORRRRRR
+O, x_19, x, 1.0, ORRRRRRRR
+O, \gt_16, \gt, 1.0, ORRRRRRRBelowR
+O, \leqq_25, \leqq, 1.0, ORRRRRRRRRRR
+O, _9, \sqrt, 1.0, ORRRRR
+O, x_4, x, 1.0, OR
+O, e_23, e, 1.0, ORRRRRRRRRSub
+O, \vert_6, \vert, 1.0, ORR
+O, _27, \sqrt, 1.0, ORRRRRRRRRRRRR
+O, \langle_8, \langle, 1.0, ORRRR
+O, \sum_13, \sum, 1.0, ORRRRRRR
+O, e_15, e, 1.0, ORRRRRRRBelow
+O, w_22, w, 1.0, ORRRRRRRRR
+O, \leqq_7, \leqq, 1.0, ORRR
+O, \langle_2, \langle, 1.0, O
+O, 0_17, 0, 1.0, ORRRRRRRBelowRR
+O, \langle_26, \langle, 1.0, ORRRRRRRRRRRR
+
+# Relations from SRT:
+R, +_11, \sum_13, Right, 1.0
+R, \gt_16, 0_17, Right, 1.0
+R, \langle_26, _27, Right, 1.0
+R, \langle_2, x_4, Right, 1.0
+R, \langle_8, _9, Right, 1.0
+R, \leqq_25, \langle_26, Right, 1.0
+R, \leqq_7, \langle_8, Right, 1.0
+R, \sum_13, e_15, Below, 1.0
+R, \sum_13, x_19, Right, 1.0
+R, \vert_24, \leqq_25, Right, 1.0
+R, \vert_6, \leqq_7, Right, 1.0
+R, _27, x_28, Inside, 1.0
+R, _9, +_11, Right, 1.0
+R, _9, x_10, Inside, 1.0
+R, e_15, \gt_16, Right, 1.0
+R, w_22, \vert_24, Right, 1.0
+R, w_22, e_23, Sub, 1.0
+R, x_19, e_20, Sub, 1.0
+R, x_19, w_22, Right, 1.0
+R, x_4, 0_5, Sub, 1.0
+R, x_4, \vert_6, Right, 1.0

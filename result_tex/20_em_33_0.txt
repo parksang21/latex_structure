@@ -1,0 +1,3 @@
+\begin{equation}
+	R _ { a } = \frac { R _ { k 2 } + h _ { 2 } R _ { 3 } + l _ { 3 } R _ { 1 } } { R _ { 2 } }
+\end{equation}

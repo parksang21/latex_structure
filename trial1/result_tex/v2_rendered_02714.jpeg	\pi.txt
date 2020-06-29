@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \cdot } \circ \varepsilon \circ \psi = \pi _ { \cdot } \circ \psi
+\end{equation}

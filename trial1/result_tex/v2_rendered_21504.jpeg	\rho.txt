@@ -1,0 +1,3 @@
+\begin{equation}
+	= j ^ { 0 } = \delta ( \overrightarrow \phi ) D ( \frac { \phi } { x } )
+\end{equation}

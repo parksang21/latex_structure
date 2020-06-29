@@ -1,0 +1,3 @@
+\begin{equation}
+	\phi _ { c } = a \sqrt { 2 } [ \tan ( \mu \sqrt { 2 } c ) ] ^ { - 1 }
+\end{equation}

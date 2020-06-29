@@ -1,0 +1,3 @@
+\begin{equation}
+	x _ { i } \rightarrow w _ { i } \equiv x _ { i } ^ { 2 }
+\end{equation}

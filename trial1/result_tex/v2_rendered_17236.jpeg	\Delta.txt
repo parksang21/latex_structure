@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { k } \beta ( x , t , Q _ { j } ) \geq \mu _ { j } \beta ( x , t , Q _ { j } )
+\end{equation}

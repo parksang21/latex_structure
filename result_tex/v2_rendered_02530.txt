@@ -1,0 +1,3 @@
+\begin{equation}
+	\alpha = i \sqrt { c } \phi + \sqrt { P } A _ { 0 }
+\end{equation}

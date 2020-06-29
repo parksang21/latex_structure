@@ -1,0 +1,3 @@
+\begin{equation}
+	U ( \beta x ) = e ^ { i \sqrt { i } \csqrt \beta \tau f ( r ) }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\{ \sigma ^ { \prime } \} \equiv \{ \sigma \} \wedge \{ M _ { h } \} = \{ \sigma M _ { 4 } \}
+\end{equation}

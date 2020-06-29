@@ -1,0 +1,3 @@
+\begin{equation}
+	g = \frac { d f ^ { 1 } \osqrt d f ^ { 2 } } { ( f ^ { \prime } - f ^ { 2 } ) ^ { 2 } }
+\end{equation}

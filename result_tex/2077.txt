@@ -1,0 +1,3 @@
+\begin{equation}
+	H _ { \theta } = \theta _ { \sqrt { O } } \sqrt { \otimes } H _ { \theta } ^ { r e s }
+\end{equation}

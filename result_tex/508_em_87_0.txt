@@ -1,0 +1,3 @@
+\begin{equation}
+	v _ { v } = v \sin \theta
+\end{equation}

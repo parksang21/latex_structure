@@ -1,0 +1,37 @@
+# IUD, new_render_02069
+# Objects(17):
+O, \vee_20, \vee, 1.0, 15
+O, g_19, g, 1.0, 14
+O, )_14, ), 1.0, 9
+O, \beta_8, \beta, 1.0, 4
+O, COMMA_6, COMMA, 1.0, 3
+O, g_13, g, 1.0, 8
+O, \prime_11, \prime, 1.0, 6
+O, 8_17, 8, 1.0, 12
+O, \leqq_16, \leqq, 1.0, 11
+O, 0_10, 0, 1.0, 5
+O, O_4, O, 1.0, 1
+O, \prime_5, \prime, 1.0, 2
+O, ]_15, ], 1.0, 10
+O, [_2, [, 1.0, 0
+O, (_12, (, 1.0, 7
+O, G_21, G, 1.0, 16
+O, \forall_18, \forall, 1.0, 13
+
+# Relations from SRT:
+R, (_12, g_13, Right, 1.0
+R, )_14, ]_15, Right, 1.0
+R, 0_10, \prime_11, Sup, 1.0
+R, 8_17, \forall_18, Right, 1.0
+R, COMMA_6, \beta_8, Right, 1.0
+R, O_4, COMMA_6, Right, 1.0
+R, O_4, \prime_5, Sup, 1.0
+R, [_2, O_4, Right, 1.0
+R, \beta_8, (_12, Right, 1.0
+R, \beta_8, 0_10, Sub, 1.0
+R, \forall_18, g_19, Right, 1.0
+R, \leqq_16, 8_17, Right, 1.0
+R, \vee_20, G_21, Right, 1.0
+R, ]_15, \leqq_16, Right, 1.0
+R, g_13, )_14, Right, 1.0
+R, g_19, \vee_20, Right, 1.0

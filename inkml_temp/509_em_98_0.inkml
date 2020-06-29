@@ -1,0 +1,46 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">509_em_98_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msub><mi xml:id="\sigma_3">σ</mi><mi xml:id="p_4">p</mi></msub><mo xml:id="=_5">=</mo><msqrt xml:id="_6"><msubsup><mi xml:id="\sigma_8">σ</mi><mi xml:id="p_9">p</mi><mn xml:id="2_10">2</mn></msubsup></msqrt></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\sigma</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\sigma_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">p</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="p_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="=_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\sigma</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\sigma_8"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">p</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="p_9"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">2</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="2_10"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="_6"/>
+	</traceGroup>
+</traceGroup>
+</ink>

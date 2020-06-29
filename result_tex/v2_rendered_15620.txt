@@ -1,0 +1,3 @@
+\begin{equation}
+	u \csqrt w \leftrightarrow u ^ { \wedge } w - i u ( w )
+\end{equation}

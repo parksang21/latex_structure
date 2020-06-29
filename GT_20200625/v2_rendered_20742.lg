@@ -1,0 +1,37 @@
+# IUD, v2_rendered_20742
+# Objects(17):
+O, \beta_16, \beta, 1.0, ORRRRRRRRRR
+O, 2_13, 2, 1.0, ORRRRRRRRRAbove
+O, W_3, W, 1.0, OR
+O, \sim_8, \sim, 1.0, ORRRRRR
+O, (_4, (, 1.0, ORR
+O, \rangle_7, \rangle, 1.0, ORRRRR
+O, )_6, ), 1.0, ORRRR
+O, _11, -, 1.0, ORRRRRRRRR
+O, s_15, s, 1.0, ORRRRRRRRRBelow
+O, i_10, i, 1.0, ORRRRRRRR
+O, \pi_14, \pi, 1.0, ORRRRRRRRRAboveR
+O, C_18, C, 1.0, ORRRRRRRRRRRR
+O, \langle_2, \langle, 1.0, O
+O, (_17, (, 1.0, ORRRRRRRRRRR
+O, -_9, -, 1.0, ORRRRRRR
+O, C_5, C, 1.0, ORRR
+O, )_19, ), 1.0, ORRRRRRRRRRRRR
+
+# Relations from SRT:
+R, (_17, C_18, Right, 1.0
+R, (_4, C_5, Right, 1.0
+R, )_6, \rangle_7, Right, 1.0
+R, -_9, i_10, Right, 1.0
+R, 2_13, \pi_14, Right, 1.0
+R, C_18, )_19, Right, 1.0
+R, C_5, )_6, Right, 1.0
+R, W_3, (_4, Right, 1.0
+R, \beta_16, (_17, Right, 1.0
+R, \langle_2, W_3, Right, 1.0
+R, \rangle_7, \sim_8, Right, 1.0
+R, \sim_8, -_9, Right, 1.0
+R, _11, 2_13, Above, 1.0
+R, _11, \beta_16, Right, 1.0
+R, _11, s_15, Below, 1.0
+R, i_10, _11, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	( f _ { n - 2 } \neq s O _ { 1 , n - 1 }
+\end{equation}

@@ -1,0 +1,61 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_05004</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mo form="prefix" stretchy="false" xml:id="[_2">[</mo><mi xml:id="\delta_3">δ</mi><msub><mi xml:id="\beta_5">β</mi><mn xml:id="1_6">1</mn></msub><mo xml:id=",_7">,</mo><msub><mi xml:id="\delta_9">δ</mi><mrow><mi xml:id="\beta_11">β</mi><mn xml:id="2_12">2</mn></mrow></msub><mo form="postfix" stretchy="false" xml:id="]_13">]</mo><mi xml:id="\psi_14">ψ</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">[</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="[_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\delta</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\delta_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\beta</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\beta_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">1</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="1_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">,</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href=",_7"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\delta</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\delta_9"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">\beta</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="\beta_11"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">2</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="2_12"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">]</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="]_13"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">\psi</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="\psi_14"/>
+	</traceGroup>
+</traceGroup>
+</ink>

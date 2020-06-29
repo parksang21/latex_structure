@@ -1,0 +1,3 @@
+\begin{equation}
+	T _ { m } ( x ) = \cos m \beta , x = \cos \beta
+\end{equation}

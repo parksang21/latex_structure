@@ -1,0 +1,3 @@
+\begin{equation}
+	\phi \rightarrow e ^ { i \theta } \phi , \psi \rightarrow e ^ { - i \theta \psi _ { s } / 2 } \psi
+\end{equation}

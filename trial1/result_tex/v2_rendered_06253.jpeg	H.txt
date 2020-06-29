@@ -1,0 +1,3 @@
+\begin{equation}
+	\sim 1 / 6 \Delta _ { t } ( \ln g ) , g \equiv d e t ( g _ { i j } )
+\end{equation}

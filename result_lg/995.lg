@@ -1,0 +1,31 @@
+# IUD, 995
+# Objects(14):
+O, D_9, D, 1.0, ORR
+O, (_2, (, 1.0, O
+O, a_10, a, 1.0, ORRSub
+O, )_17, ), 1.0, ORRRRR
+O, p_4, p, 1.0, OR
+O, =_19, =, 1.0, ORRRRRR
+O, _11, \sqrt, 1.0, ORRR
+O, \beta_12, \beta, 1.0, ORRRInside
+O, \alpha_18, \alpha, 1.0, ORRRRRSub
+O, a_6, a, 1.0, ORSub
+O, m_15, m, 1.0, ORRRRSup
+O, m_7, m, 1.0, ORSubR
+O, \gamma_14, \gamma, 1.0, ORRRR
+O, 0_20, 0, 1.0, ORRRRRRR
+
+# Relations from SRT:
+R, (_2, p_4, Right, 1.0
+R, )_17, =_19, Right, 1.0
+R, )_17, \alpha_18, Sub, 1.0
+R, =_19, 0_20, Right, 1.0
+R, D_9, _11, Right, 1.0
+R, D_9, a_10, Sub, 1.0
+R, \gamma_14, )_17, Right, 1.0
+R, \gamma_14, m_15, Sup, 1.0
+R, _11, \beta_12, Inside, 1.0
+R, _11, \gamma_14, Right, 1.0
+R, a_6, m_7, Right, 1.0
+R, p_4, D_9, Right, 1.0
+R, p_4, a_6, Sub, 1.0

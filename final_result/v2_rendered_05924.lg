@@ -1,0 +1,43 @@
+# IUD, v2_rendered_05924
+# Objects(20):
+O, \phi_17, \phi, 1.0, ORRRRRRRRR
+O, \phi_23, \phi, 1.0, ORRRRRRRRRRRRR
+O, *_15, *, 1.0, ORRRRRRRSup
+O, )_24, ), 1.0, ORRRRRRRRRRRRRR
+O, *_22, *, 1.0, ORRRRRRRRRRRRSup
+O, +_8, +, 1.0, ORRRR
+O, \delta_19, \delta, 1.0, ORRRRRRRRRRR
+O, \phi_21, \phi, 1.0, ORRRRRRRRRRRR
+O, \lambda_11, \lambda, 1.0, ORRRRRBelow
+O, Q_2, Q, 1.0, O
+O, =_3, =, 1.0, OR
+O, \delta_4, \delta, 1.0, ORR
+O, \delta_16, \delta, 1.0, ORRRRRRRR
+O, A_6, A, 1.0, ORRR
+O, +_18, +, 1.0, ORRRRRRRRRR
+O, (_12, (, 1.0, ORRRRRR
+O, e_10, e, 1.0, ORRRRRAbove
+O, \phi_14, \phi, 1.0, ORRRRRRR
+O, _9, -, 1.0, ORRRRR
+O, 0_7, 0, 1.0, ORRRSup
+
+# Relations from SRT:
+R, (_12, \phi_14, Right, 1.0
+R, +_18, \delta_19, Right, 1.0
+R, +_8, _9, Right, 1.0
+R, =_3, \delta_4, Right, 1.0
+R, A_6, +_8, Right, 1.0
+R, A_6, 0_7, Sup, 1.0
+R, Q_2, =_3, Right, 1.0
+R, \delta_16, \phi_17, Right, 1.0
+R, \delta_19, \phi_21, Right, 1.0
+R, \delta_4, A_6, Right, 1.0
+R, \phi_14, *_15, Sup, 1.0
+R, \phi_14, \delta_16, Right, 1.0
+R, \phi_17, +_18, Right, 1.0
+R, \phi_21, *_22, Sup, 1.0
+R, \phi_21, \phi_23, Right, 1.0
+R, \phi_23, )_24, Right, 1.0
+R, _9, (_12, Right, 1.0
+R, _9, \lambda_11, Below, 1.0
+R, _9, e_10, Above, 1.0

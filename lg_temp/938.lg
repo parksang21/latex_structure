@@ -1,0 +1,31 @@
+# IUD, 938
+# Objects(14):
+O, \rightarrow_6, \rightarrow, 1.0, 2
+O, \approx_17, \approx, 1.0, 12
+O, \infty_7, \infty, 1.0, 3
+O, 0_18, 0, 1.0, 13
+O, ]_15, ], 1.0, 10
+O, V_5, V, 1.0, 1
+O, COMMA_13, COMMA, 1.0, 8
+O, Q_11, Q, 1.0, 6
+O, Q_14, Q, 1.0, 9
+O, \gt_16, \gt, 1.0, 11
+O, [_9, [, 1.0, 5
+O, \lim_3, \lim, 1.0, 0
+O, \lt_8, \lt, 1.0, 4
+O, V_12, V, 1.0, 7
+
+# Relations from SRT:
+R, COMMA_13, Q_14, Right, 1.0
+R, Q_11, COMMA_13, Right, 1.0
+R, Q_11, V_12, Sub, 1.0
+R, Q_14, ]_15, Right, 1.0
+R, V_5, \rightarrow_6, Right, 1.0
+R, [_9, Q_11, Right, 1.0
+R, \approx_17, 0_18, Right, 1.0
+R, \gt_16, \approx_17, Right, 1.0
+R, \lim_3, V_5, Below, 1.0
+R, \lim_3, \lt_8, Right, 1.0
+R, \lt_8, [_9, Right, 1.0
+R, \rightarrow_6, \infty_7, Right, 1.0
+R, ]_15, \gt_16, Right, 1.0

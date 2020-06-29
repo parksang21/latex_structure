@@ -1,0 +1,37 @@
+# IUD, 1059
+# Objects(17):
+O, 2_23, 2, 1.0, ORRRRRRRSup
+O, 7_3, 7, 1.0, OR
+O, (_12, (, 1.0, ORRRRR
+O, 0_16, 0, 1.0, ORRRRRRAboveSub
+O, )_22, ), 1.0, ORRRRRRR
+O, \rho_5, \rho, 1.0, ORR
+O, r_6, r, 1.0, ORRSub
+O, 3_2, 3, 1.0, O
+O, \lambda_15, \lambda, 1.0, ORRRRRRAbove
+O, \lambda_19, \lambda, 1.0, ORRRRRRBelowInside
+O, _13, -, 1.0, ORRRRRR
+O, =_7, =, 1.0, ORRR
+O, _9, \sqrt, 1.0, ORRRR
+O, \lambda_10, \lambda, 1.0, ORRRRInside
+O, 0_20, 0, 1.0, ORRRRRRBelowSub
+O, 0_11, 0, 1.0, ORRRRSub
+O, _18, \sqrt, 1.0, ORRRRRRBelow
+
+# Relations from SRT:
+R, (_12, _13, Right, 1.0
+R, )_22, 2_23, Sup, 1.0
+R, 3_2, 7_3, Right, 1.0
+R, 7_3, \rho_5, Right, 1.0
+R, =_7, _9, Right, 1.0
+R, \lambda_15, 0_16, Sub, 1.0
+R, \rho_5, =_7, Right, 1.0
+R, \rho_5, r_6, Sub, 1.0
+R, _13, )_22, Right, 1.0
+R, _13, \lambda_15, Above, 1.0
+R, _13, _18, Below, 1.0
+R, _18, 0_20, Sub, 1.0
+R, _18, \lambda_19, Inside, 1.0
+R, _9, (_12, Right, 1.0
+R, _9, 0_11, Sub, 1.0
+R, _9, \lambda_10, Inside, 1.0

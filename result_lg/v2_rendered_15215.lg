@@ -1,0 +1,41 @@
+# IUD, v2_rendered_15215
+# Objects(19):
+O, H_18, H, 1.0, ORRRRRRRSub
+O, \exists_23, \exists, 1.0, ORRRRRRRRRRRR
+O, \propto_9, \propto, 1.0, ORRR
+O, 0_21, 0, 1.0, ORRRRRRRRRR
+O, _12, \sqrt, 1.0, ORRRRR
+O, d_3, d, 1.0, O
+O, \leq_10, \leq, 1.0, ORRRR
+O, \vert_5, \vert, 1.0, OR
+O, d_13, d, 1.0, ORRRRRInside
+O, i_14, i, 1.0, ORRRRRSub
+O, COMMA_22, COMMA, 1.0, ORRRRRRRRRRR
+O, \vert_15, \vert, 1.0, ORRRRRR
+O, i_4, i, 1.0, OSub
+O, 0_7, 0, 1.0, ORR
+O, \propto_19, \propto, 1.0, ORRRRRRRR
+O, H_8, H, 1.0, ORRSub
+O, \leq_20, \leq, 1.0, ORRRRRRRRR
+O, 0_17, 0, 1.0, ORRRRRRR
+O, i_24, i, 1.0, ORRRRRRRRRRRRR
+
+# Relations from SRT:
+R, 0_17, H_18, Sub, 1.0
+R, 0_17, \propto_19, Right, 1.0
+R, 0_21, COMMA_22, Right, 1.0
+R, 0_7, H_8, Sub, 1.0
+R, 0_7, \propto_9, Right, 1.0
+R, COMMA_22, \exists_23, Right, 1.0
+R, \exists_23, i_24, Right, 1.0
+R, \leq_10, _12, Right, 1.0
+R, \leq_20, 0_21, Right, 1.0
+R, \propto_19, \leq_20, Right, 1.0
+R, \propto_9, \leq_10, Right, 1.0
+R, \vert_15, 0_17, Right, 1.0
+R, \vert_5, 0_7, Right, 1.0
+R, _12, \vert_15, Right, 1.0
+R, _12, d_13, Inside, 1.0
+R, _12, i_14, Sub, 1.0
+R, d_3, \vert_5, Right, 1.0
+R, d_3, i_4, Sub, 1.0

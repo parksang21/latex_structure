@@ -1,0 +1,3 @@
+\begin{equation}
+	( \frac { \pi } { d 2 } )
+\end{equation}

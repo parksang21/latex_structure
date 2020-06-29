@@ -1,0 +1,56 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_03051</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msub><mi xml:id="\Delta_3">Δ</mi><mn xml:id="0_4">0</mn></msub><mo xml:id="=_5">=</mo><mi xml:id="\tau_6">τ</mi><mo xml:id=",_7">,</mo><msqrt xml:id="_8"><mi xml:id="\Delta_9">Δ</mi></msqrt><mo xml:id="=_10">=</mo><mi xml:id="\Delta_11">Δ</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\Delta</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\Delta_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">0</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="0_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="=_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\tau</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\tau_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">,</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href=",_7"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\Delta</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\Delta_9"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="=_10"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\Delta</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\Delta_11"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="_8"/>
+	</traceGroup>
+</traceGroup>
+</ink>

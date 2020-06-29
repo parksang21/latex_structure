@@ -1,0 +1,3 @@
+\begin{equation}
+	f ( \lambda ) \rightarrow f ( \lambda ) + ( a + \lambda b ) \frac { d \beta } { d \lambda } ( \lambda )
+\end{equation}

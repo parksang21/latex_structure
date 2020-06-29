@@ -1,0 +1,51 @@
+# IUD, v2_rendered_24044
+# Objects(24):
+O, \rho_3, \rho, 1.0, O
+O, 6_4, 6, 1.0, OSub
+O, COMMA_22, COMMA, 1.0, ORRRRRRRRRRRRRRRR
+O, 6_14, 6, 1.0, ORRRRRRRRSub
+O, C_16, C, 1.0, ORRRRRRRRRR
+O, C_7, C, 1.0, ORRR
+O, COMMA_19, COMMA, 1.0, ORRRRRRRRRRRRR
+O, A_27, A, 1.0, ORRRRRRRRRRRRRRRRRRRRR
+O, COMMA_24, COMMA, 1.0, ORRRRRRRRRRRRRRRRRR
+O, C_23, C, 1.0, ORRRRRRRRRRRRRRRRR
+O, (_15, (, 1.0, ORRRRRRRRR
+O, \rho_13, \rho, 1.0, ORRRRRRRR
+O, K_11, K, 1.0, ORRRRRRR
+O, H_25, H, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, )_18, ), 1.0, ORRRRRRRRRRRR
+O, =_10, =, 1.0, ORRRRRR
+O, \cap_26, \cap, 1.0, ORRRRRRRRRRRRRRRRRRRR
+O, H_9, H, 1.0, ORRRRR
+O, (_5, (, 1.0, OR
+O, \exists_20, \exists, 1.0, ORRRRRRRRRRRRRR
+O, H_17, H, 1.0, ORRRRRRRRRRR
+O, K_6, K, 1.0, ORR
+O, K_21, K, 1.0, ORRRRRRRRRRRRRRR
+O, )_8, ), 1.0, ORRRR
+
+# Relations from SRT:
+R, (_15, C_16, Right, 1.0
+R, (_5, K_6, Right, 1.0
+R, )_18, COMMA_19, Right, 1.0
+R, )_8, H_9, Right, 1.0
+R, =_10, K_11, Right, 1.0
+R, COMMA_19, \exists_20, Right, 1.0
+R, COMMA_22, C_23, Right, 1.0
+R, COMMA_24, H_25, Right, 1.0
+R, C_16, H_17, Right, 1.0
+R, C_23, COMMA_24, Right, 1.0
+R, C_7, )_8, Right, 1.0
+R, H_17, )_18, Right, 1.0
+R, H_25, \cap_26, Right, 1.0
+R, H_9, =_10, Right, 1.0
+R, K_11, \rho_13, Right, 1.0
+R, K_21, COMMA_22, Right, 1.0
+R, K_6, C_7, Right, 1.0
+R, \cap_26, A_27, Right, 1.0
+R, \exists_20, K_21, Right, 1.0
+R, \rho_13, (_15, Right, 1.0
+R, \rho_13, 6_14, Sub, 1.0
+R, \rho_3, (_5, Right, 1.0
+R, \rho_3, 6_4, Sub, 1.0

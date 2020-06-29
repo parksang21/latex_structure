@@ -1,0 +1,3 @@
+\begin{equation}
+	\pi R + c _ { 0 } + c _ { \pi } = m \pi
+\end{equation}

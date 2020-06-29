@@ -1,0 +1,3 @@
+\begin{equation}
+	\Omega _ { \alpha \beta } = < \alpha \vert \Omega \vert \beta >
+\end{equation}

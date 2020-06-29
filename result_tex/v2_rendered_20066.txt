@@ -1,0 +1,3 @@
+\begin{equation}
+	W F ( u ) \vee W F ( Q A u ) \vee W F ( A u ) \vee W F ( u )
+\end{equation}

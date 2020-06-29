@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { d g } { d k } = \frac { 1 } { r } K ^ { v } - \frac { X } { r } K ^ { r }
+\end{equation}

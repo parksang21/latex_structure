@@ -1,0 +1,31 @@
+# IUD, v2_rendered_18044
+# Objects(14):
+O, z_13, z, 1.0, 10
+O, (_3, (, 1.0, 1
+O, 0_10, 0, 1.0, 7
+O, K_2, K, 1.0, 0
+O, C_15, C, 1.0, 12
+O, )_8, ), 1.0, 5
+O, \neq_9, \neq, 1.0, 6
+O, _6, \sqrt, 1.0, 13
+O, \in_14, \in, 1.0, 11
+O, z_4, z, 1.0, 2
+O, \forall_12, \forall, 1.0, 9
+O, COMMA_11, COMMA, 1.0, 8
+O, z_7, z, 1.0, 4
+O, COMMA_5, COMMA, 1.0, 3
+
+# Relations from SRT:
+R, (_3, z_4, Right, 1.0
+R, )_8, \neq_9, Right, 1.0
+R, 0_10, COMMA_11, Right, 1.0
+R, COMMA_11, \forall_12, Right, 1.0
+R, COMMA_5, _6, Right, 1.0
+R, K_2, (_3, Right, 1.0
+R, \forall_12, z_13, Right, 1.0
+R, \in_14, C_15, Right, 1.0
+R, \neq_9, 0_10, Right, 1.0
+R, _6, )_8, Right, 1.0
+R, _6, z_7, Inside, 1.0
+R, z_13, \in_14, Right, 1.0
+R, z_4, COMMA_5, Right, 1.0

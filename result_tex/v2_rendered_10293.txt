@@ -1,0 +1,3 @@
+\begin{equation}
+	\sigma ^ { \prime } ( x ) = \sigma ( x ) \lambda + G ( x ) \alpha
+\end{equation}

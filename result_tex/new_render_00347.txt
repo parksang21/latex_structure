@@ -1,0 +1,3 @@
+\begin{equation}
+	\alpha _ { 3 } ( F G ) s \leqq F _ { \alpha _ { 3 } } ( G S ) , \therefore F , G , S \in N
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\delta g _ { \rho \rho } = \delta g _ { \sqrt { \rho } \sqrt { p } } = - \frac { 1 } { 2 t } \delta t
+\end{equation}

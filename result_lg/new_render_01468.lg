@@ -1,0 +1,37 @@
+# IUD, new_render_01468
+# Objects(17):
+O, \neq_16, \neq, 1.0, ORRRRRRR
+O, \theta_14, \theta, 1.0, ORRRRRR
+O, c_22, c, 1.0, ORRRRRRRRRSup
+O, \varepsilon_4, \varepsilon, 1.0, OInsideInside
+O, 0_11, 0, 1.0, ORRRR
+O, _8, \sqrt, 1.0, ORR
+O, COMMA_12, COMMA, 1.0, ORRRRR
+O, _2, \sqrt, 1.0, O
+O, \leqq_10, \leqq, 1.0, ORRR
+O, \bot_15, \bot, 1.0, ORRRRRRSub
+O, \theta_6, \theta, 1.0, OR
+O, \theta_21, \theta, 1.0, ORRRRRRRRR
+O, \bot_7, \bot, 1.0, ORSub
+O, \varepsilon_9, \varepsilon, 1.0, ORRInside
+O, c_19, c, 1.0, ORRRRRRRRSub
+O, N_18, N, 1.0, ORRRRRRRR
+O, _3, \sqrt, 1.0, OInside
+
+# Relations from SRT:
+R, 0_11, COMMA_12, Right, 1.0
+R, COMMA_12, \theta_14, Right, 1.0
+R, N_18, \theta_21, Right, 1.0
+R, N_18, c_19, Sub, 1.0
+R, \leqq_10, 0_11, Right, 1.0
+R, \neq_16, N_18, Right, 1.0
+R, \theta_14, \bot_15, Sub, 1.0
+R, \theta_14, \neq_16, Right, 1.0
+R, \theta_21, c_22, Sup, 1.0
+R, \theta_6, \bot_7, Sub, 1.0
+R, \theta_6, _8, Right, 1.0
+R, _2, \theta_6, Right, 1.0
+R, _2, _3, Inside, 1.0
+R, _3, \varepsilon_4, Inside, 1.0
+R, _8, \leqq_10, Right, 1.0
+R, _8, \varepsilon_9, Inside, 1.0

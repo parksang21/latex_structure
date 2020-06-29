@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta E _ { i } = E _ { j } \otimes _ { a } \omega _ { i } ^ { j }
+\end{equation}

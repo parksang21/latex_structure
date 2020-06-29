@@ -1,0 +1,3 @@
+\begin{equation}
+	( A B ) _ { X } = ( \vert a \circ X ) ( X ^ { T } \circ b ) ) _ { X } = a \circ b
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\geq 1 6 \pi ( \sum M _ { i } ) ^ { 2 } \not\subset 1 6 \pi \sum M _ { i } ^ { 2 } = 4 S
+\end{equation}

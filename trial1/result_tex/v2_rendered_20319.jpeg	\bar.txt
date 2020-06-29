@@ -1,0 +1,3 @@
+\begin{equation}
+	{ \bar { \omega } } ^ { \bar { \bar { \lambda } } _ { 5 } \ldots \bar { \bar { \lambda } } _ { 7 5 } } \geq 7
+\end{equation}

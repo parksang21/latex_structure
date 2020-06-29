@@ -1,0 +1,3 @@
+\begin{equation}
+	d M = T _ { H k } d S + \prod _ { i } \phi _ { i } d \sqrt { q } _ { i }
+\end{equation}

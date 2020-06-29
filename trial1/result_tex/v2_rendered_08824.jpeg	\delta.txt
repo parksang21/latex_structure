@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \beta } g _ { \mu \tau } = - \beta \varepsilon g _ { \mu \tau } , \delta _ { \beta } \phi = \varepsilon
+\end{equation}

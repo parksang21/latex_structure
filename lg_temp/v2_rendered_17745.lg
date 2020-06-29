@@ -1,0 +1,25 @@
+# IUD, v2_rendered_17745
+# Objects(11):
+O, \sum_5, \sum, 1.0, 2
+O, 1_16, 1, 1.0, 10
+O, \infty_6, \infty, 1.0, 3
+O, j_2, j, 1.0, 0
+O, 2_14, 2, 1.0, 8
+O, 2_10, 2, 1.0, 6
+O, p_12, p, 1.0, 7
+O, l_7, l, 1.0, 4
+O, -_15, -, 1.0, 9
+O, t_9, t, 1.0, 5
+O, \equiv_3, \equiv, 1.0, 1
+
+# Relations from SRT:
+R, -_15, 1_16, Right, 1.0
+R, 2_14, -_15, Right, 1.0
+R, \equiv_3, \sum_5, Right, 1.0
+R, \sum_5, \infty_6, Above, 1.0
+R, \sum_5, l_7, Right, 1.0
+R, j_2, \equiv_3, Right, 1.0
+R, l_7, t_9, Right, 1.0
+R, p_12, 2_14, Sup, 1.0
+R, t_9, 2_10, Sub, 1.0
+R, t_9, p_12, Right, 1.0

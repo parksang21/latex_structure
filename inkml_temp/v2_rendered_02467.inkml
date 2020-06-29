@@ -1,0 +1,56 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_02467</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mo form="prefix" stretchy="false" xml:id="(_2">(</mo><mi xml:id="\psi_3">ψ</mi><msub><mo form="postfix" stretchy="false" xml:id=")_5">)</mo><mi xml:id="H_6">H</mi></msub><mo xml:id="=_7">=</mo><munder><mo xml:id="\sum_9">∑</mo><mrow><mi xml:id="\rho_11">ρ</mi><mo xml:id="\subset_12">⊂</mo><mi xml:id="I_13">I</mi></mrow></munder></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="(_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\psi</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\psi_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href=")_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">H</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="H_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="=_7"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\sum</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\sum_9"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">\rho</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="\rho_11"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\subset</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\subset_12"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">I</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="I_13"/>
+	</traceGroup>
+</traceGroup>
+</ink>

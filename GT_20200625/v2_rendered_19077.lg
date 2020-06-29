@@ -1,0 +1,27 @@
+# IUD, v2_rendered_19077
+# Objects(12):
+O, 2_11, 2, 1.0, ORRSup
+O, _16, , 1.0, ORRRRSub
+O, Q_7, Q, 1.0, ORRInside
+O, Q_14, Q, 1.0, ORRRR
+O, E_2, E, 1.0, O
+O, E_10, E, 1.0, ORRInsideSubSub
+O, \div_12, \div, 1.0, ORRR
+O, M_17, M, 1.0, ORRRRSubSub
+O, \geq_3, \geq, 1.0, OR
+O, 2_18, 2, 1.0, ORRRRSup
+O, _5, \sqrt, 1.0, ORR
+O, _9, , 1.0, ORRInsideSub
+
+# Relations from SRT:
+R, E_2, \geq_3, Right, 1.0
+R, Q_14, 2_18, Sup, 1.0
+R, Q_14, _16, Sub, 1.0
+R, Q_7, _9, Sub, 1.0
+R, \div_12, Q_14, Right, 1.0
+R, \geq_3, _5, Right, 1.0
+R, _16, M_17, Sub, 1.0
+R, _5, 2_11, Sup, 1.0
+R, _5, Q_7, Inside, 1.0
+R, _5, \div_12, Right, 1.0
+R, _9, E_10, Sub, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	\sum _ { \alpha \in R + } \alpha _ { \mu } v _ { \alpha } = 0 , \mu = 1 , 2 , . . . , \alpha
+\end{equation}

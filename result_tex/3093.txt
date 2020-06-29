@@ -1,0 +1,3 @@
+\begin{equation}
+	S _ { \omega } = \int d _ { z } ^ { 2 } d ^ { 2 } \theta W ( P , S _ { 1 } , S _ { 2 } , \lsqrts , S _ { 5 } )
+\end{equation}

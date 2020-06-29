@@ -1,0 +1,3 @@
+\begin{equation}
+	\phi ^ { \prime } e ^ { \alpha \phi / \mu _ { p } } = c o n s t
+\end{equation}

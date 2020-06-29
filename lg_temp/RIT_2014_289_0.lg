@@ -1,0 +1,23 @@
+# IUD, RIT_2014_289_0
+# Objects(10):
+O, \leq_6, \leq, 1.0, 4
+O, \vert_3, \vert, 1.0, 1
+O, \vert_5, \vert, 1.0, 3
+O, -_2, -, 1.0, 0
+O, \vert_9, \vert, 1.0, 7
+O, y_10, y, 1.0, 8
+O, )_11, ), 1.0, 9
+O, y_4, y, 1.0, 2
+O, \leq_8, \leq, 1.0, 6
+O, y_7, y, 1.0, 5
+
+# Relations from SRT:
+R, -_2, \vert_3, Right, 1.0
+R, \leq_6, y_7, Right, 1.0
+R, \leq_8, \vert_9, Right, 1.0
+R, \vert_3, y_4, Right, 1.0
+R, \vert_5, \leq_6, Right, 1.0
+R, \vert_9, y_10, Right, 1.0
+R, y_10, )_11, Right, 1.0
+R, y_4, \vert_5, Right, 1.0
+R, y_7, \leq_8, Right, 1.0

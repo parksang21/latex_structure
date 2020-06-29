@@ -1,0 +1,3 @@
+\begin{equation}
+	q _ { \div } ^ { \prime } \div \frac { 1 } { \Delta c } * \rho _ { 2 }
+\end{equation}

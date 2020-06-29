@@ -1,0 +1,56 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_14865</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mi xml:id="Q_2">Q</mi><msup><mi xml:id="P_4">P</mi><mi xml:id="\prime_5">′</mi></msup><mo xml:id="-_6">−</mo><msup><mi xml:id="Q_8">Q</mi><mi xml:id="\prime_9">′</mi></msup><mi xml:id="P_10">P</mi><mo xml:id="\subset_11">⊂</mo><mi xml:id="Z_12">Z</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">Q</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="Q_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">P</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="P_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\prime</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\prime_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="-_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">Q</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="Q_8"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\prime</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\prime_9"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">P</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="P_10"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\subset</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\subset_11"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">Z</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="Z_12"/>
+	</traceGroup>
+</traceGroup>
+</ink>

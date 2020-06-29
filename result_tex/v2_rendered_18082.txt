@@ -1,0 +1,3 @@
+\begin{equation}
+	R _ { \Omega } ^ { + } = [ \frac { 2 } { 2 7 \sqrt { 3 } } ] ^ { \frac { 1 } { 2 } }
+\end{equation}

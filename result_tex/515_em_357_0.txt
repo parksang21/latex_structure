@@ -1,0 +1,3 @@
+\begin{equation}
+	x _ { i } \leq x \leq x _ { i } + 1
+\end{equation}

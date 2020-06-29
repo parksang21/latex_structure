@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { x } = \frac { \Delta } { \Delta x }
+\end{equation}

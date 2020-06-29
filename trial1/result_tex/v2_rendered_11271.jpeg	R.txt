@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { - 1 } \bar { T } = \bar { y } , R ^ { ^ { \prime } - 1 } \bar { T } ^ { \prime } = \bar { y } ^ { \prime }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	z _ { i } = - \square ^ { - 1 } \Omega _ { i j k } \Delta ^ { j } \pi ^ { \mu }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\lim _ { u \rightarrow 0 } u x _ { 1 \rho 1 } ( u , w ) = 1
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { n } \Leftrightarrow \int d n \leq \frac { L } { 2 \pi } \int d k
+\end{equation}

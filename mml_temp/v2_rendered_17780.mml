@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><munder><mo>lim</mo><mrow><mi>λ</mi><mo>→</mo><mi>∞</mi></mrow></munder><mi>A</mi><mi>d</mi><msub><mi>U</mi><mrow><mi>l</mi><mo>,</mo><msub><mi>l</mi><mn>2</mn></msub><mo>,</mo><mi>l</mi><mo>,</mo><msub><mi>l</mi><mn>3</mn></msub></mrow></msub><mo stretchy="false" form="prefix">(</mo><mi>λ</mi><mo stretchy="false" form="postfix">)</mo><mo stretchy="false" form="prefix">(</mo></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \lim _ { \lambda \rightarrow \infty } A d U _ { l , l _ { 2 } , l , l _ { 3 } } ( \lambda ) (
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

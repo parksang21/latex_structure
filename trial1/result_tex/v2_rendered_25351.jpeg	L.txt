@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { 0 } = \frac { \varepsilon } { 2 } \tau _ { \mu \varphi \rho } A ^ { \mu } \Delta ^ { \varphi } A ^ { \rho }
+\end{equation}

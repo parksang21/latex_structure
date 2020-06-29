@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>2</mn><msub><mi>I</mi><mi>σ</mi></msub><mo>+</mo><msub><mi>E</mi><mi>σ</mi></msub><mo>=</mo><munder><mo>∏</mo><mi>i</mi></munder><msub><mi>v</mi><mi>i</mi></msub><msub><mi>n</mi><mi>i</mi></msub><mo>+</mo><msub><mi>V</mi><mi>ψ</mi></msub></mrow><annotation encoding="application/x-tex">\begin{equation}
+    2 I _ { \sigma } + E _ { \sigma } = \prod _ { i } v _ { i } n _ { i } + V _ { \psi }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

@@ -1,0 +1,76 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_17028</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mi xml:id="T_2">T</mi><mo xml:id="\equiv_3">≡</mo><mi xml:id="ω_4">ω</mi><mo xml:id="\cos_5">cos</mo><msub><mi xml:id="A_7">A</mi><mi xml:id="S_8">S</mi></msub><mo xml:id=",_9">,</mo><mi xml:id="Z_10">Z</mi><mo xml:id="\equiv_11">≡</mo><mi xml:id="ω_12">ω</mi><mo xml:id="\tan_13">tan</mo><msub><mi xml:id="A_15">A</mi><mi xml:id="S_16">S</mi></msub></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">T</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="T_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\equiv</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\equiv_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">ω</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="ω_4"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\cos</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\cos_5"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">A</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="A_7"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">S</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="S_8"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">,</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href=",_9"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">Z</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="Z_10"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">\equiv</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="\equiv_11"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">ω</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="ω_12"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">\tan</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="\tan_13"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">A</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="A_15"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">S</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="S_16"/>
+	</traceGroup>
+</traceGroup>
+</ink>

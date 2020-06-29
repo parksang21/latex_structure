@@ -1,0 +1,3 @@
+\begin{equation}
+	\bar { g } f ) ( q ) = f ( g ^ { - 1 } ( q ) ) , \therefore g \in G _ { \Delta }
+\end{equation}

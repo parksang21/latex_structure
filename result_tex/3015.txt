@@ -1,0 +1,3 @@
+\begin{equation}
+	L = \int o ^ { 3 } x \beta A _ { V } \csqrt \beta B _ { N }
+\end{equation}

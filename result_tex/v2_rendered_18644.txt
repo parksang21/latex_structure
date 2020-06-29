@@ -1,0 +1,3 @@
+\begin{equation}
+	W = S f ( \frac { \rho ^ { 1 3 } } { X Y S ^ { 3 } } )
+\end{equation}

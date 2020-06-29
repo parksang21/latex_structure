@@ -1,0 +1,3 @@
+\begin{equation}
+	R _ { \gamma } = R + \frac { 2 \gamma } { \pi - \gamma } \frac { 1 } { r _ { 0 } ^ { 2 } }
+\end{equation}

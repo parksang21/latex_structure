@@ -1,0 +1,21 @@
+# IUD, v2_rendered_10160
+# Objects(9):
+O, r_9, r, 1.0, ORRRRR
+O, I_2, I, 1.0, O
+O, G_7, G, 1.0, ORRR
+O, F_11, F, 1.0, ORRRRRRR
+O, F_10, F, 1.0, ORRRRRR
+O, =_3, =, 1.0, OR
+O, M_6, M, 1.0, ORRSub
+O, T_8, T, 1.0, ORRRR
+O, \int_5, \int, 1.0, ORR
+
+# Relations from SRT:
+R, =_3, \int_5, Right, 1.0
+R, F_10, F_11, Right, 1.0
+R, G_7, T_8, Right, 1.0
+R, I_2, =_3, Right, 1.0
+R, T_8, r_9, Right, 1.0
+R, \int_5, G_7, Right, 1.0
+R, \int_5, M_6, Sub, 1.0
+R, r_9, F_10, Right, 1.0

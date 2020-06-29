@@ -1,0 +1,41 @@
+# IUD, v2_rendered_14820
+# Objects(19):
+O, \mu_13, \mu, 1.0, ORRRAbove
+O, +_8, +, 1.0, ORRAboveR
+O, \delta_18, \delta, 1.0, ORRRRAbove
+O, _10, \sqrt, 1.0, ORRBelow
+O, _4, -, 1.0, ORR
+O, =_3, =, 1.0, OR
+O, Q_22, Q, 1.0, ORRRRRRR
+O, +_20, +, 1.0, ORRRRR
+O, M_2, M, 1.0, O
+O, _12, -, 1.0, ORRR
+O, _6, \sqrt, 1.0, ORRAbove
+O, 4_19, 4, 1.0, ORRRRBelow
+O, \pi_16, \pi, 1.0, ORRRBelowR
+O, d_11, d, 1.0, ORRBelowInside
+O, \lambda_21, \lambda, 1.0, ORRRRRR
+O, d_7, d, 1.0, ORRAboveInside
+O, _17, -, 1.0, ORRRR
+O, 1_9, 1, 1.0, ORRAboveRR
+O, 2_15, 2, 1.0, ORRRBelow
+
+# Relations from SRT:
+R, +_20, \lambda_21, Right, 1.0
+R, +_8, 1_9, Right, 1.0
+R, 2_15, \pi_16, Right, 1.0
+R, =_3, _4, Right, 1.0
+R, M_2, =_3, Right, 1.0
+R, \lambda_21, Q_22, Right, 1.0
+R, _10, d_11, Inside, 1.0
+R, _12, 2_15, Below, 1.0
+R, _12, \mu_13, Above, 1.0
+R, _12, _17, Right, 1.0
+R, _17, +_20, Right, 1.0
+R, _17, 4_19, Below, 1.0
+R, _17, \delta_18, Above, 1.0
+R, _4, _10, Below, 1.0
+R, _4, _12, Right, 1.0
+R, _4, _6, Above, 1.0
+R, _6, +_8, Right, 1.0
+R, _6, d_7, Inside, 1.0

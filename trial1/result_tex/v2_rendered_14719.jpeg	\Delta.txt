@@ -1,0 +1,3 @@
+\begin{equation}
+	M \propto \frac { e ^ { - m L } } { L \sqrt { m L } } + .
+\end{equation}

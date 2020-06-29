@@ -1,0 +1,3 @@
+\begin{equation}
+	< 0 \vert M , \csqrts M _ { n } W _ { 1 } \csqrts W _ { m } \vert 0 \notin =
+\end{equation}

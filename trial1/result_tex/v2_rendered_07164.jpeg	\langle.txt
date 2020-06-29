@@ -1,0 +1,3 @@
+\begin{equation}
+	T _ { z z } \rangle \vert _ { z = z ^ { \prime } = 0 , a } = i \lambda \sin \lambda a
+\end{equation}

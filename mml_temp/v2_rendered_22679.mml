@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><munder><mo>∑</mo><mrow><mi>α</mi><mo>∈</mo><mi>R</mi><mo>+</mo></mrow></munder><msub><mi>α</mi><mi>μ</mi></msub><msub><mi>v</mi><mi>α</mi></msub><mo>=</mo><mn>0</mn><mo>,</mo><mi>μ</mi><mo>=</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mi>.</mi><mi>.</mi><mi>.</mi><mo>,</mo><mi>α</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \sum _ { \alpha \in R + } \alpha _ { \mu } v _ { \alpha } = 0 , \mu = 1 , 2 , . . . , \alpha
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

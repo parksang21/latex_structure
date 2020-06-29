@@ -1,0 +1,3 @@
+\begin{equation}
+	u _ { i } u _ { j } = - u _ { j } u _ { i } = \omega _ { i j k } u _ { k } ^ { * }
+\end{equation}

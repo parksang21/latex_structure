@@ -1,0 +1,3 @@
+\begin{equation}
+	\cup ( \alpha _ { - } - \alpha _ { + } ) _ { 0 } \cup \pi
+\end{equation}

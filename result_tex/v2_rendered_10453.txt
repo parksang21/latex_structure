@@ -1,0 +1,3 @@
+\begin{equation}
+	\beta p r a k ( N ) - \beta _ { c } \cap N ^ { - \frac { 1 } { \alpha } }
+\end{equation}

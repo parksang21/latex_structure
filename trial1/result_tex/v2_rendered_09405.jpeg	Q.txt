@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { c } = ( i / 9 ) ( \omega ^ { \alpha } \rho _ { \alpha } - \rho _ { \alpha } \omega ^ { \alpha } )
+\end{equation}

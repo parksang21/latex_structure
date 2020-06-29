@@ -1,0 +1,45 @@
+# IUD, 1090
+# Objects(21):
+O, a_17, a, 1.0, ORRRRRRRSub
+O, \Delta_11, \Delta, 1.0, ORRRR
+O, \phi_13, \phi, 1.0, ORRRRR
+O, a_8, a, 1.0, ORRR
+O, \alpha_27, \alpha, 1.0, ORRRRRRRRRRRSub
+O, \delta_3, \delta, 1.0, O
+O, a_23, a, 1.0, ORRRRRRRRRR
+O, \alpha_9, \alpha, 1.0, ORRRSup
+O, A_19, A, 1.0, ORRRRRRRR
+O, \delta_16, \delta, 1.0, ORRRRRRR
+O, COMMA_14, COMMA, 1.0, ORRRRRR
+O, A_29, A, 1.0, ORRRRRRRRRRRR
+O, a_4, a, 1.0, OSub
+O, \Delta_26, \Delta, 1.0, ORRRRRRRRRRR
+O, \alpha_12, \alpha, 1.0, ORRRRSub
+O, \mu_30, \mu, 1.0, ORRRRRRRRRRRRSub
+O, \mu_20, \mu, 1.0, ORRRRRRRRSub
+O, =_6, =, 1.0, ORR
+O, \phi_5, \phi, 1.0, OR
+O, =_21, =, 1.0, ORRRRRRRRR
+O, \alpha_24, \alpha, 1.0, ORRRRRRRRRRSup
+
+# Relations from SRT:
+R, =_21, a_23, Right, 1.0
+R, =_6, a_8, Right, 1.0
+R, A_19, =_21, Right, 1.0
+R, A_19, \mu_20, Sub, 1.0
+R, A_29, \mu_30, Sub, 1.0
+R, COMMA_14, \delta_16, Right, 1.0
+R, \Delta_11, \alpha_12, Sub, 1.0
+R, \Delta_11, \phi_13, Right, 1.0
+R, \Delta_26, A_29, Right, 1.0
+R, \Delta_26, \alpha_27, Sub, 1.0
+R, \delta_16, A_19, Right, 1.0
+R, \delta_16, a_17, Sub, 1.0
+R, \delta_3, \phi_5, Right, 1.0
+R, \delta_3, a_4, Sub, 1.0
+R, \phi_13, COMMA_14, Right, 1.0
+R, \phi_5, =_6, Right, 1.0
+R, a_23, \Delta_26, Right, 1.0
+R, a_23, \alpha_24, Sup, 1.0
+R, a_8, \Delta_11, Right, 1.0
+R, a_8, \alpha_9, Sup, 1.0

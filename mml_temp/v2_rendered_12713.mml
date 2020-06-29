@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msubsup><mi>K</mi><mi>f</mi><mo>±</mo></msubsup><mo>=</mo><mo>±</mo><mfrac><mi>ω</mi><mrow><mi>i</mi><mi>k</mi><mo>−</mo><mi>m</mi></mrow></mfrac><mo>=</mo><mo>±</mo><mfrac><mrow><mo>tan</mo><mi>θ</mi></mrow><mrow><mi>i</mi><mo>cos</mo><mi>θ</mi><mo>−</mo><mn>1</mn></mrow></mfrac></mrow><annotation encoding="application/x-tex">\begin{equation}
+    K _ { f } ^ { \pm } = \pm \frac { \omega } { i k - m } = \pm \frac { \tan \theta } { i \cos \theta - 1 }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

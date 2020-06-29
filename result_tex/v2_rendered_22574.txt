@@ -1,0 +1,3 @@
+\begin{equation}
+	\gamma _ { 0 } = - \Delta ( r ^ { 2 } \sin \theta + \frac { N ^ { 2 } } { 2 \sin \theta } ) ^ { 2 }
+\end{equation}

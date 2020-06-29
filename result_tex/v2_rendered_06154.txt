@@ -1,0 +1,3 @@
+\begin{equation}
+	\beta = \frac { i } { 2 } T r \ln \sqrt { H } - i T r \ln \sqrt { M }
+\end{equation}

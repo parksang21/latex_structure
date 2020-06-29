@@ -1,0 +1,36 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">RIT_2014_11_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msub><mi xml:id="n_3">n</mi><mi xml:id="N_4">N</mi></msub><mo xml:id="=_5">=</mo><msub><mi xml:id="N_7">N</mi><mi xml:id="N_8">N</mi></msub></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">n</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="n_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">N</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="N_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="=_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">N</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="N_7"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">N</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="N_8"/>
+	</traceGroup>
+</traceGroup>
+</ink>

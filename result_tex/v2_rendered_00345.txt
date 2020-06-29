@@ -1,0 +1,3 @@
+\begin{equation}
+	( \angle \otimes 7 ) \angle \approx ( 7 \otimes \angle ) L
+\end{equation}

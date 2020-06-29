@@ -1,0 +1,3 @@
+\begin{equation}
+	z _ { i } \rightarrow z _ { i } \omega ^ { q _ { i } ^ { a } }
+\end{equation}

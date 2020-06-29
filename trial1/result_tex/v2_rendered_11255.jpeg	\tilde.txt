@@ -1,0 +1,3 @@
+\begin{equation}
+	{ N } ^ { P } \psi \leq 6 \forall \tilde { N } ^ { P } \wedge R
+\end{equation}

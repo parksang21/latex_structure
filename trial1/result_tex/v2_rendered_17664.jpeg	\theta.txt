@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { L } \equiv \theta _ { K - 6 } \circ \cdots \circ \theta _ { 6 }
+\end{equation}

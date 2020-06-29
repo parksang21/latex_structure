@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { f } \leq \frac { 5 } { \sqrt { f ! } } \int f _ { f } ( K ^ { f } ) P _ { f } ^ { * } ( K
+\end{equation}

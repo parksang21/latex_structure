@@ -1,0 +1,39 @@
+# IUD, v2_rendered_06025
+# Objects(18):
+O, 0_12, 0, 1.0, 7
+O, C_2, C, 1.0, 0
+O, -_15, -, 1.0, 9
+O, \Omega_16, \Omega, 1.0, 10
+O, )_5, ), 1.0, 3
+O, _7, -, 1.0, 17
+O, )_22, ), 1.0, 16
+O, =_6, =, 1.0, 4
+O, z_21, z, 1.0, 15
+O, c_11, c, 1.0, 6
+O, (_20, (, 1.0, 14
+O, i_9, i, 1.0, 5
+O, z_4, z, 1.0, 2
+O, +_17, +, 1.0, 11
+O, \theta_19, \theta, 1.0, 13
+O, z_14, z, 1.0, 8
+O, (_3, (, 1.0, 1
+O, \sigma_18, \sigma, 1.0, 12
+
+# Relations from SRT:
+R, (_20, z_21, Right, 1.0
+R, (_3, z_4, Right, 1.0
+R, )_5, =_6, Right, 1.0
+R, +_17, \sigma_18, Right, 1.0
+R, -_15, \Omega_16, Right, 1.0
+R, =_6, _7, Right, 1.0
+R, C_2, (_3, Right, 1.0
+R, \Omega_16, +_17, Right, 1.0
+R, \sigma_18, \theta_19, Right, 1.0
+R, \theta_19, (_20, Right, 1.0
+R, _7, i_9, Above, 1.0
+R, _7, z_14, Below, 1.0
+R, c_11, 0_12, Sub, 1.0
+R, i_9, c_11, Right, 1.0
+R, z_14, -_15, Right, 1.0
+R, z_21, )_22, Right, 1.0
+R, z_4, )_5, Right, 1.0

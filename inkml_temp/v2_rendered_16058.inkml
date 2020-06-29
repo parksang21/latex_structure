@@ -1,0 +1,76 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_16058</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mo form="postfix" stretchy="false" xml:id="\vert_2">|</mo><mfrac xml:id="_3"><mrow><mi xml:id="d_5">d</mi><mo xml:id="\log_6">log</mo><mi xml:id="V_7">V</mi></mrow><mrow><mi xml:id="d_9">d</mi><mo xml:id="\log_10">log</mo><msqrt xml:id="_11"><mi xml:id="\psi_12">ψ</mi></msqrt><mi xml:id="\psi_13">ψ</mi></mrow></mfrac><mo form="postfix" stretchy="false" xml:id="\vert_14">|</mo><mo xml:id="\subset_15">⊂</mo><mo form="postfix" stretchy="false" xml:id="\vert_16">|</mo></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\vert</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\vert_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">d</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="d_5"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\log</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\log_6"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">V</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="V_7"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">d</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="d_9"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\log</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\log_10"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">\psi</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="\psi_12"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\psi</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\psi_13"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">\vert</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="\vert_14"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">\subset</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="\subset_15"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">\vert</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="\vert_16"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="_3"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="_11"/>
+	</traceGroup>
+</traceGroup>
+</ink>

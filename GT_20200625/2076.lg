@@ -1,0 +1,32 @@
+# IUD, 2076
+# Objects(14):
+O, \pi_9, \pi, 1.0, OInsideRRRRR
+O, )_10, ), 1.0, OInsideRRRRRR
+O, \beta_13, \beta, 1.0, ORRR
+O, +_7, +, 1.0, OInsideRRR
+O, _2, \sqrt, 1.0, O
+O, =_11, =, 1.0, OR
+O, (_5, (, 1.0, OInsideR
+O, \theta_6, \theta, 1.0, OInsideRR
+O, (_14, (, 1.0, ORRRR
+O, )_16, ), 1.0, ORRRRRR
+O, \beta_4, \beta, 1.0, OInside
+O, -_12, -, 1.0, ORR
+O, \theta_15, \theta, 1.0, ORRRRR
+O, i_8, i, 1.0, OInsideRRRR
+
+# Relations from SRT:
+R, (_14, \theta_15, Right, 1.0
+R, (_5, \theta_6, Right, 1.0
+R, +_7, i_8, Right, 1.0
+R, -_12, \beta_13, Right, 1.0
+R, =_11, -_12, Right, 1.0
+R, \beta_13, (_14, Right, 1.0
+R, \beta_4, (_5, Right, 1.0
+R, \pi_9, )_10, Right, 1.0
+R, \theta_15, )_16, Right, 1.0
+R, \theta_6, +_7, Right, 1.0
+R, _2, (_5, Inside, 1.0
+R, _2, =_11, Right, 1.0
+R, _2, \beta_4, Inside, 1.0
+R, i_8, \pi_9, Right, 1.0

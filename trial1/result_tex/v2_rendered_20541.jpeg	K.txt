@@ -1,0 +1,3 @@
+\begin{equation}
+	( k , p ) = 2 \gamma _ { 5 } \otimes \gamma _ { 5 } - \gamma _ { \mu } \gamma _ { 5 } \otimes \gamma ^ { \mu } \gamma _ { 5 }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \mu } \neq A _ { \mu } \neq - 3 G _ { \mu } ^ { 0 }
+\end{equation}

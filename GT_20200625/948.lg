@@ -1,0 +1,33 @@
+# IUD, 948
+# Objects(15):
+O, z_11, z, 1.0, ORBelowR
+O, _3, -, 1.0, OR
+O, \int_2, \int, 1.0, O
+O, =_19, =, 1.0, ORR
+O, 2_7, 2, 1.0, ORAboveSup
+O, d_6, d, 1.0, ORAbove
+O, \beta_21, \beta, 1.0, ORRRR
+O, \vert_10, \vert, 1.0, ORBelow
+O, \prime_15, \prime, 1.0, ORBelowRRRSup
+O, z_8, z, 1.0, ORAboveR
+O, 2_18, 2, 1.0, ORBelowRRRRSup
+O, \vert_17, \vert, 1.0, ORBelowRRRR
+O, z_14, z, 1.0, ORBelowRRR
+O, -_12, -, 1.0, ORBelowRR
+O, \log_20, \log, 1.0, ORRR
+
+# Relations from SRT:
+R, -_12, z_14, Right, 1.0
+R, =_19, \log_20, Right, 1.0
+R, \int_2, _3, Right, 1.0
+R, \log_20, \beta_21, Right, 1.0
+R, \vert_10, z_11, Right, 1.0
+R, \vert_17, 2_18, Sup, 1.0
+R, _3, =_19, Right, 1.0
+R, _3, \vert_10, Below, 1.0
+R, _3, d_6, Above, 1.0
+R, d_6, 2_7, Sup, 1.0
+R, d_6, z_8, Right, 1.0
+R, z_11, -_12, Right, 1.0
+R, z_14, \prime_15, Sup, 1.0
+R, z_14, \vert_17, Right, 1.0

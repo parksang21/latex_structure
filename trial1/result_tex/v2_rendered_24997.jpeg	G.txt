@@ -1,0 +1,3 @@
+\begin{equation}
+	( x ) = \int _ { u = 0 } ^ { x } g ( u ) d u + G _ { 0 }
+\end{equation}

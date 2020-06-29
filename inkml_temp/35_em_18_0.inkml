@@ -1,0 +1,46 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">35_em_18_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mi xml:id="\pi_2">π</mi><mo xml:id="\int_3">∫</mo><munderover><mo xml:id="\lim_5">lim</mo><mn xml:id="0_6">0</mn><mrow><mi xml:id="x_8">x</mi><mi xml:id="d_9">d</mi><mi xml:id="x_10">x</mi></mrow></munderover></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\pi</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\pi_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\int</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\int_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\lim</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\lim_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">0</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="0_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">x</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="x_8"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">d</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="d_9"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">x</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="x_10"/>
+	</traceGroup>
+</traceGroup>
+</ink>

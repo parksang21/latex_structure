@@ -1,0 +1,37 @@
+# IUD, v2_rendered_01011
+# Objects(17):
+O, \alpha_12, \alpha, 1.0, ORRRRR
+O, _3, \sqrt, 1.0, O
+O, \pm_21, \pm, 1.0, ORRRRRRRRRRSub
+O, (_8, (, 1.0, ORR
+O, )_17, ), 1.0, ORRRRRRRRR
+O, \pm_13, \pm, 1.0, ORRRRRSub
+O, (_14, (, 1.0, ORRRRRR
+O, A_20, A, 1.0, ORRRRRRRRRRInside
+O, \prime_6, \prime, 1.0, OSup
+O, \pm_5, \pm, 1.0, OSub
+O, -_10, -, 1.0, ORRRR
+O, A_4, A, 1.0, OInside
+O, )_16, ), 1.0, ORRRRRRRR
+O, _19, \sqrt, 1.0, ORRRRRRRRRR
+O, =_7, =, 1.0, OR
+O, u_15, u, 1.0, ORRRRRRR
+O, 1_9, 1, 1.0, ORRR
+
+# Relations from SRT:
+R, (_14, u_15, Right, 1.0
+R, (_8, 1_9, Right, 1.0
+R, )_16, )_17, Right, 1.0
+R, )_17, _19, Right, 1.0
+R, -_10, \alpha_12, Right, 1.0
+R, 1_9, -_10, Right, 1.0
+R, =_7, (_8, Right, 1.0
+R, \alpha_12, (_14, Right, 1.0
+R, \alpha_12, \pm_13, Sub, 1.0
+R, _19, A_20, Inside, 1.0
+R, _19, \pm_21, Sub, 1.0
+R, _3, =_7, Right, 1.0
+R, _3, A_4, Inside, 1.0
+R, _3, \pm_5, Sub, 1.0
+R, _3, \prime_6, Sup, 1.0
+R, u_15, )_16, Right, 1.0

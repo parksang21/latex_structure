@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { a } \leftrightarrow \Delta _ { a } ^ { \prime } = \Delta _ { a } \times ( \Delta _ { a } \circ \Delta _ { j } ) \Delta _ { j } \times 4
+\end{equation}

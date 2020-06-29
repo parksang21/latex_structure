@@ -1,0 +1,47 @@
+# IUD, v2_rendered_12800
+# Objects(22):
+O, \lambda_18, \lambda, 1.0, ORRRRRRRRRRR
+O, k_21, k, 1.0, ORRRRRRRRRRRSubR
+O, x_27, x, 1.0, ORRRRRRRRRRRRRRR
+O, x_14, x, 1.0, ORRRRRRRR
+O, j_4, j, 1.0, OSub
+O, D_10, D, 1.0, ORRRRR
+O, \alpha_12, \alpha, 1.0, ORRRRRR
+O, =_8, =, 1.0, ORRRR
+O, j_11, j, 1.0, ORRRRRSub
+O, \beta_25, \beta, 1.0, ORRRRRRRRRRRRR
+O, )_28, ), 1.0, ORRRRRRRRRRRRRRRR
+O, (_13, (, 1.0, ORRRRRRR
+O, x_6, x, 1.0, ORR
+O, j_20, j, 1.0, ORRRRRRRRRRRSub
+O, D_23, D, 1.0, ORRRRRRRRRRRR
+O, \pi_3, \pi, 1.0, O
+O, )_15, ), 1.0, ORRRRRRRRR
+O, (_26, (, 1.0, ORRRRRRRRRRRRRR
+O, )_7, ), 1.0, ORRR
+O, +_16, +, 1.0, ORRRRRRRRRR
+O, (_5, (, 1.0, OR
+O, k_24, k, 1.0, ORRRRRRRRRRRRSub
+
+# Relations from SRT:
+R, (_13, x_14, Right, 1.0
+R, (_26, x_27, Right, 1.0
+R, (_5, x_6, Right, 1.0
+R, )_15, +_16, Right, 1.0
+R, )_7, =_8, Right, 1.0
+R, +_16, \lambda_18, Right, 1.0
+R, =_8, D_10, Right, 1.0
+R, D_10, \alpha_12, Right, 1.0
+R, D_10, j_11, Sub, 1.0
+R, D_23, \beta_25, Right, 1.0
+R, D_23, k_24, Sub, 1.0
+R, \alpha_12, (_13, Right, 1.0
+R, \beta_25, (_26, Right, 1.0
+R, \lambda_18, D_23, Right, 1.0
+R, \lambda_18, j_20, Sub, 1.0
+R, \pi_3, (_5, Right, 1.0
+R, \pi_3, j_4, Sub, 1.0
+R, j_20, k_21, Right, 1.0
+R, x_14, )_15, Right, 1.0
+R, x_27, )_28, Right, 1.0
+R, x_6, )_7, Right, 1.0

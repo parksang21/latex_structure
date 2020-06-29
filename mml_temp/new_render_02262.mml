@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mi>t</mi><mi>σ</mi></msup><mi>y</mi><mo>≦</mo><msup><mi>w</mi><mn>2</mn></msup><msup><mi>w</mi><mn>1</mn></msup><msup><mi>z</mi><mi>σ</mi></msup><mo>+</mo><msub><mi>D</mi><mi>k</mi></msub><msup><mi>j</mi><mrow><mi>k</mi><mi>σ</mi></mrow></msup></mrow><annotation encoding="application/x-tex">\begin{equation}
+    t ^ { \sigma } y \leqq w ^ { 2 } w ^ { 1 } z ^ { \sigma } + D _ { k } j ^ { k \sigma }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

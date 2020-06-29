@@ -1,0 +1,43 @@
+# IUD, v2_rendered_03309
+# Objects(20):
+O, \pm_22, \pm, 1.0, ORRRRRRRRRRRSup
+O, 1_5, 1, 1.0, OSup
+O, _12, -, 1.0, ORRRRRRR
+O, 1_13, 1, 1.0, ORRRRRRRAbove
+O, f_3, f, 1.0, O
+O, \phi_24, \phi, 1.0, ORRRRRRRRRRRSupRR
+O, =_11, =, 1.0, ORRRRRR
+O, (_6, (, 1.0, OR
+O, _14, \sqrt, 1.0, ORRRRRRRBelow
+O, v_16, v, 1.0, ORRRRRRRR
+O, \pm_4, \pm, 1.0, OSub
+O, i_23, i, 1.0, ORRRRRRRRRRRSupR
+O, COMMA_8, COMMA, 1.0, ORRR
+O, e_20, e, 1.0, ORRRRRRRRRRR
+O, \theta_18, \theta, 1.0, ORRRRRRRRRR
+O, \phi_9, \phi, 1.0, ORRRR
+O, \theta_7, \theta, 1.0, ORR
+O, )_10, ), 1.0, ORRRRR
+O, \sin_17, \sin, 1.0, ORRRRRRRRR
+O, 2_15, 2, 1.0, ORRRRRRRBelowInside
+
+# Relations from SRT:
+R, (_6, \theta_7, Right, 1.0
+R, )_10, =_11, Right, 1.0
+R, =_11, _12, Right, 1.0
+R, COMMA_8, \phi_9, Right, 1.0
+R, \phi_9, )_10, Right, 1.0
+R, \pm_22, i_23, Right, 1.0
+R, \sin_17, \theta_18, Right, 1.0
+R, \theta_18, e_20, Right, 1.0
+R, \theta_7, COMMA_8, Right, 1.0
+R, _12, 1_13, Above, 1.0
+R, _12, _14, Below, 1.0
+R, _12, v_16, Right, 1.0
+R, _14, 2_15, Inside, 1.0
+R, e_20, \pm_22, Sup, 1.0
+R, f_3, (_6, Right, 1.0
+R, f_3, 1_5, Sup, 1.0
+R, f_3, \pm_4, Sub, 1.0
+R, i_23, \phi_24, Right, 1.0
+R, v_16, \sin_17, Right, 1.0

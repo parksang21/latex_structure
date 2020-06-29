@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \alpha } \geqq \sum _ { i } \frac { ( k _ { i } ^ { \propto } ) ^ { 2 } } { 2 P ^ { + } }
+\end{equation}

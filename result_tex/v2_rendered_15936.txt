@@ -1,0 +1,3 @@
+\begin{equation}
+	T _ { u } P = G _ { u } \otimes Q _ { u }
+\end{equation}

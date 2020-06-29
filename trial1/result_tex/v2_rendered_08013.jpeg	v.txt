@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { i } = ( 1 - \alpha ^ { l } ) ( f _ { \alpha } - f _ { \beta } + \varphi )
+\end{equation}

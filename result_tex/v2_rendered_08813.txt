@@ -1,0 +1,3 @@
+\begin{equation}
+	\rho ( f \varepsilon g ) = f \rho ( \varepsilon ) g , f , g \not\subset A , \varepsilon \not\subset \Omega ^ { 1 } \otimes \Omega ^ { 1 }
+\end{equation}

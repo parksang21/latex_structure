@@ -1,0 +1,3 @@
+\begin{equation}
+	f = i e ^ { m z + c _ { 2 } } , g = m z + C _ { 2 } - \log ( c _ { 1 } )
+\end{equation}

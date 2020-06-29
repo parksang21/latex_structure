@@ -1,0 +1,3 @@
+\begin{equation}
+	\psi _ { L } = - 2 S _ { a \bar { a } } J _ { R } ^ { \bar { a } } t ^ { a } \psi _ { L }
+\end{equation}

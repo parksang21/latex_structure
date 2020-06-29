@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { 1 } ^ { \mu } = \dot { p } _ { 1 } ^ { \mu } \int _ { 0 } ^ { T } d \tau A _ { 1 } / e _ { 1 }
+\end{equation}

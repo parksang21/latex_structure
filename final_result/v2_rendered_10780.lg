@@ -1,0 +1,41 @@
+# IUD, v2_rendered_10780
+# Objects(19):
+O, t_13, t, 1.0, ORRRRRRRR
+O, 2_14, 2, 1.0, ORRRRRRRRSup
+O, 2_5, 2, 1.0, ORSup
+O, x_20, x, 1.0, ORRRRRRRRRRAboveR
+O, \cos_8, \cos, 1.0, ORRRR
+O, \theta_25, \theta, 1.0, ORRRRRRRRRRBelowRR
+O, d_11, d, 1.0, ORRRRRRR
+O, s_4, s, 1.0, OR
+O, +_15, +, 1.0, ORRRRRRRRR
+O, =_6, =, 1.0, ORR
+O, \cos_23, \cos, 1.0, ORRRRRRRRRRBelow
+O, d_18, d, 1.0, ORRRRRRRRRRAbove
+O, _16, -, 1.0, ORRRRRRRRRR
+O, 2_24, 2, 1.0, ORRRRRRRRRRBelowR
+O, -_7, -, 1.0, ORRR
+O, 2_9, 2, 1.0, ORRRRR
+O, 2_21, 2, 1.0, ORRRRRRRRRRAboveRSup
+O, \theta_10, \theta, 1.0, ORRRRRR
+O, d_2, d, 1.0, O
+
+# Relations from SRT:
+R, +_15, _16, Right, 1.0
+R, -_7, \cos_8, Right, 1.0
+R, 2_24, \theta_25, Right, 1.0
+R, 2_9, \theta_10, Right, 1.0
+R, =_6, -_7, Right, 1.0
+R, \cos_23, 2_24, Right, 1.0
+R, \cos_8, 2_9, Right, 1.0
+R, \theta_10, d_11, Right, 1.0
+R, _16, \cos_23, Below, 1.0
+R, _16, d_18, Above, 1.0
+R, d_11, t_13, Right, 1.0
+R, d_18, x_20, Right, 1.0
+R, d_2, s_4, Right, 1.0
+R, s_4, 2_5, Sup, 1.0
+R, s_4, =_6, Right, 1.0
+R, t_13, +_15, Right, 1.0
+R, t_13, 2_14, Sup, 1.0
+R, x_20, 2_21, Sup, 1.0

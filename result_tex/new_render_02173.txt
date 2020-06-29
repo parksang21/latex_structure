@@ -1,0 +1,3 @@
+\begin{equation}
+	\phi _ { 0 } ( z ) \geqq \delta ^ { - 1 } \alpha , \phi _ { 0 } ( z ) \geqq \alpha ^ { - 1 } \delta
+\end{equation}

@@ -1,0 +1,33 @@
+# IUD, v2_rendered_18110
+# Objects(15):
+O, \subset_18, \subset, 1.0, ORRRRRRR
+O, 2_10, 2, 1.0, ORRBelow
+O, )_20, ), 1.0, ORRRRRRRR
+O, (_11, (, 1.0, ORRR
+O, 8_19, 8, 1.0, ORRRRRRRBelow
+O, _8, -, 1.0, ORR
+O, +_13, +, 1.0, ORRRRR
+O, =_7, =, 1.0, OR
+O, 7_16, 7, 1.0, ORRRRRRBelow
+O, 0_6, 0, 1.0, OSubR
+O, 0_5, 0, 1.0, OSub
+O, \pi_3, \pi, 1.0, O
+O, 1_9, 1, 1.0, ORRAbove
+O, \subset_15, \subset, 1.0, ORRRRRR
+O, 1_12, 1, 1.0, ORRRR
+
+# Relations from SRT:
+R, (_11, 1_12, Right, 1.0
+R, +_13, \subset_15, Right, 1.0
+R, 0_5, 0_6, Right, 1.0
+R, 1_12, +_13, Right, 1.0
+R, =_7, _8, Right, 1.0
+R, \pi_3, 0_5, Sub, 1.0
+R, \pi_3, =_7, Right, 1.0
+R, \subset_15, 7_16, Below, 1.0
+R, \subset_15, \subset_18, Right, 1.0
+R, \subset_18, )_20, Right, 1.0
+R, \subset_18, 8_19, Below, 1.0
+R, _8, (_11, Right, 1.0
+R, _8, 1_9, Above, 1.0
+R, _8, 2_10, Below, 1.0

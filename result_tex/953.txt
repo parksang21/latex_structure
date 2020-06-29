@@ -1,0 +1,3 @@
+\begin{equation}
+	A ( R ) \sim M ( \lambda e M ^ { 3 } R ^ { 3 } ) ^ { 1 / ( n + 1 ) }
+\end{equation}

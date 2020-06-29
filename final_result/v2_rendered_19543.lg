@@ -1,0 +1,33 @@
+# IUD, v2_rendered_19543
+# Objects(15):
+O, k_22, k, 1.0, ORRRRRR
+O, j_10, j, 1.0, ORRSub
+O, T_16, T, 1.0, ORRRR
+O, e_23, e, 1.0, ORRRRRRSub
+O, k_9, k, 1.0, ORR
+O, e_6, e, 1.0, OSubR
+O, e_19, e, 1.0, ORRRRSubR
+O, 7_13, 7, 1.0, ORRSupR
+O, \circle_20, \circle, 1.0, ORRRRR
+O, j_5, j, 1.0, OSub
+O, \circle_14, \circle, 1.0, ORRR
+O, -_12, -, 1.0, ORRSup
+O, j_18, j, 1.0, ORRRRSub
+O, \leftrightarrow_7, \leftrightarrow, 1.0, OR
+O, T_3, T, 1.0, O
+
+# Relations from SRT:
+R, -_12, 7_13, Right, 1.0
+R, T_16, \circle_20, Right, 1.0
+R, T_16, j_18, Sub, 1.0
+R, T_3, \leftrightarrow_7, Right, 1.0
+R, T_3, j_5, Sub, 1.0
+R, \circle_14, T_16, Right, 1.0
+R, \circle_20, k_22, Right, 1.0
+R, \leftrightarrow_7, k_9, Right, 1.0
+R, j_18, e_19, Right, 1.0
+R, j_5, e_6, Right, 1.0
+R, k_22, e_23, Sub, 1.0
+R, k_9, -_12, Sup, 1.0
+R, k_9, \circle_14, Right, 1.0
+R, k_9, j_10, Sub, 1.0

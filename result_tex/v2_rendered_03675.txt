@@ -1,0 +1,3 @@
+\begin{equation}
+	\rho ( \rho , \lambda ) _ { \lambda \sim 0 } = \lambda ^ { n } \log ^ { m } ( \lambda )
+\end{equation}

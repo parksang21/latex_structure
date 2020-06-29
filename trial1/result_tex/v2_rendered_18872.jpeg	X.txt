@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { \mu } = X _ { R } ^ { \mu } ( \sigma ^ { - } ) + X _ { L } ^ { \mu } ( \sigma ^ { + } )
+\end{equation}

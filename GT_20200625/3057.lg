@@ -1,0 +1,23 @@
+# IUD, 3057
+# Objects(10):
+O, 0_5, 0, 1.0, OSub
+O, -_8, -, 1.0, ORR
+O, i_10, i, 1.0, ORRRR
+O, 0_14, 0, 1.0, ORRRRRRSub
+O, \beta_3, \beta, 1.0, O
+O, 2_9, 2, 1.0, ORRR
+O, =_7, =, 1.0, OR
+O, \varepsilon_13, \varepsilon, 1.0, ORRRRRR
+O, 0_6, 0, 1.0, OSubR
+O, M_11, M, 1.0, ORRRRR
+
+# Relations from SRT:
+R, -_8, 2_9, Right, 1.0
+R, 0_5, 0_6, Right, 1.0
+R, 2_9, i_10, Right, 1.0
+R, =_7, -_8, Right, 1.0
+R, M_11, \varepsilon_13, Right, 1.0
+R, \beta_3, 0_5, Sub, 1.0
+R, \beta_3, =_7, Right, 1.0
+R, \varepsilon_13, 0_14, Sub, 1.0
+R, i_10, M_11, Right, 1.0

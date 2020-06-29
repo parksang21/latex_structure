@@ -1,0 +1,86 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_23916</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msup><mi xml:id="Q_3">Q</mi><mi xml:id="s_4">s</mi></msup><mo xml:id="\approx_5">≈</mo><mi xml:id="p_6">p</mi><msub><mi xml:id="\Delta_8">Δ</mi><mn xml:id="1_9">1</mn></msub><msubsup><mi xml:id="A_11">A</mi><mi xml:id="q_12">q</mi><mi xml:id="s_13">s</mi></msubsup><mo xml:id="-_14">−</mo><msubsup><mi xml:id="J_16">J</mi><mi xml:id="c_17">c</mi><mi xml:id="s_18">s</mi></msubsup><mo xml:id="\approx_19">≈</mo><mn xml:id="7_20">7</mn></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">Q</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="Q_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">s</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="s_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\approx</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\approx_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">p</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="p_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">\Delta</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="\Delta_8"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">1</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="1_9"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">A</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="A_11"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">q</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="q_12"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">s</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="s_13"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="-_14"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">J</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="J_16"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">c</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="c_17"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">s</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="s_18"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">\approx</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="\approx_19"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">7</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="7_20"/>
+	</traceGroup>
+</traceGroup>
+</ink>

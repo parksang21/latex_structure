@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \alpha \beta \mu } = e _ { a \alpha } \tau _ { \mu } ^ { a b } e _ { b \beta }
+\end{equation}

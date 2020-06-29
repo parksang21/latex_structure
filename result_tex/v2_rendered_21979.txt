@@ -1,0 +1,3 @@
+\begin{equation}
+	\langle 0 \vert H _ { 1 } \frac { 1 } { - H . } H _ { I } \vert 0 \rangle
+\end{equation}

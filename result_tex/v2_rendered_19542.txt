@@ -1,0 +1,3 @@
+\begin{equation}
+	D _ { \mu } \phi _ { a } = ( \Delta \mu - i g T ^ { l } A _ { \mu } ^ { l } ) \phi _ { a }
+\end{equation}

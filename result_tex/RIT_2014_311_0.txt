@@ -1,0 +1,3 @@
+\begin{equation}
+	\int y d x
+\end{equation}

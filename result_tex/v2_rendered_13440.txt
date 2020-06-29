@@ -1,0 +1,3 @@
+\begin{equation}
+	x \Leftrightarrow - i x ^ { 4 } , x ^ { 4 } \in I R
+\end{equation}

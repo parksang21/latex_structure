@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>β</mi><mrow><mi>S</mi><mi>c</mi><mi>a</mi><mi>b</mi><mi>a</mi><mi>r</mi></mrow></msub><mo>=</mo><munderover><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mo accent="false">∞</mo></munderover><msup><mi>ψ</mi><mi>i</mi></msup><mo stretchy="false" form="postfix">|</mo><msub><mi>S</mi><mi>i</mi></msub><mo stretchy="false" form="postfix">⟩</mo></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \beta _ { S c a b a r } = \sum _ { i = 1 } ^ { \infty } \psi ^ { i } \vert S _ { i } \rangle
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

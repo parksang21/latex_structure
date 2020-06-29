@@ -1,0 +1,3 @@
+\begin{equation}
+	Z _ { k } \cup ( \frac { \beta \pi G \tau } { 9 } I ( \phi _ { \beta } ) ) ^ { - k } K !
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	p _ { \notin } - k _ { \notin } \vert \sim \alpha m
+\end{equation}

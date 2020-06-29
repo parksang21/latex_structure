@@ -1,0 +1,43 @@
+# IUD, v2_rendered_05965
+# Objects(20):
+O, F_19, F, 1.0, ORRRR
+O, +_14, +, 1.0, ORSubR
+O, m_15, m, 1.0, ORSubRR
+O, n_20, n, 1.0, ORRRRSub
+O, \otimes_21, \otimes, 1.0, ORRRRR
+O, S_11, S, 1.0, OR
+O, n_24, n, 1.0, ORRRRRRSub
+O, \sum_3, \sum, 1.0, O
+O, (_16, (, 1.0, ORR
+O, F_23, F, 1.0, ORRRRRR
+O, \phi_17, \phi, 1.0, ORRR
+O, \geq_26, \geq, 1.0, ORRRRRRRR
+O, 0_27, 0, 1.0, ORRRRRRRRR
+O, m_7, m, 1.0, OBelowRR
+O, COMMA_6, COMMA, 1.0, OBelowR
+O, n_13, n, 1.0, ORSub
+O, I_9, I, 1.0, OBelowRRRR
+O, \in_8, \in, 1.0, OBelowRRR
+O, )_25, ), 1.0, ORRRRRRR
+O, n_5, n, 1.0, OBelow
+
+# Relations from SRT:
+R, (_16, \phi_17, Right, 1.0
+R, )_25, \geq_26, Right, 1.0
+R, +_14, m_15, Right, 1.0
+R, COMMA_6, m_7, Right, 1.0
+R, F_19, \otimes_21, Right, 1.0
+R, F_19, n_20, Sub, 1.0
+R, F_23, )_25, Right, 1.0
+R, F_23, n_24, Sub, 1.0
+R, S_11, (_16, Right, 1.0
+R, S_11, n_13, Sub, 1.0
+R, \geq_26, 0_27, Right, 1.0
+R, \in_8, I_9, Right, 1.0
+R, \otimes_21, F_23, Right, 1.0
+R, \phi_17, F_19, Right, 1.0
+R, \sum_3, S_11, Right, 1.0
+R, \sum_3, n_5, Below, 1.0
+R, m_7, \in_8, Right, 1.0
+R, n_13, +_14, Right, 1.0
+R, n_5, COMMA_6, Right, 1.0

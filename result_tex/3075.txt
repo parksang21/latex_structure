@@ -1,0 +1,3 @@
+\begin{equation}
+	u _ { i } ( r ) = \sqrt { r } Z _ { s l } ( \sqrt { E } \gamma )
+\end{equation}

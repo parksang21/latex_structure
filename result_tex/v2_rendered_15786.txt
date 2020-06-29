@@ -1,0 +1,3 @@
+\begin{equation}
+	\Omega ( \Delta ^ { c } A _ { 2 c } ) \approx \angle _ { P }
+\end{equation}

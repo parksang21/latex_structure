@@ -1,0 +1,3 @@
+\begin{equation}
+	y ^ { 2 } = \prod _ { k = 1 } ^ { n } ( x - \lambda _ { k } )
+\end{equation}

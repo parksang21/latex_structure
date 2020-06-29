@@ -1,0 +1,17 @@
+# IUD, v2_rendered_23007
+# Objects(7):
+O, x_6, x, 1.0, 3
+O, \wedge_8, \wedge, 1.0, 5
+O, -_7, -, 1.0, 4
+O, =_3, =, 1.0, 1
+O, F_2, F, 1.0, 0
+O, \beta_9, \beta, 1.0, 6
+O, d_4, d, 1.0, 2
+
+# Relations from SRT:
+R, =_3, d_4, Right, 1.0
+R, F_2, =_3, Right, 1.0
+R, \wedge_8, \beta_9, Right, 1.0
+R, d_4, x_6, Right, 1.0
+R, x_6, -_7, Sup, 1.0
+R, x_6, \wedge_8, Right, 1.0

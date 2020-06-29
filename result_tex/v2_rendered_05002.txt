@@ -1,0 +1,3 @@
+\begin{equation}
+	W \cup e ^ { i g ^ { 2 } \frac { ( N ^ { 2 } - 1 ) } { 4 N } A
+\end{equation}

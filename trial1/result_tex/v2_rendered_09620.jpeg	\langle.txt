@@ -1,0 +1,3 @@
+\begin{equation}
+	x \vert f ( K ) \vert x \rangle = \prod _ { r } f _ { r } ( \Omega ( x ) ) O _ { r } ( x )
+\end{equation}

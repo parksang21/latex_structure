@@ -1,0 +1,3 @@
+\begin{equation}
+	\cdot V \geqq \theta \cdot V = \sum _ { i \in J } n _ { i } \frac { s _ { i } } { N } \notin 1
+\end{equation}

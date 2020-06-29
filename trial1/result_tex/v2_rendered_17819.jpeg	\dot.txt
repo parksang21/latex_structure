@@ -1,0 +1,3 @@
+\begin{equation}
+	{ q } _ { \propto } \equiv \sqrt { \dot { q } _ { 1 } ^ { 2 } + \dot { q } _ { 2 } ^ { 2 } }
+\end{equation}

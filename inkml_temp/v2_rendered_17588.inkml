@@ -1,0 +1,36 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_17588</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mi xml:id="\lambda_2">λ</mi><mo xml:id="\approx_3">≈</mo><mo xml:id="\subset_4">⊂</mo><msup><mi xml:id="\lambda_6">λ</mi><mo xml:id="*_7">*</mo></msup></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\lambda</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\lambda_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\approx</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\approx_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\subset</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\subset_4"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\lambda</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\lambda_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">*</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="*_7"/>
+	</traceGroup>
+</traceGroup>
+</ink>

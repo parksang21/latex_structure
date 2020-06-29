@@ -1,0 +1,3 @@
+\begin{equation}
+	Q _ { Y } ^ { j } = - n \forall j , \delta Q _ { B } = - 2 n , \delta Q _ { Q } = - n
+\end{equation}

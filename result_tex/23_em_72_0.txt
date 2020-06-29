@@ -1,0 +1,3 @@
+\begin{equation}
+	\sum _ { i = 1 } ^ { n } x _ { n } = \sum _ { i = 1 } ^ { n } y _ { n }
+\end{equation}

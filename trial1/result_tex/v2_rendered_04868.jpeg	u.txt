@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \mu } \Leftrightarrow \lambda ^ { \delta _ { \mu } } u _ { \mu }
+\end{equation}

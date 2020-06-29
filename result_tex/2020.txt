@@ -1,0 +1,3 @@
+\begin{equation}
+	S _ { B F } = \int _ { M } X ^ { i } F _ { i }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\pi \int _ { - R } ^ { R } R ^ { 2 } d x - \prod \int _ { - R } ^ { R } x ^ { 2 } d x
+\end{equation}

@@ -1,0 +1,41 @@
+# IUD, new_render_00656
+# Objects(19):
+O, \leq_9, \leq, 1.0, 7
+O, B_15, B, 1.0, 13
+O, Y_6, Y, 1.0, 4
+O, \leq_17, \leq, 1.0, 15
+O, u_10, u, 1.0, 8
+O, u_2, u, 1.0, 0
+O, A_7, A, 1.0, 5
+O, )_16, ), 1.0, 14
+O, 1_19, 1, 1.0, 16
+O, _18, -, 1.0, 18
+O, )_8, ), 1.0, 6
+O, (_11, (, 1.0, 9
+O, X_13, X, 1.0, 11
+O, X_5, X, 1.0, 3
+O, \square_4, \square, 1.0, 2
+O, \square_12, \square, 1.0, 10
+O, 2_20, 2, 1.0, 17
+O, Y_14, Y, 1.0, 12
+O, (_3, (, 1.0, 1
+
+# Relations from SRT:
+R, (_11, \square_12, Right, 1.0
+R, (_3, \square_4, Right, 1.0
+R, )_16, \leq_17, Right, 1.0
+R, )_8, \leq_9, Right, 1.0
+R, A_7, )_8, Right, 1.0
+R, B_15, )_16, Right, 1.0
+R, X_13, Y_14, Right, 1.0
+R, X_5, Y_6, Right, 1.0
+R, Y_14, B_15, Right, 1.0
+R, Y_6, A_7, Right, 1.0
+R, \leq_17, _18, Right, 1.0
+R, \leq_9, u_10, Right, 1.0
+R, \square_12, X_13, Right, 1.0
+R, \square_4, X_5, Right, 1.0
+R, _18, 1_19, Above, 1.0
+R, _18, 2_20, Below, 1.0
+R, u_10, (_11, Right, 1.0
+R, u_2, (_3, Right, 1.0

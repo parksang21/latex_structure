@@ -1,0 +1,55 @@
+# IUD, new_render_00799
+# Objects(26):
+O, v_8, v, 1.0, ORRRR
+O, \lambda_27, \lambda, 1.0, ORRRRRRRRRRRRRRRRRRRRR
+O, )_17, ), 1.0, ORRRRRRRRRRR
+O, \therefore_26, \therefore, 1.0, ORRRRRRRRRRRRRRRRRRRR
+O, x_23, x, 1.0, ORRRRRRRRRRRRRRRRR
+O, (_20, (, 1.0, ORRRRRRRRRRRRRR
+O, \wedge_28, \wedge, 1.0, ORRRRRRRRRRRRRRRRRRRRRR
+O, H_19, H, 1.0, ORRRRRRRRRRRRR
+O, h_12, h, 1.0, ORRRRRRR
+O, )_16, ), 1.0, ORRRRRRRRRR
+O, H_2, H, 1.0, O
+O, )_9, ), 1.0, ORRRRR
+O, COMMA_10, COMMA, 1.0, ORRRRRR
+O, (_14, (, 1.0, ORRRRRRRR
+O, )_24, ), 1.0, ORRRRRRRRRRRRRRRRRR
+O, (_7, (, 1.0, ORRR
+O, COMMA_25, COMMA, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, \lambda_13, \lambda, 1.0, ORRRRRRRSub
+O, x_15, x, 1.0, ORRRRRRRRR
+O, \Delta_29, \Delta, 1.0, ORRRRRRRRRRRRRRRRRRRRRRR
+O, v_21, v, 1.0, ORRRRRRRRRRRRRRR
+O, h_5, h, 1.0, ORR
+O, COMMA_22, COMMA, 1.0, ORRRRRRRRRRRRRRRR
+O, =_18, =, 1.0, ORRRRRRRRRRRR
+O, \lambda_6, \lambda, 1.0, ORRSub
+O, (_3, (, 1.0, OR
+
+# Relations from SRT:
+R, (_14, x_15, Right, 1.0
+R, (_20, v_21, Right, 1.0
+R, (_3, h_5, Right, 1.0
+R, (_7, v_8, Right, 1.0
+R, )_16, )_17, Right, 1.0
+R, )_17, =_18, Right, 1.0
+R, )_24, COMMA_25, Right, 1.0
+R, )_9, COMMA_10, Right, 1.0
+R, =_18, H_19, Right, 1.0
+R, COMMA_10, h_12, Right, 1.0
+R, COMMA_22, x_23, Right, 1.0
+R, COMMA_25, \therefore_26, Right, 1.0
+R, H_19, (_20, Right, 1.0
+R, H_2, (_3, Right, 1.0
+R, \lambda_27, \wedge_28, Right, 1.0
+R, \therefore_26, \lambda_27, Right, 1.0
+R, \wedge_28, \Delta_29, Right, 1.0
+R, h_12, (_14, Right, 1.0
+R, h_12, \lambda_13, Sub, 1.0
+R, h_5, (_7, Right, 1.0
+R, h_5, \lambda_6, Sub, 1.0
+R, v_21, COMMA_22, Right, 1.0
+R, v_8, )_9, Right, 1.0
+R, x_15, )_16, Right, 1.0
+R, x_23, )_24, Right, 1.0

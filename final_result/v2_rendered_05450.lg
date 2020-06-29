@@ -1,0 +1,49 @@
+# IUD, v2_rendered_05450
+# Objects(23):
+O, -_5, -, 1.0, ORRR
+O, X_24, X, 1.0, ORRRRRRRRRRRRRRRRInside
+O, _6, \sqrt, 1.0, ORRRR
+O, S_4, S, 1.0, ORR
+O, F_19, F, 1.0, ORRRRRRRRRRRR
+O, d_16, d, 1.0, ORRRRRRRRRRBelow
+O, =_9, =, 1.0, ORRRRRR
+O, X_21, X, 1.0, ORRRRRRRRRRRRRR
+O, COMMA_22, COMMA, 1.0, ORRRRRRRRRRRRRRR
+O, \delta_18, \delta, 1.0, ORRRRRRRRRRR
+O, \delta_2, \delta, 1.0, O
+O, \tau_17, \tau, 1.0, ORRRRRRRRRRBelowR
+O, )_8, ), 1.0, ORRRRR
+O, _23, \sqrt, 1.0, ORRRRRRRRRRRRRRRR
+O, [_20, [, 1.0, ORRRRRRRRRRRRR
+O, ]_25, ], 1.0, ORRRRRRRRRRRRRRRRR
+O, d_11, d, 1.0, ORRRRRRRR
+O, \int_10, \int, 1.0, ORRRRRRR
+O, \tau_12, \tau, 1.0, ORRRRRRRRR
+O, (_3, (, 1.0, OR
+O, d_14, d, 1.0, ORRRRRRRRRRAbove
+O, S_7, S, 1.0, ORRRRInside
+O, _13, -, 1.0, ORRRRRRRRRR
+
+# Relations from SRT:
+R, (_3, S_4, Right, 1.0
+R, )_8, =_9, Right, 1.0
+R, -_5, _6, Right, 1.0
+R, =_9, \int_10, Right, 1.0
+R, COMMA_22, _23, Right, 1.0
+R, F_19, [_20, Right, 1.0
+R, S_4, -_5, Right, 1.0
+R, X_21, COMMA_22, Right, 1.0
+R, [_20, X_21, Right, 1.0
+R, \delta_18, F_19, Right, 1.0
+R, \delta_2, (_3, Right, 1.0
+R, \int_10, d_11, Right, 1.0
+R, \tau_12, _13, Right, 1.0
+R, _13, \delta_18, Right, 1.0
+R, _13, d_14, Above, 1.0
+R, _13, d_16, Below, 1.0
+R, _23, X_24, Inside, 1.0
+R, _23, ]_25, Right, 1.0
+R, _6, )_8, Right, 1.0
+R, _6, S_7, Inside, 1.0
+R, d_11, \tau_12, Right, 1.0
+R, d_16, \tau_17, Right, 1.0

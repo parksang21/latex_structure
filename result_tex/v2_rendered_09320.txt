@@ -1,0 +1,3 @@
+\begin{equation}
+	\mu _ { ( 3 ) } = J \propto e ^ { 1 } + R e [ \Omega ]
+\end{equation}

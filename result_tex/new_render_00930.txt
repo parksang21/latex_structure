@@ -1,0 +1,3 @@
+\begin{equation}
+	\vert f _ { N } \vert \leq h , \therefore N
+\end{equation}

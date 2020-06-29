@@ -1,0 +1,39 @@
+# IUD, v2_rendered_22699
+# Objects(18):
+O, M_15, M, 1.0, ORRR
+O, i_24, i, 1.0, ORRRRRRSub
+O, k_25, k, 1.0, ORRRRRRSubR
+O, k_13, k, 1.0, ORRSubR
+O, k_28, k, 1.0, ORRRRRRRSub
+O, \delta_10, \delta, 1.0, ORR
+O, i_12, i, 1.0, ORRSub
+O, i_4, i, 1.0, OSub
+O, \neq_17, \neq, 1.0, ORRRR
+O, M_19, M, 1.0, ORRRRR
+O, 2_8, 2, 1.0, ORSup
+O, D_6, D, 1.0, OR
+O, 0_7, 0, 1.0, ORSub
+O, M_3, M, 1.0, O
+O, k_16, k, 1.0, ORRRSub
+O, K_22, K, 1.0, ORRRRRR
+O, i_20, i, 1.0, ORRRRRSub
+O, M_27, M, 1.0, ORRRRRRR
+
+# Relations from SRT:
+R, D_6, 0_7, Sub, 1.0
+R, D_6, 2_8, Sup, 1.0
+R, D_6, \delta_10, Right, 1.0
+R, K_22, M_27, Right, 1.0
+R, K_22, i_24, Sub, 1.0
+R, M_15, \neq_17, Right, 1.0
+R, M_15, k_16, Sub, 1.0
+R, M_19, K_22, Right, 1.0
+R, M_19, i_20, Sub, 1.0
+R, M_27, k_28, Sub, 1.0
+R, M_3, D_6, Right, 1.0
+R, M_3, i_4, Sub, 1.0
+R, \delta_10, M_15, Right, 1.0
+R, \delta_10, i_12, Sub, 1.0
+R, \neq_17, M_19, Right, 1.0
+R, i_12, k_13, Right, 1.0
+R, i_24, k_25, Right, 1.0

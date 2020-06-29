@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msqrt><mi>ϕ</mi></msqrt><mo>−</mo><msup><mi>Δ</mi><mn>2</mn></msup><mi>ϕ</mi><mo>+</mo><mfrac><mrow><msup><mi>M</mi><mn>2</mn></msup><mo stretchy="false" form="prefix">(</mo><mi>x</mi><mo>,</mo><mi>t</mi><mo stretchy="false" form="postfix">)</mo></mrow><mi>β</mi></mfrac><mo>sin</mo><mi>β</mi><mi>ϕ</mi><mo>=</mo><mn>0</mn></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \sqrt { \phi } - \Delta ^ { 2 } \phi + \frac { M ^ { 2 } ( x , t ) } { \beta } \sin \beta \phi = 0
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

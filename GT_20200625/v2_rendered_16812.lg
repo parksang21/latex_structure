@@ -1,0 +1,37 @@
+# IUD, v2_rendered_16812
+# Objects(17):
+O, B_16, B, 1.0, ORRRRRRRRRSub
+O, \rangle_19, \rangle, 1.0, ORRRRRRRRRRRR
+O, Q_15, Q, 1.0, ORRRRRRRRR
+O, \delta_8, \delta, 1.0, ORRRRR
+O, \vert_17, \vert, 1.0, ORRRRRRRRRR
+O, 1_12, 1, 1.0, ORRRRRRRRAbove
+O, h_13, h, 1.0, ORRRRRRRRBelow
+O, \vert_2, \vert, 1.0, O
+O, \rangle_9, \rangle, 1.0, ORRRRRR
+O, _11, -, 1.0, ORRRRRRRR
+O, =_6, =, 1.0, ORRR
+O, \delta_4, \delta, 1.0, ORInside
+O, ω_18, ω, 1.0, ORRRRRRRRRRR
+O, -_10, -, 1.0, ORRRRRRR
+O, \rangle_5, \rangle, 1.0, ORR
+O, _3, \sqrt, 1.0, OR
+O, \vert_7, \vert, 1.0, ORRRR
+
+# Relations from SRT:
+R, -_10, _11, Right, 1.0
+R, =_6, \vert_7, Right, 1.0
+R, Q_15, B_16, Sub, 1.0
+R, Q_15, \vert_17, Right, 1.0
+R, \delta_8, \rangle_9, Right, 1.0
+R, \rangle_5, =_6, Right, 1.0
+R, \rangle_9, -_10, Right, 1.0
+R, \vert_17, ω_18, Right, 1.0
+R, \vert_2, _3, Right, 1.0
+R, \vert_7, \delta_8, Right, 1.0
+R, _11, 1_12, Above, 1.0
+R, _11, Q_15, Right, 1.0
+R, _11, h_13, Below, 1.0
+R, _3, \delta_4, Inside, 1.0
+R, _3, \rangle_5, Right, 1.0
+R, ω_18, \rangle_19, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	[ \sqrt { X } _ { \mu } , \sqrt { X } _ { \psi } ] = i \theta _ { \mu \psi }
+\end{equation}

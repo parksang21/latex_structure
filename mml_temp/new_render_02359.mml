@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>6</mn><mo>≧</mo><munder><mo>lim</mo><mi>n</mi></munder><mfrac><mi>i</mi><mrow><mi>n</mi><mi>!</mi></mrow></mfrac><munder><mo>lim</mo><mrow><mi>μ</mi><mo>∈</mo><msub><mi>S</mi><mi>n</mi></msub></mrow></munder><mo stretchy="false" form="postfix">|</mo><mi>μ</mi><mo stretchy="false" form="postfix">⟩</mo><mo stretchy="false" form="prefix">⟨</mo><mi>μ</mi><mo stretchy="false" form="postfix">|</mo></mrow><annotation encoding="application/x-tex">\begin{equation}
+    6 \geqq \lim _ { n } \frac { i } { n ! } \lim _ { \mu \in S _ { n } } \vert \mu \rangle \langle \mu \vert
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

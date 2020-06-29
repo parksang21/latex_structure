@@ -1,0 +1,15 @@
+# IUD, v2_rendered_02307
+# Objects(6):
+O, \gamma_8, \gamma, 1.0, ORRRR
+O, \gamma_6, \gamma, 1.0, ORRR
+O, \gamma_3, \gamma, 1.0, OR
+O, =_4, =, 1.0, ORR
+O, 5_7, 5, 1.0, ORRRSub
+O, *_2, *, 1.0, O
+
+# Relations from SRT:
+R, *_2, \gamma_3, Right, 1.0
+R, =_4, \gamma_6, Right, 1.0
+R, \gamma_3, =_4, Right, 1.0
+R, \gamma_6, 5_7, Sub, 1.0
+R, \gamma_6, \gamma_8, Right, 1.0

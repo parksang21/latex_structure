@@ -1,0 +1,3 @@
+\begin{equation}
+	T _ { y } [ ( \square _ { N } \square _ { H } ) ^ { 4 } \square _ { 2 } ^ { \prime } ]
+\end{equation}

@@ -1,0 +1,45 @@
+# IUD, v2_rendered_11604
+# Objects(21):
+O, I_18, I, 1.0, ORRRRRRRRRRRRRRRR
+O, N_20, N, 1.0, ORRRRRRRRRRRRRRRRRR
+O, q_14, q, 1.0, ORRRRRRRRRRRR
+O, 1_22, 1, 1.0, ORRRRRRRRRRRRRRRRRRRR
+O, +_15, +, 1.0, ORRRRRRRRRRRRR
+O, I_4, I, 1.0, ORR
+O, \leq_5, \leq, 1.0, ORRR
+O, 1_2, 1, 1.0, O
+O, \leq_19, \leq, 1.0, ORRRRRRRRRRRRRRRRR
+O, -_13, -, 1.0, ORRRRRRRRRRR
+O, d_11, d, 1.0, ORRRRRRRRR
+O, \leq_3, \leq, 1.0, OR
+O, -_7, -, 1.0, ORRRRR
+O, N_12, N, 1.0, ORRRRRRRRRR
+O, 1_16, 1, 1.0, ORRRRRRRRRRRRRR
+O, p_6, p, 1.0, ORRRR
+O, a_9, a, 1.0, ORRRRRRR
+O, n_10, n, 1.0, ORRRRRRRR
+O, 1_8, 1, 1.0, ORRRRRR
+O, -_21, -, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, \leq_17, \leq, 1.0, ORRRRRRRRRRRRRRR
+
+# Relations from SRT:
+R, +_15, 1_16, Right, 1.0
+R, -_13, q_14, Right, 1.0
+R, -_21, 1_22, Right, 1.0
+R, -_7, 1_8, Right, 1.0
+R, 1_16, \leq_17, Right, 1.0
+R, 1_2, \leq_3, Right, 1.0
+R, 1_8, a_9, Right, 1.0
+R, I_18, \leq_19, Right, 1.0
+R, I_4, \leq_5, Right, 1.0
+R, N_12, -_13, Right, 1.0
+R, N_20, -_21, Right, 1.0
+R, \leq_17, I_18, Right, 1.0
+R, \leq_19, N_20, Right, 1.0
+R, \leq_3, I_4, Right, 1.0
+R, \leq_5, p_6, Right, 1.0
+R, a_9, n_10, Right, 1.0
+R, d_11, N_12, Right, 1.0
+R, n_10, d_11, Right, 1.0
+R, p_6, -_7, Right, 1.0
+R, q_14, +_15, Right, 1.0

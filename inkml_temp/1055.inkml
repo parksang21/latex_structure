@@ -1,0 +1,46 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">1055</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mo xml:id="-_2">−</mo><mi xml:id="\Delta_3">Δ</mi><mo xml:id="\times_4">×</mo><mi xml:id="\phi_5">ϕ</mi><mo xml:id="=_6">=</mo><mi xml:id="g_7">g</mi><mi xml:id="\rho_8">ρ</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="-_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\Delta</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\Delta_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\times</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\times_4"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\phi</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\phi_5"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="=_6"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">g</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="g_7"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">\rho</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="\rho_8"/>
+	</traceGroup>
+</traceGroup>
+</ink>

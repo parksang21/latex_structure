@@ -1,0 +1,3 @@
+\begin{equation}
+	\Omega _ { 1 } = \frac { 1 } { 1 2 } T ^ { 2 } \vee \delta M ^ { 2 } + \csqrts
+\end{equation}

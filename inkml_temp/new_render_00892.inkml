@@ -1,0 +1,41 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">new_render_00892</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mfrac xml:id="_2"><mi xml:id="\Delta_3">Δ</mi><mrow><mi xml:id="\Delta_5">Δ</mi><msub><mi xml:id="\square_7">▫</mi><mi xml:id="t_8">t</mi></msub></mrow></mfrac><mi xml:id="E_9">E</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\Delta</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\Delta_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\Delta</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\Delta_5"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\square</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\square_7"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">t</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="t_8"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">E</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="E_9"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="_2"/>
+	</traceGroup>
+</traceGroup>
+</ink>

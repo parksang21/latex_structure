@@ -1,0 +1,3 @@
+\begin{equation}
+	( \lambda f _ { 1 } , \mu f _ { 1 } ) \in C
+\end{equation}

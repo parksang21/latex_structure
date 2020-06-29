@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>D</mi><mi>μ</mi></msub><msub><mi>ϕ</mi><mi>a</mi></msub><mo>=</mo><mo stretchy="false" form="prefix">(</mo><mi>Δ</mi><mi>μ</mi><mo>−</mo><mi>i</mi><mi>g</mi><msup><mi>T</mi><mi>l</mi></msup><msubsup><mi>A</mi><mi>μ</mi><mi>l</mi></msubsup><mo stretchy="false" form="postfix">)</mo><msub><mi>ϕ</mi><mi>a</mi></msub></mrow><annotation encoding="application/x-tex">\begin{equation}
+    D _ { \mu } \phi _ { a } = ( \Delta \mu - i g T ^ { l } A _ { \mu } ^ { l } ) \phi _ { a }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

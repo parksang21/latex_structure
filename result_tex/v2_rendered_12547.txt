@@ -1,0 +1,3 @@
+\begin{equation}
+	\vert v a c \rangle = \vert \varepsilon _ { 0 } , 0 ]
+\end{equation}

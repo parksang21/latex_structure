@@ -1,0 +1,37 @@
+# IUD, v2_rendered_01583
+# Objects(17):
+O, \vert_15, \vert, 1.0, ORRRRRRRRR
+O, 4_4, 4, 1.0, ORR
+O, \vert_7, \vert, 1.0, ORRRRR
+O, A_2, A, 1.0, O
+O, z_9, z, 1.0, ORRRRRR
+O, \vert_12, \vert, 1.0, ORRRRRRR
+O, 2_13, 2, 1.0, ORRRRRRRSup
+O, )_22, ), 1.0, ORRRRRRRRRRRR
+O, -_14, -, 1.0, ORRRRRRRR
+O, \pi_5, \pi, 1.0, ORRR
+O, 1_10, 1, 1.0, ORRRRRRSub
+O, z_17, z, 1.0, ORRRRRRRRRR
+O, (_6, (, 1.0, ORRRR
+O, =_3, =, 1.0, OR
+O, 2_21, 2, 1.0, ORRRRRRRRRRRSup
+O, 2_18, 2, 1.0, ORRRRRRRRRRSub
+O, \vert_20, \vert, 1.0, ORRRRRRRRRRR
+
+# Relations from SRT:
+R, (_6, \vert_7, Right, 1.0
+R, -_14, \vert_15, Right, 1.0
+R, 4_4, \pi_5, Right, 1.0
+R, =_3, 4_4, Right, 1.0
+R, A_2, =_3, Right, 1.0
+R, \pi_5, (_6, Right, 1.0
+R, \vert_12, -_14, Right, 1.0
+R, \vert_12, 2_13, Sup, 1.0
+R, \vert_15, z_17, Right, 1.0
+R, \vert_20, )_22, Right, 1.0
+R, \vert_20, 2_21, Sup, 1.0
+R, \vert_7, z_9, Right, 1.0
+R, z_17, 2_18, Sub, 1.0
+R, z_17, \vert_20, Right, 1.0
+R, z_9, 1_10, Sub, 1.0
+R, z_9, \vert_12, Right, 1.0

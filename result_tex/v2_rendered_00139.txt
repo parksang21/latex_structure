@@ -1,0 +1,3 @@
+\begin{equation}
+	( \sin ^ { 2 } w / 2 ) ^ { 1 / 2 } = \sin w / 2 , R e s \ln w / 2 \propto 0
+\end{equation}

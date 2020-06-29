@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>c</mi><mn>1</mn></msub><mo stretchy="false" form="prefix">(</mo><mi>d</mi><msub><mi>P</mi><mn>8</mn></msub><mo stretchy="false" form="postfix">)</mo><mo>=</mo><mn>3</mn><mi>l</mi><mo>−</mo><msubsup><mi>α</mi><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>γ</mi></msubsup><msub><mi>E</mi><mi>i</mi></msub></mrow><annotation encoding="application/x-tex">\begin{equation}
+    c _ { 1 } ( d P _ { 8 } ) = 3 l - \alpha _ { i = 1 } ^ { \gamma } E _ { i }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

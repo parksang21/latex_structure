@@ -1,0 +1,3 @@
+\begin{equation}
+	{ R } _ { m n } = P G _ { m n } O
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { i } t _ { j } \div q _ { i j } t _ { j } t _ { i } \geqq 1 , \because i , j \notin C
+\end{equation}

@@ -1,0 +1,45 @@
+# IUD, 940
+# Objects(21):
+O, \mu_22, \mu, 1.0, ORRRRRRRRSub
+O, -_12, -, 1.0, ORRRR
+O, \mu_18, \mu, 1.0, ORRRRRRSub
+O, f_14, f, 1.0, ORRRRR
+O, +_19, +, 1.0, ORRRRRRR
+O, j_17, j, 1.0, ORRRRRR
+O, \gamma_7, \gamma, 1.0, ORSup
+O, (_23, (, 1.0, ORRRRRRRRR
+O, \gamma_29, \gamma, 1.0, ORRRRRRRRRRRSup
+O, \mu_10, \mu, 1.0, ORRSub
+O, \Delta_3, \Delta, 1.0, O
+O, =_11, =, 1.0, ORRR
+O, \Delta_21, \Delta, 1.0, ORRRRRRRR
+O, \gamma_26, \gamma, 1.0, ORRRRRRRRRRSub
+O, j_9, j, 1.0, ORR
+O, j_28, j, 1.0, ORRRRRRRRRRR
+O, \Delta_25, \Delta, 1.0, ORRRRRRRRRR
+O, \gamma_4, \gamma, 1.0, OSub
+O, )_30, ), 1.0, ORRRRRRRRRRRR
+O, 2_15, 2, 1.0, ORRRRRSup
+O, \Delta_6, \Delta, 1.0, OR
+
+# Relations from SRT:
+R, (_23, \Delta_25, Right, 1.0
+R, +_19, \Delta_21, Right, 1.0
+R, -_12, f_14, Right, 1.0
+R, =_11, -_12, Right, 1.0
+R, \Delta_21, (_23, Right, 1.0
+R, \Delta_21, \mu_22, Sub, 1.0
+R, \Delta_25, \gamma_26, Sub, 1.0
+R, \Delta_25, j_28, Right, 1.0
+R, \Delta_3, \Delta_6, Right, 1.0
+R, \Delta_3, \gamma_4, Sub, 1.0
+R, \Delta_6, \gamma_7, Sup, 1.0
+R, \Delta_6, j_9, Right, 1.0
+R, f_14, 2_15, Sup, 1.0
+R, f_14, j_17, Right, 1.0
+R, j_17, +_19, Right, 1.0
+R, j_17, \mu_18, Sub, 1.0
+R, j_28, )_30, Right, 1.0
+R, j_28, \gamma_29, Sup, 1.0
+R, j_9, =_11, Right, 1.0
+R, j_9, \mu_10, Sub, 1.0

@@ -1,0 +1,37 @@
+# IUD, new_render_00567
+# Objects(17):
+O, -_12, -, 1.0, ORRRRR
+O, -_20, -, 1.0, ORRRRRRRRRRR
+O, +_18, +, 1.0, ORRRRRRRRR
+O, \square_3, \square, 1.0, O
+O, (_8, (, 1.0, OR
+O, y_6, y, 1.0, OSupR
+O, \equiv_11, \equiv, 1.0, ORRRR
+O, -_16, -, 1.0, ORRRRRRR
+O, )_10, ), 1.0, ORRR
+O, 3_17, 3, 1.0, ORRRRRRRR
+O, x_21, x, 1.0, ORRRRRRRRRRRR
+O, 3_19, 3, 1.0, ORRRRRRRRRR
+O, x_9, x, 1.0, ORR
+O, x_14, x, 1.0, ORRRRRR
+O, *_15, *, 1.0, ORRRRRRSup
+O, m_7, m, 1.0, OSupRR
+O, s_5, s, 1.0, OSup
+
+# Relations from SRT:
+R, (_8, x_9, Right, 1.0
+R, )_10, \equiv_11, Right, 1.0
+R, +_18, 3_19, Right, 1.0
+R, -_12, x_14, Right, 1.0
+R, -_16, 3_17, Right, 1.0
+R, -_20, x_21, Right, 1.0
+R, 3_17, +_18, Right, 1.0
+R, 3_19, -_20, Right, 1.0
+R, \equiv_11, -_12, Right, 1.0
+R, \square_3, (_8, Right, 1.0
+R, \square_3, s_5, Sup, 1.0
+R, s_5, y_6, Right, 1.0
+R, x_14, *_15, Sup, 1.0
+R, x_14, -_16, Right, 1.0
+R, x_9, )_10, Right, 1.0
+R, y_6, m_7, Right, 1.0

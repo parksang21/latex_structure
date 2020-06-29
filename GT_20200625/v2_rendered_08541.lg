@@ -1,0 +1,33 @@
+# IUD, v2_rendered_08541
+# Objects(15):
+O, \times_16, \times, 1.0, ORRBelowRRR
+O, =_9, =, 1.0, OR
+O, n_15, n, 1.0, ORRBelowRR
+O, _10, -, 1.0, ORR
+O, 9_17, 9, 1.0, ORRBelowRRRR
+O, 0_11, 0, 1.0, ORRAbove
+O, )_18, ), 1.0, ORRBelowRRRRR
+O, (_14, (, 1.0, ORRBelowR
+O, COMMA_6, COMMA, 1.0, OSubR
+O, 0_7, 0, 1.0, OSubRR
+O, n_5, n, 1.0, OSub
+O, !_19, !, 1.0, ORRBelowRRRRRR
+O, ω_3, ω, 1.0, O
+O, 9_13, 9, 1.0, ORRBelow
+O, P_8, P, 1.0, OSup
+
+# Relations from SRT:
+R, (_14, n_15, Right, 1.0
+R, )_18, !_19, Right, 1.0
+R, 9_13, (_14, Right, 1.0
+R, 9_17, )_18, Right, 1.0
+R, =_9, _10, Right, 1.0
+R, COMMA_6, 0_7, Right, 1.0
+R, \times_16, 9_17, Right, 1.0
+R, _10, 0_11, Above, 1.0
+R, _10, 9_13, Below, 1.0
+R, n_15, \times_16, Right, 1.0
+R, n_5, COMMA_6, Right, 1.0
+R, ω_3, =_9, Right, 1.0
+R, ω_3, P_8, Sup, 1.0
+R, ω_3, n_5, Sub, 1.0

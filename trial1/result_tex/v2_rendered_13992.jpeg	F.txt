@@ -1,0 +1,3 @@
+\begin{equation}
+	\geq S T U + f ( T , U ) + f ^ { n o n - p e r t }
+\end{equation}

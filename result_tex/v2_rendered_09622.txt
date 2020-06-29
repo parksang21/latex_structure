@@ -1,0 +1,3 @@
+\begin{equation}
+	s _ { i } = ( - ) \sqrt { r } _ { i } \sin \alpha + \sqrt { m } _ { i } \cos \alpha .
+\end{equation}

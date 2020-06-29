@@ -1,0 +1,3 @@
+\begin{equation}
+	- \ln Z = - \alpha N - \beta ^ { \rho } O _ { \rho }
+\end{equation}

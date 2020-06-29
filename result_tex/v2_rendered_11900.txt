@@ -1,0 +1,3 @@
+\begin{equation}
+	A _ { \mu } = \sqrt { x } _ { \mu } = \alpha \sqrt { G } _ { \mu } ^ { ( n ) }
+\end{equation}

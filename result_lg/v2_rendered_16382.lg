@@ -1,0 +1,45 @@
+# IUD, v2_rendered_16382
+# Objects(21):
+O, \log_19, \log, 1.0, ORRRRRRRRRRR
+O, y_17, y, 1.0, ORRRRRRRRR
+O, (_23, (, 1.0, ORRRRRRRRRRRRRRR
+O, \varepsilon_24, \varepsilon, 1.0, ORRRRRRRRRRRRRRRR
+O, 1_4, 1, 1.0, OSub
+O, COMMA_7, COMMA, 1.0, ORRR
+O, )_25, ), 1.0, ORRRRRRRRRRRRRRRRR
+O, y_20, y, 1.0, ORRRRRRRRRRRR
+O, -_14, -, 1.0, ORRRRRRRSup
+O, \varepsilon_15, \varepsilon, 1.0, ORRRRRRRSupR
+O, \varepsilon_6, \varepsilon, 1.0, ORR
+O, =_10, =, 1.0, ORRRRRR
+O, O_22, O, 1.0, ORRRRRRRRRRRRRR
+O, y_12, y, 1.0, ORRRRRRR
+O, \log_16, \log, 1.0, ORRRRRRRR
+O, y_8, y, 1.0, ORRRR
+O, )_9, ), 1.0, ORRRRR
+O, +_21, +, 1.0, ORRRRRRRRRRRRR
+O, =_18, =, 1.0, ORRRRRRRRRR
+O, (_5, (, 1.0, OR
+O, B_3, B, 1.0, O
+
+# Relations from SRT:
+R, (_23, \varepsilon_24, Right, 1.0
+R, (_5, \varepsilon_6, Right, 1.0
+R, )_9, =_10, Right, 1.0
+R, +_21, O_22, Right, 1.0
+R, -_14, \varepsilon_15, Right, 1.0
+R, =_10, y_12, Right, 1.0
+R, =_18, \log_19, Right, 1.0
+R, B_3, (_5, Right, 1.0
+R, B_3, 1_4, Sub, 1.0
+R, COMMA_7, y_8, Right, 1.0
+R, O_22, (_23, Right, 1.0
+R, \log_16, y_17, Right, 1.0
+R, \log_19, y_20, Right, 1.0
+R, \varepsilon_24, )_25, Right, 1.0
+R, \varepsilon_6, COMMA_7, Right, 1.0
+R, y_12, -_14, Sup, 1.0
+R, y_12, \log_16, Right, 1.0
+R, y_17, =_18, Right, 1.0
+R, y_20, +_21, Right, 1.0
+R, y_8, )_9, Right, 1.0

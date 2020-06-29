@@ -1,0 +1,3 @@
+\begin{equation}
+	L = \frac { 1 } { 2 } \Delta _ { \mu } m \Delta _ { \mu } + \frac { \sigma } { 2 } ( n ^ { 2 } - N / g _ { 0 } ^ { 2 } )
+\end{equation}

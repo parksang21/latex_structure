@@ -1,0 +1,3 @@
+\begin{equation}
+	I _ { 3 } = - \frac { 1 6 } { 3 } + \frac { 3 2 } { 3 } \log 2
+\end{equation}

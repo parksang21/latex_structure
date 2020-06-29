@@ -1,0 +1,43 @@
+# IUD, v2_rendered_25491
+# Objects(20):
+O, 2_24, 2, 1.0, ORRRRRRRSup
+O, \sigma_12, \sigma, 1.0, ORRR
+O, =_7, =, 1.0, OR
+O, \Omega_23, \Omega, 1.0, ORRRRRRRSubR
+O, _8, -, 1.0, ORR
+O, \angle_3, \angle, 1.0, O
+O, \Delta_26, \Delta, 1.0, ORRRRRRRR
+O, 1_9, 1, 1.0, ORRAbove
+O, 2_10, 2, 1.0, ORRBelow
+O, \sigma_20, \sigma, 1.0, ORRRRRRR
+O, \Omega_27, \Omega, 1.0, ORRRRRRRRSub
+O, _16, -, 1.0, ORRRRRR
+O, -_15, -, 1.0, ORRRRR
+O, 2_5, 2, 1.0, OSub
+O, s_6, s, 1.0, OSubR
+O, 1_18, 1, 1.0, ORRRRRRBelow
+O, COMMA_22, COMMA, 1.0, ORRRRRRRSub
+O, \angle_14, \angle, 1.0, ORRRR
+O, 1_17, 1, 1.0, ORRRRRRAbove
+O, 2_13, 2, 1.0, ORRRSup
+
+# Relations from SRT:
+R, -_15, _16, Right, 1.0
+R, 2_5, s_6, Right, 1.0
+R, =_7, _8, Right, 1.0
+R, COMMA_22, \Omega_23, Right, 1.0
+R, \Delta_26, \Omega_27, Sub, 1.0
+R, \angle_14, -_15, Right, 1.0
+R, \angle_3, 2_5, Sub, 1.0
+R, \angle_3, =_7, Right, 1.0
+R, \sigma_12, 2_13, Sup, 1.0
+R, \sigma_12, \angle_14, Right, 1.0
+R, \sigma_20, 2_24, Sup, 1.0
+R, \sigma_20, COMMA_22, Sub, 1.0
+R, \sigma_20, \Delta_26, Right, 1.0
+R, _16, 1_17, Above, 1.0
+R, _16, 1_18, Below, 1.0
+R, _16, \sigma_20, Right, 1.0
+R, _8, 1_9, Above, 1.0
+R, _8, 2_10, Below, 1.0
+R, _8, \sigma_12, Right, 1.0

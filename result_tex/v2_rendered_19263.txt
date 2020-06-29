@@ -1,0 +1,3 @@
+\begin{equation}
+	\delta ^ { \mu } ( s ) F _ { \mu } [ T \vert S ] = 0
+\end{equation}

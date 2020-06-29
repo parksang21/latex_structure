@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>V</mi><mi>o</mi><mi>l</mi><msup><mi>S</mi><mrow><mn>6</mn><mi>N</mi><mo>±</mo><mn>1</mn></mrow></msup><mo>=</mo><mfrac><mrow><mn>6</mn><msup><mi>π</mi><mi>N</mi></msup></mrow><mrow><mo stretchy="false" form="prefix">(</mo><mi>N</mi><mo>+</mo><mn>1</mn><mo stretchy="false" form="postfix">)</mo><mi>!</mi></mrow></mfrac></mrow><annotation encoding="application/x-tex">\begin{equation}
+    V o l S ^ { 6 N \pm 1 } = \frac { 6 \pi ^ { N } } { ( N + 1 ) ! }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

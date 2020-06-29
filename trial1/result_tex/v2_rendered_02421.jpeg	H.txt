@@ -1,0 +1,3 @@
+\begin{equation}
+	\Leftrightarrow H z , \forall z \subset B H ( 2 ) _ { M }
+\end{equation}

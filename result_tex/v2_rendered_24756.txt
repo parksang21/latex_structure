@@ -1,0 +1,3 @@
+\begin{equation}
+	J _ { S } ( m \cup 0 ) J _ { s } ( n < 0 ) = m \delta _ { m + n , 0 }
+\end{equation}

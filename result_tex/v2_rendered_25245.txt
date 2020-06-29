@@ -1,0 +1,3 @@
+\begin{equation}
+	G = \lim _ { L \leftrightarrow \infty } \int _ { \vert x n c } d ^ { 2 } x \rho ( x )
+\end{equation}

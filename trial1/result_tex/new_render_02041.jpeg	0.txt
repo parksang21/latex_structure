@@ -1,0 +1,3 @@
+\begin{equation}
+	\geqq \frac { \Delta \{ V , V \} } { \Delta \lambda _ { m } }
+\end{equation}

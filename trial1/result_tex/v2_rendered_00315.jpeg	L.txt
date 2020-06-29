@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { g } ^ { a b } = L ^ { a b } + \tilde { L } ^ { a b }
+\end{equation}

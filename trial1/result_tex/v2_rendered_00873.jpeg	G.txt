@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { i j } = \Delta _ { i } X ^ { M } \Delta _ { j } X ^ { N } g _ { M N }
+\end{equation}

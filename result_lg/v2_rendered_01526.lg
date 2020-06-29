@@ -1,0 +1,35 @@
+# IUD, v2_rendered_01526
+# Objects(16):
+O, (_17, (, 1.0, ORRRRRRRRR
+O, =_3, =, 1.0, OR
+O, \mu_9, \mu, 1.0, ORRRRRSub
+O, \delta_11, \delta, 1.0, ORRRRRRR
+O, ]_13, ], 1.0, ORRRRRRRR
+O, 2_16, 2, 1.0, ORRRRRRRRSupSup
+O, \}_20, \}, 1.0, ORRRRRRRRRRRR
+O, r_5, r, 1.0, ORRR
+O, D_8, D, 1.0, ORRRRR
+O, COMMA_10, COMMA, 1.0, ORRRRRR
+O, 2_15, 2, 1.0, ORRRRRRRRSup
+O, T_4, T, 1.0, ORR
+O, \{_6, \{, 1.0, ORRRR
+O, )_19, ), 1.0, ORRRRRRRRRRR
+O, S_2, S, 1.0, O
+O, \delta_18, \delta, 1.0, ORRRRRRRRRR
+
+# Relations from SRT:
+R, (_17, \delta_18, Right, 1.0
+R, )_19, \}_20, Right, 1.0
+R, 2_15, 2_16, Sup, 1.0
+R, =_3, T_4, Right, 1.0
+R, COMMA_10, \delta_11, Right, 1.0
+R, D_8, COMMA_10, Right, 1.0
+R, D_8, \mu_9, Sub, 1.0
+R, S_2, =_3, Right, 1.0
+R, T_4, r_5, Right, 1.0
+R, \delta_11, ]_13, Right, 1.0
+R, \delta_18, )_19, Right, 1.0
+R, \{_6, D_8, Right, 1.0
+R, ]_13, (_17, Right, 1.0
+R, ]_13, 2_15, Sup, 1.0
+R, r_5, \{_6, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { R _ { 1 } \otimes R _ { 2 } } = \varphi ^ { R _ { 1 } } \varphi ^ { R _ { 2 } }
+\end{equation}

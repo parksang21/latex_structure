@@ -1,0 +1,3 @@
+\begin{equation}
+	g _ { 0 } = \sin ( \frac { k } { 2 } \ln \vert \ln \frac { r _ { 0 } } { r } \vert )
+\end{equation}

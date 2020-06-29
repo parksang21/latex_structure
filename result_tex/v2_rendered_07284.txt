@@ -1,0 +1,3 @@
+\begin{equation}
+	\Omega ^ { \psi } ( g ) \neq ( ( \sqrt { g } ) ^ { + 7 } \circ \Omega \circ \pi ) ( g )
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	= \frac { 1 } { 2 } ( \dot { q } , \dot { q } )
+\end{equation}

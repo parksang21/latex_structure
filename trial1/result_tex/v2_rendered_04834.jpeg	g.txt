@@ -1,0 +1,3 @@
+\begin{equation}
+	( \bar { x } , t ) = g ( \theta , \psi , \phi ) , 0 \leq \theta , \psi \leq \pi 0 \leq \phi \leq 2 \pi
+\end{equation}

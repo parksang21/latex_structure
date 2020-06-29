@@ -1,0 +1,35 @@
+# IUD, v2_rendered_04377
+# Objects(16):
+O, \equiv_19, \equiv, 1.0, ORRRRRRRRRRR
+O, r_7, r, 1.0, ORRR
+O, l_18, l, 1.0, ORRRRRRRRRR
+O, ]_10, ], 1.0, ORRRRR
+O, [_2, [, 1.0, O
+O, l_5, l, 1.0, ORSub
+O, U_13, U, 1.0, ORRRRRSubR
+O, \exists_17, \exists, 1.0, ORRRRRRRRR
+O, 3_20, 3, 1.0, ORRRRRRRRRRRR
+O, COMMA_16, COMMA, 1.0, ORRRRRRRR
+O, 3_15, 3, 1.0, ORRRRRRR
+O, \Delta_12, \Delta, 1.0, ORRRRRSub
+O, \leq_14, \leq, 1.0, ORRRRRR
+O, (_6, (, 1.0, ORR
+O, j_4, j, 1.0, OR
+O, )_8, ), 1.0, ORRRR
+
+# Relations from SRT:
+R, (_6, r_7, Right, 1.0
+R, )_8, ]_10, Right, 1.0
+R, 3_15, COMMA_16, Right, 1.0
+R, COMMA_16, \exists_17, Right, 1.0
+R, [_2, j_4, Right, 1.0
+R, \Delta_12, U_13, Right, 1.0
+R, \equiv_19, 3_20, Right, 1.0
+R, \exists_17, l_18, Right, 1.0
+R, \leq_14, 3_15, Right, 1.0
+R, ]_10, \Delta_12, Sub, 1.0
+R, ]_10, \leq_14, Right, 1.0
+R, j_4, (_6, Right, 1.0
+R, j_4, l_5, Sub, 1.0
+R, l_18, \equiv_19, Right, 1.0
+R, r_7, )_8, Right, 1.0

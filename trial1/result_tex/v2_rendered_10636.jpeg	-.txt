@@ -1,0 +1,3 @@
+\begin{equation}
+	X ^ { \prime \prime } = \sigma X , - \tilde { T } + 2 \rho \cos t \dot { T } = \lambda T
+\end{equation}

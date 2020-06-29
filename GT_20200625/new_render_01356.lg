@@ -1,0 +1,29 @@
+# IUD, new_render_01356
+# Objects(13):
+O, \triangle_11, \triangle, 1.0, ORRRRRRR
+O, )_15, ), 1.0, ORRRRRRRRRRR
+O, )_9, ), 1.0, ORRRRR
+O, \gamma_12, \gamma, 1.0, ORRRRRRRR
+O, i_14, i, 1.0, ORRRRRRRRRR
+O, \leqq_5, \leqq, 1.0, OR
+O, 4_4, 4, 1.0, OSub
+O, (_7, (, 1.0, ORRR
+O, (_13, (, 1.0, ORRRRRRRRR
+O, G_3, G, 1.0, O
+O, \gamma_6, \gamma, 1.0, ORR
+O, \leqq_10, \leqq, 1.0, ORRRRRR
+O, i_8, i, 1.0, ORRRR
+
+# Relations from SRT:
+R, (_13, i_14, Right, 1.0
+R, (_7, i_8, Right, 1.0
+R, )_9, \leqq_10, Right, 1.0
+R, G_3, 4_4, Sub, 1.0
+R, G_3, \leqq_5, Right, 1.0
+R, \gamma_12, (_13, Right, 1.0
+R, \gamma_6, (_7, Right, 1.0
+R, \leqq_10, \triangle_11, Right, 1.0
+R, \leqq_5, \gamma_6, Right, 1.0
+R, \triangle_11, \gamma_12, Right, 1.0
+R, i_14, )_15, Right, 1.0
+R, i_8, )_9, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	\sigma ( E ) = \sum _ { \{ x _ { k } \in M \vert s ( x _ { k } ) = 0 3 ( \pm 1 ) }
+\end{equation}

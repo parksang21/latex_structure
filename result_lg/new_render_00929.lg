@@ -1,0 +1,15 @@
+# IUD, new_render_00929
+# Objects(6):
+O, +_7, +, 1.0, ORRR
+O, ω_8, ω, 1.0, ORRRR
+O, =_3, =, 1.0, OR
+O, \square_2, \square, 1.0, O
+O, l_5, l, 1.0, ORR
+O, t_6, t, 1.0, ORRSub
+
+# Relations from SRT:
+R, +_7, ω_8, Right, 1.0
+R, =_3, l_5, Right, 1.0
+R, \square_2, =_3, Right, 1.0
+R, l_5, +_7, Right, 1.0
+R, l_5, t_6, Sub, 1.0

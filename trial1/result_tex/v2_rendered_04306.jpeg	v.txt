@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { m } \omega _ { m n } = - \frac { \Delta G } { \Delta \theta ^ { n } }
+\end{equation}

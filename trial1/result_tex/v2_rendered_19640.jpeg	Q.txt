@@ -1,0 +1,3 @@
+\begin{equation}
+	\Leftrightarrow P , \alpha _ { j } = \sum _ { i = 1 } ^ { r } a _ { i j } \omega _ { i }
+\end{equation}

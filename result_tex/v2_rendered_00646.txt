@@ -1,0 +1,3 @@
+\begin{equation}
+	\delta _ { 1 } = \frac { \gamma } { c } \Omega _ { 1 } , \delta _ { 2 } = \frac { \gamma } { c } \Omega _ { 2 }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { 3 } { b ! } ( \Delta \sqrt { \Delta } u ) ^ { b } \leqq \phi ^ { * } 3 , \phi \leqq - 3 , 0
+\end{equation}

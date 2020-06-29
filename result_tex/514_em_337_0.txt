@@ -1,0 +1,3 @@
+\begin{equation}
+	\vee V ^ { - 1 }
+\end{equation}

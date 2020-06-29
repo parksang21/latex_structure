@@ -1,0 +1,3 @@
+\begin{equation}
+	t ^ { \sigma } y \leqq w ^ { 2 } w ^ { 1 } z ^ { \sigma } + D _ { k } j ^ { k \sigma }
+\end{equation}

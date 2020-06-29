@@ -1,0 +1,3 @@
+\begin{equation}
+	\langle m \rangle \vert = \vert \langle \tilde { m } \rangle \vert
+\end{equation}

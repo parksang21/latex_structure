@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { H } \geq 2 7 2 \lambda ^ { 1 / 4 } G e V
+\end{equation}

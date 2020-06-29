@@ -1,0 +1,76 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">new_render_00416</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msub><mi xml:id="Z_3">Z</mi><mn xml:id="7_4">7</mn></msub><mo xml:id="\leq_5">≤</mo><mi xml:id="\beta_6">β</mi><mo form="prefix" stretchy="false" xml:id="(_7">(</mo><mi xml:id="m_8">m</mi><mo form="postfix" stretchy="false" xml:id=")_9">)</mo><mo xml:id="\leq_10">≤</mo><mi xml:id="\square_11">▫</mi><mi xml:id="\beta_12">β</mi><mo form="prefix" stretchy="false" xml:id="(_13">(</mo><mi xml:id="m_14">m</mi><mo form="postfix" stretchy="false" xml:id=")_15">)</mo></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">Z</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="Z_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">7</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="7_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\leq</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\leq_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\beta</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\beta_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="(_7"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">m</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="m_8"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href=")_9"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\leq</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\leq_10"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">\square</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="\square_11"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">\beta</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="\beta_12"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="(_13"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">m</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="m_14"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href=")_15"/>
+	</traceGroup>
+</traceGroup>
+</ink>

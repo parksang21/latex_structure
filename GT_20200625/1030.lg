@@ -1,0 +1,51 @@
+# IUD, 1030
+# Objects(24):
+O, F_23, F, 1.0, ORRRRRRRRRRRRRR
+O, _25, \sqrt, 1.0, ORRRRRRRRRRRRRRRR
+O, F_4, F, 1.0, ORR
+O, =_13, =, 1.0, ORRRRRRRR
+O, D_26, D, 1.0, ORRRRRRRRRRRRRRRRInside
+O, =_3, =, 1.0, OR
+O, D_7, D, 1.0, ORRRRInside
+O, )_27, ), 1.0, ORRRRRRRRRRRRRRRRR
+O, J_2, J, 1.0, O
+O, \beta_24, \beta, 1.0, ORRRRRRRRRRRRRRR
+O, +_22, +, 1.0, ORRRRRRRRRRRRR
+O, \beta_5, \beta, 1.0, ORRR
+O, G_11, G, 1.0, ORRRRRRR
+O, _6, \sqrt, 1.0, ORRRR
+O, (_17, (, 1.0, ORRRRRRRRRR
+O, D_18, D, 1.0, ORRRRRRRRRRR
+O, 1_15, 1, 1.0, ORRRRRRRRRAbove
+O, 2_16, 2, 1.0, ORRRRRRRRRBelow
+O, D_9, D, 1.0, ORRRRRR
+O, \prime_21, \prime, 1.0, ORRRRRRRRRRRRSup
+O, =_8, =, 1.0, ORRRRR
+O, \prime_12, \prime, 1.0, ORRRRRRRSup
+O, _14, -, 1.0, ORRRRRRRRR
+O, G_20, G, 1.0, ORRRRRRRRRRRR
+
+# Relations from SRT:
+R, (_17, D_18, Right, 1.0
+R, +_22, F_23, Right, 1.0
+R, =_13, _14, Right, 1.0
+R, =_3, F_4, Right, 1.0
+R, =_8, D_9, Right, 1.0
+R, D_18, G_20, Right, 1.0
+R, D_9, G_11, Right, 1.0
+R, F_23, \beta_24, Right, 1.0
+R, F_4, \beta_5, Right, 1.0
+R, G_11, =_13, Right, 1.0
+R, G_11, \prime_12, Sup, 1.0
+R, G_20, +_22, Right, 1.0
+R, G_20, \prime_21, Sup, 1.0
+R, J_2, =_3, Right, 1.0
+R, \beta_24, _25, Right, 1.0
+R, \beta_5, _6, Right, 1.0
+R, _14, (_17, Right, 1.0
+R, _14, 1_15, Above, 1.0
+R, _14, 2_16, Below, 1.0
+R, _25, )_27, Right, 1.0
+R, _25, D_26, Inside, 1.0
+R, _6, =_8, Right, 1.0
+R, _6, D_7, Inside, 1.0

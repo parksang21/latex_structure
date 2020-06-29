@@ -1,0 +1,3 @@
+\begin{equation}
+	\leq \frac { 4 \varepsilon \pi E R } { \mu _ { P } ^ { 2 } }
+\end{equation}

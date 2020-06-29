@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { Z } ^ { a } = d x ^ { a } - i \bar { \theta } \gamma ^ { a } d \theta
+\end{equation}

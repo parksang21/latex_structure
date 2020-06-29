@@ -1,0 +1,3 @@
+\begin{equation}
+	{ \delta } _ { \cup } \omega _ { i j } = k _ { j } \tilde { \Delta } \psi _ { i } - k _ { i } \tilde { \Delta } \psi _ { j }
+\end{equation}

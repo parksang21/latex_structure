@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \mu } \Omega = ( D _ { \mu } \Omega ) \phi = ( \Delta _ { \mu } \Omega
+\end{equation}

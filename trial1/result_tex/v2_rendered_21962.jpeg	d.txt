@@ -1,0 +1,3 @@
+\begin{equation}
+	\Omega _ { \varepsilon } ^ { \tau } + \Omega _ { P i } ^ { \tau } \not\subset \Omega _ { \varepsilon } ^ { \gamma } = 0
+\end{equation}

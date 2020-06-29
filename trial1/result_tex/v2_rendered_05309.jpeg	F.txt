@@ -1,0 +1,3 @@
+\begin{equation}
+	= \frac { 1 } { \beta } ( \log \beta + c o n s t a n t )
+\end{equation}

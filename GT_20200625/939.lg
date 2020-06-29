@@ -1,0 +1,37 @@
+# IUD, 939
+# Objects(17):
+O, w_12, w, 1.0, ORRRRR
+O, )_13, ), 1.0, ORRRRRR
+O, w_22, w, 1.0, ORRRRRRRRSupRR
+O, =_14, =, 1.0, ORRRRRRR
+O, A_3, A, 1.0, O
+O, \vert_23, \vert, 1.0, ORRRRRRRRSupRRR
+O, \gamma_19, \gamma, 1.0, ORRRRRRRRSup
+O, \Delta_10, \Delta, 1.0, ORRR
+O, N_8, N, 1.0, ORR
+O, e_16, e, 1.0, ORRRRRRRR
+O, \mu_4, \mu, 1.0, OSub
+O, =_6, =, 1.0, OR
+O, \vert_21, \vert, 1.0, ORRRRRRRRSupR
+O, 0_5, 0, 1.0, OSup
+O, 2_9, 2, 1.0, ORRSub
+O, (_11, (, 1.0, ORRRR
+O, \lt_20, \lt, 1.0, ORRRRRRRRSupSub
+
+# Relations from SRT:
+R, (_11, w_12, Right, 1.0
+R, )_13, =_14, Right, 1.0
+R, =_14, e_16, Right, 1.0
+R, =_6, N_8, Right, 1.0
+R, A_3, 0_5, Sup, 1.0
+R, A_3, =_6, Right, 1.0
+R, A_3, \mu_4, Sub, 1.0
+R, N_8, 2_9, Sub, 1.0
+R, N_8, \Delta_10, Right, 1.0
+R, \Delta_10, (_11, Right, 1.0
+R, \gamma_19, \lt_20, Sub, 1.0
+R, \gamma_19, \vert_21, Right, 1.0
+R, \vert_21, w_22, Right, 1.0
+R, e_16, \gamma_19, Sup, 1.0
+R, w_12, )_13, Right, 1.0
+R, w_22, \vert_23, Right, 1.0

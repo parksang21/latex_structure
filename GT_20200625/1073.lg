@@ -1,0 +1,29 @@
+# IUD, 1073
+# Objects(13):
+O, c_19, c, 1.0, ORRRRSub
+O, \theta_15, \theta, 1.0, ORRRInside
+O, =_6, =, 1.0, OR
+O, _3, \sqrt, 1.0, O
+O, _14, \sqrt, 1.0, ORRR
+O, S_4, S, 1.0, OInside
+O, a_10, a, 1.0, ORRSub
+O, \varepsilon_8, \varepsilon, 1.0, ORR
+O, b_11, b, 1.0, ORRSubR
+O, c_12, c, 1.0, ORRSubRR
+O, a_5, a, 1.0, OSub
+O, b_16, b, 1.0, ORRRSub
+O, \theta_18, \theta, 1.0, ORRRR
+
+# Relations from SRT:
+R, =_6, \varepsilon_8, Right, 1.0
+R, \theta_18, c_19, Sub, 1.0
+R, \varepsilon_8, _14, Right, 1.0
+R, \varepsilon_8, a_10, Sub, 1.0
+R, _14, \theta_15, Inside, 1.0
+R, _14, \theta_18, Right, 1.0
+R, _14, b_16, Sub, 1.0
+R, _3, =_6, Right, 1.0
+R, _3, S_4, Inside, 1.0
+R, _3, a_5, Sub, 1.0
+R, a_10, b_11, Right, 1.0
+R, b_11, c_12, Right, 1.0

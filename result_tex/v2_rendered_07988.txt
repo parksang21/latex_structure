@@ -1,0 +1,3 @@
+\begin{equation}
+	j _ { \mu } = i \beta \psi \gamma _ { \mu } \psi
+\end{equation}

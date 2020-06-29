@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ρ</mi><mo>=</mo><msup><mi>Z</mi><mn>2</mn></msup><mo>−</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><msup><mi>g</mi><mrow><mi>i</mi><mi>J</mi></mrow></msup><msub><mi>Δ</mi><mi>i</mi></msub><mi>Z</mi><msub><mi>Δ</mi><mi>j</mi></msub><mi>Z</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \rho = Z ^ { 2 } - \frac { 3 } { 4 } g ^ { i J } \Delta _ { i } Z \Delta _ { j } Z
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

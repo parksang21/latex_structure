@@ -1,0 +1,3 @@
+\begin{equation}
+	Q ^ { + } = b _ { 0 } \int _ { 0 } ^ { \psi } e ^ { - \tau L _ { 0 } } d \tau
+\end{equation}

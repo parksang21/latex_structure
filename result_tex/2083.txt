@@ -1,0 +1,3 @@
+\begin{equation}
+	P _ { \mu \varepsilon } p _ { \sigma } ( V ) =
+\end{equation}

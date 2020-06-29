@@ -1,0 +1,31 @@
+# IUD, v2_rendered_00123
+# Objects(14):
+O, \delta_14, \delta, 1.0, ORRRR
+O, m_16, m, 1.0, ORRRRSub
+O, n_9, n, 1.0, OSubRRInside
+O, n_18, n, 1.0, ORRRRSubRInside
+O, i_12, i, 1.0, ORRR
+O, \theta_4, \theta, 1.0, OInside
+O, 0_6, 0, 1.0, OSub
+O, \gamma_10, \gamma, 1.0, OR
+O, _17, \sqrt, 1.0, ORRRRSubR
+O, =_11, =, 1.0, ORR
+O, _3, \sqrt, 1.0, O
+O, \gamma_19, \gamma, 1.0, ORRRRR
+O, _8, \sqrt, 1.0, OSubRR
+O, m_7, m, 1.0, OSubR
+
+# Relations from SRT:
+R, 0_6, m_7, Right, 1.0
+R, =_11, i_12, Right, 1.0
+R, \delta_14, \gamma_19, Right, 1.0
+R, \delta_14, m_16, Sub, 1.0
+R, \gamma_10, =_11, Right, 1.0
+R, _17, n_18, Inside, 1.0
+R, _3, 0_6, Sub, 1.0
+R, _3, \gamma_10, Right, 1.0
+R, _3, \theta_4, Inside, 1.0
+R, _8, n_9, Inside, 1.0
+R, i_12, \delta_14, Right, 1.0
+R, m_16, _17, Right, 1.0
+R, m_7, _8, Right, 1.0

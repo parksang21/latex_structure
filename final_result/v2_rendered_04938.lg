@@ -1,0 +1,37 @@
+# IUD, v2_rendered_04938
+# Objects(17):
+O, y_3, y, 1.0, O
+O, \sigma_21, \sigma, 1.0, ORRRRRRRAbove
+O, =_9, =, 1.0, ORRRR
+O, _20, -, 1.0, ORRRRRRR
+O, \tau_19, \tau, 1.0, ORRRRRRSubR
+O, 2_23, 2, 1.0, ORRRRRRRBelow
+O, 0_4, 0, 1.0, OSub
+O, \theta_11, \theta, 1.0, ORRRRR
+O, \sigma_7, \sigma, 1.0, ORR
+O, p_16, p, 1.0, ORRRRRR
+O, \tau_14, \tau, 1.0, ORRRRRSupR
+O, \mu_5, \mu, 1.0, OSup
+O, 0_18, 0, 1.0, ORRRRRRSub
+O, \mu_13, \mu, 1.0, ORRRRRSup
+O, )_8, ), 1.0, ORRR
+O, (_6, (, 1.0, OR
+O, \pi_24, \pi, 1.0, ORRRRRRRBelowR
+
+# Relations from SRT:
+R, (_6, \sigma_7, Right, 1.0
+R, )_8, =_9, Right, 1.0
+R, 0_18, \tau_19, Right, 1.0
+R, 2_23, \pi_24, Right, 1.0
+R, =_9, \theta_11, Right, 1.0
+R, \mu_13, \tau_14, Right, 1.0
+R, \sigma_7, )_8, Right, 1.0
+R, \theta_11, \mu_13, Sup, 1.0
+R, \theta_11, p_16, Right, 1.0
+R, _20, 2_23, Below, 1.0
+R, _20, \sigma_21, Above, 1.0
+R, p_16, 0_18, Sub, 1.0
+R, p_16, _20, Right, 1.0
+R, y_3, (_6, Right, 1.0
+R, y_3, 0_4, Sub, 1.0
+R, y_3, \mu_5, Sup, 1.0

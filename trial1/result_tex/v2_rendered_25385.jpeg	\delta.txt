@@ -1,0 +1,3 @@
+\begin{equation}
+	P _ { 0 0 } = \frac { 3 } { 8 } \dot { \phi } \delta \dot { \phi }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { i } \frac { \delta S } { \delta A _ { i } } = 0
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	i m ( \delta \tilde { f } \circ \varphi ) \leqq I - 2
+\end{equation}

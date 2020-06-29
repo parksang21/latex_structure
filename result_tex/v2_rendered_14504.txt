@@ -1,0 +1,3 @@
+\begin{equation}
+	( \tan ^ { 2 } w / 2 ) ^ { 1 / 2 } = \tan w / 2 , R e \tan w / 2 > 0
+\end{equation}

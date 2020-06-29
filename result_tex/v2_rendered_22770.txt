@@ -1,0 +1,3 @@
+\begin{equation}
+	W ( C ) \equiv \prod _ { e n C } U _ { \sigma } = \prod _ { \sigma \cap C ^ { u } _ { \sigma } }
+\end{equation}

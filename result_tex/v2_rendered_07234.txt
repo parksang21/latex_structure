@@ -1,0 +1,3 @@
+\begin{equation}
+	c _ { k } = \frac { 1 } { \pi } \sqrt { 2 k \tan \pi k }
+\end{equation}

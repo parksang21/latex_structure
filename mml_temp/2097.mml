@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ω</mi><mo stretchy="false" form="prefix">(</mo><mi>G</mi><mo stretchy="false" form="postfix">)</mo><mn>4</mn><mo>−</mo><msub><mi>n</mi><mi>h</mi></msub><mo>−</mo><msub><mi>n</mi><mi>n</mi></msub><mo>−</mo><mi>n</mi><msqrt><mi>u</mi></msqrt><mo>−</mo><mi>d</mi><mo>+</mo><mi>n</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \omega ( G ) 4 - n _ { h } - n _ { n } - n \sqrt { u } - d + n
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

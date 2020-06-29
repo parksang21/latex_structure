@@ -1,0 +1,3 @@
+\begin{equation}
+	a ^ { p } + b ^ { p } = c
+\end{equation}

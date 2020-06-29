@@ -1,0 +1,3 @@
+\begin{equation}
+	\int _ { \beta \phi } \omega _ { i } = \int _ { C Y _ { 3 } } \omega _ { i } \cup G
+\end{equation}

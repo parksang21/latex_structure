@@ -1,0 +1,3 @@
+\begin{equation}
+	U ( v ) = \frac { d } { d t } U ( k ) \therefore t
+\end{equation}

@@ -1,0 +1,41 @@
+# IUD, new_render_01529
+# Objects(19):
+O, \phi_21, \phi, 1.0, ORRRRRRSub
+O, T_20, T, 1.0, ORRRRRR
+O, \mu_8, \mu, 1.0, ORSub
+O, P_25, P, 1.0, ORRRRRRSupRR
+O, \phi_9, \phi, 1.0, ORSubR
+O, V_14, V, 1.0, ORSupRRR
+O, S_11, S, 1.0, ORSup
+O, V_26, V, 1.0, ORRRRRRSupRRR
+O, i_18, i, 1.0, ORRRRR
+O, \rightarrow_12, \rightarrow, 1.0, ORSupR
+O, T_6, T, 1.0, OR
+O, p_3, p, 1.0, O
+O, A_13, A, 1.0, ORSupRR
+O, 2_16, 2, 1.0, ORRR
+O, \mu_4, \mu, 1.0, OSub
+O, \geqq_15, \geqq, 1.0, ORR
+O, \rightarrow_24, \rightarrow, 1.0, ORRRRRRSupR
+O, S_23, S, 1.0, ORRRRRRSup
+O, m_17, m, 1.0, ORRRR
+
+# Relations from SRT:
+R, 2_16, m_17, Right, 1.0
+R, A_13, V_14, Right, 1.0
+R, P_25, V_26, Right, 1.0
+R, S_11, \rightarrow_12, Right, 1.0
+R, S_23, \rightarrow_24, Right, 1.0
+R, T_20, S_23, Sup, 1.0
+R, T_20, \phi_21, Sub, 1.0
+R, T_6, S_11, Sup, 1.0
+R, T_6, \geqq_15, Right, 1.0
+R, T_6, \mu_8, Sub, 1.0
+R, \geqq_15, 2_16, Right, 1.0
+R, \mu_8, \phi_9, Right, 1.0
+R, \rightarrow_12, A_13, Right, 1.0
+R, \rightarrow_24, P_25, Right, 1.0
+R, i_18, T_20, Right, 1.0
+R, m_17, i_18, Right, 1.0
+R, p_3, T_6, Right, 1.0
+R, p_3, \mu_4, Sub, 1.0

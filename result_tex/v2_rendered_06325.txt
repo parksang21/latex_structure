@@ -1,0 +1,3 @@
+\begin{equation}
+	\delta \tau \not\subset \Delta _ { \tau }
+\end{equation}

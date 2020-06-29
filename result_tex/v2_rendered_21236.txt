@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta Z J A \Leftrightarrow A J + J A \leq A J + J Z \leq A Z \leq A C
+\end{equation}

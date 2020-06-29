@@ -1,0 +1,3 @@
+\begin{equation}
+	J = \overrightarrow r \times ( \overrightarrow p - e \overrightarrow A ) + \overrightarrow S - e g \frac { \overrightarrow r } { r }
+\end{equation}

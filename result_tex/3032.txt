@@ -1,0 +1,3 @@
+\begin{equation}
+	\vert _ { H } ^ { \pm } - 2 \vert _ { S } ^ { \pm } - 1 _ { C } ^ { \pm } - \vert _ { W } ^ { \pm }
+\end{equation}

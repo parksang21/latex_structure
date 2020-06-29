@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { i } = [ J ^ { i } , Y _ { j m } ] 1 \geq j \geq N - 1 , - j \geq m \geq j
+\end{equation}

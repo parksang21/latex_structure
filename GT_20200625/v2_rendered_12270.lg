@@ -1,0 +1,53 @@
+# IUD, v2_rendered_12270
+# Objects(25):
+O, \alpha_12, \alpha, 1.0, ORRRRRR
+O, COMMA_20, COMMA, 1.0, ORRRRRRRRRRRRRR
+O, i_8, i, 1.0, ORRRSup
+O, \alpha_9, \alpha, 1.0, ORRRSupR
+O, (_21, (, 1.0, ORRRRRRRRRRRRRRR
+O, \psi_24, \psi, 1.0, ORRRRRRRRRRRRRRRRRR
+O, \psi_2, \psi, 1.0, O
+O, 2_17, 2, 1.0, ORRRRRRRRRRR
+O, [_14, [, 1.0, ORRRRRRRR
+O, \in_13, \in, 1.0, ORRRRRRR
+O, e_6, e, 1.0, ORRR
+O, =_3, =, 1.0, OR
+O, \psi_10, \psi, 1.0, ORRRR
+O, COMMA_16, COMMA, 1.0, ORRRRRRRRRR
+O, \pi_18, \pi, 1.0, ORRRRRRRRRRRR
+O, \vert_11, \vert, 1.0, ORRRRR
+O, 0_15, 0, 1.0, ORRRRRRRRR
+O, 1_27, 1, 1.0, ORRRRRRRRRRRRRRRRRRRRR
+O, ]_19, ], 1.0, ORRRRRRRRRRRRR
+O, \psi_22, \psi, 1.0, ORRRRRRRRRRRRRRRR
+O, \}_28, \}, 1.0, ORRRRRRRRRRRRRRRRRRRRRR
+O, \{_4, \{, 1.0, ORR
+O, )_25, ), 1.0, ORRRRRRRRRRRRRRRRRRR
+O, COMMA_23, COMMA, 1.0, ORRRRRRRRRRRRRRRRR
+O, =_26, =, 1.0, ORRRRRRRRRRRRRRRRRRRR
+
+# Relations from SRT:
+R, (_21, \psi_22, Right, 1.0
+R, )_25, =_26, Right, 1.0
+R, 0_15, COMMA_16, Right, 1.0
+R, 1_27, \}_28, Right, 1.0
+R, 2_17, \pi_18, Right, 1.0
+R, =_26, 1_27, Right, 1.0
+R, =_3, \{_4, Right, 1.0
+R, COMMA_16, 2_17, Right, 1.0
+R, COMMA_20, (_21, Right, 1.0
+R, COMMA_23, \psi_24, Right, 1.0
+R, [_14, 0_15, Right, 1.0
+R, \alpha_12, \in_13, Right, 1.0
+R, \in_13, [_14, Right, 1.0
+R, \pi_18, ]_19, Right, 1.0
+R, \psi_10, \vert_11, Right, 1.0
+R, \psi_22, COMMA_23, Right, 1.0
+R, \psi_24, )_25, Right, 1.0
+R, \psi_2, =_3, Right, 1.0
+R, \vert_11, \alpha_12, Right, 1.0
+R, \{_4, e_6, Right, 1.0
+R, ]_19, COMMA_20, Right, 1.0
+R, e_6, \psi_10, Right, 1.0
+R, e_6, i_8, Sup, 1.0
+R, i_8, \alpha_9, Right, 1.0

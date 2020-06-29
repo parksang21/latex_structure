@@ -1,0 +1,19 @@
+# IUD, v2_rendered_17104
+# Objects(8):
+O, 0_6, 0, 1.0, 2
+O, F_9, F, 1.0, 4
+O, \mu_11, \mu, 1.0, 5
+O, E_13, E, 1.0, 6
+O, \otimes_7, \otimes, 1.0, 3
+O, \beta_14, \beta, 1.0, 7
+O, E_5, E, 1.0, 1
+O, ω_3, ω, 1.0, 0
+
+# Relations from SRT:
+R, E_13, \beta_14, Sub, 1.0
+R, E_5, 0_6, Sub, 1.0
+R, F_9, \mu_11, Sub, 1.0
+R, \mu_11, E_13, Right, 1.0
+R, \otimes_7, F_9, Right, 1.0
+R, ω_3, E_5, Sub, 1.0
+R, ω_3, \otimes_7, Right, 1.0

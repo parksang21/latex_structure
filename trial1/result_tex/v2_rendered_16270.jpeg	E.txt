@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { n } = \sqrt { \mu ^ { 2 } + n ^ { 2 } / ( \alpha ^ { \prime } p _ { + } ) ^ { 2 } }
+\end{equation}

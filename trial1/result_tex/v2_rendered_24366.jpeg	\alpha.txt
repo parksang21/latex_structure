@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { A } ( \varphi ) \equiv \frac { \Delta \ln m _ { A } ( \varphi ) } { \Delta \varphi }
+\end{equation}

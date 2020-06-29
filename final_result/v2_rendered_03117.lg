@@ -1,0 +1,47 @@
+# IUD, v2_rendered_03117
+# Objects(22):
+O, e_23, e, 1.0, ORRRRRRRRRSub
+O, _9, \sqrt, 1.0, ORRRRR
+O, \vert_6, \vert, 1.0, ORR
+O, =_7, =, 1.0, ORRR
+O, e_20, e, 1.0, ORRRRRRRRSub
+O, \gt_16, \gt, 1.0, ORRRRRRRBelowR
+O, \div_11, \div, 1.0, ORRRRRR
+O, _27, \sqrt, 1.0, ORRRRRRRRRRRRR
+O, x_10, x, 1.0, ORRRRRInside
+O, \vert_24, \vert, 1.0, ORRRRRRRRRR
+O, e_15, e, 1.0, ORRRRRRRBelow
+O, \sum_13, \sum, 1.0, ORRRRRRR
+O, 0_17, 0, 1.0, ORRRRRRRBelowRR
+O, w_22, w, 1.0, ORRRRRRRRR
+O, =_25, =, 1.0, ORRRRRRRRRRR
+O, x_28, x, 1.0, ORRRRRRRRRRRRRInside
+O, \langle_8, \langle, 1.0, ORRRR
+O, x_19, x, 1.0, ORRRRRRRR
+O, \langle_26, \langle, 1.0, ORRRRRRRRRRRR
+O, 0_5, 0, 1.0, ORSub
+O, \langle_2, \langle, 1.0, O
+O, x_4, x, 1.0, OR
+
+# Relations from SRT:
+R, =_25, \langle_26, Right, 1.0
+R, =_7, \langle_8, Right, 1.0
+R, \div_11, \sum_13, Right, 1.0
+R, \gt_16, 0_17, Right, 1.0
+R, \langle_26, _27, Right, 1.0
+R, \langle_2, x_4, Right, 1.0
+R, \langle_8, _9, Right, 1.0
+R, \sum_13, e_15, Below, 1.0
+R, \sum_13, x_19, Right, 1.0
+R, \vert_24, =_25, Right, 1.0
+R, \vert_6, =_7, Right, 1.0
+R, _27, x_28, Inside, 1.0
+R, _9, \div_11, Right, 1.0
+R, _9, x_10, Inside, 1.0
+R, e_15, \gt_16, Right, 1.0
+R, w_22, \vert_24, Right, 1.0
+R, w_22, e_23, Sub, 1.0
+R, x_19, e_20, Sub, 1.0
+R, x_19, w_22, Right, 1.0
+R, x_4, 0_5, Sub, 1.0
+R, x_4, \vert_6, Right, 1.0

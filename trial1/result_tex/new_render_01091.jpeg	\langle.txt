@@ -1,0 +1,3 @@
+\begin{equation}
+	\beta ^ { \prime } , \beta \rangle \geqq \langle \beta , \beta ^ { \prime } \rangle , \langle \beta , \beta \rangle \not\subset 8 \therefore \beta \leq 8
+\end{equation}

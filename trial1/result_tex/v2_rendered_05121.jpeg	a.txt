@@ -1,0 +1,3 @@
+\begin{equation}
+	! ! \equiv a ( a - 2 ) ( a - 4 ) . . . 2 o l 1
+\end{equation}

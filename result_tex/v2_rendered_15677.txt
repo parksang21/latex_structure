@@ -1,0 +1,3 @@
+\begin{equation}
+	d \sqrt { s } ^ { 2 } = - d \alpha ^ { 2 } \div g ( r ( \alpha ) ) ( d \beta x ) ^ { 2 }
+\end{equation}

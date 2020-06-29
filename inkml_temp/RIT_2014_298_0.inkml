@@ -1,0 +1,26 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">RIT_2014_298_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mi xml:id="\Delta_2">Δ</mi><msub><mi xml:id="K_4">K</mi><mi xml:id="X_5">X</mi></msub></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\Delta</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\Delta_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">K</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="K_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">X</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="X_5"/>
+	</traceGroup>
+</traceGroup>
+</ink>

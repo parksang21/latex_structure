@@ -1,0 +1,3 @@
+\begin{equation}
+	k _ { n + 1 } = n ^ { 2 } + k _ { n } ^ { 2 } - k _ { n - 1 }
+\end{equation}

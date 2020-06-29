@@ -1,0 +1,3 @@
+\begin{equation}
+	{ h } _ { i } ( x ) = \lim _ { N \Leftrightarrow \infty } h ( x + \ln N )
+\end{equation}

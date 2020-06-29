@@ -1,0 +1,3 @@
+\begin{equation}
+	{ L } = [ L , M ] - \omega ^ { 2 } Q , \dot { Q } = [ Q , M ] \div L
+\end{equation}

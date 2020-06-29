@@ -1,0 +1,3 @@
+\begin{equation}
+	E ^ { \prime } = \{ b \cup L ( L ) \vert [ k , b ] = 1 , \therefore k \cup E \}
+\end{equation}

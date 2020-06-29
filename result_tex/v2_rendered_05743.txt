@@ -1,0 +1,3 @@
+\begin{equation}
+	\lim _ { A \Leftrightarrow A _ { \infty } ^ { - } } \frac { d \Omega } { d y } = \infty
+\end{equation}

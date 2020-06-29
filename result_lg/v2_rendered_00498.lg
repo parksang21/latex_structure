@@ -1,0 +1,31 @@
+# IUD, v2_rendered_00498
+# Objects(14):
+O, \infty_18, \infty, 1.0, ORRRRR
+O, 0_4, 0, 1.0, OSub
+O, r_16, r, 1.0, ORRR
+O, \infty_5, \infty, 1.0, OSup
+O, 2_13, 2, 1.0, ORAboveSupRBelow
+O, d_15, d, 1.0, ORR
+O, \gamma_8, \gamma, 1.0, ORAbove
+O, 1_12, 1, 1.0, ORAboveSupRAbove
+O, \int_3, \int, 1.0, O
+O, _11, -, 1.0, ORAboveSupR
+O, _6, -, 1.0, OR
+O, r_14, r, 1.0, ORBelow
+O, \cup_17, \cup, 1.0, ORRRR
+O, -_10, -, 1.0, ORAboveSup
+
+# Relations from SRT:
+R, -_10, _11, Right, 1.0
+R, \cup_17, \infty_18, Right, 1.0
+R, \gamma_8, -_10, Sup, 1.0
+R, \int_3, 0_4, Sub, 1.0
+R, \int_3, \infty_5, Sup, 1.0
+R, \int_3, _6, Right, 1.0
+R, _11, 1_12, Above, 1.0
+R, _11, 2_13, Below, 1.0
+R, _6, \gamma_8, Above, 1.0
+R, _6, d_15, Right, 1.0
+R, _6, r_14, Below, 1.0
+R, d_15, r_16, Right, 1.0
+R, r_16, \cup_17, Right, 1.0

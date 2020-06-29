@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta _ { x } ^ { 2 } \varepsilon _ { \beta } + \Delta _ { \beta } \Delta ^ { \mu } \varepsilon _ { \mu } - \varepsilon _ { \beta } ) = 0
+\end{equation}

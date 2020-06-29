@@ -1,0 +1,47 @@
+# IUD, v2_rendered_12126
+# Objects(22):
+O, =_4, =, 1.0, OR
+O, \rho_7, \rho, 1.0, ORRRR
+O, x_11, x, 1.0, ORRRRRRRInside
+O, \gamma_14, \gamma, 1.0, ORRRRRRRRRInside
+O, )_23, ), 1.0, ORRRRRRRRRRRRRRRRR
+O, T_5, T, 1.0, ORR
+O, _10, \sqrt, 1.0, ORRRRRRR
+O, (_20, (, 1.0, ORRRRRRRRRRRRRRR
+O, \rho_18, \rho, 1.0, ORRRRRRRRRRRRR
+O, r_17, r, 1.0, ORRRRRRRRRRRR
+O, h_19, h, 1.0, ORRRRRRRRRRRRRR
+O, T_16, T, 1.0, ORRRRRRRRRRR
+O, =_15, =, 1.0, ORRRRRRRRRR
+O, n_3, n, 1.0, OInside
+O, _13, \sqrt, 1.0, ORRRRRRRRR
+O, (_9, (, 1.0, ORRRRRR
+O, _21, \sqrt, 1.0, ORRRRRRRRRRRRRRRR
+O, n_8, n, 1.0, ORRRRR
+O, _2, \sqrt, 1.0, O
+O, x_22, x, 1.0, ORRRRRRRRRRRRRRRRInside
+O, r_6, r, 1.0, ORRR
+O, )_12, ), 1.0, ORRRRRRRR
+
+# Relations from SRT:
+R, (_20, _21, Right, 1.0
+R, (_9, _10, Right, 1.0
+R, )_12, _13, Right, 1.0
+R, =_15, T_16, Right, 1.0
+R, =_4, T_5, Right, 1.0
+R, T_16, r_17, Right, 1.0
+R, T_5, r_6, Right, 1.0
+R, \rho_18, h_19, Right, 1.0
+R, \rho_7, n_8, Right, 1.0
+R, _10, )_12, Right, 1.0
+R, _10, x_11, Inside, 1.0
+R, _13, =_15, Right, 1.0
+R, _13, \gamma_14, Inside, 1.0
+R, _21, )_23, Right, 1.0
+R, _21, x_22, Inside, 1.0
+R, _2, =_4, Right, 1.0
+R, _2, n_3, Inside, 1.0
+R, h_19, (_20, Right, 1.0
+R, n_8, (_9, Right, 1.0
+R, r_17, \rho_18, Right, 1.0
+R, r_6, \rho_7, Right, 1.0

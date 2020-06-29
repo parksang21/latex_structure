@@ -1,0 +1,3 @@
+\begin{equation}
+	g \neq 3 - \sqrt { 3 } - 0 . 9 1 7 7 f _ { 0 } ^ { 2 }
+\end{equation}

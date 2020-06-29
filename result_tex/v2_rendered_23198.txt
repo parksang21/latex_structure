@@ -1,0 +1,3 @@
+\begin{equation}
+	L \circ \frac { 1 } { 2 } \Delta _ { \mu } \phi \Delta ^ { \mu } - V ( \phi )
+\end{equation}

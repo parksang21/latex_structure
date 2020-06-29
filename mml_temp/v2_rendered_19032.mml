@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>H</mi><mi>R</mi></msub><mo stretchy="false" form="prefix">(</mo><msup><mi>O</mi><mi>′</mi></msup><mo stretchy="false" form="postfix">)</mo><mo>=</mo><msub><mi>H</mi><mi>R</mi></msub><mo stretchy="false" form="prefix">(</mo><mi>O</mi><msup><mo stretchy="false" form="postfix">)</mo><mi>′</mi></msup><mo>=</mo><mi>i</mi><msubsup><mi>H</mi><mi>R</mi><mi>α</mi></msubsup><mo stretchy="false" form="prefix">(</mo></mrow><annotation encoding="application/x-tex">\begin{equation}
+    H _ { R } ( O ^ { \prime } ) = H _ { R } ( O ) ^ { \prime } = i H _ { R } ^ { \alpha } (
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

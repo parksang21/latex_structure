@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { J } \leq ( v _ { i } ^ { J } ) ^ { T } \frac { \Delta V ( q ) } { \Delta q _ { i } } = 0
+\end{equation}

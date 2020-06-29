@@ -1,0 +1,3 @@
+\begin{equation}
+	e = \frac { 3 A _ { H } } { 2 \pi G _ { 4 } } \frac { \gamma } { \beta }
+\end{equation}

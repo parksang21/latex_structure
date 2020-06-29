@@ -1,0 +1,3 @@
+\begin{equation}
+	[ C _ { i } , ( j ] = i \frac { B c } { e B } \lambda _ { i j }
+\end{equation}

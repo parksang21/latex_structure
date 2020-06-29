@@ -1,0 +1,51 @@
+# IUD, new_render_00334
+# Objects(24):
+O, n_28, n, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, \delta_22, \delta, 1.0, ORRRRRRRRRRRRRRR
+O, C_25, C, 1.0, ORRRRRRRRRRRRRRRRSub
+O, n_9, n, 1.0, ORRRR
+O, n_20, n, 1.0, ORRRRRRRRRRRRR
+O, COMMA_12, COMMA, 1.0, ORRRRRRR
+O, \geq_17, \geq, 1.0, ORRRRRRRRRR
+O, \therefore_10, \therefore, 1.0, ORRRRR
+O, \geq_26, \geq, 1.0, ORRRRRRRRRRRRRRRRR
+O, Q_4, Q, 1.0, OR
+O, COMMA_21, COMMA, 1.0, ORRRRRRRRRRRRRR
+O, i_6, i, 1.0, ORSup
+O, \geq_7, \geq, 1.0, ORR
+O, -_8, -, 1.0, ORRR
+O, Q_24, Q, 1.0, ORRRRRRRRRRRRRRRR
+O, A_5, A, 1.0, ORSub
+O, i_11, i, 1.0, ORRRRRR
+O, \delta_2, \delta, 1.0, O
+O, 3_19, 3, 1.0, ORRRRRRRRRRRR
+O, -_27, -, 1.0, ORRRRRRRRRRRRRRRRRR
+O, Q_15, Q, 1.0, ORRRRRRRRR
+O, \delta_13, \delta, 1.0, ORRRRRRRR
+O, B_16, B, 1.0, ORRRRRRRRRSub
+O, -_18, -, 1.0, ORRRRRRRRRRR
+
+# Relations from SRT:
+R, -_18, 3_19, Right, 1.0
+R, -_27, n_28, Right, 1.0
+R, -_8, n_9, Right, 1.0
+R, 3_19, n_20, Right, 1.0
+R, COMMA_12, \delta_13, Right, 1.0
+R, COMMA_21, \delta_22, Right, 1.0
+R, Q_15, B_16, Sub, 1.0
+R, Q_15, \geq_17, Right, 1.0
+R, Q_24, C_25, Sub, 1.0
+R, Q_24, \geq_26, Right, 1.0
+R, Q_4, A_5, Sub, 1.0
+R, Q_4, \geq_7, Right, 1.0
+R, Q_4, i_6, Sup, 1.0
+R, \delta_13, Q_15, Right, 1.0
+R, \delta_22, Q_24, Right, 1.0
+R, \delta_2, Q_4, Right, 1.0
+R, \geq_17, -_18, Right, 1.0
+R, \geq_26, -_27, Right, 1.0
+R, \geq_7, -_8, Right, 1.0
+R, \therefore_10, i_11, Right, 1.0
+R, i_11, COMMA_12, Right, 1.0
+R, n_20, COMMA_21, Right, 1.0
+R, n_9, \therefore_10, Right, 1.0

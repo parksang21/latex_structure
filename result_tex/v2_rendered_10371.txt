@@ -1,0 +1,3 @@
+\begin{equation}
+	\beta U _ { \beta \omega } = \beta W ( \beta W + \beta W
+\end{equation}

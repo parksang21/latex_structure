@@ -1,0 +1,45 @@
+# IUD, 901
+# Objects(21):
+O, ._21, ., 1.0, ORRRRRRRRRRRRRRR
+O, -_10, -, 1.0, ORRRR
+O, ._22, ., 1.0, ORRRRRRRRRRRRRRRR
+O, _7, -, 1.0, ORRR
+O, +_17, +, 1.0, ORRRRRRRRRRR
+O, +_6, +, 1.0, ORR
+O, )_14, ), 1.0, ORRRRRRRR
+O, _3, -, 1.0, OR
+O, x_5, x, 1.0, ORBelow
+O, 1_8, 1, 1.0, ORRRAbove
+O, 1_4, 1, 1.0, ORAbove
+O, z_16, z, 1.0, ORRRRRRRRRR
+O, z_9, z, 1.0, ORRRBelow
+O, x_18, x, 1.0, ORRRRRRRRRRRR
+O, +_20, +, 1.0, ORRRRRRRRRRRRRR
+O, (_15, (, 1.0, ORRRRRRRRR
+O, 2_13, 2, 1.0, ORRRRRRR
+O, \theta_11, \theta, 1.0, ORRRRR
+O, )_19, ), 1.0, ORRRRRRRRRRRRR
+O, (_12, (, 1.0, ORRRRRR
+O, =_2, =, 1.0, O
+
+# Relations from SRT:
+R, (_12, 2_13, Right, 1.0
+R, (_15, z_16, Right, 1.0
+R, )_14, (_15, Right, 1.0
+R, )_19, +_20, Right, 1.0
+R, +_17, x_18, Right, 1.0
+R, +_20, ._21, Right, 1.0
+R, +_6, _7, Right, 1.0
+R, -_10, \theta_11, Right, 1.0
+R, ._21, ._22, Right, 1.0
+R, 2_13, )_14, Right, 1.0
+R, =_2, _3, Right, 1.0
+R, \theta_11, (_12, Right, 1.0
+R, _3, +_6, Right, 1.0
+R, _3, 1_4, Above, 1.0
+R, _3, x_5, Below, 1.0
+R, _7, -_10, Right, 1.0
+R, _7, 1_8, Above, 1.0
+R, _7, z_9, Below, 1.0
+R, x_18, )_19, Right, 1.0
+R, z_16, +_17, Right, 1.0

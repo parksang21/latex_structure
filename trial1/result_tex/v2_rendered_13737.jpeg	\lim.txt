@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \beta \rightarrow 1 } \phi _ { \angle \omega } ( g , \beta , i ) = \lambda ( i )
+\end{equation}

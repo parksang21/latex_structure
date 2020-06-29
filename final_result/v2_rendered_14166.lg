@@ -1,0 +1,51 @@
+# IUD, v2_rendered_14166
+# Objects(24):
+O, \rangle_10, \rangle, 1.0, ORRRR
+O, \theta_5, \theta, 1.0, ORSub
+O, g_17, g, 1.0, ORRRRRRRRRRR
+O, \Omega_22, \Omega, 1.0, ORRRRRRRRRRRRRRSub
+O, COMMA_13, COMMA, 1.0, ORRRRRRR
+O, 0_12, 0, 1.0, ORRRRRR
+O, \langle_2, \langle, 1.0, O
+O, q_25, q, 1.0, ORRRRRRRRRRRRRRRR
+O, \theta_9, \theta, 1.0, ORRRSub
+O, 0_29, 0, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, J_23, J, 1.0, ORRRRRRRRRRRRRRR
+O, \rangle_27, \rangle, 1.0, ORRRRRRRRRRRRRRRRR
+O, l_14, l, 1.0, ORRRRRRRR
+O, J_6, J, 1.0, ORR
+O, n_16, n, 1.0, ORRRRRRRRRR
+O, =_28, =, 1.0, ORRRRRRRRRRRRRRRRRR
+O, q_8, q, 1.0, ORRR
+O, =_11, =, 1.0, ORRRRR
+O, l_18, l, 1.0, ORRRRRRRRRRRR
+O, q_21, q, 1.0, ORRRRRRRRRRRRRR
+O, e_19, e, 1.0, ORRRRRRRRRRRRR
+O, a_15, a, 1.0, ORRRRRRRRR
+O, q_4, q, 1.0, OR
+O, \Omega_26, \Omega, 1.0, ORRRRRRRRRRRRRRRRSub
+
+# Relations from SRT:
+R, 0_12, COMMA_13, Right, 1.0
+R, =_11, 0_12, Right, 1.0
+R, =_28, 0_29, Right, 1.0
+R, COMMA_13, l_14, Right, 1.0
+R, J_23, q_25, Right, 1.0
+R, J_6, q_8, Right, 1.0
+R, \langle_2, q_4, Right, 1.0
+R, \rangle_10, =_11, Right, 1.0
+R, \rangle_27, =_28, Right, 1.0
+R, a_15, n_16, Right, 1.0
+R, e_19, q_21, Right, 1.0
+R, g_17, l_18, Right, 1.0
+R, l_14, a_15, Right, 1.0
+R, l_18, e_19, Right, 1.0
+R, n_16, g_17, Right, 1.0
+R, q_21, J_23, Right, 1.0
+R, q_21, \Omega_22, Sub, 1.0
+R, q_25, \Omega_26, Sub, 1.0
+R, q_25, \rangle_27, Right, 1.0
+R, q_4, J_6, Right, 1.0
+R, q_4, \theta_5, Sub, 1.0
+R, q_8, \rangle_10, Right, 1.0
+R, q_8, \theta_9, Sub, 1.0

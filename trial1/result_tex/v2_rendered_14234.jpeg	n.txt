@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { i \tilde { a } } ^ { \tilde { b } } = N _ { i a } ^ { b }
+\end{equation}

@@ -1,0 +1,45 @@
+# IUD, v2_rendered_13780
+# Objects(21):
+O, -_13, -, 1.0, 10
+O, COMMA_8, COMMA, 1.0, 5
+O, x_24, x, 1.0, 19
+O, )_10, ), 1.0, 7
+O, \varepsilon_18, \varepsilon, 1.0, 14
+O, -_4, -, 1.0, 2
+O, )_25, ), 1.0, 20
+O, 0_22, 0, 1.0, 17
+O, x_21, x, 1.0, 16
+O, (_3, (, 1.0, 1
+O, 0_7, 0, 1.0, 4
+O, (_19, (, 1.0, 15
+O, )_16, ), 1.0, 12
+O, =_11, =, 1.0, 8
+O, COMMA_23, COMMA, 1.0, 18
+O, x_6, x, 1.0, 3
+O, \varepsilon_2, \varepsilon, 1.0, 0
+O, \rho_17, \rho, 1.0, 13
+O, (_12, (, 1.0, 9
+O, x_9, x, 1.0, 6
+O, 1_14, 1, 1.0, 11
+
+# Relations from SRT:
+R, (_12, -_13, Right, 1.0
+R, (_19, x_21, Right, 1.0
+R, (_3, -_4, Right, 1.0
+R, )_10, =_11, Right, 1.0
+R, )_16, \rho_17, Sup, 1.0
+R, )_16, \varepsilon_18, Right, 1.0
+R, -_13, 1_14, Right, 1.0
+R, -_4, x_6, Right, 1.0
+R, 1_14, )_16, Right, 1.0
+R, =_11, (_12, Right, 1.0
+R, COMMA_23, x_24, Right, 1.0
+R, COMMA_8, x_9, Right, 1.0
+R, \varepsilon_18, (_19, Right, 1.0
+R, \varepsilon_2, (_3, Right, 1.0
+R, x_21, 0_22, Sub, 1.0
+R, x_21, COMMA_23, Right, 1.0
+R, x_24, )_25, Right, 1.0
+R, x_6, 0_7, Sub, 1.0
+R, x_6, COMMA_8, Right, 1.0
+R, x_9, )_10, Right, 1.0

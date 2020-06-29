@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { 0 } = \sum _ { \mu } \mu ^ { 2 } \overrightarrow a ( \mu ) a ( \mu )
+\end{equation}

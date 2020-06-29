@@ -1,0 +1,3 @@
+\begin{equation}
+	\exists A \vee A _ { 0 } , e ( A ) \geq e ( A _ { 0 } )
+\end{equation}

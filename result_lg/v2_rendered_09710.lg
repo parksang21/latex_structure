@@ -1,0 +1,33 @@
+# IUD, v2_rendered_09710
+# Objects(15):
+O, \rho_22, \rho, 1.0, ORRRRRR
+O, =_7, =, 1.0, OR
+O, \psi_19, \psi, 1.0, ORRRR
+O, \mu_15, \mu, 1.0, ORRRSup
+O, 0_11, 0, 1.0, ORRSub
+O, \psi_10, \psi, 1.0, ORRInside
+O, \gamma_13, \gamma, 1.0, ORRR
+O, P_17, P, 1.0, ORRRSupRR
+O, \theta_6, \theta, 1.0, OSupR
+O, k_21, k, 1.0, ORRRRR
+O, 0_20, 0, 1.0, ORRRRSub
+O, \mu_5, \mu, 1.0, OSup
+O, _9, \sqrt, 1.0, ORR
+O, M_3, M, 1.0, O
+O, \theta_16, \theta, 1.0, ORRRSupR
+
+# Relations from SRT:
+R, =_7, _9, Right, 1.0
+R, M_3, =_7, Right, 1.0
+R, M_3, \mu_5, Sup, 1.0
+R, \gamma_13, \mu_15, Sup, 1.0
+R, \gamma_13, \psi_19, Right, 1.0
+R, \mu_15, \theta_16, Right, 1.0
+R, \mu_5, \theta_6, Right, 1.0
+R, \psi_19, 0_20, Sub, 1.0
+R, \psi_19, k_21, Right, 1.0
+R, \theta_16, P_17, Right, 1.0
+R, _9, 0_11, Sub, 1.0
+R, _9, \gamma_13, Right, 1.0
+R, _9, \psi_10, Inside, 1.0
+R, k_21, \rho_22, Right, 1.0

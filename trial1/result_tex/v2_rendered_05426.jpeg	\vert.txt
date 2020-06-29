@@ -1,0 +1,3 @@
+\begin{equation}
+	\psi \rangle = \sum _ { i } \vert i \rangle _ { 1 } \vert \tilde { i } \rangle _ { 2 }
+\end{equation}

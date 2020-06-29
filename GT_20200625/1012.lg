@@ -1,0 +1,39 @@
+# IUD, 1012
+# Objects(18):
+O, )_10, ), 1.0, ORRRRRR
+O, \phi_14, \phi, 1.0, ORRRRRRRRR
+O, d_12, d, 1.0, ORRRRRRRR
+O, (_6, (, 1.0, ORR
+O, \Omega_9, \Omega, 1.0, ORRRRR
+O, /_19, /, 1.0, ORRRRRRRRRR
+O, d_20, d, 1.0, ORRRRRRRRRRR
+O, =_5, =, 1.0, OR
+O, _17, \sqrt, 1.0, ORRRRRRRRRSubR
+O, R_21, R, 1.0, ORRRRRRRRRRRR
+O, (_11, (, 1.0, ORRRRRRR
+O, I_16, I, 1.0, ORRRRRRRRRSub
+O, I_18, I, 1.0, ORRRRRRRRRSubRInside
+O, 1_7, 1, 1.0, ORRR
+O, /_8, /, 1.0, ORRRR
+O, R_4, R, 1.0, OSub
+O, )_22, ), 1.0, ORRRRRRRRRRRRR
+O, \phi_3, \phi, 1.0, O
+
+# Relations from SRT:
+R, (_11, d_12, Right, 1.0
+R, (_6, 1_7, Right, 1.0
+R, )_10, (_11, Right, 1.0
+R, /_19, d_20, Right, 1.0
+R, /_8, \Omega_9, Right, 1.0
+R, 1_7, /_8, Right, 1.0
+R, =_5, (_6, Right, 1.0
+R, I_16, _17, Right, 1.0
+R, R_21, )_22, Right, 1.0
+R, \Omega_9, )_10, Right, 1.0
+R, \phi_14, /_19, Right, 1.0
+R, \phi_14, I_16, Sub, 1.0
+R, \phi_3, =_5, Right, 1.0
+R, \phi_3, R_4, Sub, 1.0
+R, _17, I_18, Inside, 1.0
+R, d_12, \phi_14, Right, 1.0
+R, d_20, R_21, Right, 1.0

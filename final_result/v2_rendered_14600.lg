@@ -1,0 +1,37 @@
+# IUD, v2_rendered_14600
+# Objects(17):
+O, \Delta_2, \Delta, 1.0, O
+O, M_9, M, 1.0, ORSubRRR
+O, T_17, T, 1.0, ORRRRSubR
+O, \Delta_12, \Delta, 1.0, ORRR
+O, I_14, I, 1.0, ORRRR
+O, H_6, H, 1.0, ORSub
+O, /_8, /, 1.0, ORSubRR
+O, /_18, /, 1.0, ORRRRSubRR
+O, \vee_21, \vee, 1.0, ORRRRR
+O, H_16, H, 1.0, ORRRRSub
+O, I_4, I, 1.0, OR
+O, \vee_11, \vee, 1.0, ORR
+O, M_19, M, 1.0, ORRRRSubRRR
+O, T_7, T, 1.0, ORSubR
+O, 0_22, 0, 1.0, ORRRRRR
+O, -_20, -, 1.0, ORRRRSup
+O, +_10, +, 1.0, ORSup
+
+# Relations from SRT:
+R, /_18, M_19, Right, 1.0
+R, /_8, M_9, Right, 1.0
+R, H_16, T_17, Right, 1.0
+R, H_6, T_7, Right, 1.0
+R, I_14, -_20, Sup, 1.0
+R, I_14, H_16, Sub, 1.0
+R, I_14, \vee_21, Right, 1.0
+R, I_4, +_10, Sup, 1.0
+R, I_4, H_6, Sub, 1.0
+R, I_4, \vee_11, Right, 1.0
+R, T_17, /_18, Right, 1.0
+R, T_7, /_8, Right, 1.0
+R, \Delta_12, I_14, Right, 1.0
+R, \Delta_2, I_4, Right, 1.0
+R, \vee_11, \Delta_12, Right, 1.0
+R, \vee_21, 0_22, Right, 1.0

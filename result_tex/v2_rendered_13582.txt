@@ -1,0 +1,3 @@
+\begin{equation}
+	R _ { \mu \beta } \neq \frac { \Delta J _ { \mu P 0 } ^ { \sigma } } \Delta x \sigma
+\end{equation}

@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>τ</mi><mo>=</mo><mo>∫</mo><msup><mi>d</mi><mn>2</mn></msup><mi>β</mi><mi>x</mi><msub><mi>θ</mi><mrow><mi>i</mi><mi>j</mi></mrow></msub><msub><mi>Δ</mi><mi>i</mi></msub><msub><mi>A</mi><mi>j</mi></msub><mo>=</mo><mfrac><mrow><mn>2</mn><mi>π</mi><mi>n</mi></mrow><mi>e</mi></mfrac></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \tau = \int d ^ { 2 } \beta x \theta _ { i j } \Delta _ { i } A _ { j } = \frac { 2 \pi n } { e }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

@@ -1,0 +1,39 @@
+# IUD, v2_rendered_20856
+# Objects(18):
+O, )_14, ), 1.0, ORRRRRRRR
+O, T_23, T, 1.0, ORRRRRRRRRRR
+O, -_9, -, 1.0, ORRR
+O, M_19, M, 1.0, ORRRRRRRRRRSup
+O, f_17, f, 1.0, ORRRRRRRRRR
+O, \mu_4, \mu, 1.0, OSup
+O, M_11, M, 1.0, ORRRRR
+O, N_13, N, 1.0, ORRRRRRR
+O, T_7, T, 1.0, ORR
+O, \leftrightarrow_12, \leftrightarrow, 1.0, ORRRRRR
+O, (_10, (, 1.0, ORRRR
+O, T_3, T, 1.0, O
+O, =_15, =, 1.0, ORRRRRRRRR
+O, K_21, K, 1.0, ORRRRRRRRRRSupRR
+O, \div_5, \div, 1.0, OR
+O, K_24, K, 1.0, ORRRRRRRRRRRSup
+O, N_20, N, 1.0, ORRRRRRRRRRSupR
+O, N_8, N, 1.0, ORRSup
+
+# Relations from SRT:
+R, (_10, M_11, Right, 1.0
+R, )_14, =_15, Right, 1.0
+R, -_9, (_10, Right, 1.0
+R, =_15, f_17, Right, 1.0
+R, M_11, \leftrightarrow_12, Right, 1.0
+R, M_19, N_20, Right, 1.0
+R, N_13, )_14, Right, 1.0
+R, N_20, K_21, Right, 1.0
+R, T_23, K_24, Sup, 1.0
+R, T_3, \div_5, Right, 1.0
+R, T_3, \mu_4, Sup, 1.0
+R, T_7, -_9, Right, 1.0
+R, T_7, N_8, Sup, 1.0
+R, \div_5, T_7, Right, 1.0
+R, \leftrightarrow_12, N_13, Right, 1.0
+R, f_17, M_19, Sup, 1.0
+R, f_17, T_23, Right, 1.0

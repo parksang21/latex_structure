@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mi></mi><mo>*</mo></msup><mi>K</mi><mover><mo>≦</mo><mi>x</mi></mover><mn>7</mn><mi>!</mi><mo stretchy="false" form="prefix">(</mo><mi>m</mi><msqrt><mi>e</mi></msqrt><mo>∩</mo><mi>H</mi><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">\begin{equation}
+    ^ { * } K \leqq ^ { x } 7 ! ( m \sqrt { e } \cap H )
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

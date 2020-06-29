@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="false" form="prefix">(</mo><msub><mi>Δ</mi><mi>t</mi></msub><mo>+</mo><mn>3</mn><mi>H</mi><mo stretchy="false" form="postfix">)</mo><msub><mi>H</mi><mrow><mi>t</mi><mi>t</mi></mrow></msub><mo>+</mo><msub><mi>l</mi><mi>i</mi></msub><msub><mi>H</mi><mi>i</mi></msub><msub><mi>H</mi><mrow><mi>i</mi><mi>i</mi></mrow></msub><mo>=</mo><mn>0</mn></mrow><annotation encoding="application/x-tex">\begin{equation}
+    ( \Delta _ { t } + 3 H ) H _ { t t } + l _ { i } H _ { i } H _ { i i } = 0
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

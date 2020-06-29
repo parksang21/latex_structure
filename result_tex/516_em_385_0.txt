@@ -1,0 +1,3 @@
+\begin{equation}
+	\int [ g ( x ) ] ^ { n } d [ g ( x ]
+\end{equation}

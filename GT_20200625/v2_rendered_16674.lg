@@ -1,0 +1,37 @@
+# IUD, v2_rendered_16674
+# Objects(17):
+O, +_14, +, 1.0, ORRRRRRRRRR
+O, 2_15, 2, 1.0, ORRRRRRRRRRR
+O, (_17, (, 1.0, ORRRRRRRRRRRRR
+O, 1_18, 1, 1.0, ORRRRRRRRRRRRRR
+O, \psi_16, \psi, 1.0, ORRRRRRRRRRRR
+O, )_5, ), 1.0, ORRR
+O, )_19, ), 1.0, ORRRRRRRRRRRRRRR
+O, -_7, -, 1.0, ORRRRR
+O, \vert_13, \vert, 1.0, ORRRRRRRRR
+O, 2_12, 2, 1.0, ORRRRRRRRSup
+O, \vert_9, \vert, 1.0, ORRRRRRR
+O, \Delta_11, \Delta, 1.0, ORRRRRRRR
+O, (_3, (, 1.0, OR
+O, \tau_4, \tau, 1.0, ORR
+O, \alpha_2, \alpha, 1.0, O
+O, \rightarrow_6, \rightarrow, 1.0, ORRRR
+O, \ln_8, \ln, 1.0, ORRRRRR
+
+# Relations from SRT:
+R, (_17, 1_18, Right, 1.0
+R, (_3, \tau_4, Right, 1.0
+R, )_5, \rightarrow_6, Right, 1.0
+R, +_14, 2_15, Right, 1.0
+R, -_7, \ln_8, Right, 1.0
+R, 1_18, )_19, Right, 1.0
+R, 2_15, \psi_16, Right, 1.0
+R, \Delta_11, 2_12, Sup, 1.0
+R, \Delta_11, \vert_13, Right, 1.0
+R, \alpha_2, (_3, Right, 1.0
+R, \ln_8, \vert_9, Right, 1.0
+R, \psi_16, (_17, Right, 1.0
+R, \rightarrow_6, -_7, Right, 1.0
+R, \tau_4, )_5, Right, 1.0
+R, \vert_13, +_14, Right, 1.0
+R, \vert_9, \Delta_11, Right, 1.0

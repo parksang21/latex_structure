@@ -1,0 +1,3 @@
+\begin{equation}
+	G = \langle a _ { 1 } , \csqrts , a _ { 1 } / R _ { \gamma } , \lsqrts R _ { l } \rangle
+\end{equation}

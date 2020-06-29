@@ -1,0 +1,23 @@
+# IUD, RIT_2014_8_0
+# Objects(10):
+O, 3_5, 3, 1.0, 2
+O, x_4, x, 1.0, 1
+O, 4_2, 4, 1.0, 0
+O, x_7, x, 1.0, 4
+O, +_8, +, 1.0, 5
+O, x_10, x, 1.0, 6
+O, \cos_12, \cos, 1.0, 8
+O, \sin_6, \sin, 1.0, 3
+O, 4_11, 4, 1.0, 7
+O, x_13, x, 1.0, 9
+
+# Relations from SRT:
+R, +_8, x_10, Right, 1.0
+R, 4_2, x_4, Right, 1.0
+R, \cos_12, x_13, Right, 1.0
+R, \sin_6, x_7, Right, 1.0
+R, x_10, 4_11, Sup, 1.0
+R, x_10, \cos_12, Right, 1.0
+R, x_4, 3_5, Sup, 1.0
+R, x_4, \sin_6, Right, 1.0
+R, x_7, +_8, Right, 1.0

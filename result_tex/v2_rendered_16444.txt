@@ -1,0 +1,3 @@
+\begin{equation}
+	I ( n ) = \int _ { C } d ^ { n } \psi D _ { c } ^ { ( n ) } ( \psi , \psi )
+\end{equation}

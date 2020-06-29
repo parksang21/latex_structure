@@ -1,0 +1,121 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">new_render_01653</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mo form="prefix" stretchy="false" xml:id="\langle_2">⟨</mo><msub><mi xml:id="x_4">x</mi><mn xml:id="0_5">0</mn></msub><mo form="postfix" stretchy="false" xml:id="\vert_6">|</mo><mo xml:id="\leqq_7">≦</mo><mo form="prefix" stretchy="false" xml:id="\langle_8">⟨</mo><msqrt xml:id="_9"><mi xml:id="x_10">x</mi></msqrt><mo xml:id="+_11">+</mo><munder><mo xml:id="\sum_13">∑</mo><mrow><mi xml:id="e_15">e</mi><mo xml:id="\gt_16">&gt;</mo><mn xml:id="0_17">0</mn></mrow></munder><mi xml:id="x_18">x</mi><mi xml:id="e_19">e</mi><mi xml:id="W_20">W</mi><mi xml:id="e_21">e</mi><mo form="postfix" stretchy="false" xml:id="\vert_22">|</mo><mo xml:id="\leqq_23">≦</mo><mo form="prefix" stretchy="false" xml:id="\langle_24">⟨</mo><msqrt xml:id="_25"><mi xml:id="x_26">x</mi></msqrt></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\langle</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\langle_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">x</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="x_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">0</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="0_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\vert</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\vert_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">\leqq</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="\leqq_7"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\langle</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\langle_8"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">x</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="x_10"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">+</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="+_11"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">\sum</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="\sum_13"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">e</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="e_15"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">\gt</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="\gt_16"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">0</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="0_17"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">x</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="x_18"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">e</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="e_19"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">W</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="W_20"/>
+	</traceGroup>
+ <traceGroup xml:id="16">
+    <annotation type="truth">e</annotation>
+	<traceView traceDataRef="15"/>
+    <annotationXML href="e_21"/>
+	</traceGroup>
+ <traceGroup xml:id="17">
+    <annotation type="truth">\vert</annotation>
+	<traceView traceDataRef="16"/>
+    <annotationXML href="\vert_22"/>
+	</traceGroup>
+ <traceGroup xml:id="18">
+    <annotation type="truth">\leqq</annotation>
+	<traceView traceDataRef="17"/>
+    <annotationXML href="\leqq_23"/>
+	</traceGroup>
+ <traceGroup xml:id="19">
+    <annotation type="truth">\langle</annotation>
+	<traceView traceDataRef="18"/>
+    <annotationXML href="\langle_24"/>
+	</traceGroup>
+ <traceGroup xml:id="20">
+    <annotation type="truth">x</annotation>
+	<traceView traceDataRef="19"/>
+    <annotationXML href="x_26"/>
+	</traceGroup>
+ <traceGroup xml:id="21">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="20"/>
+    <annotationXML href="_9"/>
+	</traceGroup>
+ <traceGroup xml:id="22">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="21"/>
+    <annotationXML href="_25"/>
+	</traceGroup>
+</traceGroup>
+</ink>

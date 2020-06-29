@@ -1,0 +1,3 @@
+\begin{equation}
+	\Leftrightarrow s ^ { \prime } , x ^ { \mu } ( s ) \Leftrightarrow x ^ { \mu } ( s ^ { \prime } ( s ) )
+\end{equation}

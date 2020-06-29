@@ -1,0 +1,43 @@
+# IUD, v2_rendered_00472
+# Objects(20):
+O, \prime_10, \prime, 1.0, ORRRRRSup
+O, 1_17, 1, 1.0, ORRRRRRRRRRAbove
+O, )_24, ), 1.0, ORRRRRRRRRRRRRR
+O, n_21, n, 1.0, ORRRRRRRRRRRSup
+O, (_3, (, 1.0, OR
+O, z_4, z, 1.0, ORR
+O, z_23, z, 1.0, ORRRRRRRRRRRRR
+O, 2_11, 2, 1.0, ORRRRRSupR
+O, r_18, r, 1.0, ORRRRRRRRRRBelow
+O, )_5, ), 1.0, ORRR
+O, )_14, ), 1.0, ORRRRRRRR
+O, (_12, (, 1.0, ORRRRRR
+O, \phi_8, \phi, 1.0, ORRRRR
+O, -_15, -, 1.0, ORRRRRRRRR
+O, T_2, T, 1.0, O
+O, z_13, z, 1.0, ORRRRRRR
+O, _16, -, 1.0, ORRRRRRRRRR
+O, =_6, =, 1.0, ORRRR
+O, (_22, (, 1.0, ORRRRRRRRRRRR
+O, \phi_20, \phi, 1.0, ORRRRRRRRRRR
+
+# Relations from SRT:
+R, (_12, z_13, Right, 1.0
+R, (_22, z_23, Right, 1.0
+R, (_3, z_4, Right, 1.0
+R, )_14, -_15, Right, 1.0
+R, )_5, =_6, Right, 1.0
+R, -_15, _16, Right, 1.0
+R, =_6, \phi_8, Right, 1.0
+R, T_2, (_3, Right, 1.0
+R, \phi_20, (_22, Right, 1.0
+R, \phi_20, n_21, Sup, 1.0
+R, \phi_8, (_12, Right, 1.0
+R, \phi_8, \prime_10, Sup, 1.0
+R, \prime_10, 2_11, Right, 1.0
+R, _16, 1_17, Above, 1.0
+R, _16, \phi_20, Right, 1.0
+R, _16, r_18, Below, 1.0
+R, z_13, )_14, Right, 1.0
+R, z_23, )_24, Right, 1.0
+R, z_4, )_5, Right, 1.0

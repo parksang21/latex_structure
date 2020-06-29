@@ -1,0 +1,45 @@
+# IUD, v2_rendered_05826
+# Objects(21):
+O, =_3, =, 1.0, OR
+O, 2_12, 2, 1.0, ORRRAbove
+O, COMMA_19, COMMA, 1.0, ORRRBelowRR
+O, COMMA_23, COMMA, 1.0, ORRRRR
+O, n_14, n, 1.0, ORRRAboveR
+O, n_25, n, 1.0, ORRRRRR
+O, \Omega_2, \Omega, 1.0, O
+O, ω_26, ω, 1.0, ORRRRRRSub
+O, ω_15, ω, 1.0, ORRRAboveRSub
+O, P_9, P, 1.0, ORRBelowRR
+O, ω_22, ω, 1.0, ORRRR
+O, ω_7, ω, 1.0, ORRBelow
+O, _10, -, 1.0, ORRR
+O, )_21, ), 1.0, ORRRBelowRRRR
+O, (_17, (, 1.0, ORRRBelow
+O, ω_18, ω, 1.0, ORRRBelowR
+O, Z_28, Z, 1.0, ORRRRRRRR
+O, \in_8, \in, 1.0, ORRBelowR
+O, \in_27, \in, 1.0, ORRRRRRR
+O, ω_20, ω, 1.0, ORRRBelowRRR
+O, \lim_5, \lim, 1.0, ORR
+
+# Relations from SRT:
+R, (_17, ω_18, Right, 1.0
+R, 2_12, n_14, Right, 1.0
+R, =_3, \lim_5, Right, 1.0
+R, COMMA_19, ω_20, Right, 1.0
+R, COMMA_23, n_25, Right, 1.0
+R, \Omega_2, =_3, Right, 1.0
+R, \in_27, Z_28, Right, 1.0
+R, \in_8, P_9, Right, 1.0
+R, \lim_5, _10, Right, 1.0
+R, \lim_5, ω_7, Below, 1.0
+R, _10, (_17, Below, 1.0
+R, _10, 2_12, Above, 1.0
+R, _10, ω_22, Right, 1.0
+R, n_14, ω_15, Sub, 1.0
+R, n_25, \in_27, Right, 1.0
+R, n_25, ω_26, Sub, 1.0
+R, ω_18, COMMA_19, Right, 1.0
+R, ω_20, )_21, Right, 1.0
+R, ω_22, COMMA_23, Right, 1.0
+R, ω_7, \in_8, Right, 1.0

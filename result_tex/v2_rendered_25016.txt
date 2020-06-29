@@ -1,0 +1,3 @@
+\begin{equation}
+	U ( 1 ) \vee \times S U ( N ) _ { L } \times S U ( N ) _ { R }
+\end{equation}

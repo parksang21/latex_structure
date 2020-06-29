@@ -1,0 +1,3 @@
+\begin{equation}
+	\tau = \sum _ { \beta \mu } c _ { \beta \mu } x ^ { \beta \mu }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	X ^ { 2 } a \leqq - i [ \sqrt { F } _ { A } , a ] , \exists a < P ( L , A ) \otimes \wedge
+\end{equation}

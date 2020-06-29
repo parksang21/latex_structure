@@ -1,0 +1,3 @@
+\begin{equation}
+	\{ g \vert 0 < \vert g \vert < G , \vert A r g g \vert < \theta \}
+\end{equation}

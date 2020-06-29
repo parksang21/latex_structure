@@ -1,0 +1,3 @@
+\begin{equation}
+	T = T \beta T T , \beta T = \beta T T \beta T
+\end{equation}

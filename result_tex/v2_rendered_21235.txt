@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { \lambda } { 2 } M _ { \mu \rho } F ^ { \mu \rho }
+\end{equation}

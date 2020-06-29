@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { g } \geq \frac { ( U g ) ! } { ( g ! ) ^ { U } U ^ { U g } }
+\end{equation}

@@ -1,0 +1,37 @@
+# IUD, v2_rendered_01355
+# Objects(17):
+O, \exists_9, \exists, 1.0, ORRRRRR
+O, =_7, =, 1.0, ORRRR
+O, \rangle_6, \rangle, 1.0, ORRR
+O, h_18, h, 1.0, ORRRRRRRRRRRSubR
+O, 7_8, 7, 1.0, ORRRRR
+O, \rangle_12, \rangle, 1.0, ORRRRRRRRR
+O, s_20, s, 1.0, ORRRRRRRRRRRSubRRR
+O, \vert_10, \vert, 1.0, ORRRRRRR
+O, y_19, y, 1.0, ORRRRRRRRRRRSubRR
+O, \sigma_5, \sigma, 1.0, ORR
+O, \wedge_13, \wedge, 1.0, ORRRRRRRRRR
+O, _2, \sqrt, 1.0, O
+O, I_15, I, 1.0, ORRRRRRRRRRR
+O, p_17, p, 1.0, ORRRRRRRRRRRSub
+O, \sigma_3, \sigma, 1.0, OInside
+O, \vert_4, \vert, 1.0, OR
+O, \sigma_11, \sigma, 1.0, ORRRRRRRR
+
+# Relations from SRT:
+R, 7_8, \exists_9, Right, 1.0
+R, =_7, 7_8, Right, 1.0
+R, I_15, p_17, Sub, 1.0
+R, \exists_9, \vert_10, Right, 1.0
+R, \rangle_12, \wedge_13, Right, 1.0
+R, \rangle_6, =_7, Right, 1.0
+R, \sigma_11, \rangle_12, Right, 1.0
+R, \sigma_5, \rangle_6, Right, 1.0
+R, \vert_10, \sigma_11, Right, 1.0
+R, \vert_4, \sigma_5, Right, 1.0
+R, \wedge_13, I_15, Right, 1.0
+R, _2, \sigma_3, Inside, 1.0
+R, _2, \vert_4, Right, 1.0
+R, h_18, y_19, Right, 1.0
+R, p_17, h_18, Right, 1.0
+R, y_19, s_20, Right, 1.0

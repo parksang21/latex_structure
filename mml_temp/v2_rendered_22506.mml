@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msubsup><mo>∫</mo><mn>0</mn><mi>∞</mi></msubsup><msubsup><mi>i</mi><mi>l</mi><mrow><mo>÷</mo><mi>f</mi></mrow></msubsup><msup><mi>f</mi><mi>y</mi></msup><msub><mi>r</mi><mi>e</mi></msub><mi>f</mi><mo>≤</mo><mo stretchy="false" form="prefix">[</mo><mi>y</mi><mo stretchy="false" form="postfix">]</mo><mi>!</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \int _ { 0 } ^ { \infty } i _ { l } ^ { \div f } f ^ { y } r _ { e } f \leq [ y ] !
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

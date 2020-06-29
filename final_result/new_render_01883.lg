@@ -1,0 +1,37 @@
+# IUD, new_render_01883
+# Objects(17):
+O, N_19, N, 1.0, ORRRRRRRRRRRR
+O, N_4, N, 1.0, OSub
+O, \alpha_5, \alpha, 1.0, OSup
+O, Z_3, Z, 1.0, O
+O, )_17, ), 1.0, ORRRRRRRRRR
+O, J_11, J, 1.0, ORRRRR
+O, \geqq_9, \geqq, 1.0, ORRRR
+O, (_13, (, 1.0, ORRRRRR
+O, )_8, ), 1.0, ORRR
+O, \alpha_16, \alpha, 1.0, ORRRRRRRRR
+O, (_6, (, 1.0, OR
+O, s_7, s, 1.0, ORR
+O, ._15, ., 1.0, ORRRRRRRR
+O, !_20, !, 1.0, ORRRRRRRRRRRRR
+O, N_12, N, 1.0, ORRRRRSub
+O, /_18, /, 1.0, ORRRRRRRRRRR
+O, s_14, s, 1.0, ORRRRRRR
+
+# Relations from SRT:
+R, (_13, s_14, Right, 1.0
+R, (_6, s_7, Right, 1.0
+R, )_17, /_18, Right, 1.0
+R, )_8, \geqq_9, Right, 1.0
+R, ._15, \alpha_16, Right, 1.0
+R, /_18, N_19, Right, 1.0
+R, J_11, (_13, Right, 1.0
+R, J_11, N_12, Sub, 1.0
+R, N_19, !_20, Right, 1.0
+R, Z_3, (_6, Right, 1.0
+R, Z_3, N_4, Sub, 1.0
+R, Z_3, \alpha_5, Sup, 1.0
+R, \alpha_16, )_17, Right, 1.0
+R, \geqq_9, J_11, Right, 1.0
+R, s_14, ._15, Right, 1.0
+R, s_7, )_8, Right, 1.0

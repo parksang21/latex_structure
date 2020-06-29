@@ -1,0 +1,3 @@
+\begin{equation}
+	\langle \Omega \vert W ( x _ { 4 } ) \vert \Omega \rangle \propto \langle \Omega \vert u ( x _ { - } ) \vert \Omega \rangle
+\end{equation}

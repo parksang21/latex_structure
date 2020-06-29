@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta _ { 0 } \log H = a ^ { 2 } \frac { u } { H \Delta _ { 0 } T } \Delta _ { 0 } \log V
+\end{equation}

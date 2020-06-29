@@ -1,0 +1,3 @@
+\begin{equation}
+	{ g } = \tilde { g } \oplus C \dot { k } \oplus C L _ { 0 }
+\end{equation}

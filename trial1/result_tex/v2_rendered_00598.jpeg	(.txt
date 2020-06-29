@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta _ { \bar { \omega } } - i A _ { \bar { \omega } } ) \psi _ { \omega } ( \omega , \alpha ) = 0
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	{ \Delta ^ { 2 } h _ { 1 } } { \Delta a ^ { 2 } } \cup 0
+\end{equation}

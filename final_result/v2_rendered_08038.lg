@@ -1,0 +1,23 @@
+# IUD, v2_rendered_08038
+# Objects(10):
+O, \rho_6, \rho, 1.0, OR
+O, \lim_10, \lim, 1.0, ORRR
+O, \rho_13, \rho, 1.0, ORRRR
+O, \lim_3, \lim, 1.0, O
+O, P_4, P, 1.0, OBelow
+O, \alpha_11, \alpha, 1.0, ORRRBelow
+O, -_8, -, 1.0, ORR
+O, P_7, P, 1.0, ORSub
+O, \theta_15, \theta, 1.0, ORRRRSup
+O, \alpha_14, \alpha, 1.0, ORRRRSub
+
+# Relations from SRT:
+R, -_8, \lim_10, Right, 1.0
+R, \lim_10, \alpha_11, Below, 1.0
+R, \lim_10, \rho_13, Right, 1.0
+R, \lim_3, P_4, Below, 1.0
+R, \lim_3, \rho_6, Right, 1.0
+R, \rho_13, \alpha_14, Sub, 1.0
+R, \rho_13, \theta_15, Sup, 1.0
+R, \rho_6, -_8, Right, 1.0
+R, \rho_6, P_7, Sub, 1.0

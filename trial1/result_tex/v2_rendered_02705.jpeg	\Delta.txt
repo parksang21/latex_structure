@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { x } \varepsilon ( 0 , t ) = \Delta _ { x } \varepsilon ( L , t ) = 0 \forall t
+\end{equation}

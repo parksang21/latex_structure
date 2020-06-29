@@ -1,0 +1,71 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">new_render_00103</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msub><mi xml:id="c_3">c</mi><mrow><mi xml:id="w_5">w</mi><mi xml:id="\gamma_6">γ</mi></mrow></msub><mo xml:id="\equiv_7">≡</mo><msubsup><mi xml:id="\square_9">▫</mi><mrow><mi xml:id="w_11">w</mi><mi xml:id="\gamma_12">γ</mi></mrow><mrow><mi xml:id="\theta_14">θ</mi><mi xml:id="ω_15">ω</mi></mrow></msubsup><msub><mi xml:id="T_17">T</mi><mrow><mi xml:id="\theta_19">θ</mi><mi xml:id="ω_20">ω</mi></mrow></msub></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">c</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="c_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">w</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="w_5"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\gamma</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\gamma_6"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\equiv</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\equiv_7"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">\square</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="\square_9"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">w</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="w_11"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">\gamma</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="\gamma_12"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\theta</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\theta_14"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">ω</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="ω_15"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">T</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="T_17"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">\theta</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="\theta_19"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">ω</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="ω_20"/>
+	</traceGroup>
+</traceGroup>
+</ink>

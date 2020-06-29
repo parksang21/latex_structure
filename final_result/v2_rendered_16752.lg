@@ -1,0 +1,41 @@
+# IUD, v2_rendered_16752
+# Objects(19):
+O, _11, -, 1.0, ORRRRRRRR
+O, 4_13, 4, 1.0, ORRRRRRRRBelow
+O, q_12, q, 1.0, ORRRRRRRRAbove
+O, =_16, =, 1.0, ORRRRRRRRRRR
+O, _7, \sqrt, 1.0, ORRRRR
+O, COMMA_14, COMMA, 1.0, ORRRRRRRRR
+O, \gamma_15, \gamma, 1.0, ORRRRRRRRRR
+O, _18, -, 1.0, ORRRRRRRRRRRRR
+O, z_8, z, 1.0, ORRRRRInside
+O, -_10, -, 1.0, ORRRRRRR
+O, 4_20, 4, 1.0, ORRRRRRRRRRRRRBelow
+O, =_3, =, 1.0, OR
+O, COMMA_6, COMMA, 1.0, ORRRR
+O, =_9, =, 1.0, ORRRRRR
+O, \phi_2, \phi, 1.0, O
+O, -_17, -, 1.0, ORRRRRRRRRRRR
+O, 2_4, 2, 1.0, ORR
+O, a_19, a, 1.0, ORRRRRRRRRRRRRAbove
+O, z_5, z, 1.0, ORRR
+
+# Relations from SRT:
+R, -_10, _11, Right, 1.0
+R, -_17, _18, Right, 1.0
+R, 2_4, z_5, Right, 1.0
+R, =_16, -_17, Right, 1.0
+R, =_3, 2_4, Right, 1.0
+R, =_9, -_10, Right, 1.0
+R, COMMA_14, \gamma_15, Right, 1.0
+R, COMMA_6, _7, Right, 1.0
+R, \gamma_15, =_16, Right, 1.0
+R, \phi_2, =_3, Right, 1.0
+R, _11, 4_13, Below, 1.0
+R, _11, COMMA_14, Right, 1.0
+R, _11, q_12, Above, 1.0
+R, _18, 4_20, Below, 1.0
+R, _18, a_19, Above, 1.0
+R, _7, =_9, Right, 1.0
+R, _7, z_8, Inside, 1.0
+R, z_5, COMMA_6, Right, 1.0

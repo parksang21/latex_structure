@@ -1,0 +1,71 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">RIT_2014_49_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msubsup><mi xml:id="a_3">a</mi><mi xml:id="j_4">j</mi><msub><mi xml:id="\gamma_6">γ</mi><mi xml:id="j_7">j</mi></msub></msubsup><msubsup><mi xml:id="a_9">a</mi><mrow><mi xml:id="j_11">j</mi><mo xml:id="+_12">+</mo><mn xml:id="1_13">1</mn></mrow><msub><mi xml:id="\gamma_15">γ</mi><mrow><mi xml:id="i_17">i</mi><mo xml:id="+_18">+</mo><mn xml:id="1_19">1</mn></mrow></msub></msubsup></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">a</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="a_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">j</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="j_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\gamma</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\gamma_6"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">j</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="j_7"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">a</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="a_9"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">j</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="j_11"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">+</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="+_12"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">1</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="1_13"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">\gamma</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="\gamma_15"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">i</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="i_17"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">+</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="+_18"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">1</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="1_19"/>
+	</traceGroup>
+</traceGroup>
+</ink>

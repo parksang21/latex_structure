@@ -1,0 +1,39 @@
+# IUD, new_render_01160
+# Objects(18):
+O, 2_16, 2, 1.0, 10
+O, -_20, -, 1.0, 12
+O, e_15, e, 1.0, 9
+O, _3, \sqrt, 1.0, 17
+O, 2_7, 2, 1.0, 3
+O, (_2, (, 1.0, 0
+O, \cos_10, \cos, 1.0, 5
+O, 0_24, 0, 1.0, 16
+O, +_8, +, 1.0, 4
+O, )_6, ), 1.0, 2
+O, 2_11, 2, 1.0, 6
+O, \leqq_23, \leqq, 1.0, 15
+O, \rho_4, \rho, 1.0, 1
+O, \rho_22, \rho, 1.0, 14
+O, -_13, -, 1.0, 8
+O, 2_21, 2, 1.0, 13
+O, \sin_18, \sin, 1.0, 11
+O, \rho_12, \rho, 1.0, 7
+
+# Relations from SRT:
+R, (_2, _3, Right, 1.0
+R, )_6, +_8, Right, 1.0
+R, )_6, 2_7, Sup, 1.0
+R, +_8, \cos_10, Right, 1.0
+R, -_13, e_15, Right, 1.0
+R, -_20, 2_21, Right, 1.0
+R, \cos_10, 2_11, Sup, 1.0
+R, \cos_10, \rho_12, Right, 1.0
+R, \leqq_23, 0_24, Right, 1.0
+R, \rho_12, -_13, Right, 1.0
+R, \rho_22, \leqq_23, Right, 1.0
+R, \sin_18, -_20, Sup, 1.0
+R, \sin_18, \rho_22, Right, 1.0
+R, _3, )_6, Right, 1.0
+R, _3, \rho_4, Inside, 1.0
+R, e_15, 2_16, Sup, 1.0
+R, e_15, \sin_18, Right, 1.0

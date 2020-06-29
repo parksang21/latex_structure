@@ -1,0 +1,3 @@
+\begin{equation}
+	Q = \int _ { D } d ^ { 3 } \beta J _ { k } ( \beta _ { i } ) R _ { k } ( \beta _ { i } )
+\end{equation}

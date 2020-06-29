@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>Δ</mi><mi>a</mi><mo>=</mo><mi>Δ</mi><msup><mi>a</mi><mi>′</mi></msup><mo>+</mo><mfrac><msup><mi>π</mi><mn>2</mn></msup><mrow><mn>9</mn><mn>6</mn></mrow></mfrac><munder><mo>∏</mo><mrow><mi>V</mi><mo>→</mo><mi>∞</mi></mrow></munder></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \Delta a = \Delta a ^ { \prime } + \frac { \pi ^ { 2 } } { 9 6 } \prod _ { V \rightarrow \infty }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

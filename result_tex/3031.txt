@@ -1,0 +1,3 @@
+\begin{equation}
+	V ( r ) \sim \int \frac { e ^ { - \sqrt { s } r } } { r } - p ( s ) d s
+\end{equation}

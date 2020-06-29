@@ -1,0 +1,57 @@
+# IUD, new_render_01348
+# Objects(27):
+O, g_19, g, 1.0, ORRRRRRRRRRRRRRR
+O, \sigma_5, \sigma, 1.0, OR
+O, h_23, h, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, \in_28, \in, 1.0, ORRRRRRRRRRRRRRRRRRRRRRRR
+O, )_20, ), 1.0, ORRRRRRRRRRRRRRRR
+O, g_12, g, 1.0, ORRRRRRRR
+O, (_6, (, 1.0, ORR
+O, COMMA_21, COMMA, 1.0, ORRRRRRRRRRRRRRRRR
+O, R_3, R, 1.0, O
+O, \in_24, \in, 1.0, ORRRRRRRRRRRRRRRRRRRR
+O, h_4, h, 1.0, OSub
+O, g_27, g, 1.0, ORRRRRRRRRRRRRRRRRRRRRRR
+O, *_13, *, 1.0, ORRRRRRRRR
+O, g_7, g, 1.0, ORRR
+O, COMMA_26, COMMA, 1.0, ORRRRRRRRRRRRRRRRRRRRRR
+O, \equiv_16, \equiv, 1.0, ORRRRRRRRRRRR
+O, G_29, G, 1.0, ORRRRRRRRRRRRRRRRRRRRRRRRR
+O, h_14, h, 1.0, ORRRRRRRRRR
+O, )_8, ), 1.0, ORRRR
+O, \sigma_17, \sigma, 1.0, ORRRRRRRRRRRRR
+O, \because_22, \because, 1.0, ORRRRRRRRRRRRRRRRRR
+O, \geqq_9, \geqq, 1.0, ORRRRR
+O, \sigma_10, \sigma, 1.0, ORRRRRR
+O, (_11, (, 1.0, ORRRRRRR
+O, )_15, ), 1.0, ORRRRRRRRRRR
+O, H_25, H, 1.0, ORRRRRRRRRRRRRRRRRRRRR
+O, (_18, (, 1.0, ORRRRRRRRRRRRRR
+
+# Relations from SRT:
+R, (_11, g_12, Right, 1.0
+R, (_18, g_19, Right, 1.0
+R, (_6, g_7, Right, 1.0
+R, )_15, \equiv_16, Right, 1.0
+R, )_20, COMMA_21, Right, 1.0
+R, )_8, \geqq_9, Right, 1.0
+R, *_13, h_14, Right, 1.0
+R, COMMA_21, \because_22, Right, 1.0
+R, COMMA_26, g_27, Right, 1.0
+R, H_25, COMMA_26, Right, 1.0
+R, R_3, \sigma_5, Right, 1.0
+R, R_3, h_4, Sub, 1.0
+R, \because_22, h_23, Right, 1.0
+R, \equiv_16, \sigma_17, Right, 1.0
+R, \geqq_9, \sigma_10, Right, 1.0
+R, \in_24, H_25, Right, 1.0
+R, \in_28, G_29, Right, 1.0
+R, \sigma_10, (_11, Right, 1.0
+R, \sigma_17, (_18, Right, 1.0
+R, \sigma_5, (_6, Right, 1.0
+R, g_12, *_13, Right, 1.0
+R, g_19, )_20, Right, 1.0
+R, g_27, \in_28, Right, 1.0
+R, g_7, )_8, Right, 1.0
+R, h_14, )_15, Right, 1.0
+R, h_23, \in_24, Right, 1.0

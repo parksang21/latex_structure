@@ -1,0 +1,3 @@
+\begin{equation}
+	Q \geq \frac { 1 } { C } \int _ { T _ { 2 } } W ^ { * } \omega
+\end{equation}

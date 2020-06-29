@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { 0 } ( k ) = \frac { i k + 2 \sigma _ { 1 } } { i k - 2 \sigma _ { 1 } }
+\end{equation}

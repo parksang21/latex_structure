@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \phi \rightarrow 8 } \phi _ { \triangle \tau } ( o , \phi , j ) = \lambda ( j )
+\end{equation}

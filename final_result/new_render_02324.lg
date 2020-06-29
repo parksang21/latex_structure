@@ -1,0 +1,41 @@
+# IUD, new_render_02324
+# Objects(19):
+O, A_7, A, 1.0, ORRRRR
+O, X_13, X, 1.0, ORRRRRRRRRR
+O, N_19, N, 1.0, ORRRRRRRRRRRRRSup
+O, A_5, A, 1.0, ORRR
+O, D_16, D, 1.0, ORRRRRRRRRRRR
+O, A_9, A, 1.0, ORRRRRRR
+O, \Omega_21, \Omega, 1.0, ORRRRRRRRRRRRRR
+O, +_6, +, 1.0, ORRRR
+O, M_23, M, 1.0, ORRRRRRRRRRRRRRSub
+O, \vee_15, \vee, 1.0, ORRRRRRRRRRR
+O, \vee_8, \vee, 1.0, ORRRRRR
+O, M_14, M, 1.0, ORRRRRRRRRRSup
+O, D_11, D, 1.0, ORRRRRRRRR
+O, N_24, N, 1.0, ORRRRRRRRRRRRRRSubR
+O, D_4, D, 1.0, ORR
+O, \Omega_2, \Omega, 1.0, O
+O, X_18, X, 1.0, ORRRRRRRRRRRRR
+O, \leqq_10, \leqq, 1.0, ORRRRRRRR
+O, =_3, =, 1.0, OR
+
+# Relations from SRT:
+R, +_6, A_7, Right, 1.0
+R, =_3, D_4, Right, 1.0
+R, A_5, +_6, Right, 1.0
+R, A_7, \vee_8, Right, 1.0
+R, A_9, \leqq_10, Right, 1.0
+R, D_11, X_13, Right, 1.0
+R, D_16, X_18, Right, 1.0
+R, D_4, A_5, Right, 1.0
+R, M_23, N_24, Right, 1.0
+R, X_13, M_14, Sup, 1.0
+R, X_13, \vee_15, Right, 1.0
+R, X_18, N_19, Sup, 1.0
+R, X_18, \Omega_21, Right, 1.0
+R, \Omega_21, M_23, Sub, 1.0
+R, \Omega_2, =_3, Right, 1.0
+R, \leqq_10, D_11, Right, 1.0
+R, \vee_15, D_16, Right, 1.0
+R, \vee_8, A_9, Right, 1.0

@@ -1,0 +1,37 @@
+# IUD, v2_rendered_24498
+# Objects(17):
+O, \lt_14, \lt, 1.0, ORRRRRRRRRR
+O, 2_9, 2, 1.0, ORRRRR
+O, \beta_7, \beta, 1.0, ORRR
+O, ω_3, ω, 1.0, O
+O, n_4, n, 1.0, OSub
+O, 2_17, 2, 1.0, ORRRRRRRRRRRRR
+O, \Leftrifhtarrow_10, \Leftrifhtarrow, 1.0, ORRRRRR
+O, \vert_11, \vert, 1.0, ORRRRRRR
+O, \beta_15, \beta, 1.0, ORRRRRRRRRRR
+O, \vee_5, \vee, 1.0, OR
+O, /_8, /, 1.0, ORRRR
+O, +_18, +, 1.0, ORRRRRRRRRRRRRR
+O, \vert_13, \vert, 1.0, ORRRRRRRRR
+O, \mu_19, \mu, 1.0, ORRRRRRRRRRRRRRR
+O, -_6, -, 1.0, ORR
+O, /_16, /, 1.0, ORRRRRRRRRRRR
+O, k_12, k, 1.0, ORRRRRRRR
+
+# Relations from SRT:
+R, +_18, \mu_19, Right, 1.0
+R, -_6, \beta_7, Right, 1.0
+R, /_16, 2_17, Right, 1.0
+R, /_8, 2_9, Right, 1.0
+R, 2_17, +_18, Right, 1.0
+R, 2_9, \Leftrifhtarrow_10, Right, 1.0
+R, \Leftrifhtarrow_10, \vert_11, Right, 1.0
+R, \beta_15, /_16, Right, 1.0
+R, \beta_7, /_8, Right, 1.0
+R, \lt_14, \beta_15, Right, 1.0
+R, \vee_5, -_6, Right, 1.0
+R, \vert_11, k_12, Right, 1.0
+R, \vert_13, \lt_14, Right, 1.0
+R, k_12, \vert_13, Right, 1.0
+R, ω_3, \vee_5, Right, 1.0
+R, ω_3, n_4, Sub, 1.0

@@ -1,0 +1,19 @@
+# IUD, 3088
+# Objects(8):
+O, \theta_3, \theta, 1.0, OR
+O, 0_9, 0, 1.0, ORRRRRRR
+O, +_4, +, 1.0, ORR
+O, i_2, i, 1.0, O
+O, =_8, =, 1.0, ORRRRRR
+O, \wedge_6, \wedge, 1.0, ORRRR
+O, g_5, g, 1.0, ORRR
+O, \theta_7, \theta, 1.0, ORRRRR
+
+# Relations from SRT:
+R, +_4, g_5, Right, 1.0
+R, =_8, 0_9, Right, 1.0
+R, \theta_3, +_4, Right, 1.0
+R, \theta_7, =_8, Right, 1.0
+R, \wedge_6, \theta_7, Right, 1.0
+R, g_5, \wedge_6, Right, 1.0
+R, i_2, \theta_3, Right, 1.0

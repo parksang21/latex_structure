@@ -1,0 +1,3 @@
+\begin{equation}
+	W [ E ) = \int \sigma \frac { 1 } { D \sqrt { D } } \sigma
+\end{equation}

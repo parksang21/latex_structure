@@ -1,0 +1,3 @@
+\begin{equation}
+	M \rightarrow \omega _ { \alpha \beta } ^ { T } A _ { i } ^ { \beta }
+\end{equation}

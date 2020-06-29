@@ -1,0 +1,43 @@
+# IUD, v2_rendered_13807
+# Objects(20):
+O, 1_17, 1, 1.0, ORRRRRRSupR
+O, \lambda_14, \lambda, 1.0, ORRRRRRSub
+O, c_25, c, 1.0, ORRRRRRRRRRR
+O, =_7, =, 1.0, ORRR
+O, \sum_9, \sum, 1.0, ORRRR
+O, (_11, (, 1.0, ORRRRR
+O, \lambda_26, \lambda, 1.0, ORRRRRRRRRRRSub
+O, -_23, -, 1.0, ORRRRRRRRRR
+O, \lambda_21, \lambda, 1.0, ORRRRRRRRSub
+O, \prime_4, \prime, 1.0, OSup
+O, -_16, -, 1.0, ORRRRRRSup
+O, F_6, F, 1.0, ORR
+O, F_3, F, 1.0, O
+O, c_20, c, 1.0, ORRRRRRRR
+O, -_5, -, 1.0, OR
+O, \lambda_10, \lambda, 1.0, ORRRRBelow
+O, )_22, ), 1.0, ORRRRRRRRR
+O, )_27, ), 1.0, ORRRRRRRRRRRR
+O, \gamma_13, \gamma, 1.0, ORRRRRR
+O, (_18, (, 1.0, ORRRRRRR
+
+# Relations from SRT:
+R, (_11, \gamma_13, Right, 1.0
+R, (_18, c_20, Right, 1.0
+R, )_22, -_23, Right, 1.0
+R, -_16, 1_17, Right, 1.0
+R, -_23, c_25, Right, 1.0
+R, -_5, F_6, Right, 1.0
+R, =_7, \sum_9, Right, 1.0
+R, F_3, -_5, Right, 1.0
+R, F_3, \prime_4, Sup, 1.0
+R, F_6, =_7, Right, 1.0
+R, \gamma_13, (_18, Right, 1.0
+R, \gamma_13, -_16, Sup, 1.0
+R, \gamma_13, \lambda_14, Sub, 1.0
+R, \sum_9, (_11, Right, 1.0
+R, \sum_9, \lambda_10, Below, 1.0
+R, c_20, )_22, Right, 1.0
+R, c_20, \lambda_21, Sub, 1.0
+R, c_25, )_27, Right, 1.0
+R, c_25, \lambda_26, Sub, 1.0

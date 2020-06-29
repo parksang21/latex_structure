@@ -1,0 +1,3 @@
+\begin{equation}
+	\int \frac { 1 } { ( a x ^ { 2 } + b x + c ) ^ { n } } d x
+\end{equation}

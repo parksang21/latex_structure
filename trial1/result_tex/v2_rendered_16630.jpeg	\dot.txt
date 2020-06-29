@@ -1,0 +1,3 @@
+\begin{equation}
+	{ \delta } = h ^ { \prime } ( u ) , \dot { u } = - h H
+\end{equation}

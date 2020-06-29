@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { j } ^ { 2 } \geqq f _ { 0 } ^ { 2 } , \therefore j
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\sigma \in \omega ^ { 3 } R ^ { 6 } \ln ( \omega R )
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\approx F + a + q _ { A } X ^ { A } + c _ { A B } X ^ { A } X ^ { B }
+\end{equation}

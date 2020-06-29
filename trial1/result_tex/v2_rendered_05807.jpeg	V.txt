@@ -1,0 +1,3 @@
+\begin{equation}
+	( \phi ) = \frac { m ^ { 2 } } { 2 } \vert \phi \vert ^ { 2 } + \frac { \lambda } { 4 ! } \vert \phi \vert ^ { 4 }
+\end{equation}

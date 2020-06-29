@@ -1,0 +1,3 @@
+\begin{equation}
+	O _ { X } ( C ) = 0 _ { X } ( n \sigma ) \osqrt M
+\end{equation}

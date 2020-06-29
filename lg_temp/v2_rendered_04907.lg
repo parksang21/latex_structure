@@ -1,0 +1,17 @@
+# IUD, v2_rendered_04907
+# Objects(7):
+O, =_5, =, 1.0, 2
+O, \pm_6, \pm, 1.0, 3
+O, H_8, H, 1.0, 4
+O, F_9, F, 1.0, 5
+O, \pm_10, \pm, 1.0, 6
+O, \pm_4, \pm, 1.0, 1
+O, P_3, P, 1.0, 0
+
+# Relations from SRT:
+R, =_5, \pm_6, Right, 1.0
+R, H_8, F_9, Sub, 1.0
+R, H_8, \pm_10, Sup, 1.0
+R, P_3, =_5, Right, 1.0
+R, P_3, \pm_4, Sub, 1.0
+R, \pm_6, H_8, Right, 1.0

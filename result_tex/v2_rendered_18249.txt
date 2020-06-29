@@ -1,0 +1,3 @@
+\begin{equation}
+	f _ { \mu } = \Delta _ { \sigma } h _ { \mu } ^ { \sigma } + \beta \Delta _ { \mu } h
+\end{equation}

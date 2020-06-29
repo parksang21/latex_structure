@@ -1,0 +1,3 @@
+\begin{equation}
+	S O ( 2 , b ) = S O ( 1 , d ) \otimes S _ { 0 } \vert v
+\end{equation}

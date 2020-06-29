@@ -1,0 +1,33 @@
+# IUD, v2_rendered_21962
+# Objects(15):
+O, d_2, d, 1.0, O
+O, \Omega_9, \Omega, 1.0, ORRR
+O, \Omega_4, \Omega, 1.0, OR
+O, i_12, i, 1.0, ORRRSubR
+O, \varepsilon_17, \varepsilon, 1.0, ORRRRRSub
+O, \Omega_16, \Omega, 1.0, ORRRRR
+O, +_7, +, 1.0, ORR
+O, \varepsilon_5, \varepsilon, 1.0, ORSub
+O, ⊄_14, ⊄, 1.0, ORRRR
+O, P_11, P, 1.0, ORRRSub
+O, \tau_6, \tau, 1.0, ORSup
+O, 0_20, 0, 1.0, ORRRRRRR
+O, =_19, =, 1.0, ORRRRRR
+O, \tau_13, \tau, 1.0, ORRRSup
+O, \gamma_18, \gamma, 1.0, ORRRRRSup
+
+# Relations from SRT:
+R, +_7, \Omega_9, Right, 1.0
+R, =_19, 0_20, Right, 1.0
+R, P_11, i_12, Right, 1.0
+R, \Omega_16, =_19, Right, 1.0
+R, \Omega_16, \gamma_18, Sup, 1.0
+R, \Omega_16, \varepsilon_17, Sub, 1.0
+R, \Omega_4, +_7, Right, 1.0
+R, \Omega_4, \tau_6, Sup, 1.0
+R, \Omega_4, \varepsilon_5, Sub, 1.0
+R, \Omega_9, P_11, Sub, 1.0
+R, \Omega_9, \tau_13, Sup, 1.0
+R, \Omega_9, ⊄_14, Right, 1.0
+R, d_2, \Omega_4, Right, 1.0
+R, ⊄_14, \Omega_16, Right, 1.0

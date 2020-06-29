@@ -1,0 +1,37 @@
+# IUD, v2_rendered_14196
+# Objects(17):
+O, p_21, p, 1.0, ORRRRRRRRRRRR
+O, \leq_10, \leq, 1.0, ORRRRR
+O, p_15, p, 1.0, ORRRRRRSubR
+O, m_5, m, 1.0, OSup
+O, m_18, m, 1.0, ORRRRRRRRR
+O, COMMA_19, COMMA, 1.0, ORRRRRRRRRR
+O, \forall_20, \forall, 1.0, ORRRRRRRRRRR
+O, m_9, m, 1.0, ORRRR
+O, \leq_6, \leq, 1.0, OR
+O, p_4, p, 1.0, OSub
+O, p_7, p, 1.0, ORR
+O, m_14, m, 1.0, ORRRRRRSub
+O, \forall_17, \forall, 1.0, ORRRRRRRR
+O, \alpha_3, \alpha, 1.0, O
+O, COMMA_16, COMMA, 1.0, ORRRRRRR
+O, a_12, a, 1.0, ORRRRRR
+O, /_8, /, 1.0, ORRR
+
+# Relations from SRT:
+R, /_8, m_9, Right, 1.0
+R, COMMA_16, \forall_17, Right, 1.0
+R, COMMA_19, \forall_20, Right, 1.0
+R, \alpha_3, \leq_6, Right, 1.0
+R, \alpha_3, m_5, Sup, 1.0
+R, \alpha_3, p_4, Sub, 1.0
+R, \forall_17, m_18, Right, 1.0
+R, \forall_20, p_21, Right, 1.0
+R, \leq_10, a_12, Right, 1.0
+R, \leq_6, p_7, Right, 1.0
+R, a_12, COMMA_16, Right, 1.0
+R, a_12, m_14, Sub, 1.0
+R, m_14, p_15, Right, 1.0
+R, m_18, COMMA_19, Right, 1.0
+R, m_9, \leq_10, Right, 1.0
+R, p_7, /_8, Right, 1.0

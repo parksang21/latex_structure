@@ -1,0 +1,3 @@
+\begin{equation}
+	{ \Delta \bar { f } _ { \beta } } { \Delta \bar { x } } = \beta \bar { \alpha } \frac { \Delta \bar { f } _ { \beta } } { \Delta \bar { t } }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \mu } ( x ) = \frac { d } { d x } \log [ x h _ { \mu } ^ { ( 1 ) } ( x ) ]
+\end{equation}

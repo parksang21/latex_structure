@@ -1,0 +1,3 @@
+\begin{equation}
+	\varepsilon _ { 0 } ^ { \beta \rightarrow 0 } \geqq A + B + C
+\end{equation}

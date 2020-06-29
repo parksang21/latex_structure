@@ -1,0 +1,35 @@
+# IUD, 3053
+# Objects(16):
+O, \tau_8, \tau, 1.0, ORRRR
+O, \sigma_6, \sigma, 1.0, ORR
+O, \alpha_16, \alpha, 1.0, ORRRRRRRRR
+O, =_10, =, 1.0, ORRRRRR
+O, (_5, (, 1.0, OR
+O, +_4, +, 1.0, OSup
+O, +_20, +, 1.0, ORRRRRRRRRRSup
+O, +_14, +, 1.0, ORRRRRRRR
+O, )_9, ), 1.0, ORRRRR
+O, X_3, X, 1.0, O
+O, +_13, +, 1.0, ORRRRRRRSup
+O, P_19, P, 1.0, ORRRRRRRRRR
+O, \tau_21, \tau, 1.0, ORRRRRRRRRRR
+O, COMMA_7, COMMA, 1.0, ORRR
+O, \prime_17, \prime, 1.0, ORRRRRRRRRSup
+O, x_12, x, 1.0, ORRRRRRR
+
+# Relations from SRT:
+R, (_5, \sigma_6, Right, 1.0
+R, )_9, =_10, Right, 1.0
+R, +_14, \alpha_16, Right, 1.0
+R, =_10, x_12, Right, 1.0
+R, COMMA_7, \tau_8, Right, 1.0
+R, P_19, +_20, Sup, 1.0
+R, P_19, \tau_21, Right, 1.0
+R, X_3, (_5, Right, 1.0
+R, X_3, +_4, Sup, 1.0
+R, \alpha_16, P_19, Right, 1.0
+R, \alpha_16, \prime_17, Sup, 1.0
+R, \sigma_6, COMMA_7, Right, 1.0
+R, \tau_8, )_9, Right, 1.0
+R, x_12, +_13, Sup, 1.0
+R, x_12, +_14, Right, 1.0

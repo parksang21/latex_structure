@@ -1,0 +1,3 @@
+\begin{equation}
+	\rho ( e _ { n } ) = \sum _ { m } D _ { \wedge m } \osqrt e _ { M }
+\end{equation}

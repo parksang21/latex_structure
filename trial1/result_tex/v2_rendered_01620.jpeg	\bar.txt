@@ -1,0 +1,3 @@
+\begin{equation}
+	{ Q } _ { B } = Q _ { B } \odot a , \bar { Y } _ { - 2 } = Y _ { - 2 } \odot a
+\end{equation}

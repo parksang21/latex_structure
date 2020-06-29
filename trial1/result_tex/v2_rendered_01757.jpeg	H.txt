@@ -1,0 +1,3 @@
+\begin{equation}
+	\vert \Omega \} = 0 = P _ { i } \vert \Omega \}
+\end{equation}

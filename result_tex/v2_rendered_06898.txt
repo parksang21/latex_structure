@@ -1,0 +1,3 @@
+\begin{equation}
+	d S _ { \mu } = n _ { \mu } R ^ { D - 3 } d \tau d \Omega
+\end{equation}

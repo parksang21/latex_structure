@@ -1,0 +1,39 @@
+# IUD, v2_rendered_20173
+# Objects(18):
+O, \prime_26, \prime, 1.0, ORRRRRRRSup
+O, b_22, b, 1.0, ORRRRRRSubR
+O, =_10, =, 1.0, ORR
+O, )_19, ), 1.0, ORRRRRR
+O, \prime_5, \prime, 1.0, OSup
+O, (_14, (, 1.0, ORRRR
+O, V_7, V, 1.0, OR
+O, a_8, a, 1.0, ORSub
+O, \prod_12, \prod, 1.0, ORRR
+O, b_25, b, 1.0, ORRRRRRRSub
+O, I_16, I, 1.0, ORRRRR
+O, b_13, b, 1.0, ORRRBelow
+O, a_21, a, 1.0, ORRRRRRSub
+O, \prime_9, \prime, 1.0, ORSup
+O, \beta_17, \beta, 1.0, ORRRRRSub
+O, V_24, V, 1.0, ORRRRRRR
+O, \beta_4, \beta, 1.0, OSub
+O, S_3, S, 1.0, O
+
+# Relations from SRT:
+R, (_14, I_16, Right, 1.0
+R, )_19, V_24, Right, 1.0
+R, )_19, a_21, Sub, 1.0
+R, =_10, \prod_12, Right, 1.0
+R, I_16, )_19, Right, 1.0
+R, I_16, \beta_17, Sub, 1.0
+R, S_3, V_7, Right, 1.0
+R, S_3, \beta_4, Sub, 1.0
+R, S_3, \prime_5, Sup, 1.0
+R, V_24, \prime_26, Sup, 1.0
+R, V_24, b_25, Sub, 1.0
+R, V_7, =_10, Right, 1.0
+R, V_7, \prime_9, Sup, 1.0
+R, V_7, a_8, Sub, 1.0
+R, \prod_12, (_14, Right, 1.0
+R, \prod_12, b_13, Below, 1.0
+R, a_21, b_22, Right, 1.0

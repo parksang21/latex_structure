@@ -1,0 +1,3 @@
+\begin{equation}
+	\leqq \{ t \vee W U _ { n } ( 2 ) \vert a t \leqq t a \because a \vee W U _ { n } ( 2 ) \}
+\end{equation}

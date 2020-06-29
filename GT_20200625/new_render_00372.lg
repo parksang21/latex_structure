@@ -1,0 +1,47 @@
+# IUD, new_render_00372
+# Objects(22):
+O, a_3, a, 1.0, O
+O, COMMA_23, COMMA, 1.0, ORRRRRRRR
+O, j_27, j, 1.0, ORRRRRRRRRRRR
+O, =_21, =, 1.0, ORRRRRR
+O, a_19, a, 1.0, ORRRRR
+O, I_29, I, 1.0, ORRRRRRRRRRRRRR
+O, a_16, a, 1.0, ORRRR
+O, \wedge_28, \wedge, 1.0, ORRRRRRRRRRRRR
+O, 4_22, 4, 1.0, ORRRRRRR
+O, j_13, j, 1.0, ORRRSubR
+O, \div_8, \div, 1.0, ORR
+O, i_4, i, 1.0, OSub
+O, a_6, a, 1.0, OR
+O, j_17, j, 1.0, ORRRRSub
+O, i_25, i, 1.0, ORRRRRRRRRR
+O, j_7, j, 1.0, ORSub
+O, \therefore_24, \therefore, 1.0, ORRRRRRRRR
+O, COMMA_26, COMMA, 1.0, ORRRRRRRRRRR
+O, i_10, i, 1.0, ORRR
+O, i_12, i, 1.0, ORRRSub
+O, *_14, *, 1.0, ORRRSup
+O, i_20, i, 1.0, ORRRRRSub
+
+# Relations from SRT:
+R, 4_22, COMMA_23, Right, 1.0
+R, =_21, 4_22, Right, 1.0
+R, COMMA_23, \therefore_24, Right, 1.0
+R, COMMA_26, j_27, Right, 1.0
+R, \div_8, i_10, Right, 1.0
+R, \therefore_24, i_25, Right, 1.0
+R, \wedge_28, I_29, Right, 1.0
+R, a_16, a_19, Right, 1.0
+R, a_16, j_17, Sub, 1.0
+R, a_19, =_21, Right, 1.0
+R, a_19, i_20, Sub, 1.0
+R, a_3, a_6, Right, 1.0
+R, a_3, i_4, Sub, 1.0
+R, a_6, \div_8, Right, 1.0
+R, a_6, j_7, Sub, 1.0
+R, i_10, *_14, Sup, 1.0
+R, i_10, a_16, Right, 1.0
+R, i_10, i_12, Sub, 1.0
+R, i_12, j_13, Right, 1.0
+R, i_25, COMMA_26, Right, 1.0
+R, j_27, \wedge_28, Right, 1.0

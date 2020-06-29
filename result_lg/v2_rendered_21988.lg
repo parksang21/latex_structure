@@ -1,0 +1,31 @@
+# IUD, v2_rendered_21988
+# Objects(14):
+O, \theta_7, \theta, 1.0, ORR
+O, \Leftrifhtarrow_5, \Leftrifhtarrow, 1.0, OR
+O, _12, \sqrt, 1.0, ORRRRR
+O, \Delta_16, \Delta, 1.0, ORRRRRR
+O, *_14, *, 1.0, ORRRRRSup
+O, _18, \sqrt, 1.0, ORRRRRRR
+O, \mu_17, \mu, 1.0, ORRRRRRSub
+O, \div_9, \div, 1.0, ORRR
+O, \phi_13, \phi, 1.0, ORRRRRInside
+O, \theta_3, \theta, 1.0, O
+O, \mu_8, \mu, 1.0, ORRSub
+O, \mu_4, \mu, 1.0, OSub
+O, i_10, i, 1.0, ORRRR
+O, \phi_19, \phi, 1.0, ORRRRRRRInside
+
+# Relations from SRT:
+R, \Delta_16, \mu_17, Sub, 1.0
+R, \Delta_16, _18, Right, 1.0
+R, \Leftrifhtarrow_5, \theta_7, Right, 1.0
+R, \div_9, i_10, Right, 1.0
+R, \theta_3, \Leftrifhtarrow_5, Right, 1.0
+R, \theta_3, \mu_4, Sub, 1.0
+R, \theta_7, \div_9, Right, 1.0
+R, \theta_7, \mu_8, Sub, 1.0
+R, _12, *_14, Sup, 1.0
+R, _12, \Delta_16, Right, 1.0
+R, _12, \phi_13, Inside, 1.0
+R, _18, \phi_19, Inside, 1.0
+R, i_10, _12, Right, 1.0

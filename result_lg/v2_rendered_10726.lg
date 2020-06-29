@@ -1,0 +1,35 @@
+# IUD, v2_rendered_10726
+# Objects(16):
+O, 5_17, 5, 1.0, ORRRRRRRRRRRRRRR
+O, -_5, -, 1.0, ORRR
+O, =_16, =, 1.0, ORRRRRRRRRRRRRR
+O, COMMA_4, COMMA, 1.0, ORR
+O, \circle_9, \circle, 1.0, ORRRRRRR
+O, J_8, J, 1.0, ORRRRRR
+O, J_6, J, 1.0, ORRRR
+O, g_10, g, 1.0, ORRRRRRRR
+O, J_12, J, 1.0, ORRRRRRRRRR
+O, 2_14, 2, 1.0, ORRRRRRRRRRRR
+O, f_3, f, 1.0, OR
+O, COMMA_13, COMMA, 1.0, ORRRRRRRRRRR
+O, \lt_2, \lt, 1.0, O
+O, \vert_7, \vert, 1.0, ORRRRR
+O, \rangle_15, \rangle, 1.0, ORRRRRRRRRRRRR
+O, \circle_11, \circle, 1.0, ORRRRRRRRR
+
+# Relations from SRT:
+R, -_5, J_6, Right, 1.0
+R, 2_14, \rangle_15, Right, 1.0
+R, =_16, 5_17, Right, 1.0
+R, COMMA_13, 2_14, Right, 1.0
+R, COMMA_4, -_5, Right, 1.0
+R, J_12, COMMA_13, Right, 1.0
+R, J_6, \vert_7, Right, 1.0
+R, J_8, \circle_9, Right, 1.0
+R, \circle_11, J_12, Right, 1.0
+R, \circle_9, g_10, Right, 1.0
+R, \lt_2, f_3, Right, 1.0
+R, \rangle_15, =_16, Right, 1.0
+R, \vert_7, J_8, Right, 1.0
+R, f_3, COMMA_4, Right, 1.0
+R, g_10, \circle_11, Right, 1.0

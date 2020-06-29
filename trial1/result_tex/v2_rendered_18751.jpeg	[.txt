@@ -1,0 +1,3 @@
+\begin{equation}
+	L , L ] \subset L , [ L , G ] = G , [ G , G ] \subset L
+\end{equation}

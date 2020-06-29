@@ -1,0 +1,3 @@
+\begin{equation}
+	\sigma = \Delta _ { r } P _ { A } ^ { r } = 0
+\end{equation}

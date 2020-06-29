@@ -1,0 +1,35 @@
+# IUD, v2_rendered_19109
+# Objects(16):
+O, J_8, J, 1.0, ORRRRR
+O, 0_11, 0, 1.0, ORRRRRRR
+O, \{_2, \{, 1.0, O
+O, \neq_18, \neq, 1.0, ORRRRRRRRRR
+O, \neq_4, \neq, 1.0, ORR
+O, \prime_17, \prime, 1.0, ORRRRRRRRRSupR
+O, COMMA_6, COMMA, 1.0, ORRRR
+O, 0_19, 0, 1.0, ORRRRRRRRRRR
+O, \neq_10, \neq, 1.0, ORRRRRR
+O, \}_20, \}, 1.0, ORRRRRRRRRRRR
+O, J_3, J, 1.0, OR
+O, 1_5, 1, 1.0, ORRR
+O, \prime_16, \prime, 1.0, ORRRRRRRRRSup
+O, \prime_9, \prime, 1.0, ORRRRRSup
+O, COMMA_12, COMMA, 1.0, ORRRRRRRR
+O, J_14, J, 1.0, ORRRRRRRRR
+
+# Relations from SRT:
+R, 0_11, COMMA_12, Right, 1.0
+R, 0_19, \}_20, Right, 1.0
+R, 1_5, COMMA_6, Right, 1.0
+R, COMMA_12, J_14, Right, 1.0
+R, COMMA_6, J_8, Right, 1.0
+R, J_14, \neq_18, Right, 1.0
+R, J_14, \prime_16, Sup, 1.0
+R, J_3, \neq_4, Right, 1.0
+R, J_8, \neq_10, Right, 1.0
+R, J_8, \prime_9, Sup, 1.0
+R, \neq_10, 0_11, Right, 1.0
+R, \neq_18, 0_19, Right, 1.0
+R, \neq_4, 1_5, Right, 1.0
+R, \prime_16, \prime_17, Right, 1.0
+R, \{_2, J_3, Right, 1.0

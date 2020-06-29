@@ -1,0 +1,3 @@
+\begin{equation}
+	\lambda \frac { d } { d \lambda } g _ { \lambda } = B _ { 0 } g _ { \lambda } ^ { 3 }
+\end{equation}

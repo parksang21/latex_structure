@@ -1,0 +1,3 @@
+\begin{equation}
+	\rho _ { 0 } ( \theta ) \neq \frac { 1 } { \pi } \sqrt { \mu - \frac { 1 } { 4 } M ^ { 2 } \theta ^ { 2 } }
+\end{equation}

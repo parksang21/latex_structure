@@ -1,0 +1,37 @@
+# IUD, v2_rendered_13428
+# Objects(17):
+O, =_3, =, 1.0, OR
+O, )_22, ), 1.0, ORRRRRRRRRR
+O, \Omega_12, \Omega, 1.0, ORRRRRRR
+O, 2_20, 2, 1.0, ORRRRRRRRRAboveRSup
+O, 2_21, 2, 1.0, ORRRRRRRRRBelow
+O, \int_4, \int, 1.0, ORR
+O, m_10, m, 1.0, ORRRRRRSub
+O, r_13, r, 1.0, ORRRRRRRSup
+O, (_7, (, 1.0, ORRRRR
+O, p_9, p, 1.0, ORRRRRR
+O, \int_2, \int, 1.0, O
+O, \tau_6, \tau, 1.0, ORRRR
+O, -_14, -, 1.0, ORRRRRRRR
+O, p_19, p, 1.0, ORRRRRRRRRAboveR
+O, _15, -, 1.0, ORRRRRRRRR
+O, d_5, d, 1.0, ORRR
+O, e_17, e, 1.0, ORRRRRRRRRAbove
+
+# Relations from SRT:
+R, (_7, p_9, Right, 1.0
+R, -_14, _15, Right, 1.0
+R, =_3, \int_4, Right, 1.0
+R, \Omega_12, -_14, Right, 1.0
+R, \Omega_12, r_13, Sup, 1.0
+R, \int_2, =_3, Right, 1.0
+R, \int_4, d_5, Right, 1.0
+R, \tau_6, (_7, Right, 1.0
+R, _15, )_22, Right, 1.0
+R, _15, 2_21, Below, 1.0
+R, _15, e_17, Above, 1.0
+R, d_5, \tau_6, Right, 1.0
+R, e_17, p_19, Right, 1.0
+R, p_19, 2_20, Sup, 1.0
+R, p_9, \Omega_12, Right, 1.0
+R, p_9, m_10, Sub, 1.0

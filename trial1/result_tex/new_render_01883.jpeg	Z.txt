@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { N } ^ { \alpha } ( s ) \geqq J _ { N } ( s . \alpha ) / N !
+\end{equation}

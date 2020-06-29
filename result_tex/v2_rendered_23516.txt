@@ -1,0 +1,3 @@
+\begin{equation}
+	\omega = d \beta \wedge d \log \frac { \mu } { \rho }
+\end{equation}

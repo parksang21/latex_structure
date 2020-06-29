@@ -1,0 +1,3 @@
+\begin{equation}
+	- T = \int _ { M } a ( x )
+\end{equation}

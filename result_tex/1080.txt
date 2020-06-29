@@ -1,0 +1,3 @@
+\begin{equation}
+	( W ^ { a } = \alpha p ^ { a } ) \vert \alpha \rangle , a = 0 , 1 , 2 , 3 , 5 , \csqrts , d
+\end{equation}

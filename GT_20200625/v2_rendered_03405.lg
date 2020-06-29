@@ -1,0 +1,33 @@
+# IUD, v2_rendered_03405
+# Objects(15):
+O, j_14, j, 1.0, ORRRBelowRRSub
+O, j_23, j, 1.0, ORRRRSupRRSub
+O, (_10, (, 1.0, ORRRBelow
+O, U_16, U, 1.0, ORRRR
+O, U_3, U, 1.0, O
+O, (_19, (, 1.0, ORRRRSup
+O, \sum_8, \sum, 1.0, ORRR
+O, \otimes_6, \otimes, 1.0, ORR
+O, t_20, t, 1.0, ORRRRSupR
+O, t_11, t, 1.0, ORRRBelowR
+O, \lambda_4, \lambda, 1.0, OSub
+O, )_22, ), 1.0, ORRRRSupRR
+O, )_13, ), 1.0, ORRRBelowRR
+O, =_5, =, 1.0, OR
+O, \lambda_17, \lambda, 1.0, ORRRRSub
+
+# Relations from SRT:
+R, (_10, t_11, Right, 1.0
+R, (_19, t_20, Right, 1.0
+R, )_13, j_14, Sub, 1.0
+R, )_22, j_23, Sub, 1.0
+R, =_5, \otimes_6, Right, 1.0
+R, U_16, (_19, Sup, 1.0
+R, U_16, \lambda_17, Sub, 1.0
+R, U_3, =_5, Right, 1.0
+R, U_3, \lambda_4, Sub, 1.0
+R, \otimes_6, \sum_8, Right, 1.0
+R, \sum_8, (_10, Below, 1.0
+R, \sum_8, U_16, Right, 1.0
+R, t_11, )_13, Right, 1.0
+R, t_20, )_22, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	\delta \phi = \frac { m } { 2 \pi }
+\end{equation}

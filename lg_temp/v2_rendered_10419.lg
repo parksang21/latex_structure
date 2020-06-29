@@ -1,0 +1,17 @@
+# IUD, v2_rendered_10419
+# Objects(7):
+O, +_7, +, 1.0, 4
+O, \delta_5, \delta, 1.0, 2
+O, 0_6, 0, 1.0, 3
+O, 1_10, 1, 1.0, 6
+O, \delta_9, \delta, 1.0, 5
+O, \delta_2, \delta, 1.0, 0
+O, =_3, =, 1.0, 1
+
+# Relations from SRT:
+R, +_7, \delta_9, Right, 1.0
+R, =_3, \delta_5, Right, 1.0
+R, \delta_2, =_3, Right, 1.0
+R, \delta_5, +_7, Right, 1.0
+R, \delta_5, 0_6, Sub, 1.0
+R, \delta_9, 1_10, Sub, 1.0

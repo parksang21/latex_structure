@@ -1,0 +1,3 @@
+\begin{equation}
+	\psi _ { \alpha B M } = e _ { a \alpha } \psi _ { M } ^ { a b } e _ { b \beta }
+\end{equation}

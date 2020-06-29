@@ -1,0 +1,3 @@
+\begin{equation}
+	\langle x _ { 0 } \vert \leqq \langle \sqrt { x } + \sum _ { e > 0 } x e W e \vert \leqq \langle \sqrt { x }
+\end{equation}

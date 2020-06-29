@@ -1,0 +1,41 @@
+# IUD, new_render_00743
+# Objects(19):
+O, )_6, ), 1.0, ORRRR
+O, V_16, V, 1.0, ORRRRRRRRRRRR
+O, \alpha_5, \alpha, 1.0, ORRR
+O, \notin_11, \notin, 1.0, ORRRRRRR
+O, \alpha_21, \alpha, 1.0, ORRRRRRRRRRRRRRRRR
+O, a_14, a, 1.0, ORRRRRRRRRR
+O, \leftrightarrow_17, \leftrightarrow, 1.0, ORRRRRRRRRRRRR
+O, 5_9, 5, 1.0, ORRRRRR
+O, \therefore_20, \therefore, 1.0, ORRRRRRRRRRRRRRRR
+O, \leftrightarrow_12, \leftrightarrow, 1.0, ORRRRRRRR
+O, F_10, F, 1.0, ORRRRRRSub
+O, \vert_7, \vert, 1.0, ORRRRR
+O, s_15, s, 1.0, ORRRRRRRRRRR
+O, 5_13, 5, 1.0, ORRRRRRRRR
+O, COMMA_19, COMMA, 1.0, ORRRRRRRRRRRRRRR
+O, 5_3, 5, 1.0, OR
+O, \gt_2, \gt, 1.0, O
+O, \infty_18, \infty, 1.0, ORRRRRRRRRRRRRR
+O, (_4, (, 1.0, ORR
+
+# Relations from SRT:
+R, (_4, \alpha_5, Right, 1.0
+R, )_6, \vert_7, Right, 1.0
+R, 5_13, a_14, Right, 1.0
+R, 5_3, (_4, Right, 1.0
+R, 5_9, F_10, Sub, 1.0
+R, 5_9, \notin_11, Right, 1.0
+R, COMMA_19, \therefore_20, Right, 1.0
+R, V_16, \leftrightarrow_17, Right, 1.0
+R, \alpha_5, )_6, Right, 1.0
+R, \gt_2, 5_3, Right, 1.0
+R, \infty_18, COMMA_19, Right, 1.0
+R, \leftrightarrow_12, 5_13, Right, 1.0
+R, \leftrightarrow_17, \infty_18, Right, 1.0
+R, \notin_11, \leftrightarrow_12, Right, 1.0
+R, \therefore_20, \alpha_21, Right, 1.0
+R, \vert_7, 5_9, Right, 1.0
+R, a_14, s_15, Right, 1.0
+R, s_15, V_16, Right, 1.0

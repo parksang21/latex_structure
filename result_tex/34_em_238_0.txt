@@ -1,0 +1,3 @@
+\begin{equation}
+	x _ { 1 } + x _ { 2 } + \csqrts + x _ { n } \neq 0
+\end{equation}

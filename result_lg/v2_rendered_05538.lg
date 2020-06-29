@@ -1,0 +1,53 @@
+# IUD, v2_rendered_05538
+# Objects(25):
+O, \rangle_8, \rangle, 1.0, ORRRR
+O, \psi_7, \psi, 1.0, ORRR
+O, \gt_23, \gt, 1.0, ORRRRRRRRRRRRRRRRR
+O, \prime_5, \prime, 1.0, ORSup
+O, \langle_18, \langle, 1.0, ORRRRRRRRRRRR
+O, \langle_2, \langle, 1.0, O
+O, =_9, =, 1.0, ORRRRR
+O, 2_28, 2, 1.0, ORRRRRRRRRRRRRRRRRRRRRR
+O, COMMA_12, COMMA, 1.0, ORRRRRRRR
+O, \psi_19, \psi, 1.0, ORRRRRRRRRRRRR
+O, \psi_14, \psi, 1.0, ORRRRRRRRR
+O, \rangle_22, \rangle, 1.0, ORRRRRRRRRRRRRRRR
+O, \psi_4, \psi, 1.0, OR
+O, \psi_21, \psi, 1.0, ORRRRRRRRRRRRRRR
+O, COMMA_20, COMMA, 1.0, ORRRRRRRRRRRRRR
+O, \langle_10, \langle, 1.0, ORRRRRR
+O, COMMA_6, COMMA, 1.0, ORR
+O, \psi_11, \psi, 1.0, ORRRRRRR
+O, \rangle_16, \rangle, 1.0, ORRRRRRRRRR
+O, \psi_26, \psi, 1.0, ORRRRRRRRRRRRRRRRRRRR
+O, \exists_25, \exists, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, COMMA_17, COMMA, 1.0, ORRRRRRRRRRR
+O, \prime_15, \prime, 1.0, ORRRRRRRRRSup
+O, u_27, u, 1.0, ORRRRRRRRRRRRRRRRRRRRR
+O, 2_24, 2, 1.0, ORRRRRRRRRRRRRRRRRR
+
+# Relations from SRT:
+R, 2_24, \exists_25, Right, 1.0
+R, =_9, \langle_10, Right, 1.0
+R, COMMA_12, \psi_14, Right, 1.0
+R, COMMA_17, \langle_18, Right, 1.0
+R, COMMA_20, \psi_21, Right, 1.0
+R, COMMA_6, \psi_7, Right, 1.0
+R, \exists_25, \psi_26, Right, 1.0
+R, \gt_23, 2_24, Right, 1.0
+R, \langle_10, \psi_11, Right, 1.0
+R, \langle_18, \psi_19, Right, 1.0
+R, \langle_2, \psi_4, Right, 1.0
+R, \psi_11, COMMA_12, Right, 1.0
+R, \psi_14, \prime_15, Sup, 1.0
+R, \psi_14, \rangle_16, Right, 1.0
+R, \psi_19, COMMA_20, Right, 1.0
+R, \psi_21, \rangle_22, Right, 1.0
+R, \psi_26, u_27, Right, 1.0
+R, \psi_4, COMMA_6, Right, 1.0
+R, \psi_4, \prime_5, Sup, 1.0
+R, \psi_7, \rangle_8, Right, 1.0
+R, \rangle_16, COMMA_17, Right, 1.0
+R, \rangle_22, \gt_23, Right, 1.0
+R, \rangle_8, =_9, Right, 1.0
+R, u_27, 2_28, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { o } = \tau _ { 0 } \otimes \tau _ { 1 } \otimes \ldots \otimes \tau _ { ( m - 1 ) } \otimes q ^ { m }
+\end{equation}

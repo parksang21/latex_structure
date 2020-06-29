@@ -1,0 +1,3 @@
+\begin{equation}
+	c _ { n } \sim n ! ( \frac { b _ { 0 } } { p } ) ^ { n }
+\end{equation}

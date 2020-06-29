@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { 2 } = \vert \overrightarrow p \vert ^ { 2 } / \frac { a } { \pi ^ { 2 } } \frac { g ^ { 2 } } { p \circ p }
+\end{equation}

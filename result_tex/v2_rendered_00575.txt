@@ -1,0 +1,3 @@
+\begin{equation}
+	\angle _ { 2 S } = \frac { 7 } { 2 } \phi ^ { 2 } \angle - \frac { 7 } { 8 } \phi _ { , \beta } ^ { 2 } \Delta _ { \beta }
+\end{equation}

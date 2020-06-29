@@ -1,0 +1,40 @@
+# IUD, v2_rendered_23905
+# Objects(18):
+O, x_12, x, 1.0, ORRRRRR
+O, _18, \sqrt, 1.0, ORRRRRRRR
+O, d_10, d, 1.0, ORRRRR
+O, g_21, g, 1.0, ORRRRRRRRInsideR
+O, M_4, M, 1.0, OSub
+O, \rho_17, \rho, 1.0, ORRRRRRRSupR
+O, =_5, =, 1.0, OR
+O, -_20, -, 1.0, ORRRRRRRRInside
+O, \rho_26, \rho, 1.0, ORRRRRRRRRSubR
+O, \mu_25, \mu, 1.0, ORRRRRRRRRSub
+O, \mu_16, \mu, 1.0, ORRRRRRRSup
+O, g_14, g, 1.0, ORRRRRRR
+O, 4_11, 4, 1.0, ORRRRRSup
+O, T_23, T, 1.0, ORRRRRRRRR
+O, -_6, -, 1.0, ORR
+O, \cos_7, \cos, 1.0, ORRR
+O, \int_8, \int, 1.0, ORRRR
+O, S_3, S, 1.0, O
+
+# Relations from SRT:
+R, -_20, g_21, Right, 1.0
+R, -_6, \cos_7, Right, 1.0
+R, =_5, -_6, Right, 1.0
+R, S_3, =_5, Right, 1.0
+R, S_3, M_4, Sub, 1.0
+R, T_23, \mu_25, Sub, 1.0
+R, \cos_7, \int_8, Right, 1.0
+R, \int_8, d_10, Right, 1.0
+R, \mu_16, \rho_17, Right, 1.0
+R, \mu_25, \rho_26, Right, 1.0
+R, _18, -_20, Inside, 1.0
+R, _18, T_23, Right, 1.0
+R, _18, g_21, Inside, 1.0
+R, d_10, 4_11, Sup, 1.0
+R, d_10, x_12, Right, 1.0
+R, g_14, \mu_16, Sup, 1.0
+R, g_14, _18, Right, 1.0
+R, x_12, g_14, Right, 1.0

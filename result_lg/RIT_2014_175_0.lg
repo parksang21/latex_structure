@@ -1,0 +1,45 @@
+# IUD, RIT_2014_175_0
+# Objects(21):
+O, \theta_22, \theta, 1.0, ORRRRRRRRRRRRRRAbove
+O, (_10, (, 1.0, ORRRRRRRR
+O, \theta_4, \theta, 1.0, ORR
+O, z_13, z, 1.0, ORRRRRRRRRBelow
+O, \gt_6, \gt, 1.0, ORRRR
+O, \cos_2, \cos, 1.0, O
+O, 2_24, 2, 1.0, ORRRRRRRRRRRRRRBelow
+O, 2_9, 2, 1.0, ORRRRRRR
+O, 2_16, 2, 1.0, ORRRRRRRRRRSup
+O, )_15, ), 1.0, ORRRRRRRRRR
+O, -_8, -, 1.0, ORRRRRR
+O, \theta_12, \theta, 1.0, ORRRRRRRRRAbove
+O, _11, -, 1.0, ORRRRRRRRR
+O, (_3, (, 1.0, OR
+O, _20, -, 1.0, ORRRRRRRRRRRRRR
+O, =_17, =, 1.0, ORRRRRRRRRRR
+O, )_5, ), 1.0, ORRR
+O, -_19, -, 1.0, ORRRRRRRRRRRRR
+O, /_7, /, 1.0, ORRRRR
+O, 2_23, 2, 1.0, ORRRRRRRRRRRRRRAboveSup
+O, 1_18, 1, 1.0, ORRRRRRRRRRRR
+
+# Relations from SRT:
+R, (_10, _11, Right, 1.0
+R, (_3, \theta_4, Right, 1.0
+R, )_15, 2_16, Sup, 1.0
+R, )_15, =_17, Right, 1.0
+R, )_5, \gt_6, Right, 1.0
+R, -_19, _20, Right, 1.0
+R, -_8, 2_9, Right, 1.0
+R, /_7, -_8, Right, 1.0
+R, 1_18, -_19, Right, 1.0
+R, 2_9, (_10, Right, 1.0
+R, =_17, 1_18, Right, 1.0
+R, \cos_2, (_3, Right, 1.0
+R, \gt_6, /_7, Right, 1.0
+R, \theta_22, 2_23, Sup, 1.0
+R, \theta_4, )_5, Right, 1.0
+R, _11, )_15, Right, 1.0
+R, _11, \theta_12, Above, 1.0
+R, _11, z_13, Below, 1.0
+R, _20, 2_24, Below, 1.0
+R, _20, \theta_22, Above, 1.0

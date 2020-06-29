@@ -1,0 +1,3 @@
+\begin{equation}
+	L \neq \rho _ { 8 } \oplus \rho _ { 8 } \oplus \sigma \oplus \lsqrts \oplus \sigma
+\end{equation}

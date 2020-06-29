@@ -1,0 +1,36 @@
+# IUD, 35_em_24_0
+# Objects(16):
+O, x_7, x, 1.0, OInsideRAboveR
+O, 2_21, 2, 1.0, OInsideRRRRRRSup
+O, +_12, +, 1.0, OInsideRRR
+O, 2_11, 2, 1.0, OInsideRRSup
+O, _14, -, 1.0, OInsideRRRRR
+O, _4, -, 1.0, OInsideR
+O, y_17, y, 1.0, OInsideRRRRRAboveR
+O, \Delta_6, \Delta, 1.0, OInsideRAbove
+O, y_18, y, 1.0, OInsideRRRRRBelow
+O, )_20, ), 1.0, OInsideRRRRRR
+O, (_13, (, 1.0, OInsideRRRR
+O, )_10, ), 1.0, OInsideRR
+O, x_8, x, 1.0, OInsideRBelow
+O, _1, \sqrt, 1.0, O
+O, (_3, (, 1.0, OInside
+O, \Delta_16, \Delta, 1.0, OInsideRRRRRAbove
+
+# Relations from SRT:
+R, (_13, _14, Right, 1.0
+R, (_3, _4, Right, 1.0
+R, )_10, +_12, Right, 1.0
+R, )_10, 2_11, Sup, 1.0
+R, )_20, 2_21, Sup, 1.0
+R, +_12, (_13, Right, 1.0
+R, \Delta_16, y_17, Right, 1.0
+R, \Delta_6, x_7, Right, 1.0
+R, _14, )_20, Right, 1.0
+R, _14, \Delta_16, Above, 1.0
+R, _14, y_18, Below, 1.0
+R, _1, (_3, Inside, 1.0
+R, _1, _4, Inside, 1.0
+R, _4, )_10, Right, 1.0
+R, _4, \Delta_6, Above, 1.0
+R, _4, x_8, Below, 1.0

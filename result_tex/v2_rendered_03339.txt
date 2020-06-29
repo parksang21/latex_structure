@@ -1,0 +1,3 @@
+\begin{equation}
+	L _ { G . F . } ^ { L C G } = - \lambda ^ { a } ( n A ^ { a } )
+\end{equation}

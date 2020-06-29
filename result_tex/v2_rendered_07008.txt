@@ -1,0 +1,3 @@
+\begin{equation}
+	\vert q \vert = 1 \Leftrightarrow \vert \Delta 1 \leq 1
+\end{equation}

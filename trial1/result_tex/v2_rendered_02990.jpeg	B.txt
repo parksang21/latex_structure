@@ -1,0 +1,3 @@
+\begin{equation}
+	( y ) = k ^ { \prime } e ^ { - 2 k ^ { \prime } y } \Delta _ { y } \mu ( y )
+\end{equation}

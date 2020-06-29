@@ -1,0 +1,39 @@
+# IUD, v2_rendered_06144
+# Objects(18):
+O, (_6, (, 1.0, ORRRR
+O, \vert_4, \vert, 1.0, ORR
+O, 0_12, 0, 1.0, ORRRRRRRR
+O, c_21, c, 1.0, ORRRRRRRRRRRRRRRSub
+O, \rangle_13, \rangle, 1.0, ORRRRRRRRR
+O, L_17, L, 1.0, ORRRRRRRRRRRRR
+O, u_5, u, 1.0, ORRR
+O, \vert_11, \vert, 1.0, ORRRRRRR
+O, \in_9, \in, 1.0, ORRRRRSub
+O, \langle_2, \langle, 1.0, O
+O, 0_15, 0, 1.0, ORRRRRRRRRRR
+O, COMMA_16, COMMA, 1.0, ORRRRRRRRRRRR
+O, \neq_14, \neq, 1.0, ORRRRRRRRRR
+O, L_20, L, 1.0, ORRRRRRRRRRRRRRR
+O, )_10, ), 1.0, ORRRRRR
+O, 0_3, 0, 1.0, OR
+O, \lt_18, \lt, 1.0, ORRRRRRRRRRRRRR
+O, x_8, x, 1.0, ORRRRR
+
+# Relations from SRT:
+R, (_6, x_8, Right, 1.0
+R, )_10, \vert_11, Right, 1.0
+R, 0_12, \rangle_13, Right, 1.0
+R, 0_15, COMMA_16, Right, 1.0
+R, 0_3, \vert_4, Right, 1.0
+R, COMMA_16, L_17, Right, 1.0
+R, L_17, \lt_18, Right, 1.0
+R, L_20, c_21, Sub, 1.0
+R, \langle_2, 0_3, Right, 1.0
+R, \lt_18, L_20, Right, 1.0
+R, \neq_14, 0_15, Right, 1.0
+R, \rangle_13, \neq_14, Right, 1.0
+R, \vert_11, 0_12, Right, 1.0
+R, \vert_4, u_5, Right, 1.0
+R, u_5, (_6, Right, 1.0
+R, x_8, )_10, Right, 1.0
+R, x_8, \in_9, Sub, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	I _ { r } = = - \frac { a } { r ^ { 2 } + a ^ { 2 } } I _ { \phi }
+\end{equation}

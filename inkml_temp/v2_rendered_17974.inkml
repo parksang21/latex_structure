@@ -1,0 +1,111 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_17974</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mi xml:id="\delta_2">δ</mi><mo form="prefix" stretchy="false" xml:id="(_3">(</mo><mi xml:id="i_4">i</mi><mi xml:id="j_5">j</mi><msup><mi xml:id="N_7">N</mi><mn xml:id="2_8">2</mn></msup><mo form="postfix" stretchy="false" xml:id=")_9">)</mo><mo xml:id="=_10">=</mo><msqrt xml:id="_11"><mi xml:id="u_12">u</mi></msqrt><msqrt xml:id="_13"><mi xml:id="v_14">v</mi></msqrt><mi xml:id="\beta_15">β</mi><mo form="prefix" stretchy="false" xml:id="(_16">(</mo><mi xml:id="\varepsilon_17">ε</mi><mo xml:id=",_18">,</mo><mi xml:id="u_19">u</mi><mo xml:id=",_20">,</mo><mi xml:id="v_21">v</mi><mo form="postfix" stretchy="false" xml:id=")_22">)</mo></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\delta</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\delta_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="(_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">i</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="i_4"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">j</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="j_5"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">N</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="N_7"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">2</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="2_8"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href=")_9"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="=_10"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">u</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="u_12"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">v</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="v_14"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">\beta</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="\beta_15"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="(_16"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">\varepsilon</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="\varepsilon_17"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">,</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href=",_18"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">u</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="u_19"/>
+	</traceGroup>
+ <traceGroup xml:id="16">
+    <annotation type="truth">,</annotation>
+	<traceView traceDataRef="15"/>
+    <annotationXML href=",_20"/>
+	</traceGroup>
+ <traceGroup xml:id="17">
+    <annotation type="truth">v</annotation>
+	<traceView traceDataRef="16"/>
+    <annotationXML href="v_21"/>
+	</traceGroup>
+ <traceGroup xml:id="18">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="17"/>
+    <annotationXML href=")_22"/>
+	</traceGroup>
+ <traceGroup xml:id="19">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="18"/>
+    <annotationXML href="_11"/>
+	</traceGroup>
+ <traceGroup xml:id="20">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="19"/>
+    <annotationXML href="_13"/>
+	</traceGroup>
+</traceGroup>
+</ink>

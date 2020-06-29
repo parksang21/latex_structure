@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \beta \psi } \omega _ { i } = \int _ { C Y _ { 3 } } \omega _ { i } \cap G
+\end{equation}

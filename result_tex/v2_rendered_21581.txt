@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { 1 } { T } ( \pm i j _ { \pm } ) = \frac { \delta X ^ { \mu } } { \delta \psi _ { \pm } }
+\end{equation}

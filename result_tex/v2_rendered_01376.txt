@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta _ { i } \approx \tau ^ { - 1 } \circ \sqrt { \Delta } _ { i } ^ { 0 } \circ \tau
+\end{equation}

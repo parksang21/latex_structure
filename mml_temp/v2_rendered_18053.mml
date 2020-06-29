@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>V</mi><mrow><mi>g</mi><mi>r</mi><mi>a</mi><mi>v</mi><mi>i</mi><mi>t</mi><mi>y</mi></mrow></msub><mo>=</mo><mo>−</mo><mfrac><mrow><mn>1</mn><mn>5</mn><msup><mi>v</mi><mn>4</mn></msup></mrow><mrow><mn>1</mn><mn>6</mn><msup><mi>r</mi><mn>7</mn></msup></mrow></mfrac></mrow><annotation encoding="application/x-tex">\begin{equation}
+    V _ { g r a v i t y } = - \frac { 1 5 v ^ { 4 } } { 1 6 r ^ { 7 } }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

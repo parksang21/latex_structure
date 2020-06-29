@@ -1,0 +1,3 @@
+\begin{equation}
+	\int _ { p } f ( p ) \equiv \int \frac { d ^ { 4 } p } { 1 2 \pi ) ^ { 4 } } f ( p )
+\end{equation}

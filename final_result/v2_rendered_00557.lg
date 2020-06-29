@@ -1,0 +1,41 @@
+# IUD, v2_rendered_00557
+# Objects(19):
+O, \alpha_23, \alpha, 1.0, ORRRRRRSub
+O, I_11, I, 1.0, ORRRBelow
+O, I_15, I, 1.0, ORRRRSub
+O, (_24, (, 1.0, ORRRRRRR
+O, X_26, X, 1.0, ORRRRRRRR
+O, X_19, X, 1.0, ORRRRR
+O, x_6, x, 1.0, OSubR
+O, 0_5, 0, 1.0, OSub
+O, I_27, I, 1.0, ORRRRRRRRSup
+O, I_20, I, 1.0, ORRRRRSup
+O, \alpha_22, \alpha, 1.0, ORRRRRR
+O, 1_17, 1, 1.0, ORRRRSup
+O, \lim_10, \lim, 1.0, ORRR
+O, i_16, i, 1.0, ORRRRSubR
+O, \alpha_8, \alpha, 1.0, ORR
+O, =_7, =, 1.0, OR
+O, h_3, h, 1.0, O
+O, g_13, g, 1.0, ORRRR
+O, )_28, ), 1.0, ORRRRRRRRR
+
+# Relations from SRT:
+R, (_24, X_26, Right, 1.0
+R, 0_5, x_6, Right, 1.0
+R, =_7, \alpha_8, Right, 1.0
+R, I_15, i_16, Right, 1.0
+R, X_19, I_20, Sup, 1.0
+R, X_19, \alpha_22, Right, 1.0
+R, X_26, )_28, Right, 1.0
+R, X_26, I_27, Sup, 1.0
+R, \alpha_22, (_24, Right, 1.0
+R, \alpha_22, \alpha_23, Sub, 1.0
+R, \alpha_8, \lim_10, Right, 1.0
+R, \lim_10, I_11, Below, 1.0
+R, \lim_10, g_13, Right, 1.0
+R, g_13, 1_17, Sup, 1.0
+R, g_13, I_15, Sub, 1.0
+R, g_13, X_19, Right, 1.0
+R, h_3, 0_5, Sub, 1.0
+R, h_3, =_7, Right, 1.0

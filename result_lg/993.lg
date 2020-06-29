@@ -1,0 +1,27 @@
+# IUD, 993
+# Objects(12):
+O, V_2, V, 1.0, O
+O, \lambda_7, \lambda, 1.0, ORRRRR
+O, /_14, /, 1.0, ORRRRRRSupRRR
+O, )_5, ), 1.0, ORRR
+O, =_6, =, 1.0, ORRRR
+O, \phi_13, \phi, 1.0, ORRRRRRSupRR
+O, 3_15, 3, 1.0, ORRRRRRSupRRRR
+O, (_3, (, 1.0, OR
+O, 2_11, 2, 1.0, ORRRRRRSup
+O, \lambda_12, \lambda, 1.0, ORRRRRRSupR
+O, \phi_4, \phi, 1.0, ORR
+O, e_9, e, 1.0, ORRRRRR
+
+# Relations from SRT:
+R, (_3, \phi_4, Right, 1.0
+R, )_5, =_6, Right, 1.0
+R, /_14, 3_15, Right, 1.0
+R, 2_11, \lambda_12, Right, 1.0
+R, =_6, \lambda_7, Right, 1.0
+R, V_2, (_3, Right, 1.0
+R, \lambda_12, \phi_13, Right, 1.0
+R, \lambda_7, e_9, Right, 1.0
+R, \phi_13, /_14, Right, 1.0
+R, \phi_4, )_5, Right, 1.0
+R, e_9, 2_11, Sup, 1.0

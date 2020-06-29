@@ -1,0 +1,3 @@
+\begin{equation}
+	Z _ { D T } , Z _ { D T } ) - 0 \gamma i \triangle Z _ { D T } \neq 0
+\end{equation}

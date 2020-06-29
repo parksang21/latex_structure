@@ -1,0 +1,3 @@
+\begin{equation}
+	W [ O , J , \varepsilon ^ { * } , \varepsilon ] = \ln Z [ 0 , J , \varepsilon ^ { * } , \varepsilon ]
+\end{equation}

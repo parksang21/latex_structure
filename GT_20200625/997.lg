@@ -1,0 +1,35 @@
+# IUD, 997
+# Objects(16):
+O, Q_8, Q, 1.0, ORRRRR
+O, (_11, (, 1.0, ORRRRRRR
+O, -_9, -, 1.0, ORRRRRSub
+O, )_10, ), 1.0, ORRRRRR
+O, \delta_2, \delta, 1.0, O
+O, -_20, -, 1.0, ORRRRRRRRRRRSup
+O, \delta_5, \delta, 1.0, ORRR
+O, \delta_12, \delta, 1.0, ORRRRRRRR
+O, Q_15, Q, 1.0, ORRRRRRRRRR
+O, -_6, -, 1.0, ORRRR
+O, 1_21, 1, 1.0, ORRRRRRRRRRRSupR
+O, +_13, +, 1.0, ORRRRRRRRR
+O, )_18, ), 1.0, ORRRRRRRRRRR
+O, -_16, -, 1.0, ORRRRRRRRRRSub
+O, (_4, (, 1.0, ORR
+O, =_3, =, 1.0, OR
+
+# Relations from SRT:
+R, (_11, \delta_12, Right, 1.0
+R, (_4, \delta_5, Right, 1.0
+R, )_10, (_11, Right, 1.0
+R, )_18, -_20, Sup, 1.0
+R, +_13, Q_15, Right, 1.0
+R, -_20, 1_21, Right, 1.0
+R, -_6, Q_8, Right, 1.0
+R, =_3, (_4, Right, 1.0
+R, Q_15, )_18, Right, 1.0
+R, Q_15, -_16, Sub, 1.0
+R, Q_8, )_10, Right, 1.0
+R, Q_8, -_9, Sub, 1.0
+R, \delta_12, +_13, Right, 1.0
+R, \delta_2, =_3, Right, 1.0
+R, \delta_5, -_6, Right, 1.0

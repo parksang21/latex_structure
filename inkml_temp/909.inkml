@@ -1,0 +1,101 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">909</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mi xml:id="\varepsilon_2">ε</mi><mo form="prefix" stretchy="false" xml:id="(_3">(</mo><msup><mi xml:id="\pi_5">π</mi><mi xml:id="\alpha_6">α</mi></msup><mo form="postfix" stretchy="false" xml:id=")_7">)</mo><mo xml:id="=_8">=</mo><msub><mi xml:id="\varepsilon_10">ε</mi><mi xml:id="\alpha_11">α</mi></msub><mo xml:id=",_12">,</mo><mi xml:id="n_13">n</mi><mi xml:id="g_14">g</mi><mi xml:id="h_15">h</mi><mo form="prefix" stretchy="false" xml:id="(_16">(</mo><msup><mi xml:id="\pi_18">π</mi><mi xml:id="\alpha_19">α</mi></msup><mo form="postfix" stretchy="false" xml:id=")_20">)</mo><mo xml:id="=_21">=</mo><mn xml:id="2_22">2</mn></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\varepsilon</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\varepsilon_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="(_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\pi</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\pi_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\alpha</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\alpha_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href=")_7"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="=_8"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">\varepsilon</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="\varepsilon_10"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\alpha</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\alpha_11"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">,</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href=",_12"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">n</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="n_13"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">g</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="g_14"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">h</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="h_15"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="(_16"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">\pi</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="\pi_18"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">\alpha</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="\alpha_19"/>
+	</traceGroup>
+ <traceGroup xml:id="16">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="15"/>
+    <annotationXML href=")_20"/>
+	</traceGroup>
+ <traceGroup xml:id="17">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="16"/>
+    <annotationXML href="=_21"/>
+	</traceGroup>
+ <traceGroup xml:id="18">
+    <annotation type="truth">2</annotation>
+	<traceView traceDataRef="17"/>
+    <annotationXML href="2_22"/>
+	</traceGroup>
+</traceGroup>
+</ink>

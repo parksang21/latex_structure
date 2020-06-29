@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { b u n d l e } = n _ { e } + n _ { o } = I + 2 n _ { o }
+\end{equation}

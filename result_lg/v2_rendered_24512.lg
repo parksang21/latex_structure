@@ -1,0 +1,37 @@
+# IUD, v2_rendered_24512
+# Objects(17):
+O, \Omega_18, \Omega, 1.0, ORRRRRRRRRRRR
+O, t_20, t, 1.0, ORRRRRRRRRRRRRR
+O, -_12, -, 1.0, ORRRRRR
+O, N_4, N, 1.0, OR
+O, (_13, (, 1.0, ORRRRRRR
+O, 5_7, 5, 1.0, ORRR
+O, V_10, V, 1.0, ORRRRR
+O, 4_17, 4, 1.0, ORRRRRRRRRRR
+O, -_16, -, 1.0, ORRRRRRRRRR
+O, \leq_6, \leq, 1.0, ORR
+O, )_19, ), 1.0, ORRRRRRRRRRRRR
+O, 1_5, 1, 1.0, ORSub
+O, 4_2, 4, 1.0, O
+O, (_14, (, 1.0, ORRRRRRRR
+O, 3_11, 3, 1.0, ORRRRRSub
+O, /_8, /, 1.0, ORRRR
+O, \sin_15, \sin, 1.0, ORRRRRRRRR
+
+# Relations from SRT:
+R, (_13, (_14, Right, 1.0
+R, (_14, \sin_15, Right, 1.0
+R, )_19, t_20, Right, 1.0
+R, -_12, (_13, Right, 1.0
+R, -_16, 4_17, Right, 1.0
+R, /_8, V_10, Right, 1.0
+R, 4_17, \Omega_18, Right, 1.0
+R, 4_2, N_4, Right, 1.0
+R, 5_7, /_8, Right, 1.0
+R, N_4, 1_5, Sub, 1.0
+R, N_4, \leq_6, Right, 1.0
+R, V_10, -_12, Right, 1.0
+R, V_10, 3_11, Sub, 1.0
+R, \Omega_18, )_19, Right, 1.0
+R, \leq_6, 5_7, Right, 1.0
+R, \sin_15, -_16, Right, 1.0

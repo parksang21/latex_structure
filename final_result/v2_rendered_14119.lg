@@ -1,0 +1,33 @@
+# IUD, v2_rendered_14119
+# Objects(15):
+O, 2_6, 2, 1.0, ORRRR
+O, (_12, (, 1.0, ORRRRRR
+O, 1_8, 1, 1.0, ORRRRRAbove
+O, \tau_2, \tau, 1.0, O
+O, \leftrightarrow_3, \leftrightarrow, 1.0, OR
+O, \Delta_15, \Delta, 1.0, ORRRRRRRR
+O, _7, -, 1.0, ORRRRR
+O, \tau_4, \tau, 1.0, ORR
+O, +_5, +, 1.0, ORRR
+O, \tau_17, \tau, 1.0, ORRRRRRRRR
+O, -_16, -, 1.0, ORRRRRRRRSub
+O, )_18, ), 1.0, ORRRRRRRRRR
+O, \phi_13, \phi, 1.0, ORRRRRRR
+O, -_11, -, 1.0, ORRRRRBelowSub
+O, \Delta_10, \Delta, 1.0, ORRRRRBelow
+
+# Relations from SRT:
+R, (_12, \phi_13, Right, 1.0
+R, +_5, 2_6, Right, 1.0
+R, 2_6, _7, Right, 1.0
+R, \Delta_10, -_11, Sub, 1.0
+R, \Delta_15, -_16, Sub, 1.0
+R, \Delta_15, \tau_17, Right, 1.0
+R, \leftrightarrow_3, \tau_4, Right, 1.0
+R, \phi_13, \Delta_15, Right, 1.0
+R, \tau_17, )_18, Right, 1.0
+R, \tau_2, \leftrightarrow_3, Right, 1.0
+R, \tau_4, +_5, Right, 1.0
+R, _7, (_12, Right, 1.0
+R, _7, 1_8, Above, 1.0
+R, _7, \Delta_10, Below, 1.0

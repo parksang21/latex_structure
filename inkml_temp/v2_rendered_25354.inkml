@@ -1,0 +1,51 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_25354</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msup><mi xml:id="ω_3">ω</mi><mi xml:id="\prime_4">′</mi></msup><mo xml:id="\geq_5">≥</mo><mi xml:id="n_6">n</mi><mo xml:id="\circle_7">∘</mo><mi xml:id="ω_8">ω</mi><mo xml:id="\circle_9">∘</mo><mi xml:id="\theta_10">θ</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">ω</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="ω_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\prime</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\prime_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\geq</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\geq_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">n</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="n_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">\circle</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="\circle_7"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">ω</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="ω_8"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">\circle</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="\circle_9"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\theta</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\theta_10"/>
+	</traceGroup>
+</traceGroup>
+</ink>

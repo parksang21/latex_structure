@@ -1,0 +1,43 @@
+# IUD, v2_rendered_23430
+# Objects(20):
+O, _8, \sqrt, 1.0, ORRRRRR
+O, e_17, e, 1.0, ORRRRRRRRRRSub
+O, A_3, A, 1.0, OR
+O, COMMA_14, COMMA, 1.0, ORRRRRRRRR
+O, e_13, e, 1.0, ORRRRRRRRSub
+O, COMMA_10, COMMA, 1.0, ORRRRRRR
+O, \langle_21, \langle, 1.0, ORRRRRRRRRRRRR
+O, )_6, ), 1.0, ORRRR
+O, *_4, *, 1.0, ORR
+O, 1_22, 1, 1.0, ORRRRRRRRRRRRRSub
+O, (_2, (, 1.0, O
+O, x_9, x, 1.0, ORRRRRRInside
+O, )_18, ), 1.0, ORRRRRRRRRRR
+O, _23, \sqrt, 1.0, ORRRRRRRRRRRRRR
+O, x_24, x, 1.0, ORRRRRRRRRRRRRRInside
+O, p_16, p, 1.0, ORRRRRRRRRR
+O, B_5, B, 1.0, ORRR
+O, =_19, =, 1.0, ORRRRRRRRRRRR
+O, (_7, (, 1.0, ORRRRR
+O, x_12, x, 1.0, ORRRRRRRR
+
+# Relations from SRT:
+R, (_2, A_3, Right, 1.0
+R, (_7, _8, Right, 1.0
+R, )_18, =_19, Right, 1.0
+R, )_6, (_7, Right, 1.0
+R, *_4, B_5, Right, 1.0
+R, =_19, \langle_21, Right, 1.0
+R, A_3, *_4, Right, 1.0
+R, B_5, )_6, Right, 1.0
+R, COMMA_10, x_12, Right, 1.0
+R, COMMA_14, p_16, Right, 1.0
+R, \langle_21, 1_22, Sub, 1.0
+R, \langle_21, _23, Right, 1.0
+R, _23, x_24, Inside, 1.0
+R, _8, COMMA_10, Right, 1.0
+R, _8, x_9, Inside, 1.0
+R, p_16, )_18, Right, 1.0
+R, p_16, e_17, Sub, 1.0
+R, x_12, COMMA_14, Right, 1.0
+R, x_12, e_13, Sub, 1.0

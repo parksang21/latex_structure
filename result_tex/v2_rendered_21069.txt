@@ -1,0 +1,3 @@
+\begin{equation}
+	F = \frac { 1 } { 2 } F _ { \mu \lambda } d y ^ { \mu } \subset d y ^ { \lambda }
+\end{equation}

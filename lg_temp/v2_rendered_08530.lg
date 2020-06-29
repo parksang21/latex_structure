@@ -1,0 +1,51 @@
+# IUD, v2_rendered_08530
+# Objects(24):
+O, B_16, B, 1.0, 12
+O, =_7, =, 1.0, 4
+O, -_8, -, 1.0, 5
+O, Q_15, Q, 1.0, 11
+O, 2_19, 2, 1.0, 15
+O, j_6, j, 1.0, 3
+O, COMMA_12, COMMA, 1.0, 9
+O, Q_25, Q, 1.0, 20
+O, \delta_13, \delta, 1.0, 10
+O, n_9, n, 1.0, 6
+O, -_27, -, 1.0, 22
+O, j_11, j, 1.0, 8
+O, COMMA_21, COMMA, 1.0, 17
+O, Q_4, Q, 1.0, 1
+O, Y_5, Y, 1.0, 2
+O, \delta_2, \delta, 1.0, 0
+O, Q_24, Q, 1.0, 19
+O, =_17, =, 1.0, 13
+O, n_28, n, 1.0, 23
+O, =_26, =, 1.0, 21
+O, \delta_22, \delta, 1.0, 18
+O, n_20, n, 1.0, 16
+O, \forall_10, \forall, 1.0, 7
+O, -_18, -, 1.0, 14
+
+# Relations from SRT:
+R, -_18, 2_19, Right, 1.0
+R, -_27, n_28, Right, 1.0
+R, -_8, n_9, Right, 1.0
+R, 2_19, n_20, Right, 1.0
+R, =_17, -_18, Right, 1.0
+R, =_26, -_27, Right, 1.0
+R, =_7, -_8, Right, 1.0
+R, COMMA_12, \delta_13, Right, 1.0
+R, COMMA_21, \delta_22, Right, 1.0
+R, Q_15, =_17, Right, 1.0
+R, Q_15, B_16, Sub, 1.0
+R, Q_24, =_26, Right, 1.0
+R, Q_24, Q_25, Sub, 1.0
+R, Q_4, =_7, Right, 1.0
+R, Q_4, Y_5, Sub, 1.0
+R, Q_4, j_6, Sup, 1.0
+R, \delta_13, Q_15, Right, 1.0
+R, \delta_22, Q_24, Right, 1.0
+R, \delta_2, Q_4, Right, 1.0
+R, \forall_10, j_11, Right, 1.0
+R, j_11, COMMA_12, Right, 1.0
+R, n_20, COMMA_21, Right, 1.0
+R, n_9, \forall_10, Right, 1.0

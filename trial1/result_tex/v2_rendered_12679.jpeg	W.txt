@@ -1,0 +1,3 @@
+\begin{equation}
+	= - \lim _ { k = 1 } ^ { C } N _ { k } \Delta _ { S _ { k } } F
+\end{equation}

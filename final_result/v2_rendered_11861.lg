@@ -1,0 +1,37 @@
+# IUD, v2_rendered_11861
+# Objects(17):
+O, \prime_17, \prime, 1.0, ORRBelowRRSup
+O, S_3, S, 1.0, O
+O, z_22, z, 1.0, ORRRRRSub
+O, )_11, ), 1.0, ORRAboveRRR
+O, \int_21, \int, 1.0, ORRRRR
+O, i_19, i, 1.0, ORRRR
+O, =_5, =, 1.0, OR
+O, z_10, z, 1.0, ORRAboveRR
+O, (_9, (, 1.0, ORRAboveR
+O, \alpha_16, \alpha, 1.0, ORRBelowRR
+O, 0_4, 0, 1.0, OSub
+O, -_18, -, 1.0, ORRR
+O, \pi_14, \pi, 1.0, ORRBelowR
+O, A_8, A, 1.0, ORRAbove
+O, 2_13, 2, 1.0, ORRBelow
+O, _6, -, 1.0, ORR
+O, B_23, B, 1.0, ORRRRRR
+
+# Relations from SRT:
+R, (_9, z_10, Right, 1.0
+R, -_18, i_19, Right, 1.0
+R, 2_13, \pi_14, Right, 1.0
+R, =_5, _6, Right, 1.0
+R, A_8, (_9, Right, 1.0
+R, S_3, 0_4, Sub, 1.0
+R, S_3, =_5, Right, 1.0
+R, \alpha_16, \prime_17, Sup, 1.0
+R, \int_21, B_23, Right, 1.0
+R, \int_21, z_22, Sub, 1.0
+R, \pi_14, \alpha_16, Right, 1.0
+R, _6, -_18, Right, 1.0
+R, _6, 2_13, Below, 1.0
+R, _6, A_8, Above, 1.0
+R, i_19, \int_21, Right, 1.0
+R, z_10, )_11, Right, 1.0

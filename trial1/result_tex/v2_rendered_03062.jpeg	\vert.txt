@@ -1,0 +1,3 @@
+\begin{equation}
+	A r g ( \beta + \mu _ { 1 } ) \vert \cup \pi
+\end{equation}

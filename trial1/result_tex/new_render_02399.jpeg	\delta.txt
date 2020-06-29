@@ -1,0 +1,3 @@
+\begin{equation}
+	\leqq \frac { 1 } { 7 ! f } \sigma ^ { f n p q } G _ { f n p q }
+\end{equation}

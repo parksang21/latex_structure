@@ -1,0 +1,26 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">20_em_32_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mfrac xml:id="_1"><mi xml:id="\pi_2">π</mi><mn xml:id="3_3">3</mn></mfrac>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\pi</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\pi_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">3</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="3_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="_1"/>
+	</traceGroup>
+</traceGroup>
+</ink>

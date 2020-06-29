@@ -1,0 +1,3 @@
+\begin{equation}
+	a _ { j } ^ { \gamma _ { j } } a _ { j + 1 } ^ { \gamma _ { i + 1 } }
+\end{equation}

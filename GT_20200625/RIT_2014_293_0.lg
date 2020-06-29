@@ -1,0 +1,41 @@
+# IUD, RIT_2014_293_0
+# Objects(19):
+O, 2_4, 2, 1.0, ORR
+O, (_3, (, 1.0, OR
+O, (_21, (, 1.0, ORRRRRRBelowRRR
+O, (_12, (, 1.0, ORRRRRRAboveRR
+O, )_14, ), 1.0, ORRRRRRAboveRRRR
+O, 1_16, 1, 1.0, ORRRRRRBelow
+O, 2_20, 2, 1.0, ORRRRRRBelowRRSup
+O, )_23, ), 1.0, ORRRRRRBelowRRRRR
+O, x_13, x, 1.0, ORRRRRRAboveRRR
+O, \tan_2, \tan, 1.0, O
+O, x_5, x, 1.0, ORRR
+O, \tan_11, \tan, 1.0, ORRRRRRAboveR
+O, =_7, =, 1.0, ORRRRR
+O, 2_10, 2, 1.0, ORRRRRRAbove
+O, x_22, x, 1.0, ORRRRRRBelowRRRR
+O, -_17, -, 1.0, ORRRRRRBelowR
+O, )_6, ), 1.0, ORRRR
+O, \tan_19, \tan, 1.0, ORRRRRRBelowRR
+O, _8, -, 1.0, ORRRRRR
+
+# Relations from SRT:
+R, (_12, x_13, Right, 1.0
+R, (_21, x_22, Right, 1.0
+R, (_3, 2_4, Right, 1.0
+R, )_6, =_7, Right, 1.0
+R, -_17, \tan_19, Right, 1.0
+R, 1_16, -_17, Right, 1.0
+R, 2_10, \tan_11, Right, 1.0
+R, 2_4, x_5, Right, 1.0
+R, =_7, _8, Right, 1.0
+R, \tan_11, (_12, Right, 1.0
+R, \tan_19, (_21, Right, 1.0
+R, \tan_19, 2_20, Sup, 1.0
+R, \tan_2, (_3, Right, 1.0
+R, _8, 1_16, Below, 1.0
+R, _8, 2_10, Above, 1.0
+R, x_13, )_14, Right, 1.0
+R, x_22, )_23, Right, 1.0
+R, x_5, )_6, Right, 1.0

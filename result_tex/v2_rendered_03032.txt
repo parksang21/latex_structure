@@ -1,0 +1,3 @@
+\begin{equation}
+	\gamma \csqrt s \psi _ { 1 } = ( 3 \gamma \csqrt s - \gamma \csqrt u ) ( 3 + \gamma ^ { s } ) \psi _ { 1 } / 8
+\end{equation}

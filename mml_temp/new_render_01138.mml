@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>y</mi><msub><mi>W</mi><mn>1</mn></msub><mo stretchy="false" form="prefix">[</mo><mi>y</mi><mo stretchy="false" form="postfix">]</mo><mo>≦</mo><msubsup><mi>c</mi><mi>w</mi><mi>′</mi></msubsup><mi>/</mi><msup><mi>y</mi><mi>w</mi></msup><mi>∵</mi><mn>6</mn><mo>∝</mo><mi>y</mi><mo>∝</mo><mi>∞</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+    y W _ { 1 } [ y ] \leqq c _ { w } ^ { \prime } / y ^ { w } \because 6 \propto y \propto \infty
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

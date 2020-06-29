@@ -1,0 +1,86 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_16432</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mi xml:id="ω_2">ω</mi><mo xml:id="=_3">=</mo><mo xml:id="-_4">−</mo><mn xml:id="2_5">2</mn><mi xml:id="d_6">d</mi><mi xml:id="x_7">x</mi><mo xml:id="\notin_8">∉</mo><mi xml:id="d_9">d</mi><mi xml:id="y_10">y</mi><mo xml:id="+_11">+</mo><mi xml:id="d_12">d</mi><mi xml:id="z_13">z</mi><mo xml:id="\notin_14">∉</mo><mi xml:id="d_15">d</mi><mi xml:id="x_16">x</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">ω</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="ω_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="=_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="-_4"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">2</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="2_5"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">d</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="d_6"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">x</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="x_7"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">\notin</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="\notin_8"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">d</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="d_9"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">y</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="y_10"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">+</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="+_11"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">d</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="d_12"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">z</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="z_13"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">\notin</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="\notin_14"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">d</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="d_15"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">x</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="x_16"/>
+	</traceGroup>
+</traceGroup>
+</ink>

@@ -1,0 +1,3 @@
+\begin{equation}
+	\theta _ { 0 } ^ { d i v } = \frac { e ^ { 2 } } { 4 \pi N } \log ( \frac { 1 } { b \mu } )
+\end{equation}

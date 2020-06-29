@@ -1,0 +1,29 @@
+# IUD, v2_rendered_00345
+# Objects(13):
+O, 7_10, 7, 1.0, 8
+O, \angle_12, \angle, 1.0, 10
+O, \angle_7, \angle, 1.0, 5
+O, \otimes_11, \otimes, 1.0, 9
+O, \approx_8, \approx, 1.0, 6
+O, \otimes_4, \otimes, 1.0, 2
+O, 7_5, 7, 1.0, 3
+O, L_14, L, 1.0, 12
+O, (_2, (, 1.0, 0
+O, )_13, ), 1.0, 11
+O, (_9, (, 1.0, 7
+O, \angle_3, \angle, 1.0, 1
+O, )_6, ), 1.0, 4
+
+# Relations from SRT:
+R, (_2, \angle_3, Right, 1.0
+R, (_9, 7_10, Right, 1.0
+R, )_13, L_14, Right, 1.0
+R, )_6, \angle_7, Right, 1.0
+R, 7_10, \otimes_11, Right, 1.0
+R, 7_5, )_6, Right, 1.0
+R, \angle_12, )_13, Right, 1.0
+R, \angle_3, \otimes_4, Right, 1.0
+R, \angle_7, \approx_8, Right, 1.0
+R, \approx_8, (_9, Right, 1.0
+R, \otimes_11, \angle_12, Right, 1.0
+R, \otimes_4, 7_5, Right, 1.0

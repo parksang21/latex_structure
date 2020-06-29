@@ -1,0 +1,3 @@
+\begin{equation}
+	V = - \frac { L + \delta } { 2 } = \omega \frac { d L } { d \omega } - L
+\end{equation}

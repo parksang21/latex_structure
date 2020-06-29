@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { G } = \lim _ { H \approx B } \phi ( H )
+\end{equation}

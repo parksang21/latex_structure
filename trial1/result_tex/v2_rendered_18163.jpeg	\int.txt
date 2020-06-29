@@ -1,0 +1,3 @@
+\begin{equation}
+	d ^ { 1 0 } q e ^ { i q \cdot Y } F ( q )
+\end{equation}

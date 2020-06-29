@@ -1,0 +1,3 @@
+\begin{equation}
+	T ^ { 3 D } = - 2 i \pi \beta _ { 1 } \beta _ { 2 } T ^ { + + } ( s , s )
+\end{equation}

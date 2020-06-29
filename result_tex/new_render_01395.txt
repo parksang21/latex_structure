@@ -1,0 +1,3 @@
+\begin{equation}
+	\{ \{ c , g \} , h \} \div c y c l i c \leqq 8 , \therefore c , g , h \cap N
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	T \equiv \frac { 1 } { \sqrt { 1 \div y _ { 3 } ^ { 2 } } } ( y _ { 2 } \vert _ { 2 } + i y \csqrt \sigma )
+\end{equation}

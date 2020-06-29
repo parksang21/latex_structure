@@ -1,0 +1,3 @@
+\begin{equation}
+	0 \propto R e ( \frac { \phi _ { l } } { \phi _ { l } - \phi _ { k } } ) \propto 1
+\end{equation}

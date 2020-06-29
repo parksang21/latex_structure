@@ -1,0 +1,25 @@
+# IUD, new_render_01179
+# Objects(11):
+O, \psi_5, \psi, 1.0, 1
+O, \psi_11, \psi, 1.0, 7
+O, \Delta_13, \Delta, 1.0, 9
+O, \geqq_7, \geqq, 1.0, 3
+O, _3, \sqrt, 1.0, 10
+O, v_4, v, 1.0, 0
+O, \psi_6, \psi, 1.0, 2
+O, \propto_12, \propto, 1.0, 8
+O, \psi_8, \psi, 1.0, 4
+O, COMMA_9, COMMA, 1.0, 5
+O, \because_10, \because, 1.0, 6
+
+# Relations from SRT:
+R, COMMA_9, \because_10, Right, 1.0
+R, \because_10, \psi_11, Right, 1.0
+R, \geqq_7, \psi_8, Right, 1.0
+R, \propto_12, \Delta_13, Right, 1.0
+R, \psi_11, \propto_12, Right, 1.0
+R, \psi_6, \geqq_7, Right, 1.0
+R, \psi_8, COMMA_9, Right, 1.0
+R, _3, \psi_5, Sub, 1.0
+R, _3, \psi_6, Right, 1.0
+R, _3, v_4, Inside, 1.0

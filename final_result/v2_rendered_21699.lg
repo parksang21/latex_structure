@@ -1,0 +1,41 @@
+# IUD, v2_rendered_21699
+# Objects(19):
+O, W_2, W, 1.0, O
+O, \int_16, \int, 1.0, ORRRRRRR
+O, \beta_25, \beta, 1.0, ORRRRRRRRR
+O, \pi_14, \pi, 1.0, ORRRRRRBelowR
+O, \gamma_18, \gamma, 1.0, ORRRRRRRSub
+O, \gamma_6, \gamma, 1.0, ORRR
+O, r_3, r, 1.0, OR
+O, k_24, k, 1.0, ORRRRRRRRSubSub
+O, m_26, m, 1.0, ORRRRRRRRRR
+O, )_8, ), 1.0, ORRRR
+O, 4_13, 4, 1.0, ORRRRRRBelow
+O, k_7, k, 1.0, ORRRSub
+O, =_9, =, 1.0, ORRRRR
+O, 1_11, 1, 1.0, ORRRRRRAbove
+O, \gamma_23, \gamma, 1.0, ORRRRRRRRSub
+O, (_4, (, 1.0, ORR
+O, _10, -, 1.0, ORRRRRR
+O, \int_21, \int, 1.0, ORRRRRRRR
+O, k_19, k, 1.0, ORRRRRRRSubSub
+
+# Relations from SRT:
+R, (_4, \gamma_6, Right, 1.0
+R, )_8, =_9, Right, 1.0
+R, 4_13, \pi_14, Right, 1.0
+R, =_9, _10, Right, 1.0
+R, W_2, r_3, Right, 1.0
+R, \beta_25, m_26, Right, 1.0
+R, \gamma_18, k_19, Sub, 1.0
+R, \gamma_23, k_24, Sub, 1.0
+R, \gamma_6, )_8, Right, 1.0
+R, \gamma_6, k_7, Sub, 1.0
+R, \int_16, \gamma_18, Sub, 1.0
+R, \int_16, \int_21, Right, 1.0
+R, \int_21, \beta_25, Right, 1.0
+R, \int_21, \gamma_23, Sub, 1.0
+R, _10, 1_11, Above, 1.0
+R, _10, 4_13, Below, 1.0
+R, _10, \int_16, Right, 1.0
+R, r_3, (_4, Right, 1.0

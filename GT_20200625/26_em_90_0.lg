@@ -1,0 +1,28 @@
+# IUD, 26_em_90_0
+# Objects(12):
+O, 8_13, 8, 1.0, ORBelowInsideRRRR
+O, _7, \sqrt, 1.0, ORBelow
+O, 9_6, 9, 1.0, ORAboveR
+O, d_14, d, 1.0, ORR
+O, 1_5, 1, 1.0, ORAbove
+O, _3, -, 1.0, OR
+O, 3_12, 3, 1.0, ORBelowInsideRRR
+O, 9_9, 9, 1.0, ORBelowInside
+O, \int_2, \int, 1.0, O
+O, x_10, x, 1.0, ORBelowInsideR
+O, x_15, x, 1.0, ORRR
+O, -_11, -, 1.0, ORBelowInsideRR
+
+# Relations from SRT:
+R, -_11, 3_12, Right, 1.0
+R, 1_5, 9_6, Right, 1.0
+R, 3_12, 8_13, Right, 1.0
+R, 9_9, x_10, Right, 1.0
+R, \int_2, _3, Right, 1.0
+R, _3, 1_5, Above, 1.0
+R, _3, _7, Below, 1.0
+R, _3, d_14, Right, 1.0
+R, _7, 9_9, Inside, 1.0
+R, _7, x_10, Inside, 1.0
+R, d_14, x_15, Right, 1.0
+R, x_10, -_11, Right, 1.0

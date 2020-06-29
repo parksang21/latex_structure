@@ -1,0 +1,3 @@
+\begin{equation}
+	D ( P ) = \sum \delta _ { n + 1 } \frac { \Delta } { \Delta \delta _ { n } } ( p )
+\end{equation}

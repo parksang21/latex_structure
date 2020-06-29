@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { m } = \mu \frac { \Delta \ln Z _ { m } } { \Delta \mu } - \gamma _ { \phi }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \mu } ( \phi F ^ { \mu \theta \alpha \beta } ) = 0
+\end{equation}

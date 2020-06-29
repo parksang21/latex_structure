@@ -1,0 +1,3 @@
+\begin{equation}
+	( r _ { + } ) = r _ { + } \varphi ^ { a ^ { 2 } / ( 1 + a ^ { 2 } ) } \wedge 1
+\end{equation}

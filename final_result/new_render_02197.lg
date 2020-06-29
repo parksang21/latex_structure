@@ -1,0 +1,35 @@
+# IUD, new_render_02197
+# Objects(16):
+O, D_3, D, 1.0, O
+O, V_23, V, 1.0, ORRRRRRR
+O, \mu_4, \mu, 1.0, OSub
+O, \geqq_8, \geqq, 1.0, ORR
+O, \Delta_10, \Delta, 1.0, ORRR
+O, b_20, b, 1.0, ORRRRRRSubR
+O, \mu_19, \mu, 1.0, ORRRRRRSub
+O, a_21, a, 1.0, ORRRRRRSup
+O, ω_17, ω, 1.0, ORRRRRR
+O, V_13, V, 1.0, ORRRR
+O, V_6, V, 1.0, OR
+O, b_24, b, 1.0, ORRRRRRRSup
+O, a_7, a, 1.0, ORSup
+O, -_15, -, 1.0, ORRRRR
+O, \mu_11, \mu, 1.0, ORRRSub
+O, a_14, a, 1.0, ORRRRSup
+
+# Relations from SRT:
+R, -_15, ω_17, Right, 1.0
+R, D_3, V_6, Right, 1.0
+R, D_3, \mu_4, Sub, 1.0
+R, V_13, -_15, Right, 1.0
+R, V_13, a_14, Sup, 1.0
+R, V_23, b_24, Sup, 1.0
+R, V_6, \geqq_8, Right, 1.0
+R, V_6, a_7, Sup, 1.0
+R, \Delta_10, V_13, Right, 1.0
+R, \Delta_10, \mu_11, Sub, 1.0
+R, \geqq_8, \Delta_10, Right, 1.0
+R, \mu_19, b_20, Right, 1.0
+R, ω_17, V_23, Right, 1.0
+R, ω_17, \mu_19, Sub, 1.0
+R, ω_17, a_21, Sup, 1.0

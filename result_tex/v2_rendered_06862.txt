@@ -1,0 +1,3 @@
+\begin{equation}
+	U ( i ) = P e x p ( \int _ { S ( i ) } ^ { t ( i ) } A )
+\end{equation}

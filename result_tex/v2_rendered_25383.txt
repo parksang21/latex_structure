@@ -1,0 +1,3 @@
+\begin{equation}
+	\pi _ { q } ( \sqrt { A } ) \approx \tau _ { q } ( \sqrt { A } / G _ { y } ) \otimes \pi _ { q } ( G _ { * } )
+\end{equation}

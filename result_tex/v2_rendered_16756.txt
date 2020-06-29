@@ -1,0 +1,3 @@
+\begin{equation}
+	\pi \csqrt \varepsilon = \varepsilon
+\end{equation}

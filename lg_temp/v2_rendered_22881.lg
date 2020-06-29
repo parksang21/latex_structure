@@ -1,0 +1,31 @@
+# IUD, v2_rendered_22881
+# Objects(14):
+O, \Delta_17, \Delta, 1.0, 9
+O, z_11, z, 1.0, 5
+O, A_20, A, 1.0, 11
+O, \phi_19, \phi, 1.0, 10
+O, _6, -, 1.0, 12
+O, =_13, =, 1.0, 7
+O, m_5, m, 1.0, 2
+O, \Delta_9, \Delta, 1.0, 4
+O, \Delta_15, \Delta, 1.0, 8
+O, \Delta_7, \Delta, 1.0, 3
+O, m_12, m, 1.0, 6
+O, _14, -, 1.0, 13
+O, K_3, K, 1.0, 0
+O, A_4, A, 1.0, 1
+
+# Relations from SRT:
+R, =_13, _14, Right, 1.0
+R, K_3, A_4, Sub, 1.0
+R, K_3, _6, Right, 1.0
+R, K_3, m_5, Sup, 1.0
+R, \Delta_17, \phi_19, Right, 1.0
+R, \Delta_9, z_11, Right, 1.0
+R, \phi_19, A_20, Sub, 1.0
+R, _14, \Delta_15, Above, 1.0
+R, _14, \Delta_17, Below, 1.0
+R, _6, =_13, Right, 1.0
+R, _6, \Delta_7, Above, 1.0
+R, _6, \Delta_9, Below, 1.0
+R, z_11, m_12, Sub, 1.0

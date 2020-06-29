@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>&lt;</mo><msub><mi>β</mi><mi>n</mi></msub><mo>,</mo><msubsup><mi>β</mi><mi>k</mi><mo>*</mo></msubsup><mo>⊄</mo><mo>=</mo><msub><mi>h</mi><mi>n</mi></msub><msub><mi>δ</mi><mrow><mi>n</mi><mi>k</mi></mrow></msub></mrow><annotation encoding="application/x-tex">\begin{equation}
+    &lt; \beta _ { n } , \beta _ { k } ^ { * } \not\subset = h _ { n } \delta _ { n k }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

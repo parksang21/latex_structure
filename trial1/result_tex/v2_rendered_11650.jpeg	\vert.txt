@@ -1,0 +1,3 @@
+\begin{equation}
+	\mu \propto = \sum _ { i } m _ { i } \vert \mu _ { i } \propto
+\end{equation}

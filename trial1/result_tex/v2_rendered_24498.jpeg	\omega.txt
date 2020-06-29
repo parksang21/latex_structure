@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { n } \vee - \beta / 2 \Leftrightarrow \vert k \vert < \beta / 2 + \mu
+\end{equation}

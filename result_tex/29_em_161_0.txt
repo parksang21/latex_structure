@@ -1,0 +1,3 @@
+\begin{equation}
+	f ( v _ { 0 } ) = \lim _ { y + z } f ( r )
+\end{equation}

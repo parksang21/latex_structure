@@ -1,0 +1,3 @@
+\begin{equation}
+	\sigma 3 9 5
+\end{equation}

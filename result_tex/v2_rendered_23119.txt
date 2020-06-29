@@ -1,0 +1,3 @@
+\begin{equation}
+	F _ { a } ( \phi , \Delta \phi , \tau , \Delta T ) \vert _ { x \in \theta } \approx 0
+\end{equation}

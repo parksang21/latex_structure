@@ -1,0 +1,37 @@
+# IUD, v2_rendered_08463
+# Objects(17):
+O, K_14, K, 1.0, 8
+O, \approx_12, \approx, 1.0, 7
+O, *_7, *, 1.0, 2
+O, *_18, *, 1.0, 10
+O, z_27, z, 1.0, 16
+O, L_22, L, 1.0, 13
+O, z_8, z, 1.0, 3
+O, \pi_25, \pi, 1.0, 14
+O, O_3, O, 1.0, 0
+O, \pi_17, \pi, 1.0, 9
+O, (_9, (, 1.0, 4
+O, *_26, *, 1.0, 15
+O, )_11, ), 1.0, 6
+O, \otimes_20, \otimes, 1.0, 12
+O, C_10, C, 1.0, 5
+O, \pi_6, \pi, 1.0, 1
+O, z_19, z, 1.0, 11
+
+# Relations from SRT:
+R, (_9, C_10, Right, 1.0
+R, )_11, \approx_12, Right, 1.0
+R, C_10, )_11, Right, 1.0
+R, K_14, \otimes_20, Right, 1.0
+R, K_14, \pi_17, Sub, 1.0
+R, L_22, \pi_25, Sub, 1.0
+R, O_3, (_9, Right, 1.0
+R, O_3, \pi_6, Sub, 1.0
+R, \approx_12, K_14, Right, 1.0
+R, \otimes_20, L_22, Right, 1.0
+R, \pi_17, *_18, Sup, 1.0
+R, \pi_17, z_19, Right, 1.0
+R, \pi_25, *_26, Sup, 1.0
+R, \pi_25, z_27, Right, 1.0
+R, \pi_6, *_7, Sup, 1.0
+R, \pi_6, z_8, Right, 1.0

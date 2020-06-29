@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \theta } \tilde { f } _ { \mu \theta } = \delta _ { 3 \mu } \delta ^ { 3 } ( x )
+\end{equation}

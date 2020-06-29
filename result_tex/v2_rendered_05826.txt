@@ -1,0 +1,3 @@
+\begin{equation}
+	\Omega = \lim _ { w \in P } \frac { 2 n _ { w } } { ( w , w ) } w , n _ { w } \in z
+\end{equation}

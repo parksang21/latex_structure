@@ -1,0 +1,3 @@
+\begin{equation}
+	V ( \phi q ) = \frac { 1 } { 2 } ( \frac { d } { d x } \phi ( x q ) ) ^ { 2 }
+\end{equation}

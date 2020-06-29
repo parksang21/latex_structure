@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mfrac><mn>1</mn><mrow><mi>f</mi><mi>π</mi></mrow></mfrac><mi>ε</mi><mo stretchy="false" form="prefix">(</mo><mi>p</mi><mo>+</mo><mfrac><mn>9</mn><mn>2</mn></mfrac><mo stretchy="false" form="postfix">)</mo><msub><mi>γ</mi><mn>5</mn></msub><msup><mi>T</mi><mi>a</mi></msup></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \frac { 1 } { f \pi } \varepsilon ( p + \frac { 9 } { 2 } ) \gamma _ { 5 } T ^ { a }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

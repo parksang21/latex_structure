@@ -1,0 +1,3 @@
+\begin{equation}
+	\sqrt { B } _ { ( A } ^ { D } d \beta C ) D = 0
+\end{equation}

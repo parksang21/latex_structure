@@ -1,0 +1,41 @@
+# IUD, new_render_01255
+# Objects(19):
+O, v_24, v, 1.0, ORRRRRRRRRRRRR
+O, \because_3, \because, 1.0, OR
+O, z_4, z, 1.0, ORR
+O, (_2, (, 1.0, O
+O, \gt_10, \gt, 1.0, ORRRRRR
+O, \prod_15, \prod, 1.0, ORRRRRRRRRR
+O, z_22, z, 1.0, ORRRRRRRRRRRSub
+O, c_19, c, 1.0, ORRRRRRRRRRBelowRR
+O, X_8, X, 1.0, ORRRRR
+O, )_12, ), 1.0, ORRRRRRRR
+O, z_17, z, 1.0, ORRRRRRRRRRBelow
+O, \leqq_5, \leqq, 1.0, ORRR
+O, c_6, c, 1.0, ORRRR
+O, z_9, z, 1.0, ORRRRRSub
+O, X_21, X, 1.0, ORRRRRRRRRRR
+O, c_11, c, 1.0, ORRRRRRR
+O, \gt_23, \gt, 1.0, ORRRRRRRRRRRR
+O, \Leftrifhtarrow_13, \Leftrifhtarrow, 1.0, ORRRRRRRRR
+O, \leqq_18, \leqq, 1.0, ORRRRRRRRRRBelowR
+
+# Relations from SRT:
+R, (_2, \because_3, Right, 1.0
+R, )_12, \Leftrifhtarrow_13, Right, 1.0
+R, X_21, \gt_23, Right, 1.0
+R, X_21, z_22, Sub, 1.0
+R, X_8, \gt_10, Right, 1.0
+R, X_8, z_9, Sub, 1.0
+R, \Leftrifhtarrow_13, \prod_15, Right, 1.0
+R, \because_3, z_4, Right, 1.0
+R, \gt_10, c_11, Right, 1.0
+R, \gt_23, v_24, Right, 1.0
+R, \leqq_18, c_19, Right, 1.0
+R, \leqq_5, c_6, Right, 1.0
+R, \prod_15, X_21, Right, 1.0
+R, \prod_15, z_17, Below, 1.0
+R, c_11, )_12, Right, 1.0
+R, c_6, X_8, Right, 1.0
+R, z_17, \leqq_18, Right, 1.0
+R, z_4, \leqq_5, Right, 1.0

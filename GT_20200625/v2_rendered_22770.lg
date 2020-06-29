@@ -1,0 +1,39 @@
+# IUD, v2_rendered_22770
+# Objects(18):
+O, W_2, W, 1.0, O
+O, \equiv_6, \equiv, 1.0, ORRRR
+O, \cap_21, \cap, 1.0, ORRRRRRRRBelowR
+O, \cap_11, \cap, 1.0, ORRRRRBelowR
+O, \sigma_20, \sigma, 1.0, ORRRRRRRRBelow
+O, U_14, U, 1.0, ORRRRRR
+O, C_4, C, 1.0, ORR
+O, \sigma_10, \sigma, 1.0, ORRRRRBelow
+O, =_16, =, 1.0, ORRRRRRR
+O, \sigma_25, \sigma, 1.0, ORRRRRRRRRSub
+O, C_12, C, 1.0, ORRRRRBelowRR
+O, )_5, ), 1.0, ORRR
+O, u_24, u, 1.0, ORRRRRRRRR
+O, C_22, C, 1.0, ORRRRRRRRBelowRR
+O, \prod_8, \prod, 1.0, ORRRRR
+O, \sigma_15, \sigma, 1.0, ORRRRRRSub
+O, (_3, (, 1.0, OR
+O, \prod_18, \prod, 1.0, ORRRRRRRR
+
+# Relations from SRT:
+R, (_3, C_4, Right, 1.0
+R, )_5, \equiv_6, Right, 1.0
+R, =_16, \prod_18, Right, 1.0
+R, C_4, )_5, Right, 1.0
+R, U_14, =_16, Right, 1.0
+R, U_14, \sigma_15, Sub, 1.0
+R, W_2, (_3, Right, 1.0
+R, \cap_11, C_12, Right, 1.0
+R, \cap_21, C_22, Right, 1.0
+R, \equiv_6, \prod_8, Right, 1.0
+R, \prod_18, \sigma_20, Below, 1.0
+R, \prod_18, u_24, Right, 1.0
+R, \prod_8, U_14, Right, 1.0
+R, \prod_8, \sigma_10, Below, 1.0
+R, \sigma_10, \cap_11, Right, 1.0
+R, \sigma_20, \cap_21, Right, 1.0
+R, u_24, \sigma_25, Sub, 1.0

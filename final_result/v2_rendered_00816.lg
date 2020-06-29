@@ -1,0 +1,45 @@
+# IUD, v2_rendered_00816
+# Objects(21):
+O, (_25, (, 1.0, ORRRRRRRRR
+O, )_27, ), 1.0, ORRRRRRRRRRR
+O, \infty_17, \infty, 1.0, ORRRRRBelowRR
+O, \Leftrifhtarrow_16, \Leftrifhtarrow, 1.0, ORRRRRBelowR
+O, i_21, i, 1.0, ORRRRRRAboveR
+O, Z_24, Z, 1.0, ORRRRRRRR
+O, \equiv_11, \equiv, 1.0, ORRRR
+O, ω_9, ω, 1.0, ORR
+O, L_3, L, 1.0, O
+O, f_7, f, 1.0, OSubRR
+O, T_15, T, 1.0, ORRRRRBelow
+O, \ln_23, \ln, 1.0, ORRRRRRR
+O, f_6, f, 1.0, OSubR
+O, \lim_13, \lim, 1.0, ORRRRR
+O, _18, -, 1.0, ORRRRRR
+O, -_20, -, 1.0, ORRRRRRAbove
+O, ω_26, ω, 1.0, ORRRRRRRRRR
+O, )_10, ), 1.0, ORRR
+O, (_8, (, 1.0, OR
+O, T_22, T, 1.0, ORRRRRRBelow
+O, e_5, e, 1.0, OSub
+
+# Relations from SRT:
+R, (_25, ω_26, Right, 1.0
+R, (_8, ω_9, Right, 1.0
+R, )_10, \equiv_11, Right, 1.0
+R, -_20, i_21, Right, 1.0
+R, L_3, (_8, Right, 1.0
+R, L_3, e_5, Sub, 1.0
+R, T_15, \Leftrifhtarrow_16, Right, 1.0
+R, Z_24, (_25, Right, 1.0
+R, \Leftrifhtarrow_16, \infty_17, Right, 1.0
+R, \equiv_11, \lim_13, Right, 1.0
+R, \lim_13, T_15, Below, 1.0
+R, \lim_13, _18, Right, 1.0
+R, \ln_23, Z_24, Right, 1.0
+R, _18, -_20, Above, 1.0
+R, _18, T_22, Below, 1.0
+R, _18, \ln_23, Right, 1.0
+R, e_5, f_6, Right, 1.0
+R, f_6, f_7, Right, 1.0
+R, ω_26, )_27, Right, 1.0
+R, ω_9, )_10, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	A _ { \mu } ^ { a } \frac { \sigma ^ { a } } { 2 } = \sqrt { \Omega } _ { \mu \sigma } J _ { \sigma } [ \delta ]
+\end{equation}

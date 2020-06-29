@@ -1,0 +1,35 @@
+# IUD, v2_rendered_24506
+# Objects(16):
+O, \Omega_17, \Omega, 1.0, ORRRRRRRRRRR
+O, \rho_6, \rho, 1.0, ORR
+O, )_9, ), 1.0, ORRRRR
+O, =_10, =, 1.0, ORRRRRR
+O, )_18, ), 1.0, ORRRRRRRRRRRR
+O, \alpha_14, \alpha, 1.0, ORRRRRRRRR
+O, (_16, (, 1.0, ORRRRRRRRRR
+O, \rho_11, \rho, 1.0, ORRRRRRR
+O, V_4, V, 1.0, OSub
+O, V_15, V, 1.0, ORRRRRRRRRSub
+O, \alpha_3, \alpha, 1.0, O
+O, \wedge_7, \wedge, 1.0, ORRR
+O, \wedge_12, \wedge, 1.0, ORRRRRRRR
+O, +_19, +, 1.0, ORRRRRRRRRRRRR
+O, \Omega_8, \Omega, 1.0, ORRRR
+O, (_5, (, 1.0, OR
+
+# Relations from SRT:
+R, (_16, \Omega_17, Right, 1.0
+R, (_5, \rho_6, Right, 1.0
+R, )_18, +_19, Right, 1.0
+R, )_9, =_10, Right, 1.0
+R, =_10, \rho_11, Right, 1.0
+R, \Omega_17, )_18, Right, 1.0
+R, \Omega_8, )_9, Right, 1.0
+R, \alpha_14, (_16, Right, 1.0
+R, \alpha_14, V_15, Sub, 1.0
+R, \alpha_3, (_5, Right, 1.0
+R, \alpha_3, V_4, Sub, 1.0
+R, \rho_11, \wedge_12, Right, 1.0
+R, \rho_6, \wedge_7, Right, 1.0
+R, \wedge_12, \alpha_14, Right, 1.0
+R, \wedge_7, \Omega_8, Right, 1.0

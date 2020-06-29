@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>R</mi><mo>=</mo><mfrac><mrow><mi>d</mi><mo>+</mo><mn>1</mn></mrow><mrow><mi>d</mi><mo>−</mo><mn>1</mn></mrow></mfrac><mfrac><mrow><mn>2</mn><mi>ψ</mi></mrow><msubsup><mi>m</mi><mi>d</mi><mrow><mi>d</mi><mo>−</mo><mn>1</mn></mrow></msubsup></mfrac></mrow><annotation encoding="application/x-tex">\begin{equation}
+    R = \frac { d + 1 } { d - 1 } \frac { 2 \psi } { m _ { d } ^ { d - 1 } }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

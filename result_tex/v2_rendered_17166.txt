@@ -1,0 +1,3 @@
+\begin{equation}
+	\theta = \frac { \Delta J } { \Delta E } = \frac { U ^ { 8 } E } { \angle _ { \sigma } }
+\end{equation}

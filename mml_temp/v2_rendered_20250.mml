@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ρ</mi><mo>=</mo><msqrt><mfrac><mrow><mo>−</mo><mn>1</mn><mn>2</mn></mrow><mrow><mn>1</mn><mo>+</mo><mn>3</mn><mi>ω</mi></mrow></mfrac></msqrt><mfrac><mn>1</mn><mrow><mi>l</mi><msubsup><mi>β</mi><mn>5</mn><mn>2</mn></msubsup></mrow></mfrac></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \rho = \sqrt { \frac { - 1 2 } { 1 + 3 \omega } } \frac { 1 } { l \beta _ { 5 } ^ { 2 } }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

@@ -1,0 +1,35 @@
+# IUD, v2_rendered_15849
+# Objects(16):
+O, x_8, x, 1.0, ORRRR
+O, \vert_11, \vert, 1.0, ORRRRRRR
+O, \vert_15, \vert, 1.0, ORRRRRRRRR
+O, r_19, r, 1.0, ORRRRRRRRRRRR
+O, 3_7, 3, 1.0, ORRRSup
+O, \equiv_3, \equiv, 1.0, OR
+O, 2_10, 2, 1.0, ORRRRRR
+O, \lt_9, \lt, 1.0, ORRRRR
+O, d_6, d, 1.0, ORRR
+O, 0_16, 0, 1.0, ORRRRRRRRRR
+O, 2_20, 2, 1.0, ORRRRRRRRRRRRSup
+O, \int_4, \int, 1.0, ORR
+O, \rangle_17, \rangle, 1.0, ORRRRRRRRRRR
+O, \infty_14, \infty, 1.0, ORRRRRRRRSub
+O, C_2, C, 1.0, O
+O, T_13, T, 1.0, ORRRRRRRR
+
+# Relations from SRT:
+R, 0_16, \rangle_17, Right, 1.0
+R, 2_10, \vert_11, Right, 1.0
+R, C_2, \equiv_3, Right, 1.0
+R, T_13, \infty_14, Sub, 1.0
+R, T_13, \vert_15, Right, 1.0
+R, \equiv_3, \int_4, Right, 1.0
+R, \int_4, d_6, Right, 1.0
+R, \lt_9, 2_10, Right, 1.0
+R, \rangle_17, r_19, Right, 1.0
+R, \vert_11, T_13, Right, 1.0
+R, \vert_15, 0_16, Right, 1.0
+R, d_6, 3_7, Sup, 1.0
+R, d_6, x_8, Right, 1.0
+R, r_19, 2_20, Sup, 1.0
+R, x_8, \lt_9, Right, 1.0

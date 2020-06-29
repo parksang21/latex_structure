@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msqrt><msqrt><mi>z</mi></msqrt></msqrt><msub><mi>β</mi><mn>1</mn></msub><msqrt><mi>ε</mi></msqrt><mo>≥</mo><mn>0</mn><mo>,</mo><msub><mi>β</mi><mi>⊥</mi></msub><mo>≥</mo><msub><mi>I</mi><mi>a</mi></msub><msup><mi>β</mi><mi>a</mi></msup></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \sqrt { \sqrt { z } } \beta _ { 1 } \sqrt { \varepsilon } \geq 0 , \beta _ { \bot } \geq I _ { a } \beta ^ { a }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

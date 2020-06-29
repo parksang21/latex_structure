@@ -1,0 +1,3 @@
+\begin{equation}
+	- \infty \leq x \leq \infty
+\end{equation}

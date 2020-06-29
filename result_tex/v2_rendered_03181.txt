@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { p } { N } + \alpha \frac { N _ { i } } { N } ( 1 - \delta _ { N i N } )
+\end{equation}

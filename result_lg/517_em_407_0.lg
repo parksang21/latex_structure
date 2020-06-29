@@ -1,0 +1,25 @@
+# IUD, 517_em_407_0
+# Objects(11):
+O, _7, -, 1.0, ORRR
+O, b_17, b, 1.0, ORRRBelowR
+O, c_11, c, 1.0, ORRRAboveSub
+O, \log_15, \log, 1.0, ORRRBelow
+O, x_5, x, 1.0, OR
+O, =_6, =, 1.0, ORR
+O, n_4, n, 1.0, OSub
+O, \log_10, \log, 1.0, ORRRAbove
+O, \log_3, \log, 1.0, O
+O, a_12, a, 1.0, ORRRAboveR
+O, 0_16, 0, 1.0, ORRRBelowSub
+
+# Relations from SRT:
+R, =_6, _7, Right, 1.0
+R, \log_10, a_12, Right, 1.0
+R, \log_10, c_11, Sub, 1.0
+R, \log_15, 0_16, Sub, 1.0
+R, \log_15, b_17, Right, 1.0
+R, \log_3, n_4, Sub, 1.0
+R, \log_3, x_5, Right, 1.0
+R, _7, \log_10, Above, 1.0
+R, _7, \log_15, Below, 1.0
+R, x_5, =_6, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	[ k / ( m / i n ) C ] = E ( k ) , \therefore g
+\end{equation}

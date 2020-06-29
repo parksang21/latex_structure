@@ -1,0 +1,3 @@
+\begin{equation}
+	= ( \pm e _ { a } \pm e _ { b } \pm e _ { c } \pm e _ { d } ) / 2 \wedge \varphi _ { 2 }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	Z ( Q ) \neq 3 . 3 2 \frac { \phi k } { 9 Q }
+\end{equation}

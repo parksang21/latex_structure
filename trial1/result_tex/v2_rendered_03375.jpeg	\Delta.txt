@@ -1,0 +1,3 @@
+\begin{equation}
+	= a \mu ^ { 2 } + ( h i g h e r o r d e r t e r m s )
+\end{equation}

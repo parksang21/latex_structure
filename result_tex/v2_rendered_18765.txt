@@ -1,0 +1,3 @@
+\begin{equation}
+	f ^ { \lambda } ( p ) = \frac { i } { p ^ { 2 } } \rho _ { \mu } \varepsilon ^ { \mu \lambda }
+\end{equation}

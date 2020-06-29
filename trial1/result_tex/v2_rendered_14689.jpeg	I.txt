@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \alpha + m , m } ( x ) , m = 0 , 1 , 2 . . . , \alpha \notin - 1
+\end{equation}

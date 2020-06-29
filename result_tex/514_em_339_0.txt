@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { f ( a ) - f ( b ) } { a - b }
+\end{equation}

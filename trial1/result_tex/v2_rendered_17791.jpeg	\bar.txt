@@ -1,0 +1,3 @@
+\begin{equation}
+	{ g } _ { \rho } U = U , \exists \rho \wedge \Delta
+\end{equation}

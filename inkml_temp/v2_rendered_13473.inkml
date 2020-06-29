@@ -1,0 +1,81 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_13473</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msub><mi xml:id="\varepsilon_3">ε</mi><mi xml:id="m_4">m</mi></msub><mo xml:id="=_5">=</mo><msubsup><mi xml:id="\varepsilon_7">ε</mi><mi xml:id="m_8">m</mi><mrow><mo form="prefix" stretchy="false" xml:id="(_10">(</mo><mo xml:id="+_11">+</mo><mo form="postfix" stretchy="false" xml:id=")_12">)</mo></mrow></msubsup><mo xml:id="\cup_13">∪</mo><msubsup><mi xml:id="\varepsilon_15">ε</mi><mi xml:id="m_16">m</mi><mrow><mo form="prefix" stretchy="false" xml:id="(_18">(</mo><mo xml:id="-_19">−</mo><mo form="postfix" stretchy="false" xml:id=")_20">)</mo></mrow></msubsup></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\varepsilon</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\varepsilon_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">m</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="m_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="=_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\varepsilon</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\varepsilon_7"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">m</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="m_8"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="(_10"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">+</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="+_11"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href=")_12"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">\cup</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="\cup_13"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">\varepsilon</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="\varepsilon_15"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">m</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="m_16"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="(_18"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="-_19"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href=")_20"/>
+	</traceGroup>
+</traceGroup>
+</ink>

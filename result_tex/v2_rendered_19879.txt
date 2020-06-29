@@ -1,0 +1,3 @@
+\begin{equation}
+	\vert f r e e \rangle \otimes \vert \beta \rangle \otimes \vert j , j ^ { 3 } \rangle
+\end{equation}

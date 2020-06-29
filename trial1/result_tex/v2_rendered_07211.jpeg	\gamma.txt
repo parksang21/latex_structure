@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { a _ { 1 } \ldots a _ { 5 } } = \varepsilon ^ { a _ { 1 } \ldots a _ { 5 } }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	A _ { \mu } ^ { ( n ) } \rightarrow \sqrt { A } _ { \mu } ^ { ( n ) }
+\end{equation}

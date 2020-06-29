@@ -1,0 +1,3 @@
+\begin{equation}
+	{ d V } { d \tau } - V T ( B , A \tau ) = 0 o n \beta \notin S _ { \omega } M
+\end{equation}

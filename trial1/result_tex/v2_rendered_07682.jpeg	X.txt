@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { I } F _ { t m } ^ { I } = - \Delta _ { m } e ^ { A }
+\end{equation}

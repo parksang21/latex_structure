@@ -1,0 +1,3 @@
+\begin{equation}
+	\sqrt { g } ( \alpha R ^ { 2 } + \beta R _ { \mu \delta } R ^ { \mu \delta } )
+\end{equation}

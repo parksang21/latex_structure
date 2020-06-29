@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>L</mi><mo>=</mo><msup><mi>g</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup><mi>C</mi><mi>g</mi><mo>,</mo><mi>L</mi><mo>∩</mo><msup><mi>G</mi><mo>*</mo></msup><mo>,</mo><mi>g</mi><mo>∩</mo><mi>G</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+    L = g ^ { - 1 } C g , L \cap G ^ { * } , g \cap G
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

@@ -1,0 +1,31 @@
+# IUD, 1020
+# Objects(14):
+O, -_12, -, 1.0, ORRSup
+O, G_6, G, 1.0, OSupR
+O, 6_13, 6, 1.0, ORRSupR
+O, K_16, K, 1.0, ORRRSup
+O, -_5, -, 1.0, OSup
+O, p_10, p, 1.0, ORRSub
+O, W_18, W, 1.0, ORRRRR
+O, \vert_20, \vert, 1.0, ORRRRRR
+O, \vert_17, \vert, 1.0, ORRRR
+O, 2_21, 2, 1.0, ORRRRRRSup
+O, =_7, =, 1.0, OR
+O, e_15, e, 1.0, ORRR
+O, e_3, e, 1.0, O
+O, M_9, M, 1.0, ORR
+
+# Relations from SRT:
+R, -_12, 6_13, Right, 1.0
+R, -_5, G_6, Right, 1.0
+R, =_7, M_9, Right, 1.0
+R, M_9, -_12, Sup, 1.0
+R, M_9, e_15, Right, 1.0
+R, M_9, p_10, Sub, 1.0
+R, W_18, \vert_20, Right, 1.0
+R, \vert_17, W_18, Right, 1.0
+R, \vert_20, 2_21, Sup, 1.0
+R, e_15, K_16, Sup, 1.0
+R, e_15, \vert_17, Right, 1.0
+R, e_3, -_5, Sup, 1.0
+R, e_3, =_7, Right, 1.0

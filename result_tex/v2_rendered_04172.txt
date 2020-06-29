@@ -1,0 +1,3 @@
+\begin{equation}
+	J = \int _ { B } d ^ { 2 } \phi \sqrt { \sigma } T _ { a b } u ^ { a } \delta ^ { b }
+\end{equation}

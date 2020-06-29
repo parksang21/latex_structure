@@ -1,0 +1,3 @@
+\begin{equation}
+	m ^ { 2 } = - \frac { 1 } { \sqrt { 2 } \pi } \beta b \csqrt \beta \tau
+\end{equation}

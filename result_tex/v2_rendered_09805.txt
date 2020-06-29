@@ -1,0 +1,3 @@
+\begin{equation}
+	M \Leftrightarrow \psi M \psi ^ { T } , \beta \Leftrightarrow ( \psi T ) ^ { - 1 } B
+\end{equation}

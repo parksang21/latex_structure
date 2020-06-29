@@ -1,0 +1,3 @@
+\begin{equation}
+	O _ { 0 } = \tau ( \omega ) = \angle _ { \tau } ( \omega )
+\end{equation}

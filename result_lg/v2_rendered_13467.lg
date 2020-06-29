@@ -1,0 +1,37 @@
+# IUD, v2_rendered_13467
+# Objects(17):
+O, \beta_7, \beta, 1.0, ORRRRR
+O, \int_10, \int, 1.0, ORRRRRRR
+O, =_6, =, 1.0, ORRRR
+O, 0_15, 0, 1.0, ORRRRRRRRSub
+O, )_18, ), 1.0, ORRRRRRRRRRR
+O, t_4, t, 1.0, ORR
+O, a_14, a, 1.0, ORRRRRRRR
+O, t_12, t, 1.0, ORRRRRRRSup
+O, 0_11, 0, 1.0, ORRRRRRRSub
+O, \tau_20, \tau, 1.0, ORRRRRRRRRRRRR
+O, )_5, ), 1.0, ORRR
+O, (_16, (, 1.0, ORRRRRRRRR
+O, (_3, (, 1.0, OR
+O, \tau_17, \tau, 1.0, ORRRRRRRRRR
+O, +_8, +, 1.0, ORRRRRR
+O, \phi_2, \phi, 1.0, O
+O, d_19, d, 1.0, ORRRRRRRRRRRR
+
+# Relations from SRT:
+R, (_16, \tau_17, Right, 1.0
+R, (_3, t_4, Right, 1.0
+R, )_18, d_19, Right, 1.0
+R, )_5, =_6, Right, 1.0
+R, +_8, \int_10, Right, 1.0
+R, =_6, \beta_7, Right, 1.0
+R, \beta_7, +_8, Right, 1.0
+R, \int_10, 0_11, Sub, 1.0
+R, \int_10, a_14, Right, 1.0
+R, \int_10, t_12, Sup, 1.0
+R, \phi_2, (_3, Right, 1.0
+R, \tau_17, )_18, Right, 1.0
+R, a_14, (_16, Right, 1.0
+R, a_14, 0_15, Sub, 1.0
+R, d_19, \tau_20, Right, 1.0
+R, t_4, )_5, Right, 1.0

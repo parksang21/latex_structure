@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { a b } = \beta ^ { \gamma } \omega _ { \gamma } ^ { a b }
+\end{equation}

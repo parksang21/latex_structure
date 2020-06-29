@@ -1,0 +1,41 @@
+# IUD, new_render_02198
+# Objects(19):
+O, )_11, ), 1.0, 8
+O, \geqq_4, \geqq, 1.0, 2
+O, s_23, s, 1.0, 18
+O, k_14, k, 1.0, 10
+O, (_15, (, 1.0, 11
+O, \Delta_2, \Delta, 1.0, 0
+O, k_8, k, 1.0, 5
+O, j_13, j, 1.0, 9
+O, \int_5, \int, 1.0, 3
+O, y_21, y, 1.0, 16
+O, S_3, S, 1.0, 1
+O, \gt_20, \gt, 1.0, 15
+O, )_17, ), 1.0, 13
+O, \Delta_19, \Delta, 1.0, 14
+O, (_9, (, 1.0, 6
+O, x_10, x, 1.0, 7
+O, \rho_7, \rho, 1.0, 4
+O, s_16, s, 1.0, 12
+O, d_22, d, 1.0, 17
+
+# Relations from SRT:
+R, (_15, s_16, Right, 1.0
+R, (_9, x_10, Right, 1.0
+R, )_11, j_13, Right, 1.0
+R, )_17, \Delta_19, Right, 1.0
+R, S_3, \geqq_4, Right, 1.0
+R, \Delta_19, \gt_20, Sub, 1.0
+R, \Delta_19, y_21, Right, 1.0
+R, \Delta_2, S_3, Right, 1.0
+R, \geqq_4, \int_5, Right, 1.0
+R, \int_5, \rho_7, Right, 1.0
+R, \rho_7, (_9, Right, 1.0
+R, \rho_7, k_8, Sup, 1.0
+R, d_22, s_23, Right, 1.0
+R, j_13, (_15, Right, 1.0
+R, j_13, k_14, Sup, 1.0
+R, s_16, )_17, Right, 1.0
+R, x_10, )_11, Right, 1.0
+R, y_21, d_22, Right, 1.0

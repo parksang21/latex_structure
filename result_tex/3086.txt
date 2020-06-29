@@ -1,0 +1,3 @@
+\begin{equation}
+	\delta A _ { \mu } ^ { a } = \Delta _ { \mu } \theta ^ { a }
+\end{equation}

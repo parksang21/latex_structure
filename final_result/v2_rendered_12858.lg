@@ -1,0 +1,47 @@
+# IUD, v2_rendered_12858
+# Objects(22):
+O, x_19, x, 1.0, ORRRRRRRRRRRR
+O, \tan_21, \tan, 1.0, ORRRRRRRRRRRRR
+O, \rightarrow_17, \rightarrow, 1.0, ORRRRRRRRRRR
+O, \gamma_12, \gamma, 1.0, ORRRRRRRR
+O, \gamma_6, \gamma, 1.0, ORRRR
+O, \cos_11, \cos, 1.0, ORRRRRRR
+O, x_9, x, 1.0, ORRRRRR
+O, COMMA_13, COMMA, 1.0, ORRRRRRRRR
+O, 5_16, 5, 1.0, ORRRRRRRRRRSup
+O, x_15, x, 1.0, ORRRRRRRRRR
+O, 5_10, 5, 1.0, ORRRRRRSup
+O, \rightarrow_3, \rightarrow, 1.0, OR
+O, \gamma_22, \gamma, 1.0, ORRRRRRRRRRRRRR
+O, \cos_25, \cos, 1.0, ORRRRRRRRRRRRRRRRR
+O, t_2, t, 1.0, O
+O, t_4, t, 1.0, ORR
+O, 5_20, 5, 1.0, ORRRRRRRRRRRRSup
+O, \tan_5, \tan, 1.0, ORRR
+O, t_24, t, 1.0, ORRRRRRRRRRRRRRRR
+O, -_23, -, 1.0, ORRRRRRRRRRRRRRR
+O, -_7, -, 1.0, ORRRRR
+O, \gamma_26, \gamma, 1.0, ORRRRRRRRRRRRRRRRRR
+
+# Relations from SRT:
+R, -_23, t_24, Right, 1.0
+R, -_7, x_9, Right, 1.0
+R, COMMA_13, x_15, Right, 1.0
+R, \cos_11, \gamma_12, Right, 1.0
+R, \cos_25, \gamma_26, Right, 1.0
+R, \gamma_12, COMMA_13, Right, 1.0
+R, \gamma_22, -_23, Right, 1.0
+R, \gamma_6, -_7, Right, 1.0
+R, \rightarrow_17, x_19, Right, 1.0
+R, \rightarrow_3, t_4, Right, 1.0
+R, \tan_21, \gamma_22, Right, 1.0
+R, \tan_5, \gamma_6, Right, 1.0
+R, t_24, \cos_25, Right, 1.0
+R, t_2, \rightarrow_3, Right, 1.0
+R, t_4, \tan_5, Right, 1.0
+R, x_15, 5_16, Sup, 1.0
+R, x_15, \rightarrow_17, Right, 1.0
+R, x_19, 5_20, Sup, 1.0
+R, x_19, \tan_21, Right, 1.0
+R, x_9, 5_10, Sup, 1.0
+R, x_9, \cos_11, Right, 1.0

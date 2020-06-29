@@ -1,0 +1,3 @@
+\begin{equation}
+	\lambda \equiv D _ { + } + D _ { - } = \Delta _ { \theta } + 2 \theta \Delta _ { l }
+\end{equation}

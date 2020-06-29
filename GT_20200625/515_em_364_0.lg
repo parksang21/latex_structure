@@ -1,0 +1,33 @@
+# IUD, 515_em_364_0
+# Objects(15):
+O, (_10, (, 1.0, ORRRRRRRR
+O, _11, -, 1.0, ORRRRRRRRR
+O, x_3, x, 1.0, OR
+O, )_17, ), 1.0, ORRRRRRRRRR
+O, 2_16, 2, 1.0, ORRRRRRRRRBelow
+O, +_14, +, 1.0, ORRRRRRRRRAboveR
+O, -_4, -, 1.0, ORR
+O, y_15, y, 1.0, ORRRRRRRRRAboveRR
+O, \sin_5, \sin, 1.0, ORRR
+O, =_7, =, 1.0, ORRRRR
+O, x_13, x, 1.0, ORRRRRRRRRAbove
+O, 2_8, 2, 1.0, ORRRRRR
+O, \cos_9, \cos, 1.0, ORRRRRRR
+O, y_6, y, 1.0, ORRRR
+O, \sin_2, \sin, 1.0, O
+
+# Relations from SRT:
+R, (_10, _11, Right, 1.0
+R, +_14, y_15, Right, 1.0
+R, -_4, \sin_5, Right, 1.0
+R, 2_8, \cos_9, Right, 1.0
+R, =_7, 2_8, Right, 1.0
+R, \cos_9, (_10, Right, 1.0
+R, \sin_2, x_3, Right, 1.0
+R, \sin_5, y_6, Right, 1.0
+R, _11, )_17, Right, 1.0
+R, _11, 2_16, Below, 1.0
+R, _11, x_13, Above, 1.0
+R, x_13, +_14, Right, 1.0
+R, x_3, -_4, Right, 1.0
+R, y_6, =_7, Right, 1.0

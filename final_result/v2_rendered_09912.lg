@@ -1,0 +1,49 @@
+# IUD, v2_rendered_09912
+# Objects(23):
+O, _16, -, 1.0, ORRRRR
+O, -_23, -, 1.0, ORRRRRRRR
+O, i_22, i, 1.0, ORRRRRRRSub
+O, \leq_12, \leq, 1.0, ORRBelowRRRRR
+O, \beta_2, \beta, 1.0, O
+O, \vert_14, \vert, 1.0, ORRR
+O, x_25, x, 1.0, ORRRRRRRRR
+O, )_27, ), 1.0, ORRRRRRRRRR
+O, (_19, (, 1.0, ORRRRRR
+O, j_26, j, 1.0, ORRRRRRRRRSub
+O, 2_18, 2, 1.0, ORRRRRBelow
+O, \sin_15, \sin, 1.0, ORRRR
+O, N_13, N, 1.0, ORRBelowRRRRRR
+O, ⊄_10, ⊄, 1.0, ORRBelowRRR
+O, \vert_28, \vert, 1.0, ORRRRRRRRRRR
+O, 1_17, 1, 1.0, ORRRRRAbove
+O, 1_7, 1, 1.0, ORRBelow
+O, j_11, j, 1.0, ORRBelowRRRR
+O, x_21, x, 1.0, ORRRRRRR
+O, =_3, =, 1.0, OR
+O, i_9, i, 1.0, ORRBelowRR
+O, \leq_8, \leq, 1.0, ORRBelowR
+O, \prod_5, \prod, 1.0, ORR
+
+# Relations from SRT:
+R, (_19, x_21, Right, 1.0
+R, )_27, \vert_28, Right, 1.0
+R, -_23, x_25, Right, 1.0
+R, 1_7, \leq_8, Right, 1.0
+R, =_3, \prod_5, Right, 1.0
+R, \beta_2, =_3, Right, 1.0
+R, \leq_12, N_13, Right, 1.0
+R, \leq_8, i_9, Right, 1.0
+R, \prod_5, 1_7, Below, 1.0
+R, \prod_5, \vert_14, Right, 1.0
+R, \sin_15, _16, Right, 1.0
+R, \vert_14, \sin_15, Right, 1.0
+R, _16, (_19, Right, 1.0
+R, _16, 1_17, Above, 1.0
+R, _16, 2_18, Below, 1.0
+R, i_9, ⊄_10, Right, 1.0
+R, j_11, \leq_12, Right, 1.0
+R, x_21, -_23, Right, 1.0
+R, x_21, i_22, Sub, 1.0
+R, x_25, )_27, Right, 1.0
+R, x_25, j_26, Sub, 1.0
+R, ⊄_10, j_11, Right, 1.0

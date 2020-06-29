@@ -1,0 +1,3 @@
+\begin{equation}
+	\sqrt { L } = - g \csqrt b + L + \csqrts
+\end{equation}

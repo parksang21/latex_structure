@@ -1,0 +1,47 @@
+# IUD, 3033
+# Objects(22):
+O, (_22, (, 1.0, ORRBelowRRRRRR
+O, =_5, =, 1.0, OR
+O, \delta_3, \delta, 1.0, O
+O, 1_23, 1, 1.0, ORRBelowRRRRRRR
+O, n_4, n, 1.0, OSub
+O, (_16, (, 1.0, ORRBelow
+O, -_10, -, 1.0, ORRAboveRR
+O, 2_9, 2, 1.0, ORRAboveR
+O, 1_19, 1, 1.0, ORRBelowRRR
+O, n_28, n, 1.0, ORRBelowRRRRRRRRRRSup
+O, )_20, ), 1.0, ORRBelowRRRR
+O, )_27, ), 1.0, ORRBelowRRRRRRRRRR
+O, \mu_11, \mu, 1.0, ORRAboveRRR
+O, (_8, (, 1.0, ORRAbove
+O, _6, -, 1.0, ORR
+O, +_18, +, 1.0, ORRBelowRR
+O, n_14, n, 1.0, ORRAboveRRRRSub
+O, !_21, !, 1.0, ORRBelowRRRRR
+O, n_17, n, 1.0, ORRBelowR
+O, \mu_25, \mu, 1.0, ORRBelowRRRRRRRRR
+O, -_24, -, 1.0, ORRBelowRRRRRRRR
+O, )_13, ), 1.0, ORRAboveRRRR
+
+# Relations from SRT:
+R, !_21, (_22, Right, 1.0
+R, (_16, n_17, Right, 1.0
+R, (_22, 1_23, Right, 1.0
+R, (_8, 2_9, Right, 1.0
+R, )_13, n_14, Sub, 1.0
+R, )_20, !_21, Right, 1.0
+R, )_27, n_28, Sup, 1.0
+R, +_18, 1_19, Right, 1.0
+R, -_10, \mu_11, Right, 1.0
+R, -_24, \mu_25, Right, 1.0
+R, 1_19, )_20, Right, 1.0
+R, 1_23, -_24, Right, 1.0
+R, 2_9, -_10, Right, 1.0
+R, =_5, _6, Right, 1.0
+R, \delta_3, =_5, Right, 1.0
+R, \delta_3, n_4, Sub, 1.0
+R, \mu_11, )_13, Right, 1.0
+R, \mu_25, )_27, Right, 1.0
+R, _6, (_16, Below, 1.0
+R, _6, (_8, Above, 1.0
+R, n_17, +_18, Right, 1.0

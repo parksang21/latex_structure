@@ -1,0 +1,3 @@
+\begin{equation}
+	C ( k , N ) \equiv \frac { k ( N - k ) } { N - 1 }
+\end{equation}

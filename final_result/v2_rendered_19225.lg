@@ -1,0 +1,45 @@
+# IUD, v2_rendered_19225
+# Objects(21):
+O, \varepsilon_15, \varepsilon, 1.0, ORRRRRRRInside
+O, )_7, ), 1.0, ORRRR
+O, a_10, a, 1.0, ORRRRRR
+O, a_17, a, 1.0, ORRRRRRRRR
+O, )_18, ), 1.0, ORRRRRRRRRR
+O, \vee_23, \vee, 1.0, ORRRRRRRRRRRRRRR
+O, \forall_21, \forall, 1.0, ORRRRRRRRRRRRR
+O, a_5, a, 1.0, ORR
+O, 3_13, 3, 1.0, ORRRRRRSupR
+O, a_6, a, 1.0, ORRR
+O, a_19, a, 1.0, ORRRRRRRRRRR
+O, (_16, (, 1.0, ORRRRRRRR
+O, (_4, (, 1.0, OR
+O, \varepsilon_3, \varepsilon, 1.0, OInside
+O, COMMA_20, COMMA, 1.0, ORRRRRRRRRRRR
+O, _2, \sqrt, 1.0, O
+O, U_24, U, 1.0, ORRRRRRRRRRRRRRRR
+O, \div_12, \div, 1.0, ORRRRRRSup
+O, =_8, =, 1.0, ORRRRR
+O, a_22, a, 1.0, ORRRRRRRRRRRRRR
+O, _14, \sqrt, 1.0, ORRRRRRR
+
+# Relations from SRT:
+R, (_16, a_17, Right, 1.0
+R, (_4, a_5, Right, 1.0
+R, )_18, a_19, Right, 1.0
+R, )_7, =_8, Right, 1.0
+R, =_8, a_10, Right, 1.0
+R, COMMA_20, \forall_21, Right, 1.0
+R, \div_12, 3_13, Right, 1.0
+R, \forall_21, a_22, Right, 1.0
+R, \vee_23, U_24, Right, 1.0
+R, _14, (_16, Right, 1.0
+R, _14, \varepsilon_15, Inside, 1.0
+R, _2, (_4, Right, 1.0
+R, _2, \varepsilon_3, Inside, 1.0
+R, a_10, \div_12, Sup, 1.0
+R, a_10, _14, Right, 1.0
+R, a_17, )_18, Right, 1.0
+R, a_19, COMMA_20, Right, 1.0
+R, a_22, \vee_23, Right, 1.0
+R, a_5, a_6, Right, 1.0
+R, a_6, )_7, Right, 1.0

@@ -1,0 +1,37 @@
+# IUD, v2_rendered_12831
+# Objects(17):
+O, (_2, (, 1.0, O
+O, I_20, I, 1.0, ORRRRRRRRRSup
+O, (_5, (, 1.0, ORRR
+O, \gamma_12, \gamma, 1.0, ORRRRRRR
+O, -_4, -, 1.0, ORR
+O, \theta_19, \theta, 1.0, ORRRRRRRRR
+O, )_17, ), 1.0, ORRRRRRRR
+O, 1_15, 1, 1.0, ORRRRRRRSupR
+O, -_6, -, 1.0, ORRRR
+O, 0_14, 0, 1.0, ORRRRRRRSup
+O, =_21, =, 1.0, ORRRRRRRRRR
+O, 1_7, 1, 1.0, ORRRRR
+O, 0_22, 0, 1.0, ORRRRRRRRRRR
+O, 1_3, 1, 1.0, OR
+O, I_10, I, 1.0, ORRRRRRSup
+O, )_9, ), 1.0, ORRRRRR
+O, 2_16, 2, 1.0, ORRRRRRRSupRR
+
+# Relations from SRT:
+R, (_2, 1_3, Right, 1.0
+R, (_5, -_6, Right, 1.0
+R, )_17, \theta_19, Right, 1.0
+R, )_9, I_10, Sup, 1.0
+R, )_9, \gamma_12, Right, 1.0
+R, -_4, (_5, Right, 1.0
+R, -_6, 1_7, Right, 1.0
+R, 0_14, 1_15, Right, 1.0
+R, 1_15, 2_16, Right, 1.0
+R, 1_3, -_4, Right, 1.0
+R, 1_7, )_9, Right, 1.0
+R, =_21, 0_22, Right, 1.0
+R, \gamma_12, )_17, Right, 1.0
+R, \gamma_12, 0_14, Sup, 1.0
+R, \theta_19, =_21, Right, 1.0
+R, \theta_19, I_20, Sup, 1.0

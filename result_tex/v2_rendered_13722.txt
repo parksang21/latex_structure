@@ -1,0 +1,3 @@
+\begin{equation}
+	Q _ { 1 } ^ { 2 } = H + z , Q _ { 2 } ^ { 2 } = * - z
+\end{equation}

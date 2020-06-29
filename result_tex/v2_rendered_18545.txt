@@ -1,0 +1,3 @@
+\begin{equation}
+	\Omega _ { a } ^ { N } = \prod _ { b \neq a } ^ { 3 } \sigma _ { a b } , a = 1 , 2 , 3
+\end{equation}

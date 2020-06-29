@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>Δ</mi><mi>γ</mi></msub><msup><mi>Δ</mi><mi>γ</mi></msup><msub><mi>j</mi><mi>μ</mi></msub><mo>=</mo><msup><mi>f</mi><mn>2</mn></msup><msub><mi>j</mi><mi>μ</mi></msub><mo>+</mo><msub><mi>Δ</mi><mi>μ</mi></msub><mo stretchy="false" form="prefix">(</mo><msub><mi>Δ</mi><mi>γ</mi></msub><msup><mi>j</mi><mi>γ</mi></msup><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \Delta _ { \gamma } \Delta ^ { \gamma } j _ { \mu } = f ^ { 2 } j _ { \mu } + \Delta _ { \mu } ( \Delta _ { \gamma } j ^ { \gamma } )
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

@@ -1,0 +1,3 @@
+\begin{equation}
+	c _ { \Omega } \equiv \sqrt { c } _ { \Omega } \times c _ { \Omega } ^ { 0 }
+\end{equation}

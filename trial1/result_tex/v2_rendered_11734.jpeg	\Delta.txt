@@ -1,0 +1,3 @@
+\begin{equation}
+	V \sim - \frac { 2 } { 3 \pi } \frac { R ^ { 2 } } { r ^ { 2 } } \log \frac { r } { R }
+\end{equation}

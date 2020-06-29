@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \beta \psi } \omega _ { i } \neq \int _ { C Y _ { 3 } } \omega _ { i } \wedge G
+\end{equation}

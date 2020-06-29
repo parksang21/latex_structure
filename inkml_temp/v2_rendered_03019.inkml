@@ -1,0 +1,71 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_03019</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mi xml:id="m_2">m</mi><msub><mi xml:id="\Omega_4">Ω</mi><mrow><mi xml:id="\lambda_6">λ</mi><mi xml:id="n_7">n</mi></mrow></msub><msub><mi xml:id="O_9">O</mi><mrow><mi xml:id="n_11">n</mi><mo xml:id="\cup_12">∪</mo></mrow></msub><mo xml:id="-_13">−</mo><msub><mi xml:id="j_15">j</mi><mi xml:id="\lambda_16">λ</mi></msub><mo xml:id="=_17">=</mo><mn xml:id="0_18">0</mn></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">m</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="m_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\Omega</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\Omega_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\lambda</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\lambda_6"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">n</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="n_7"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">O</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="O_9"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">n</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="n_11"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">\cup</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="\cup_12"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="-_13"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">j</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="j_15"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">\lambda</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="\lambda_16"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="=_17"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">0</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="0_18"/>
+	</traceGroup>
+</traceGroup>
+</ink>

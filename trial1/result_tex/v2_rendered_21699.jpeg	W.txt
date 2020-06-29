@@ -1,0 +1,3 @@
+\begin{equation}
+	r ( \gamma _ { k } ) = \frac { 1 } { 4 \pi } \int _ { \gamma _ { k } } \int _ { \gamma _ { k } } \overrightarrow m
+\end{equation}

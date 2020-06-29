@@ -1,0 +1,3 @@
+\begin{equation}
+	s ^ { 2 } = \sqrt { \lambda } \frac { d y ^ { 2 } + d \overrightarrow x } { y ^ { 2 } } ^ { 2 }
+\end{equation}

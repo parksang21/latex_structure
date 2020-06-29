@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { m a g } ( u ) = - \frac { i k } { 2 \pi } \ln ( M ( u ) )
+\end{equation}

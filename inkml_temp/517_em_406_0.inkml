@@ -1,0 +1,26 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">517_em_406_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <msub><mi xml:id="\varepsilon_2">ε</mi><msub><mi xml:id="b_4">b</mi><mi xml:id="n_5">n</mi></msub></msub>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\varepsilon</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\varepsilon_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">b</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="b_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">n</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="n_5"/>
+	</traceGroup>
+</traceGroup>
+</ink>

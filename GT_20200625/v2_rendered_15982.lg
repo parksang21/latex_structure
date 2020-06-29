@@ -1,0 +1,41 @@
+# IUD, v2_rendered_15982
+# Objects(19):
+O, 1_24, 1, 1.0, ORRBelowRRRRSub
+O, )_14, ), 1.0, ORRAboveRRRRRR
+O, \alpha_2, \alpha, 1.0, O
+O, \ln_7, \ln, 1.0, ORRAboveR
+O, \rho_13, \rho, 1.0, ORRAboveRRRRR
+O, \ln_16, \ln, 1.0, ORRBelow
+O, 2_11, 2, 1.0, ORRAboveRRRSub
+O, \rho_10, \rho, 1.0, ORRAboveRRR
+O, /_12, /, 1.0, ORRAboveRRRR
+O, 2_20, 2, 1.0, ORRBelowRRSub
+O, /_21, /, 1.0, ORRBelowRRR
+O, \pi_6, \pi, 1.0, ORRAbove
+O, =_3, =, 1.0, OR
+O, (_17, (, 1.0, ORRBelowR
+O, (_8, (, 1.0, ORRAboveRR
+O, )_25, ), 1.0, ORRBelowRRRRR
+O, _4, -, 1.0, ORR
+O, \rho_19, \rho, 1.0, ORRBelowRR
+O, \rho_23, \rho, 1.0, ORRBelowRRRR
+
+# Relations from SRT:
+R, (_17, \rho_19, Right, 1.0
+R, (_8, \rho_10, Right, 1.0
+R, /_12, \rho_13, Right, 1.0
+R, /_21, \rho_23, Right, 1.0
+R, =_3, _4, Right, 1.0
+R, \alpha_2, =_3, Right, 1.0
+R, \ln_16, (_17, Right, 1.0
+R, \ln_7, (_8, Right, 1.0
+R, \pi_6, \ln_7, Right, 1.0
+R, \rho_10, /_12, Right, 1.0
+R, \rho_10, 2_11, Sub, 1.0
+R, \rho_13, )_14, Right, 1.0
+R, \rho_19, /_21, Right, 1.0
+R, \rho_19, 2_20, Sub, 1.0
+R, \rho_23, )_25, Right, 1.0
+R, \rho_23, 1_24, Sub, 1.0
+R, _4, \ln_16, Below, 1.0
+R, _4, \pi_6, Above, 1.0

@@ -1,0 +1,27 @@
+# IUD, 513_em_300_0
+# Objects(12):
+O, \log_14, \log, 1.0, ORRRRRRR
+O, \log_3, \log, 1.0, O
+O, x_5, x, 1.0, OR
+O, y_6, y, 1.0, ORR
+O, a_15, a, 1.0, ORRRRRRRSub
+O, a_10, a, 1.0, ORRRRSub
+O, =_7, =, 1.0, ORRR
+O, x_11, x, 1.0, ORRRRR
+O, a_4, a, 1.0, OSub
+O, +_12, +, 1.0, ORRRRRR
+O, \log_9, \log, 1.0, ORRRR
+O, y_16, y, 1.0, ORRRRRRRR
+
+# Relations from SRT:
+R, +_12, \log_14, Right, 1.0
+R, =_7, \log_9, Right, 1.0
+R, \log_14, a_15, Sub, 1.0
+R, \log_14, y_16, Right, 1.0
+R, \log_3, a_4, Sub, 1.0
+R, \log_3, x_5, Right, 1.0
+R, \log_9, a_10, Sub, 1.0
+R, \log_9, x_11, Right, 1.0
+R, x_11, +_12, Right, 1.0
+R, x_5, y_6, Right, 1.0
+R, y_6, =_7, Right, 1.0

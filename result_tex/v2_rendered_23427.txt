@@ -1,0 +1,3 @@
+\begin{equation}
+	\delta ^ { 0 } G _ { m n } Y \delta E ^ { a i } \delta E ^ { b j }
+\end{equation}

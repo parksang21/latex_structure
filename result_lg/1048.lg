@@ -1,0 +1,39 @@
+# IUD, 1048
+# Objects(18):
+O, a_14, a, 1.0, ORRRRRR
+O, i_11, i, 1.0, ORRRSub
+O, 0_5, 0, 1.0, OSup
+O, E_20, E, 1.0, ORRRRRRRRR
+O, _9, \sqrt, 1.0, ORRR
+O, =_6, =, 1.0, OR
+O, i_24, i, 1.0, ORRRRRRRRRRSub
+O, j_21, j, 1.0, ORRRRRRRRRSub
+O, B_7, B, 1.0, ORR
+O, A_23, A, 1.0, ORRRRRRRRRR
+O, 2_13, 2, 1.0, ORRRRR
+O, \Delta_17, \Delta, 1.0, ORRRRRRRR
+O, i_4, i, 1.0, OSub
+O, E_10, E, 1.0, ORRRInside
+O, j_18, j, 1.0, ORRRRRRRRSub
+O, T_3, T, 1.0, O
+O, -_12, -, 1.0, ORRRR
+O, \tau_15, \tau, 1.0, ORRRRRRR
+
+# Relations from SRT:
+R, -_12, 2_13, Right, 1.0
+R, 2_13, a_14, Right, 1.0
+R, =_6, B_7, Right, 1.0
+R, A_23, i_24, Sub, 1.0
+R, B_7, _9, Right, 1.0
+R, E_20, A_23, Right, 1.0
+R, E_20, j_21, Sub, 1.0
+R, T_3, 0_5, Sup, 1.0
+R, T_3, =_6, Right, 1.0
+R, T_3, i_4, Sub, 1.0
+R, \Delta_17, E_20, Right, 1.0
+R, \Delta_17, j_18, Sub, 1.0
+R, \tau_15, \Delta_17, Right, 1.0
+R, _9, -_12, Right, 1.0
+R, _9, E_10, Inside, 1.0
+R, _9, i_11, Sub, 1.0
+R, a_14, \tau_15, Right, 1.0

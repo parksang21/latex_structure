@@ -1,0 +1,3 @@
+\begin{equation}
+	, n \leqq 1 \ldots d a , b , c \leqq 1 \ldots g i , j , k \leqq 1 \ldots g ( g \leq d )
+\end{equation}

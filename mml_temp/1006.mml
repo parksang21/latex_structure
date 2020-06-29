@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>D</mi><mi>α</mi></msub><mo>=</mo><mi>i</mi><msup><mi>γ</mi><mi>μ</mi></msup><mfrac><mrow><mo>sin</mo><mo stretchy="false" form="prefix">(</mo><mfrac><mi>π</mi><mi>N</mi></mfrac><msub><mi>p</mi><mi>μ</mi></msub><mo stretchy="false" form="postfix">)</mo></mrow><mfrac><mi>π</mi><mi>N</mi></mfrac></mfrac></mrow><annotation encoding="application/x-tex">\begin{equation}
+    D _ { \alpha } = i \gamma ^ { \mu } \frac { \sin ( \frac { \pi } { N } p _ { \mu } ) } { \frac { \pi } { N } }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

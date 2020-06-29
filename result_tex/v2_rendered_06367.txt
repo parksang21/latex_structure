@@ -1,0 +1,3 @@
+\begin{equation}
+	R \leq R _ { r } \sin \rho , \tau \leq R _ { r } ( 1 - \cos \rho )
+\end{equation}

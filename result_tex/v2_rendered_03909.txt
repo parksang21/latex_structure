@@ -1,0 +1,3 @@
+\begin{equation}
+	s \int d ^ { 4 } x d ^ { 2 } \sqrt { \theta } K ^ { 0 } = 0 \leftrightarrow s K ^ { 0 } =
+\end{equation}

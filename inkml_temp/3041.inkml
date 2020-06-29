@@ -1,0 +1,76 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">3041</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msub><mi xml:id="E_3">E</mi><mi xml:id="c_4">c</mi></msub><mo xml:id="=_5">=</mo><mfrac xml:id="_6"><msqrt xml:id="_7"><mrow><msub><mi xml:id="g_10">g</mi><mn xml:id="0_11">0</mn></msub><msub><mi xml:id="g_13">g</mi><mn xml:id="1_14">1</mn></msub></mrow></msqrt><mrow><mn xml:id="2_16">2</mn><mi xml:id="\pi_17">π</mi><msup><mi xml:id="\alpha_19">α</mi><mi xml:id="\prime_20">′</mi></msup></mrow></mfrac></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">E</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="E_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">c</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="c_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="=_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">g</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="g_10"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">0</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="0_11"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">g</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="g_13"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">1</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="1_14"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">2</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="2_16"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">\pi</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="\pi_17"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">\alpha</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="\alpha_19"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">\prime</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="\prime_20"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="_6"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="_7"/>
+	</traceGroup>
+</traceGroup>
+</ink>

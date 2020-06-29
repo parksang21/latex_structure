@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta _ { \alpha } , \theta ^ { \beta } \} = \delta _ { \alpha } ^ { \beta }
+\end{equation}

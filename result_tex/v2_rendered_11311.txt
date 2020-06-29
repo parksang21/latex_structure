@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta _ { i j } + \gamma _ { i k } \omega ^ { k l } \gamma _ { j l } = 0
+\end{equation}

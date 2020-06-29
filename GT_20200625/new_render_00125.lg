@@ -1,0 +1,43 @@
+# IUD, new_render_00125
+# Objects(20):
+O, =_9, =, 1.0, ORR
+O, \therefore_22, \therefore, 1.0, ORRRRRRRRRR
+O, \notin_24, \notin, 1.0, ORRRRRRRRRRRR
+O, \Delta_25, \Delta, 1.0, ORRRRRRRRRRRRR
+O, _3, \sqrt, 1.0, O
+O, COMMA_13, COMMA, 1.0, ORRRR
+O, b_4, b, 1.0, OInside
+O, \phi_7, \phi, 1.0, OR
+O, W_18, W, 1.0, ORRRRRR
+O, \Omega_17, \Omega, 1.0, ORRRRRSub
+O, _15, \sqrt, 1.0, ORRRRR
+O, 0_12, 0, 1.0, ORRRSub
+O, W_20, W, 1.0, ORRRRRRRR
+O, =_19, =, 1.0, ORRRRRRR
+O, \phi_11, \phi, 1.0, ORRR
+O, b_16, b, 1.0, ORRRRRInside
+O, COMMA_21, COMMA, 1.0, ORRRRRRRRR
+O, \Omega_5, \Omega, 1.0, OSub
+O, 0_8, 0, 1.0, ORSub
+O, \Omega_23, \Omega, 1.0, ORRRRRRRRRRR
+
+# Relations from SRT:
+R, =_19, W_20, Right, 1.0
+R, =_9, \phi_11, Right, 1.0
+R, COMMA_13, _15, Right, 1.0
+R, COMMA_21, \therefore_22, Right, 1.0
+R, W_18, =_19, Right, 1.0
+R, W_20, COMMA_21, Right, 1.0
+R, \Omega_23, \notin_24, Right, 1.0
+R, \notin_24, \Delta_25, Right, 1.0
+R, \phi_11, 0_12, Sub, 1.0
+R, \phi_11, COMMA_13, Right, 1.0
+R, \phi_7, 0_8, Sub, 1.0
+R, \phi_7, =_9, Right, 1.0
+R, \therefore_22, \Omega_23, Right, 1.0
+R, _15, W_18, Right, 1.0
+R, _15, \Omega_17, Sub, 1.0
+R, _15, b_16, Inside, 1.0
+R, _3, \Omega_5, Sub, 1.0
+R, _3, \phi_7, Right, 1.0
+R, _3, b_4, Inside, 1.0

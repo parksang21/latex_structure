@@ -1,0 +1,3 @@
+\begin{equation}
+	O ( 2 , d ) = S O ( 1 , d ) \odot S o l v
+\end{equation}

@@ -1,0 +1,43 @@
+# IUD, new_render_02116
+# Objects(20):
+O, _22, -, 1.0, ORRRRRRRR
+O, i_7, i, 1.0, OSupR
+O, k_14, k, 1.0, ORRRRAbove
+O, d_19, d, 1.0, ORRRRR
+O, \Delta_3, \Delta, 1.0, O
+O, 2_17, 2, 1.0, ORRRRBelow
+O, l_18, l, 1.0, ORRRRBelowR
+O, \leqq_9, \leqq, 1.0, OR
+O, -_21, -, 1.0, ORRRRRRR
+O, _12, -, 1.0, ORRRR
+O, n_8, n, 1.0, OSupRR
+O, l_6, l, 1.0, OSup
+O, 1_23, 1, 1.0, ORRRRRRRRAbove
+O, l_20, l, 1.0, ORRRRRR
+O, \int_11, \int, 1.0, ORRR
+O, -_10, -, 1.0, ORR
+O, V_25, V, 1.0, ORRRRRRRRR
+O, 2_24, 2, 1.0, ORRRRRRRRBelow
+O, a_4, a, 1.0, OSub
+O, \prime_15, \prime, 1.0, ORRRRAboveSup
+
+# Relations from SRT:
+R, -_10, \int_11, Right, 1.0
+R, -_21, _22, Right, 1.0
+R, 2_17, l_18, Right, 1.0
+R, \Delta_3, \leqq_9, Right, 1.0
+R, \Delta_3, a_4, Sub, 1.0
+R, \Delta_3, l_6, Sup, 1.0
+R, \int_11, _12, Right, 1.0
+R, \leqq_9, -_10, Right, 1.0
+R, _12, 2_17, Below, 1.0
+R, _12, d_19, Right, 1.0
+R, _12, k_14, Above, 1.0
+R, _22, 1_23, Above, 1.0
+R, _22, 2_24, Below, 1.0
+R, _22, V_25, Right, 1.0
+R, d_19, l_20, Right, 1.0
+R, i_7, n_8, Right, 1.0
+R, k_14, \prime_15, Sup, 1.0
+R, l_20, -_21, Right, 1.0
+R, l_6, i_7, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	\bar { \alpha } = \overline { ( \bar { \lambda } \alpha ) } , \forall \lambda \in C , \alpha \in L , \bar { \alpha } \in \bar { L }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { d \lambda ^ { \gamma } } { d u } \leqq \sqrt { f } _ { \gamma } ( u ) \lambda _ { 1 }
+\end{equation}

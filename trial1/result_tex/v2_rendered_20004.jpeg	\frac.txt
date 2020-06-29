@@ -1,0 +1,3 @@
+\begin{equation}
+	{ d } { d t } \cup - \varphi _ { 0 } \dot { x } ( t ) \cdot \gamma ( t ) > _ { S } = 0
+\end{equation}

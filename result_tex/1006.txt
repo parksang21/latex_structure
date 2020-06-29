@@ -1,0 +1,3 @@
+\begin{equation}
+	D _ { \alpha } = i \gamma ^ { \mu } \frac { \sin ( \frac { \pi } { N } p _ { \mu } ) } { \frac { \pi } { N } }
+\end{equation}

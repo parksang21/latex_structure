@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { \Delta } { \Delta \square _ { t } } E
+\end{equation}

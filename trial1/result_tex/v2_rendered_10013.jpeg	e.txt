@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { - \omega ( b ) } = d e t ( \Delta / + m + i b / )
+\end{equation}

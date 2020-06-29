@@ -1,0 +1,47 @@
+# IUD, v2_rendered_17757
+# Objects(22):
+O, 2_14, 2, 1.0, ORRRRRRRRSup
+O, 2_23, 2, 1.0, ORRRRRRRRRRRRRRSup
+O, S_26, S, 1.0, ORRRRRRRRRRRRRRRRR
+O, \pi_18, \pi, 1.0, ORRRRRRRRRRRR
+O, M_10, M, 1.0, ORRRRRRR
+O, \pi_6, \pi, 1.0, ORRRR
+O, 6_5, 6, 1.0, ORRR
+O, i_11, i, 1.0, ORRRRRRRSub
+O, i_22, i, 1.0, ORRRRRRRRRRRRRRSub
+O, ⊄_15, ⊄, 1.0, ORRRRRRRRR
+O, 4_25, 4, 1.0, ORRRRRRRRRRRRRRRR
+O, A_2, A, 1.0, O
+O, 6_17, 6, 1.0, ORRRRRRRRRRR
+O, 1_16, 1, 1.0, ORRRRRRRRRR
+O, =_24, =, 1.0, ORRRRRRRRRRRRRRR
+O, (_7, (, 1.0, ORRRRR
+O, 1_4, 1, 1.0, ORR
+O, M_21, M, 1.0, ORRRRRRRRRRRRRR
+O, )_13, ), 1.0, ORRRRRRRR
+O, \geq_3, \geq, 1.0, OR
+O, \sum_19, \sum, 1.0, ORRRRRRRRRRRRR
+O, \sum_8, \sum, 1.0, ORRRRRR
+
+# Relations from SRT:
+R, (_7, \sum_8, Right, 1.0
+R, )_13, 2_14, Sup, 1.0
+R, )_13, ⊄_15, Right, 1.0
+R, 1_16, 6_17, Right, 1.0
+R, 1_4, 6_5, Right, 1.0
+R, 4_25, S_26, Right, 1.0
+R, 6_17, \pi_18, Right, 1.0
+R, 6_5, \pi_6, Right, 1.0
+R, =_24, 4_25, Right, 1.0
+R, A_2, \geq_3, Right, 1.0
+R, M_10, )_13, Right, 1.0
+R, M_10, i_11, Sub, 1.0
+R, M_21, 2_23, Sup, 1.0
+R, M_21, =_24, Right, 1.0
+R, M_21, i_22, Sub, 1.0
+R, \geq_3, 1_4, Right, 1.0
+R, \pi_18, \sum_19, Right, 1.0
+R, \pi_6, (_7, Right, 1.0
+R, \sum_19, M_21, Right, 1.0
+R, \sum_8, M_10, Right, 1.0
+R, ⊄_15, 1_16, Right, 1.0

@@ -1,0 +1,45 @@
+# IUD, v2_rendered_07284
+# Objects(21):
+O, \pi_21, \pi, 1.0, ORRRRRRRRRRRR
+O, )_14, ), 1.0, ORRRRRRRR
+O, g_24, g, 1.0, ORRRRRRRRRRRRRRR
+O, (_10, (, 1.0, ORRRRRR
+O, \circle_20, \circle, 1.0, ORRRRRRRRRRR
+O, \neq_8, \neq, 1.0, ORRRR
+O, \psi_4, \psi, 1.0, OSup
+O, \Omega_3, \Omega, 1.0, O
+O, (_9, (, 1.0, ORRRRR
+O, )_22, ), 1.0, ORRRRRRRRRRRRR
+O, \circle_18, \circle, 1.0, ORRRRRRRRR
+O, (_23, (, 1.0, ORRRRRRRRRRRRRR
+O, g_6, g, 1.0, ORR
+O, \Omega_19, \Omega, 1.0, ORRRRRRRRRR
+O, _11, \sqrt, 1.0, ORRRRRRR
+O, (_5, (, 1.0, OR
+O, +_16, +, 1.0, ORRRRRRRRSup
+O, )_25, ), 1.0, ORRRRRRRRRRRRRRRR
+O, )_7, ), 1.0, ORRR
+O, 7_17, 7, 1.0, ORRRRRRRRSupR
+O, g_12, g, 1.0, ORRRRRRRInside
+
+# Relations from SRT:
+R, (_10, _11, Right, 1.0
+R, (_23, g_24, Right, 1.0
+R, (_5, g_6, Right, 1.0
+R, (_9, (_10, Right, 1.0
+R, )_14, +_16, Sup, 1.0
+R, )_14, \circle_18, Right, 1.0
+R, )_22, (_23, Right, 1.0
+R, )_7, \neq_8, Right, 1.0
+R, +_16, 7_17, Right, 1.0
+R, \Omega_19, \circle_20, Right, 1.0
+R, \Omega_3, (_5, Right, 1.0
+R, \Omega_3, \psi_4, Sup, 1.0
+R, \circle_18, \Omega_19, Right, 1.0
+R, \circle_20, \pi_21, Right, 1.0
+R, \neq_8, (_9, Right, 1.0
+R, \pi_21, )_22, Right, 1.0
+R, _11, )_14, Right, 1.0
+R, _11, g_12, Inside, 1.0
+R, g_24, )_25, Right, 1.0
+R, g_6, )_7, Right, 1.0

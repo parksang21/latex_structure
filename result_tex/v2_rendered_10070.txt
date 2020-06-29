@@ -1,0 +1,3 @@
+\begin{equation}
+	L = g ^ { - 1 } C g , L \cap G ^ { * } , g \cap G
+\end{equation}

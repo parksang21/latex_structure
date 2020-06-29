@@ -1,0 +1,3 @@
+\begin{equation}
+	( a , a ^ { 1 } ) = - l ^ { 2 } \tan \frac { \Delta \sigma } { l }
+\end{equation}

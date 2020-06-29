@@ -1,0 +1,35 @@
+# IUD, 2081
+# Objects(16):
+O, -_16, -, 1.0, ORRRRRRRRAboveRR
+O, 2_14, 2, 1.0, ORRRRRRRRAbove
+O, _12, -, 1.0, ORRRRRRRR
+O, COMMA_7, COMMA, 1.0, ORRR
+O, a_3, a, 1.0, O
+O, 1_6, 1, 1.0, ORR
+O, \beta_10, \beta, 1.0, ORRRRRR
+O, \leq_5, \leq, 1.0, OR
+O, 4_15, 4, 1.0, ORRRRRRRRAboveR
+O, 0_8, 0, 1.0, ORRRR
+O, 8_20, 8, 1.0, ORRRRRRRRBelowR
+O, 4_19, 4, 1.0, ORRRRRRRRBelow
+O, \lt_9, \lt, 1.0, ORRRRR
+O, 0_4, 0, 1.0, OSub
+O, d_17, d, 1.0, ORRRRRRRRAboveRRR
+O, \leq_11, \leq, 1.0, ORRRRRRR
+
+# Relations from SRT:
+R, -_16, d_17, Right, 1.0
+R, 0_8, \lt_9, Right, 1.0
+R, 1_6, COMMA_7, Right, 1.0
+R, 2_14, 4_15, Right, 1.0
+R, 4_15, -_16, Right, 1.0
+R, 4_19, 8_20, Right, 1.0
+R, COMMA_7, 0_8, Right, 1.0
+R, \beta_10, \leq_11, Right, 1.0
+R, \leq_11, _12, Right, 1.0
+R, \leq_5, 1_6, Right, 1.0
+R, \lt_9, \beta_10, Right, 1.0
+R, _12, 2_14, Above, 1.0
+R, _12, 4_19, Below, 1.0
+R, a_3, 0_4, Sub, 1.0
+R, a_3, \leq_5, Right, 1.0

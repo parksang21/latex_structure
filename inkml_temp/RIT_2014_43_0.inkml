@@ -1,0 +1,41 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">RIT_2014_43_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msup><mi xml:id="z_3">z</mi><mi xml:id="d_4">d</mi></msup><mo xml:id="+_5">+</mo><mi xml:id="z_6">z</mi><mo xml:id="=_7">=</mo><mi xml:id="z_8">z</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">z</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="z_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">d</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="d_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">+</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="+_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">z</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="z_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="=_7"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">z</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="z_8"/>
+	</traceGroup>
+</traceGroup>
+</ink>

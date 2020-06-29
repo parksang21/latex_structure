@@ -1,0 +1,3 @@
+\begin{equation}
+	C _ { 2 } = L _ { 0 } ^ { 2 } + L _ { + } L _ { - } + L . L _ { + }
+\end{equation}

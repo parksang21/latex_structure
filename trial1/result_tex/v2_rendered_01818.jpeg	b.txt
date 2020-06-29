@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { \Delta \psi ^ { \sim } } { \Delta c } \equiv I _ { \vert 7 } \psi ^ { \sim }
+\end{equation}

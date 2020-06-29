@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>α</mi><mo>=</mo><mo stretchy="false" form="prefix">(</mo><msub><mi>g</mi><mi>L</mi></msub><mo>+</mo><msub><mi>g</mi><mi>s</mi></msub><mo stretchy="false" form="postfix">)</mo><mi>/</mi><msub><mi>g</mi><mi>M</mi></msub><mo>−</mo><mn>1</mn><mo>,</mo><mi>β</mi><mo>=</mo><msub><mi>g</mi><mi>L</mi></msub><mi>/</mi><msub><mi>g</mi><mi>M</mi></msub><mo>−</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \alpha = ( g _ { L } + g _ { s } ) / g _ { M } - 1 , \beta = g _ { L } / g _ { M } - 1
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

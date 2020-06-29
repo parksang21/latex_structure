@@ -1,0 +1,47 @@
+# IUD, new_render_00017
+# Objects(22):
+O, m_21, m, 1.0, ORRRRRRRRRRRRRR
+O, =_3, =, 1.0, OR
+O, \}_25, \}, 1.0, ORRRRRRRRRRRRRRRRR
+O, 0_18, 0, 1.0, ORRRRRRRRRRR
+O, \sigma_24, \sigma, 1.0, ORRRRRRRRRRRRRRRRInside
+O, \therefore_20, \therefore, 1.0, ORRRRRRRRRRRRR
+O, \{_4, \{, 1.0, ORR
+O, N_10, N, 1.0, ORRRRRSup
+O, +_11, +, 1.0, ORRRRRSupR
+O, \times_15, \times, 1.0, ORRRRRRRR
+O, \vert_13, \vert, 1.0, ORRRRRR
+O, _23, \sqrt, 1.0, ORRRRRRRRRRRRRRRR
+O, COMMA_19, COMMA, 1.0, ORRRRRRRRRRRR
+O, n_5, n, 1.0, ORRR
+O, \equiv_17, \equiv, 1.0, ORRRRRRRRRR
+O, \sigma_2, \sigma, 1.0, O
+O, n_16, n, 1.0, ORRRRRRRRR
+O, 1_12, 1, 1.0, ORRRRRSupRR
+O, \in_6, \in, 1.0, ORRRR
+O, m_14, m, 1.0, ORRRRRRR
+O, Y_8, Y, 1.0, ORRRRR
+O, \in_22, \in, 1.0, ORRRRRRRRRRRRRRR
+
+# Relations from SRT:
+R, +_11, 1_12, Right, 1.0
+R, 0_18, COMMA_19, Right, 1.0
+R, =_3, \{_4, Right, 1.0
+R, COMMA_19, \therefore_20, Right, 1.0
+R, N_10, +_11, Right, 1.0
+R, Y_8, N_10, Sup, 1.0
+R, Y_8, \vert_13, Right, 1.0
+R, \equiv_17, 0_18, Right, 1.0
+R, \in_22, _23, Right, 1.0
+R, \in_6, Y_8, Right, 1.0
+R, \sigma_2, =_3, Right, 1.0
+R, \therefore_20, m_21, Right, 1.0
+R, \times_15, n_16, Right, 1.0
+R, \vert_13, m_14, Right, 1.0
+R, \{_4, n_5, Right, 1.0
+R, _23, \sigma_24, Inside, 1.0
+R, _23, \}_25, Right, 1.0
+R, m_14, \times_15, Right, 1.0
+R, m_21, \in_22, Right, 1.0
+R, n_16, \equiv_17, Right, 1.0
+R, n_5, \in_6, Right, 1.0

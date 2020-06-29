@@ -1,0 +1,51 @@
+# IUD, 994
+# Objects(24):
+O, -_18, -, 1.0, ORRRRRRRRRRRRRRRR
+O, \Omega_9, \Omega, 1.0, ORRRRRRR
+O, )_16, ), 1.0, ORRRRRRRRRRRRRR
+O, (_3, (, 1.0, OR
+O, )_21, ), 1.0, ORRRRRRRRRRRRRRRRRR
+O, (_23, (, 1.0, ORRRRRRRRRRRRRRRRRRSup
+O, =_8, =, 1.0, ORRRRRR
+O, y_15, y, 1.0, ORRRRRRRRRRRRR
+O, (_17, (, 1.0, ORRRRRRRRRRRRRRR
+O, )_12, ), 1.0, ORRRRRRRRRR
+O, y_26, y, 1.0, ORRRRRRRRRRRRRRRRRRSupRRR
+O, (_14, (, 1.0, ORRRRRRRRRRRR
+O, )_7, ), 1.0, ORRRRR
+O, +_5, +, 1.0, ORRR
+O, 1_19, 1, 1.0, ORRRRRRRRRRRRRRRRR
+O, COMMA_25, COMMA, 1.0, ORRRRRRRRRRRRRRRRRRSupRR
+O, y_6, y, 1.0, ORRRR
+O, (_10, (, 1.0, ORRRRRRRR
+O, x_24, x, 1.0, ORRRRRRRRRRRRRRRRRRSupR
+O, )_27, ), 1.0, ORRRRRRRRRRRRRRRRRRSupRRRR
+O, x_11, x, 1.0, ORRRRRRRRR
+O, x_4, x, 1.0, ORR
+O, \Omega_2, \Omega, 1.0, O
+O, \Omega_13, \Omega, 1.0, ORRRRRRRRRRR
+
+# Relations from SRT:
+R, (_10, x_11, Right, 1.0
+R, (_14, y_15, Right, 1.0
+R, (_17, -_18, Right, 1.0
+R, (_23, x_24, Right, 1.0
+R, (_3, x_4, Right, 1.0
+R, )_12, \Omega_13, Right, 1.0
+R, )_16, (_17, Right, 1.0
+R, )_21, (_23, Sup, 1.0
+R, )_7, =_8, Right, 1.0
+R, +_5, y_6, Right, 1.0
+R, -_18, 1_19, Right, 1.0
+R, 1_19, )_21, Right, 1.0
+R, =_8, \Omega_9, Right, 1.0
+R, COMMA_25, y_26, Right, 1.0
+R, \Omega_13, (_14, Right, 1.0
+R, \Omega_2, (_3, Right, 1.0
+R, \Omega_9, (_10, Right, 1.0
+R, x_11, )_12, Right, 1.0
+R, x_24, COMMA_25, Right, 1.0
+R, x_4, +_5, Right, 1.0
+R, y_15, )_16, Right, 1.0
+R, y_26, )_27, Right, 1.0
+R, y_6, )_7, Right, 1.0

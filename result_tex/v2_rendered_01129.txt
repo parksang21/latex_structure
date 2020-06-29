@@ -1,0 +1,3 @@
+\begin{equation}
+	Y _ { j j } \rightarrow f _ { j } ^ { - 1 } \circ Y _ { j i } \circ f _ { i }
+\end{equation}

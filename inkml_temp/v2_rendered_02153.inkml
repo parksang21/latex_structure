@@ -1,0 +1,91 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_02153</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msub><mi xml:id="E_3">E</mi><mn xml:id="0_4">0</mn></msub><mo xml:id="=_5">=</mo><mo xml:id="-_6">−</mo><munder><mo xml:id="\lim_8">lim</mo><mrow><mi xml:id="T_10">T</mi><mo xml:id="\rightarrow_11">→</mo><mi xml:id="\infty_12">∞</mi></mrow></munder><mfrac xml:id="_13"><mn xml:id="1_14">1</mn><mi xml:id="T_15">T</mi></mfrac><mo xml:id="\log_16">log</mo><mi xml:id="Z_17">Z</mi><mo form="prefix" stretchy="false" xml:id="(_18">(</mo><mi xml:id="T_19">T</mi><mo form="postfix" stretchy="false" xml:id=")_20">)</mo></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">E</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="E_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">0</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="0_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="=_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="-_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">\lim</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="\lim_8"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">T</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="T_10"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">\rightarrow</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="\rightarrow_11"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\infty</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\infty_12"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">1</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="1_14"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">T</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="T_15"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">\log</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="\log_16"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">Z</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="Z_17"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="(_18"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">T</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="T_19"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href=")_20"/>
+	</traceGroup>
+ <traceGroup xml:id="16">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="15"/>
+    <annotationXML href="_13"/>
+	</traceGroup>
+</traceGroup>
+</ink>

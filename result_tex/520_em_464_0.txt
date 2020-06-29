@@ -1,0 +1,3 @@
+\begin{equation}
+	\forall \lambda \in [ \lambda _ { 0 } , \lambda _ { \infty } ] , \exists \lambda _ { i }
+\end{equation}

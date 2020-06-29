@@ -1,0 +1,3 @@
+\begin{equation}
+	H _ { c } = \int d x \phi ^ { \prime } ( \phi ^ { \prime } + \lambda )
+\end{equation}

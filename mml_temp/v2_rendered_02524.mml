@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>r</mi><mo>=</mo><msub><mi>r</mi><mrow><mi>s</mi><mi>t</mi></mrow></msub><mo>≡</mo><mi>M</mi><mo>+</mo><msqrt><mrow><msup><mi>M</mi><mn>2</mn></msup><mo>−</mo><msup><mi>Q</mi><mn>2</mn></msup><mo>−</mo><msup><mi>a</mi><mn>2</mn></msup><msup><mo>tan</mo><mn>2</mn></msup><mi>θ</mi></mrow></msqrt></mrow><annotation encoding="application/x-tex">\begin{equation}
+    r = r _ { s t } \equiv M + \sqrt { M ^ { 2 } - Q ^ { 2 } - a ^ { 2 } \tan ^ { 2 } \theta }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

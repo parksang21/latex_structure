@@ -1,0 +1,29 @@
+# IUD, v2_rendered_03855
+# Objects(13):
+O, o_11, o, 1.0, ORRRR
+O, \lambda_5, \lambda, 1.0, ORR
+O, f_10, f, 1.0, ORRR
+O, 0_17, 0, 1.0, ORRRRRRRR
+O, =_16, =, 1.0, ORRRRRRR
+O, \Omega_15, \Omega, 1.0, ORRRRRRSub
+O, \varepsilon_2, \varepsilon, 1.0, O
+O, \sim_3, \sim, 1.0, OR
+O, -_8, -, 1.0, ORRSup
+O, \tau_9, \tau, 1.0, ORRSupR
+O, \lambda_14, \lambda, 1.0, ORRRRRR
+O, T_6, T, 1.0, ORRSub
+O, r_12, r, 1.0, ORRRRR
+
+# Relations from SRT:
+R, -_8, \tau_9, Right, 1.0
+R, =_16, 0_17, Right, 1.0
+R, \lambda_14, =_16, Right, 1.0
+R, \lambda_14, \Omega_15, Sub, 1.0
+R, \lambda_5, -_8, Sup, 1.0
+R, \lambda_5, T_6, Sub, 1.0
+R, \lambda_5, f_10, Right, 1.0
+R, \sim_3, \lambda_5, Right, 1.0
+R, \varepsilon_2, \sim_3, Right, 1.0
+R, f_10, o_11, Right, 1.0
+R, o_11, r_12, Right, 1.0
+R, r_12, \lambda_14, Right, 1.0

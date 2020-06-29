@@ -1,0 +1,3 @@
+\begin{equation}
+	\int _ { x _ { 1 - 1 } } ^ { x _ { i } } f ( x ) d x
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	O _ { \gamma _ { 3 } } ^ { ( 3 ) } = - s \int _ { \gamma _ { 3 } } c
+\end{equation}

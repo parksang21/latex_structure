@@ -1,0 +1,56 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">new_render_01581</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mo xml:id="-_2">−</mo><mn xml:id="1_3">1</mn><mo xml:id="\leqq_4">≦</mo><mi xml:id="q_5">q</mi><mo xml:id="\lt_6">&lt;</mo><mo xml:id="-_7">−</mo><mfrac xml:id="_8"><mn xml:id="1_9">1</mn><mn xml:id="3_10">3</mn></mfrac></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="-_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">1</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="1_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\leqq</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\leqq_4"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">q</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="q_5"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">\lt</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="\lt_6"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="-_7"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">1</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="1_9"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">3</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="3_10"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="_8"/>
+	</traceGroup>
+</traceGroup>
+</ink>

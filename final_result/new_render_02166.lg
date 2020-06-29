@@ -1,0 +1,37 @@
+# IUD, new_render_02166
+# Objects(17):
+O, =_3, =, 1.0, OR
+O, (_21, (, 1.0, ORRRRR
+O, 0_9, 0, 1.0, ORRBelowRR
+O, )_23, ), 1.0, ORRRRRRR
+O, g_20, g, 1.0, ORRRRSub
+O, \leqq_8, \leqq, 1.0, ORRBelowR
+O, t_22, t, 1.0, ORRRRRR
+O, 2_16, 2, 1.0, ORRRSupRR
+O, -_15, -, 1.0, ORRRSupR
+O, F_2, F, 1.0, O
+O, 2_14, 2, 1.0, ORRRSup
+O, \infty_10, \infty, 1.0, ORRAbove
+O, N_12, N, 1.0, ORRR
+O, \lim_5, \lim, 1.0, ORR
+O, g_7, g, 1.0, ORRBelow
+O, F_19, F, 1.0, ORRRR
+O, g_17, g, 1.0, ORRRSupRRR
+
+# Relations from SRT:
+R, (_21, t_22, Right, 1.0
+R, -_15, 2_16, Right, 1.0
+R, 2_14, -_15, Right, 1.0
+R, 2_16, g_17, Right, 1.0
+R, =_3, \lim_5, Right, 1.0
+R, F_19, (_21, Right, 1.0
+R, F_19, g_20, Sub, 1.0
+R, F_2, =_3, Right, 1.0
+R, N_12, 2_14, Sup, 1.0
+R, N_12, F_19, Right, 1.0
+R, \leqq_8, 0_9, Right, 1.0
+R, \lim_5, N_12, Right, 1.0
+R, \lim_5, \infty_10, Above, 1.0
+R, \lim_5, g_7, Below, 1.0
+R, g_7, \leqq_8, Right, 1.0
+R, t_22, )_23, Right, 1.0

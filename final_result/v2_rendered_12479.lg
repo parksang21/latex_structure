@@ -1,0 +1,39 @@
+# IUD, v2_rendered_12479
+# Objects(18):
+O, \beta_16, \beta, 1.0, ORRRRRRRRRRRRInside
+O, _6, \sqrt, 1.0, ORRRR
+O, \div_17, \div, 1.0, ORRRRRRRRRRRRR
+O, \pi_12, \pi, 1.0, ORRRRRRRRR
+O, K_19, K, 1.0, ORRRRRRRRRRRRRRR
+O, =_4, =, 1.0, ORR
+O, \pi_10, \pi, 1.0, ORRRRRRR
+O, \div_8, \div, 1.0, ORRRRR
+O, =_14, =, 1.0, ORRRRRRRRRRR
+O, \beta_3, \beta, 1.0, OR
+O, S_13, S, 1.0, ORRRRRRRRRR
+O, V_2, V, 1.0, O
+O, \div_5, \div, 1.0, ORRR
+O, COMMA_11, COMMA, 1.0, ORRRRRRRR
+O, \beta_18, \beta, 1.0, ORRRRRRRRRRRRRR
+O, K_9, K, 1.0, ORRRRRR
+O, _15, \sqrt, 1.0, ORRRRRRRRRRRR
+O, \pi_7, \pi, 1.0, ORRRRInside
+
+# Relations from SRT:
+R, =_14, _15, Right, 1.0
+R, =_4, \div_5, Right, 1.0
+R, COMMA_11, \pi_12, Right, 1.0
+R, K_9, \pi_10, Right, 1.0
+R, S_13, =_14, Right, 1.0
+R, V_2, \beta_3, Right, 1.0
+R, \beta_18, K_19, Right, 1.0
+R, \beta_3, =_4, Right, 1.0
+R, \div_17, \beta_18, Right, 1.0
+R, \div_5, _6, Right, 1.0
+R, \div_8, K_9, Right, 1.0
+R, \pi_10, COMMA_11, Right, 1.0
+R, \pi_12, S_13, Right, 1.0
+R, _15, \beta_16, Inside, 1.0
+R, _15, \div_17, Right, 1.0
+R, _6, \div_8, Right, 1.0
+R, _6, \pi_7, Inside, 1.0

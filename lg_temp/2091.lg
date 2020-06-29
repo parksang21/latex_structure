@@ -1,0 +1,33 @@
+# IUD, 2091
+# Objects(15):
+O, \int_6, \int, 1.0, 3
+O, L_14, L, 1.0, 8
+O, q_3, q, 1.0, 1
+O, +_18, +, 1.0, 12
+O, \varepsilon_21, \varepsilon, 1.0, 14
+O, f_12, f, 1.0, 7
+O, \beta_20, \beta, 1.0, 13
+O, \tau_11, \tau, 1.0, 6
+O, \tau_8, \tau, 1.0, 4
+O, i_9, i, 1.0, 5
+O, q_15, q, 1.0, 9
+O, d_16, d, 1.0, 10
+O, A_2, A, 1.0, 0
+O, \tau_17, \tau, 1.0, 11
+O, =_4, =, 1.0, 2
+
+# Relations from SRT:
+R, +_18, \beta_20, Right, 1.0
+R, =_4, \int_6, Right, 1.0
+R, A_2, q_3, Right, 1.0
+R, L_14, d_16, Right, 1.0
+R, L_14, q_15, Sub, 1.0
+R, \beta_20, \varepsilon_21, Sub, 1.0
+R, \int_6, L_14, Right, 1.0
+R, \int_6, \tau_11, Sup, 1.0
+R, \int_6, \tau_8, Sub, 1.0
+R, \tau_11, f_12, Sub, 1.0
+R, \tau_17, +_18, Right, 1.0
+R, \tau_8, i_9, Sub, 1.0
+R, d_16, \tau_17, Right, 1.0
+R, q_3, =_4, Right, 1.0

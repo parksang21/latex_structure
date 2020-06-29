@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { a z ^ { - 1 } ( 1 + a z ^ { - 1 } ) } { ( 1 - a z ^ { - 1 } ) ^ { 3 } }
+\end{equation}

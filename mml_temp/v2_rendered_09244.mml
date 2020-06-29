@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>L</mi><mi>q</mi></msub><mo>=</mo><mfrac><mrow><msup><mi>α</mi><mn>1</mn></msup><mi>θ</mi><mi>H</mi></mrow><msup><mi>c</mi><mn>2</mn></msup></mfrac><mo>=</mo><mfrac><mi>θ</mi><mrow><mi>c</mi><msub><mi>M</mi><mrow><mi>Q</mi><mi>s</mi></mrow></msub></mrow></mfrac></mrow><annotation encoding="application/x-tex">\begin{equation}
+    L _ { q } = \frac { \alpha ^ { 1 } \theta H } { c ^ { 2 } } = \frac { \theta } { c M _ { Q s } }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

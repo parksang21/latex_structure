@@ -1,0 +1,25 @@
+# IUD, 516_em_379_0
+# Objects(11):
+O, f_9, f, 1.0, OR
+O, )_13, ), 1.0, ORRRR
+O, x_12, x, 1.0, ORRR
+O, n_10, n, 1.0, ORSub
+O, 0_15, 0, 1.0, ORRRRRR
+O, =_14, =, 1.0, ORRRRR
+O, n_5, n, 1.0, OBelow
+O, \infty_7, \infty, 1.0, OBelowRR
+O, \lim_3, \lim, 1.0, O
+O, (_11, (, 1.0, ORR
+O, \rightarrow_6, \rightarrow, 1.0, OBelowR
+
+# Relations from SRT:
+R, (_11, x_12, Right, 1.0
+R, )_13, =_14, Right, 1.0
+R, =_14, 0_15, Right, 1.0
+R, \lim_3, f_9, Right, 1.0
+R, \lim_3, n_5, Below, 1.0
+R, \rightarrow_6, \infty_7, Right, 1.0
+R, f_9, (_11, Right, 1.0
+R, f_9, n_10, Sub, 1.0
+R, n_5, \rightarrow_6, Right, 1.0
+R, x_12, )_13, Right, 1.0

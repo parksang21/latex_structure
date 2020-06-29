@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi><mo>=</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><msup><mi>e</mi><mrow><mo>−</mo><mi>α</mi><mo>−</mo><mo stretchy="false" form="prefix">(</mo><mi>ϕ</mi><mi>/</mi><mn>2</mn><mo stretchy="false" form="postfix">)</mo></mrow></msup><mo>=</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><msup><mi>e</mi><mrow><mo>−</mo><mi>ψ</mi></mrow></msup></mrow><annotation encoding="application/x-tex">\begin{equation}
+    n = \frac { 3 } { 2 } e ^ { - \alpha - ( \phi / 2 ) } = \frac { 3 } { 2 } e ^ { - \psi }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

@@ -1,0 +1,81 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">2076</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msqrt xml:id="_2"><mrow><mi xml:id="\beta_4">β</mi><mo form="prefix" stretchy="false" xml:id="(_5">(</mo><mi xml:id="\theta_6">θ</mi><mo xml:id="+_7">+</mo><mi xml:id="i_8">i</mi><mi xml:id="\pi_9">π</mi><mo form="postfix" stretchy="false" xml:id=")_10">)</mo></mrow></msqrt><mo xml:id="=_11">=</mo><mo xml:id="-_12">−</mo><mi xml:id="\beta_13">β</mi><mo form="prefix" stretchy="false" xml:id="(_14">(</mo><mi xml:id="\theta_15">θ</mi><mo form="postfix" stretchy="false" xml:id=")_16">)</mo></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\beta</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\beta_4"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="(_5"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\theta</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\theta_6"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">+</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="+_7"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">i</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="i_8"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\pi</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\pi_9"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href=")_10"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="=_11"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="-_12"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">\beta</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="\beta_13"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="(_14"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">\theta</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="\theta_15"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href=")_16"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="_2"/>
+	</traceGroup>
+</traceGroup>
+</ink>

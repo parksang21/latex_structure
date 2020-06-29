@@ -1,0 +1,57 @@
+# IUD, v2_rendered_08792
+# Objects(27):
+O, Z_9, Z, 1.0, ORRRRRRR
+O, )_10, ), 1.0, ORRRRRRRR
+O, \sim_11, \sim, 1.0, ORRRRRRRRR
+O, COMMA_8, COMMA, 1.0, ORRRRRR
+O, 2_19, 2, 1.0, ORRRRRRRRRRRRRRRRR
+O, (_12, (, 1.0, ORRRRRRRRRR
+O, r_15, r, 1.0, ORRRRRRRRRRRRR
+O, COMMA_22, COMMA, 1.0, ORRRRRRRRRRRRRRRRRRRR
+O, COMMA_6, COMMA, 1.0, ORRRR
+O, (_2, (, 1.0, O
+O, \rho_27, \rho, 1.0, ORRRRRRRRRRRRRRRRRRRRRRRRR
+O, \pi_26, \pi, 1.0, ORRRRRRRRRRRRRRRRRRRRRRRR
+O, t_13, t, 1.0, ORRRRRRRRRRR
+O, +_18, +, 1.0, ORRRRRRRRRRRRRRRR
+O, \beta_7, \beta, 1.0, ORRRRR
+O, COMMA_4, COMMA, 1.0, ORR
+O, +_24, +, 1.0, ORRRRRRRRRRRRRRRRRRRRRR
+O, Z_23, Z, 1.0, ORRRRRRRRRRRRRRRRRRRRR
+O, r_5, r, 1.0, ORRR
+O, )_28, ), 1.0, ORRRRRRRRRRRRRRRRRRRRRRRRRR
+O, \beta_17, \beta, 1.0, ORRRRRRRRRRRRRRR
+O, COMMA_16, COMMA, 1.0, ORRRRRRRRRRRRRR
+O, t_3, t, 1.0, OR
+O, 2_25, 2, 1.0, ORRRRRRRRRRRRRRRRRRRRRRR
+O, \pi_20, \pi, 1.0, ORRRRRRRRRRRRRRRRRR
+O, COMMA_14, COMMA, 1.0, ORRRRRRRRRRRR
+O, \alpha_21, \alpha, 1.0, ORRRRRRRRRRRRRRRRRRR
+
+# Relations from SRT:
+R, (_12, t_13, Right, 1.0
+R, (_2, t_3, Right, 1.0
+R, )_10, \sim_11, Right, 1.0
+R, +_18, 2_19, Right, 1.0
+R, +_24, 2_25, Right, 1.0
+R, 2_19, \pi_20, Right, 1.0
+R, 2_25, \pi_26, Right, 1.0
+R, COMMA_14, r_15, Right, 1.0
+R, COMMA_16, \beta_17, Right, 1.0
+R, COMMA_22, Z_23, Right, 1.0
+R, COMMA_4, r_5, Right, 1.0
+R, COMMA_6, \beta_7, Right, 1.0
+R, COMMA_8, Z_9, Right, 1.0
+R, Z_23, +_24, Right, 1.0
+R, Z_9, )_10, Right, 1.0
+R, \alpha_21, COMMA_22, Right, 1.0
+R, \beta_17, +_18, Right, 1.0
+R, \beta_7, COMMA_8, Right, 1.0
+R, \pi_20, \alpha_21, Right, 1.0
+R, \pi_26, \rho_27, Right, 1.0
+R, \rho_27, )_28, Right, 1.0
+R, \sim_11, (_12, Right, 1.0
+R, r_15, COMMA_16, Right, 1.0
+R, r_5, COMMA_6, Right, 1.0
+R, t_13, COMMA_14, Right, 1.0
+R, t_3, COMMA_4, Right, 1.0

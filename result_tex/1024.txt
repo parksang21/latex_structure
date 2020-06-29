@@ -1,0 +1,3 @@
+\begin{equation}
+	\mu _ { 5 } = \cos \theta \mu \mu _ { 2 } = - s i _ { n } \theta _ { \mu } Q _ { 5 }
+\end{equation}

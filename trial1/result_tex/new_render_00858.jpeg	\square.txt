@@ -1,0 +1,3 @@
+\begin{equation}
+	= \{ f ^ { i \frac { 2 z \pi } { H } x } \vert z = 0 , \pm 2 , \pm 2 , \cdots \}
+\end{equation}

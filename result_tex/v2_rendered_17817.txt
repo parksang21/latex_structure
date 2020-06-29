@@ -1,0 +1,3 @@
+\begin{equation}
+	[ \alpha ( \tau , x ) , \alpha ( \tau , y ) ] = i \theta ( y - x )
+\end{equation}

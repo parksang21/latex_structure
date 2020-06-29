@@ -1,0 +1,3 @@
+\begin{equation}
+	\langle \varepsilon \rangle = \langle \sigma \rangle + \alpha _ { M } ^ { 2 } \theta ^ { 2 }
+\end{equation}

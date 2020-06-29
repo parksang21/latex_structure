@@ -1,0 +1,3 @@
+\begin{equation}
+	r = \sum _ { i } h ^ { i } \osqrt h ^ { i } + 2 \sum _ { \alpha } t ^ { \alpha } \osqrt t ^ { - \alpha }
+\end{equation}

@@ -1,0 +1,23 @@
+# IUD, 3082
+# Objects(10):
+O, 2_12, 2, 1.0, ORRRRInsideBelowRR
+O, -_11, -, 1.0, ORRRRInsideBelowR
+O, 2_8, 2, 1.0, ORRRRInsideAbove
+O, \pm_4, \pm, 1.0, ORR
+O, =_3, =, 1.0, OR
+O, q_5, q, 1.0, ORRR
+O, _7, -, 1.0, ORRRRInside
+O, D_10, D, 1.0, ORRRRInsideBelow
+O, \alpha_2, \alpha, 1.0, O
+O, _6, \sqrt, 1.0, ORRRR
+
+# Relations from SRT:
+R, -_11, 2_12, Right, 1.0
+R, =_3, \pm_4, Right, 1.0
+R, D_10, -_11, Right, 1.0
+R, \alpha_2, =_3, Right, 1.0
+R, \pm_4, q_5, Right, 1.0
+R, _6, _7, Inside, 1.0
+R, _7, 2_8, Above, 1.0
+R, _7, D_10, Below, 1.0
+R, q_5, _6, Right, 1.0

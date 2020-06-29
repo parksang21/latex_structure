@@ -1,0 +1,3 @@
+\begin{equation}
+	p ^ { \mu } = \angle \tau _ { R } \gamma _ { R } ^ { \mu } ( \tau _ { R } ) \csqrt \frac { 1 } { 2 }
+\end{equation}

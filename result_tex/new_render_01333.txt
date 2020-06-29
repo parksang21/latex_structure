@@ -1,0 +1,3 @@
+\begin{equation}
+	\{ \vert \sigma _ { m } \rangle \leqq K ( m ) \sigma _ { 0 } \because m \notin Y \}
+\end{equation}

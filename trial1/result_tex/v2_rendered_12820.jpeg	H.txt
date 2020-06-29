@@ -1,0 +1,3 @@
+\begin{equation}
+	= - \int d Z ( T + \frac { \alpha } { 2 } J ^ { 2 } )
+\end{equation}

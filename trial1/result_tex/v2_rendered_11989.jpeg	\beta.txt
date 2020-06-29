@@ -1,0 +1,3 @@
+\begin{equation}
+	X _ { 3 } ( \Delta _ { \mu } K ^ { 3 \mu } ) = \pm D ( \Delta _ { \mu } \sigma ) I ^ { \mu }
+\end{equation}

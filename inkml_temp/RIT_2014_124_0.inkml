@@ -1,0 +1,31 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">RIT_2014_124_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mi xml:id="\pi_2">π</mi><mi xml:id="e_3">e</mi><msqrt xml:id="_4"><mi xml:id="x_5">x</mi></msqrt></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\pi</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\pi_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">e</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="e_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">x</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="x_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="_4"/>
+	</traceGroup>
+</traceGroup>
+</ink>

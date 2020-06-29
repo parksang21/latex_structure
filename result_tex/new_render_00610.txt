@@ -1,0 +1,3 @@
+\begin{equation}
+	\therefore \Delta A Q P \neq \Delta C Q E
+\end{equation}

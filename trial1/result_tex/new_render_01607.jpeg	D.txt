@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \mu } ^ { b g } A ^ { \mu } \leqq \Delta _ { t } A - i [ B ^ { i } , X ^ { i } ] \leqq 0
+\end{equation}

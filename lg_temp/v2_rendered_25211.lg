@@ -1,0 +1,37 @@
+# IUD, v2_rendered_25211
+# Objects(17):
+O, COMMA_12, COMMA, 1.0, 6
+O, \beta_14, \beta, 1.0, 7
+O, \varepsilon_9, \varepsilon, 1.0, 3
+O, _3, \sqrt, 1.0, 15
+O, _8, \sqrt, 1.0, 16
+O, \geq_16, \geq, 1.0, 9
+O, 0_11, 0, 1.0, 5
+O, \beta_21, \beta, 1.0, 12
+O, I_18, I, 1.0, 10
+O, 1_7, 1, 1.0, 2
+O, _2, \sqrt, 1.0, 14
+O, z_4, z, 1.0, 0
+O, \beta_6, \beta, 1.0, 1
+O, \geq_10, \geq, 1.0, 4
+O, \bot_15, \bot, 1.0, 8
+O, a_19, a, 1.0, 11
+O, a_22, a, 1.0, 13
+
+# Relations from SRT:
+R, 0_11, COMMA_12, Right, 1.0
+R, COMMA_12, \beta_14, Right, 1.0
+R, I_18, \beta_21, Right, 1.0
+R, I_18, a_19, Sub, 1.0
+R, \beta_14, \bot_15, Sub, 1.0
+R, \beta_14, \geq_16, Right, 1.0
+R, \beta_21, a_22, Sup, 1.0
+R, \beta_6, 1_7, Sub, 1.0
+R, \beta_6, _8, Right, 1.0
+R, \geq_10, 0_11, Right, 1.0
+R, \geq_16, I_18, Right, 1.0
+R, _2, \beta_6, Right, 1.0
+R, _2, _3, Inside, 1.0
+R, _3, z_4, Inside, 1.0
+R, _8, \geq_10, Right, 1.0
+R, _8, \varepsilon_9, Inside, 1.0

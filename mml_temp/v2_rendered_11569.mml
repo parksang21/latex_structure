@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>δ</mi><mo>=</mo><mo>−</mo><mfrac><mi>λ</mi><mrow><mn>1</mn><mn>2</mn><mn>8</mn><mi>π</mi><mi>L</mi></mrow></mfrac><mi>L</mi><mo>=</mo><mo>−</mo><mfrac><mi>λ</mi><mrow><mn>1</mn><mn>2</mn><mn>8</mn><mi>π</mi></mrow></mfrac></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \delta = - \frac { \lambda } { 1 2 8 \pi L } L = - \frac { \lambda } { 1 2 8 \pi }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

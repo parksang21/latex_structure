@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { T } \equiv \times \frac { 4 } { \sqrt { 8 } } T X _ { 0 } ^ { y } n ^ { y } n ^ { 7 }
+\end{equation}

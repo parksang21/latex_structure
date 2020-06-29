@@ -1,0 +1,3 @@
+\begin{equation}
+	= 1 - \frac { 3 \phi ^ { 2 } } { 2 \pi \gamma } \gamma \vee [ 0 , \frac { \pi } { 2 } ]
+\end{equation}

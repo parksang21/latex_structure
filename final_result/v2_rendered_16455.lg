@@ -1,0 +1,39 @@
+# IUD, v2_rendered_16455
+# Objects(18):
+O, \alpha_8, \alpha, 1.0, ORRRAbove
+O, f_3, f, 1.0, O
+O, \tau_15, \tau, 1.0, ORRRBelowR
+O, \mu_22, \mu, 1.0, ORRRRRRRRR
+O, +_19, +, 1.0, ORRRRRR
+O, 2_20, 2, 1.0, ORRRRRRR
+O, =_5, =, 1.0, OR
+O, 2_13, 2, 1.0, ORRRBelowSup
+O, 0_12, 0, 1.0, ORRRBelowSub
+O, \Omega_11, \Omega, 1.0, ORRRBelow
+O, )_23, ), 1.0, ORRRRRRRRRR
+O, -_6, -, 1.0, ORR
+O, 2_4, 2, 1.0, OSup
+O, m_21, m, 1.0, ORRRRRRRR
+O, (_17, (, 1.0, ORRRR
+O, 2_16, 2, 1.0, ORRRBelowRSup
+O, _7, -, 1.0, ORRR
+O, 1_18, 1, 1.0, ORRRRR
+
+# Relations from SRT:
+R, (_17, 1_18, Right, 1.0
+R, +_19, 2_20, Right, 1.0
+R, -_6, _7, Right, 1.0
+R, 1_18, +_19, Right, 1.0
+R, 2_20, m_21, Right, 1.0
+R, =_5, -_6, Right, 1.0
+R, \Omega_11, 0_12, Sub, 1.0
+R, \Omega_11, 2_13, Sup, 1.0
+R, \Omega_11, \tau_15, Right, 1.0
+R, \mu_22, )_23, Right, 1.0
+R, \tau_15, 2_16, Sup, 1.0
+R, _7, (_17, Right, 1.0
+R, _7, \Omega_11, Below, 1.0
+R, _7, \alpha_8, Above, 1.0
+R, f_3, 2_4, Sup, 1.0
+R, f_3, =_5, Right, 1.0
+R, m_21, \mu_22, Right, 1.0

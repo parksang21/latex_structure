@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { l } ^ { \prime } ( \phi _ { K } ^ { l } ) = m \sin z
+\end{equation}

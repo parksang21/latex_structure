@@ -1,0 +1,41 @@
+# IUD, v2_rendered_07258
+# Objects(19):
+O, +_19, +, 1.0, ORRRRRRRRRRR
+O, \tau_8, \tau, 1.0, ORRRR
+O, \sigma_6, \sigma, 1.0, ORR
+O, n_23, n, 1.0, ORRRRRRRRRRRRBelow
+O, \sum_21, \sum, 1.0, ORRRRRRRRRRRR
+O, (_5, (, 1.0, OR
+O, \mu_17, \mu, 1.0, ORRRRRRRRRSup
+O, x_12, x, 1.0, ORRRRRRR
+O, 0_25, 0, 1.0, ORRRRRRRRRRRRBelowRR
+O, ._7, ., 1.0, ORRR
+O, +_14, +, 1.0, ORRRRRRRR
+O, \neq_24, \neq, 1.0, ORRRRRRRRRRRRBelowR
+O, \mu_4, \mu, 1.0, OSup
+O, )_9, ), 1.0, ORRRRR
+O, \mu_13, \mu, 1.0, ORRRRRRRSup
+O, X_3, X, 1.0, O
+O, \tau_18, \tau, 1.0, ORRRRRRRRRR
+O, =_10, =, 1.0, ORRRRRR
+O, p_16, p, 1.0, ORRRRRRRRR
+
+# Relations from SRT:
+R, (_5, \sigma_6, Right, 1.0
+R, )_9, =_10, Right, 1.0
+R, +_14, p_16, Right, 1.0
+R, +_19, \sum_21, Right, 1.0
+R, ._7, \tau_8, Right, 1.0
+R, =_10, x_12, Right, 1.0
+R, X_3, (_5, Right, 1.0
+R, X_3, \mu_4, Sup, 1.0
+R, \neq_24, 0_25, Right, 1.0
+R, \sigma_6, ._7, Right, 1.0
+R, \sum_21, n_23, Below, 1.0
+R, \tau_18, +_19, Right, 1.0
+R, \tau_8, )_9, Right, 1.0
+R, n_23, \neq_24, Right, 1.0
+R, p_16, \mu_17, Sup, 1.0
+R, p_16, \tau_18, Right, 1.0
+R, x_12, +_14, Right, 1.0
+R, x_12, \mu_13, Sup, 1.0

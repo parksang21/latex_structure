@@ -1,0 +1,36 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_06191</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mi xml:id="A_2">A</mi><mi xml:id="\Omega_3">Ω</mi><mo xml:id="\otimes_4">⊗</mo><msqrt xml:id="_5"><mi xml:id="\Omega_6">Ω</mi></msqrt></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">A</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="A_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\Omega</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\Omega_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\otimes</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\otimes_4"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\Omega</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\Omega_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="_5"/>
+	</traceGroup>
+</traceGroup>
+</ink>

@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \pm } ( x , \theta ) = \theta _ { } ^ { - } f _ { \pm } ( x )
+\end{equation}

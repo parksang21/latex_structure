@@ -1,0 +1,41 @@
+# IUD, v2_rendered_05504
+# Objects(19):
+O, COMMA_4, COMMA, 1.0, ORR
+O, G_15, G, 1.0, ORRRRRRR
+O, \neq_13, \neq, 1.0, ORRRRR
+O, G_3, G, 1.0, OR
+O, COMMA_16, COMMA, 1.0, ORRRRRRRR
+O, \tau_9, \tau, 1.0, ORRRSubR
+O, X_18, X, 1.0, ORRRRRRRRR
+O, \tau_21, \tau, 1.0, ORRRRRRRRRSubR
+O, ]_23, ], 1.0, ORRRRRRRRRR
+O, [_14, [, 1.0, ORRRRRR
+O, ]_11, ], 1.0, ORRRR
+O, 0_26, 0, 1.0, ORRRRRRRRRRRR
+O, \div_24, \div, 1.0, ORRRRRRRRRRSub
+O, ω_20, ω, 1.0, ORRRRRRRRRSub
+O, ω_8, ω, 1.0, ORRRSub
+O, \approx_25, \approx, 1.0, ORRRRRRRRRRR
+O, \div_12, \div, 1.0, ORRRRSub
+O, [_2, [, 1.0, O
+O, X_6, X, 1.0, ORRR
+
+# Relations from SRT:
+R, COMMA_16, X_18, Right, 1.0
+R, COMMA_4, X_6, Right, 1.0
+R, G_15, COMMA_16, Right, 1.0
+R, G_3, COMMA_4, Right, 1.0
+R, X_18, ]_23, Right, 1.0
+R, X_18, ω_20, Sub, 1.0
+R, X_6, ]_11, Right, 1.0
+R, X_6, ω_8, Sub, 1.0
+R, [_14, G_15, Right, 1.0
+R, [_2, G_3, Right, 1.0
+R, \approx_25, 0_26, Right, 1.0
+R, \neq_13, [_14, Right, 1.0
+R, ]_11, \div_12, Sub, 1.0
+R, ]_11, \neq_13, Right, 1.0
+R, ]_23, \approx_25, Right, 1.0
+R, ]_23, \div_24, Sub, 1.0
+R, ω_20, \tau_21, Right, 1.0
+R, ω_8, \tau_9, Right, 1.0

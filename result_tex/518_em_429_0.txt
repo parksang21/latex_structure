@@ -1,0 +1,3 @@
+\begin{equation}
+	\infty \times \infty = \infty
+\end{equation}

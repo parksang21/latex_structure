@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>γ</mi><mi>T</mi></msub><mo>=</mo><msup><mi>m</mi><mrow><mo>−</mo><mn>2</mn></mrow></msup><msub><mi>T</mi><mn>0</mn></msub><mfrac><mrow><mi>Δ</mi><msup><mi>m</mi><mn>2</mn></msup><mo stretchy="false" form="prefix">(</mo><mi>T</mi><mo stretchy="false" form="postfix">)</mo></mrow><mrow><mi>Δ</mi><msub><mi>T</mi><mn>0</mn></msub></mrow></mfrac></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \gamma _ { T } = m ^ { - 2 } T _ { 0 } \frac { \Delta m ^ { 2 } ( T ) } { \Delta T _ { 0 } }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

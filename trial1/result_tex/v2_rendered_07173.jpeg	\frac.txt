@@ -1,0 +1,3 @@
+\begin{equation}
+	{ 1 } { \pi } \int _ { \delta } \Omega ^ { j } \mu _ { k } = \mu \delta _ { k } ^ { j }
+\end{equation}

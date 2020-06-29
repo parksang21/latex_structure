@@ -1,0 +1,47 @@
+# IUD, v2_rendered_09324
+# Objects(22):
+O, COMMA_20, COMMA, 1.0, ORRRRRRRRRRRRRR
+O, q_4, q, 1.0, OSub
+O, 2_17, 2, 1.0, ORRRRRRRRRRRSup
+O, -_14, -, 1.0, ORRRRRRRRRR
+O, l_22, l, 1.0, ORRRRRRRRRRRRRRR
+O, q_16, q, 1.0, ORRRRRRRRRRR
+O, q_9, q, 1.0, ORRRRR
+O, \gamma_18, \gamma, 1.0, ORRRRRRRRRRRR
+O, q_27, q, 1.0, ORRRRRRRRRRRRRRRRRSub
+O, q_23, q, 1.0, ORRRRRRRRRRRRRRRSub
+O, e_7, e, 1.0, ORRR
+O, d_6, d, 1.0, ORR
+O, l_3, l, 1.0, O
+O, \alpha_12, \alpha, 1.0, ORRRRRRRR
+O, K_10, K, 1.0, ORRRRRR
+O, \in_24, \in, 1.0, ORRRRRRRRRRRRRRRR
+O, =_11, =, 1.0, ORRRRRRR
+O, t_8, t, 1.0, ORRRR
+O, \delta_13, \delta, 1.0, ORRRRRRRRR
+O, M_26, M, 1.0, ORRRRRRRRRRRRRRRRR
+O, \equiv_5, \equiv, 1.0, OR
+O, B_19, B, 1.0, ORRRRRRRRRRRRR
+
+# Relations from SRT:
+R, -_14, q_16, Right, 1.0
+R, =_11, \alpha_12, Right, 1.0
+R, B_19, COMMA_20, Right, 1.0
+R, COMMA_20, l_22, Right, 1.0
+R, K_10, =_11, Right, 1.0
+R, M_26, q_27, Sub, 1.0
+R, \alpha_12, \delta_13, Right, 1.0
+R, \delta_13, -_14, Right, 1.0
+R, \equiv_5, d_6, Right, 1.0
+R, \gamma_18, B_19, Right, 1.0
+R, \in_24, M_26, Right, 1.0
+R, d_6, e_7, Right, 1.0
+R, e_7, t_8, Right, 1.0
+R, l_22, \in_24, Right, 1.0
+R, l_22, q_23, Sub, 1.0
+R, l_3, \equiv_5, Right, 1.0
+R, l_3, q_4, Sub, 1.0
+R, q_16, 2_17, Sup, 1.0
+R, q_16, \gamma_18, Right, 1.0
+R, q_9, K_10, Right, 1.0
+R, t_8, q_9, Right, 1.0

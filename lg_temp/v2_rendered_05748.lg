@@ -1,0 +1,27 @@
+# IUD, v2_rendered_05748
+# Objects(12):
+O, 1_9, 1, 1.0, 5
+O, \rho_4, \rho, 1.0, 1
+O, (_7, (, 1.0, 4
+O, \approx_5, \approx, 1.0, 2
+O, _8, -, 1.0, 11
+O, )_15, ), 1.0, 9
+O, \log_6, \log, 1.0, 3
+O, 5_13, 5, 1.0, 7
+O, H_12, H, 1.0, 6
+O, \delta_14, \delta, 1.0, 8
+O, _2, -, 1.0, 10
+O, 1_3, 1, 1.0, 0
+
+# Relations from SRT:
+R, (_7, _8, Right, 1.0
+R, H_12, 5_13, Sub, 1.0
+R, H_12, \delta_14, Right, 1.0
+R, \approx_5, \log_6, Right, 1.0
+R, \log_6, (_7, Right, 1.0
+R, _2, 1_3, Above, 1.0
+R, _2, \approx_5, Right, 1.0
+R, _2, \rho_4, Below, 1.0
+R, _8, )_15, Right, 1.0
+R, _8, 1_9, Above, 1.0
+R, _8, H_12, Below, 1.0

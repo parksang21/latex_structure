@@ -1,0 +1,47 @@
+# IUD, 3065
+# Objects(22):
+O, \infty_15, \infty, 1.0, ORRRRRRRRR
+O, )_25, ), 1.0, ORRRRRRRRRRRRRRRRRRR
+O, Q_3, Q, 1.0, O
+O, +_12, +, 1.0, ORRRRRRSub
+O, \infty_7, \infty, 1.0, ORRR
+O, \gamma_24, \gamma, 1.0, ORRRRRRRRRRRRRRRRRR
+O, 2_19, 2, 1.0, ORRRRRRRRRRRRR
+O, (_20, (, 1.0, ORRRRRRRRRRRRRR
+O, -_14, -, 1.0, ORRRRRRRR
+O, Z_11, Z, 1.0, ORRRRRR
+O, -_22, -, 1.0, ORRRRRRRRRRRRRRRR
+O, =_9, =, 1.0, ORRRRR
+O, (_5, (, 1.0, OR
+O, -_6, -, 1.0, ORR
+O, -_18, -, 1.0, ORRRRRRRRRRRR
+O, 2_23, 2, 1.0, ORRRRRRRRRRRRRRRRR
+O, =_17, =, 1.0, ORRRRRRRRRRR
+O, )_16, ), 1.0, ORRRRRRRRRR
+O, )_8, ), 1.0, ORRRR
+O, +_4, +, 1.0, OSub
+O, (_13, (, 1.0, ORRRRRRR
+O, \pi_21, \pi, 1.0, ORRRRRRRRRRRRRRR
+
+# Relations from SRT:
+R, (_13, -_14, Right, 1.0
+R, (_20, \pi_21, Right, 1.0
+R, (_5, -_6, Right, 1.0
+R, )_16, =_17, Right, 1.0
+R, )_8, =_9, Right, 1.0
+R, -_14, \infty_15, Right, 1.0
+R, -_18, 2_19, Right, 1.0
+R, -_22, 2_23, Right, 1.0
+R, -_6, \infty_7, Right, 1.0
+R, 2_19, (_20, Right, 1.0
+R, 2_23, \gamma_24, Right, 1.0
+R, =_17, -_18, Right, 1.0
+R, =_9, Z_11, Right, 1.0
+R, Q_3, (_5, Right, 1.0
+R, Q_3, +_4, Sub, 1.0
+R, Z_11, (_13, Right, 1.0
+R, Z_11, +_12, Sub, 1.0
+R, \gamma_24, )_25, Right, 1.0
+R, \infty_15, )_16, Right, 1.0
+R, \infty_7, )_8, Right, 1.0
+R, \pi_21, -_22, Right, 1.0

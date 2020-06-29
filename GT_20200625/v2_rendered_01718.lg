@@ -1,0 +1,37 @@
+# IUD, v2_rendered_01718
+# Objects(17):
+O, o_11, o, 1.0, ORRSub
+O, (_13, (, 1.0, ORRR
+O, T_15, T, 1.0, ORRRR
+O, COMMA_23, COMMA, 1.0, ORRRRRRRRR
+O, p_12, p, 1.0, ORRSubR
+O, T_9, T, 1.0, ORR
+O, p_22, p, 1.0, ORRRRRRRR
+O, \leq_7, \leq, 1.0, OR
+O, COMMA_20, COMMA, 1.0, ORRRRRR
+O, e_18, e, 1.0, ORRRRSubR
+O, \exists_21, \exists, 1.0, ORRRRRRR
+O, e_24, e, 1.0, ORRRRRRRRRR
+O, y_17, y, 1.0, ORRRRSub
+O, p_6, p, 1.0, OSubR
+O, T_3, T, 1.0, O
+O, o_5, o, 1.0, OSub
+O, )_19, ), 1.0, ORRRRR
+
+# Relations from SRT:
+R, (_13, T_15, Right, 1.0
+R, )_19, COMMA_20, Right, 1.0
+R, COMMA_20, \exists_21, Right, 1.0
+R, COMMA_23, e_24, Right, 1.0
+R, T_15, )_19, Right, 1.0
+R, T_15, y_17, Sub, 1.0
+R, T_3, \leq_7, Right, 1.0
+R, T_3, o_5, Sub, 1.0
+R, T_9, (_13, Right, 1.0
+R, T_9, o_11, Sub, 1.0
+R, \exists_21, p_22, Right, 1.0
+R, \leq_7, T_9, Right, 1.0
+R, o_11, p_12, Right, 1.0
+R, o_5, p_6, Right, 1.0
+R, p_22, COMMA_23, Right, 1.0
+R, y_17, e_18, Right, 1.0

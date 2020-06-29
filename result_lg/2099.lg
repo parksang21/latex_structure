@@ -1,0 +1,49 @@
+# IUD, 2099
+# Objects(23):
+O, 4_28, 4, 1.0, ORRRRRRRRRRRRRRRRSup
+O, \mu_9, \mu, 1.0, ORRSup
+O, \mu_13, \mu, 1.0, ORRRRSup
+O, =_6, =, 1.0, OR
+O, \int_14, \int, 1.0, ORRRRR
+O, x_22, x, 1.0, ORRRRRRRRRRRRR
+O, x_17, x, 1.0, ORRRRRRRR
+O, \lambda_12, \lambda, 1.0, ORRRR
+O, p_8, p, 1.0, ORR
+O, _3, \sqrt, 1.0, O
+O, +_10, +, 1.0, ORRR
+O, x_27, x, 1.0, ORRRRRRRRRRRRRRRRSub
+O, (_20, (, 1.0, ORRRRRRRRRRR
+O, \mu_5, \mu, 1.0, OSup
+O, (_16, (, 1.0, ORRRRRRR
+O, \delta_19, \delta, 1.0, ORRRRRRRRRR
+O, V_15, V, 1.0, ORRRRRR
+O, )_26, ), 1.0, ORRRRRRRRRRRRRRRR
+O, )_18, ), 1.0, ORRRRRRRRR
+O, -_23, -, 1.0, ORRRRRRRRRRRRRR
+O, \tau_24, \tau, 1.0, ORRRRRRRRRRRRRRR
+O, \lambda_21, \lambda, 1.0, ORRRRRRRRRRRR
+O, p_4, p, 1.0, OInside
+
+# Relations from SRT:
+R, (_16, x_17, Right, 1.0
+R, (_20, \lambda_21, Right, 1.0
+R, )_18, \delta_19, Right, 1.0
+R, )_26, 4_28, Sup, 1.0
+R, )_26, x_27, Sub, 1.0
+R, +_10, \lambda_12, Right, 1.0
+R, -_23, \tau_24, Right, 1.0
+R, =_6, p_8, Right, 1.0
+R, V_15, (_16, Right, 1.0
+R, \delta_19, (_20, Right, 1.0
+R, \int_14, V_15, Right, 1.0
+R, \lambda_12, \int_14, Right, 1.0
+R, \lambda_12, \mu_13, Sup, 1.0
+R, \lambda_21, x_22, Right, 1.0
+R, \tau_24, )_26, Right, 1.0
+R, _3, =_6, Right, 1.0
+R, _3, \mu_5, Sup, 1.0
+R, _3, p_4, Inside, 1.0
+R, p_8, +_10, Right, 1.0
+R, p_8, \mu_9, Sup, 1.0
+R, x_17, )_18, Right, 1.0
+R, x_22, -_23, Right, 1.0

@@ -1,0 +1,43 @@
+# IUD, v2_rendered_21712
+# Objects(20):
+O, (_17, (, 1.0, ORRRRRRRRRRR
+O, )_15, ), 1.0, ORRRRRRRRR
+O, \beta_5, \beta, 1.0, ORR
+O, c_14, c, 1.0, ORRRRRRRRSub
+O, )_21, ), 1.0, ORRRRRRRRRRRRRRR
+O, \tan_10, \tan, 1.0, ORRRRRR
+O, (_11, (, 1.0, ORRRRRRR
+O, c_6, c, 1.0, ORRSub
+O, /_22, /, 1.0, ORRRRRRRRRRRRRRRR
+O, (_3, (, 1.0, OR
+O, \sin_2, \sin, 1.0, O
+O, -_8, -, 1.0, ORRRR
+O, 4_9, 4, 1.0, ORRRRR
+O, p_23, p, 1.0, ORRRRRRRRRRRRRRRRR
+O, 1_20, 1, 1.0, ORRRRRRRRRRRRRR
+O, =_16, =, 1.0, ORRRRRRRRRR
+O, p_18, p, 1.0, ORRRRRRRRRRRR
+O, \beta_13, \beta, 1.0, ORRRRRRRR
+O, -_19, -, 1.0, ORRRRRRRRRRRRR
+O, )_7, ), 1.0, ORRR
+
+# Relations from SRT:
+R, (_11, \beta_13, Right, 1.0
+R, (_17, p_18, Right, 1.0
+R, (_3, \beta_5, Right, 1.0
+R, )_15, =_16, Right, 1.0
+R, )_21, /_22, Right, 1.0
+R, )_7, -_8, Right, 1.0
+R, -_19, 1_20, Right, 1.0
+R, -_8, 4_9, Right, 1.0
+R, /_22, p_23, Right, 1.0
+R, 1_20, )_21, Right, 1.0
+R, 4_9, \tan_10, Right, 1.0
+R, =_16, (_17, Right, 1.0
+R, \beta_13, )_15, Right, 1.0
+R, \beta_13, c_14, Sub, 1.0
+R, \beta_5, )_7, Right, 1.0
+R, \beta_5, c_6, Sub, 1.0
+R, \sin_2, (_3, Right, 1.0
+R, \tan_10, (_11, Right, 1.0
+R, p_18, -_19, Right, 1.0

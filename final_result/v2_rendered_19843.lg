@@ -1,0 +1,35 @@
+# IUD, v2_rendered_19843
+# Objects(16):
+O, \vert_18, \vert, 1.0, ORRRRRRR
+O, )_16, ), 1.0, ORRRRRR
+O, =_5, =, 1.0, OR
+O, r_9, r, 1.0, ORRBelow
+O, =_21, =, 1.0, ORRRRRRRSubR
+O, 0_22, 0, 1.0, ORRRRRRRSubRR
+O, \Leftrifhtarrow_10, \Leftrifhtarrow, 1.0, ORRBelowR
+O, _14, \sqrt, 1.0, ORRRRR
+O, r_13, r, 1.0, ORRRR
+O, Q_3, Q, 1.0, O
+O, m_4, m, 1.0, OSub
+O, \infty_11, \infty, 1.0, ORRBelowRR
+O, (_12, (, 1.0, ORRR
+O, \lim_7, \lim, 1.0, ORR
+O, a_20, a, 1.0, ORRRRRRRSub
+O, B_15, B, 1.0, ORRRRRInside
+
+# Relations from SRT:
+R, (_12, r_13, Right, 1.0
+R, )_16, \vert_18, Right, 1.0
+R, =_21, 0_22, Right, 1.0
+R, =_5, \lim_7, Right, 1.0
+R, Q_3, =_5, Right, 1.0
+R, Q_3, m_4, Sub, 1.0
+R, \Leftrifhtarrow_10, \infty_11, Right, 1.0
+R, \lim_7, (_12, Right, 1.0
+R, \lim_7, r_9, Below, 1.0
+R, \vert_18, a_20, Sub, 1.0
+R, _14, )_16, Right, 1.0
+R, _14, B_15, Inside, 1.0
+R, a_20, =_21, Right, 1.0
+R, r_13, _14, Right, 1.0
+R, r_9, \Leftrifhtarrow_10, Right, 1.0

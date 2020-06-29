@@ -1,0 +1,3 @@
+\begin{equation}
+	X _ { \alpha } ^ { \lambda } \equiv X _ { \alpha \beta } ^ { \beta \lambda }
+\end{equation}

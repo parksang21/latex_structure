@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { L } ^ { 2 } \notin \vert k \vert \sigma _ { T } V \notin ( \sigma _ { T } V ) ^ { 2 }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	P _ { X } = a ^ { \gamma } P _ { \gamma }
+\end{equation}

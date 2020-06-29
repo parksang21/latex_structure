@@ -1,0 +1,3 @@
+\begin{equation}
+	\psi ^ { \varepsilon } ( f ) = ( ( \sqrt { f } ) ^ { \csqrt 0 } \circ \psi \circ \pi ) ( f )
+\end{equation}

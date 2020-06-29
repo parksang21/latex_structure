@@ -1,0 +1,3 @@
+\begin{equation}
+	( \mu , \psi , \lambda ) = ( \psi , \lambda , \mu ) e t c
+\end{equation}

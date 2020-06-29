@@ -1,0 +1,53 @@
+# IUD, v2_rendered_04433
+# Objects(25):
+O, (_10, (, 1.0, OR
+O, -_24, -, 1.0, ORRRRRRRRRRRRRRR
+O, COMMA_26, COMMA, 1.0, ORRRRRRRRRRRRRRRRR
+O, c_19, c, 1.0, ORRRRRRRRRR
+O, =_22, =, 1.0, ORRRRRRRRRRRRR
+O, E_3, E, 1.0, O
+O, e_9, e, 1.0, OSubRRRR
+O, (_23, (, 1.0, ORRRRRRRRRRRRRR
+O, \infty_27, \infty, 1.0, ORRRRRRRRRRRRRRRRRR
+O, )_21, ), 1.0, ORRRRRRRRRRRR
+O, g_8, g, 1.0, OSubRRR
+O, \infty_25, \infty, 1.0, ORRRRRRRRRRRRRRRR
+O, \vert_11, \vert, 1.0, ORR
+O, v_15, v, 1.0, ORRRRRR
+O, v_17, v, 1.0, ORRRRRRRR
+O, n_12, n, 1.0, ORRR
+O, n_7, n, 1.0, OSubRR
+O, a_18, a, 1.0, ORRRRRRRRR
+O, )_28, ), 1.0, ORRRRRRRRRRRRRRRRRRR
+O, \cup_20, \cup, 1.0, ORRRRRRRRRRR
+O, i_14, i, 1.0, ORRRRR
+O, r_5, r, 1.0, OSub
+O, a_6, a, 1.0, OSubR
+O, e_16, e, 1.0, ORRRRRRR
+O, a_13, a, 1.0, ORRRR
+
+# Relations from SRT:
+R, (_10, \vert_11, Right, 1.0
+R, (_23, -_24, Right, 1.0
+R, )_21, =_22, Right, 1.0
+R, -_24, \infty_25, Right, 1.0
+R, =_22, (_23, Right, 1.0
+R, COMMA_26, \infty_27, Right, 1.0
+R, E_3, (_10, Right, 1.0
+R, E_3, r_5, Sub, 1.0
+R, \cup_20, )_21, Right, 1.0
+R, \infty_25, COMMA_26, Right, 1.0
+R, \infty_27, )_28, Right, 1.0
+R, \vert_11, n_12, Right, 1.0
+R, a_13, i_14, Right, 1.0
+R, a_18, c_19, Right, 1.0
+R, a_6, n_7, Right, 1.0
+R, c_19, \cup_20, Right, 1.0
+R, e_16, v_17, Right, 1.0
+R, g_8, e_9, Right, 1.0
+R, i_14, v_15, Right, 1.0
+R, n_12, a_13, Right, 1.0
+R, n_7, g_8, Right, 1.0
+R, r_5, a_6, Right, 1.0
+R, v_15, e_16, Right, 1.0
+R, v_17, a_18, Right, 1.0

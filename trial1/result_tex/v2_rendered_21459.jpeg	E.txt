@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { n } ^ { \lambda } = \frac { 1 } { \lambda } \ln [ 1 + \lambda \omega ( n + \frac { 1 } { 2 } ) ]
+\end{equation}

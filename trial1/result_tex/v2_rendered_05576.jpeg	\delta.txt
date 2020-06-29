@@ -1,0 +1,3 @@
+\begin{equation}
+	= \frac { \sqrt { ( e F _ { \alpha \beta } p ^ { \beta } ) ^ { 2 } } } { m ^ { 3 } }
+\end{equation}

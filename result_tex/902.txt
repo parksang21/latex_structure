@@ -1,0 +1,3 @@
+\begin{equation}
+	d a b c = \frac { 1 } { 4 } T r ( \lambda ^ { a } \{ \lambda ^ { b } , \lambda ^ { c } \} )
+\end{equation}

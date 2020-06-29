@@ -1,0 +1,3 @@
+\begin{equation}
+	P [ X _ { n } > \pm \forall n \geqq m ] \geq P [ \sum _ { n \geqq m } X _ { n } > s ]
+\end{equation}

@@ -1,0 +1,41 @@
+# IUD, v2_rendered_06912
+# Objects(19):
+O, m_9, m, 1.0, ORRRRRRR
+O, \gamma_20, \gamma, 1.0, ORRRRRRRRRRRRRR
+O, =_6, =, 1.0, ORRRR
+O, 2_7, 2, 1.0, ORRRRR
+O, _13, -, 1.0, ORRRRRRRRRRR
+O, F_2, F, 1.0, O
+O, (_12, (, 1.0, ORRRRRRRRRR
+O, )_5, ), 1.0, ORRR
+O, \log_11, \log, 1.0, ORRRRRRRRR
+O, (_10, (, 1.0, ORRRRRRRR
+O, (_3, (, 1.0, OR
+O, m_15, m, 1.0, ORRRRRRRRRRRAbove
+O, )_18, ), 1.0, ORRRRRRRRRRRR
+O, +_19, +, 1.0, ORRRRRRRRRRRRR
+O, 2_17, 2, 1.0, ORRRRRRRRRRRBelow
+O, 1_4, 1, 1.0, ORR
+O, r_16, r, 1.0, ORRRRRRRRRRRAboveR
+O, )_21, ), 1.0, ORRRRRRRRRRRRRRR
+O, i_8, i, 1.0, ORRRRRR
+
+# Relations from SRT:
+R, (_10, \log_11, Right, 1.0
+R, (_12, _13, Right, 1.0
+R, (_3, 1_4, Right, 1.0
+R, )_18, +_19, Right, 1.0
+R, )_5, =_6, Right, 1.0
+R, +_19, \gamma_20, Right, 1.0
+R, 1_4, )_5, Right, 1.0
+R, 2_7, i_8, Right, 1.0
+R, =_6, 2_7, Right, 1.0
+R, F_2, (_3, Right, 1.0
+R, \gamma_20, )_21, Right, 1.0
+R, \log_11, (_12, Right, 1.0
+R, _13, )_18, Right, 1.0
+R, _13, 2_17, Below, 1.0
+R, _13, m_15, Above, 1.0
+R, i_8, m_9, Right, 1.0
+R, m_15, r_16, Right, 1.0
+R, m_9, (_10, Right, 1.0

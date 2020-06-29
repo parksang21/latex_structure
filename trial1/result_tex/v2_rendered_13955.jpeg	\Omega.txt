@@ -1,0 +1,3 @@
+\begin{equation}
+	( g ) ^ { \alpha } - \Omega ( g ) ^ { \beta } = d \log T _ { \alpha \beta } ^ { g }
+\end{equation}

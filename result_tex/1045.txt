@@ -1,0 +1,3 @@
+\begin{equation}
+	Z ( A ) = \int D h ( x ) e ^ { - N ^ { 2 } S [ h ( x ) ] }
+\end{equation}

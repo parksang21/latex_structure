@@ -1,0 +1,3 @@
+\begin{equation}
+	C _ { i j k } = \Delta _ { i } \Delta _ { j } \Delta _ { k } F ( t )
+\end{equation}

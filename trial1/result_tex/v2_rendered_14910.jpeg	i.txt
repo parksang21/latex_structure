@@ -1,0 +1,3 @@
+\begin{equation}
+	p ^ { 2 } \tilde { A } = - D i v P a r t \{ \tilde { \Omega _ { 2 } } ( p ) \}
+\end{equation}

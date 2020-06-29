@@ -1,0 +1,3 @@
+\begin{equation}
+	= - ( h + f ^ { \prime } \sqrt { \beta } / 2 ) = - \sqrt { h } e ^ { f / 2 } = 0
+\end{equation}

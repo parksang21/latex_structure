@@ -1,0 +1,37 @@
+# IUD, v2_rendered_22285
+# Objects(17):
+O, 1_15, 1, 1.0, ORRRRAbove
+O, T_23, T, 1.0, ORRRRRR
+O, \delta_21, \delta, 1.0, ORRRRRSubR
+O, S_3, S, 1.0, O
+O, \mu_11, \mu, 1.0, ORRSub
+O, \gamma_24, \gamma, 1.0, ORRRRRRSub
+O, \mu_5, \mu, 1.0, OSub
+O, \gamma_25, \gamma, 1.0, ORRRRRRSup
+O, _14, -, 1.0, ORRRR
+O, \delta_6, \delta, 1.0, OSubR
+O, \delta_12, \delta, 1.0, ORRSubR
+O, \mu_20, \mu, 1.0, ORRRRRSub
+O, =_7, =, 1.0, OR
+O, -_13, -, 1.0, ORRR
+O, T_9, T, 1.0, ORR
+O, \gamma_18, \gamma, 1.0, ORRRRR
+O, 2_16, 2, 1.0, ORRRRBelow
+
+# Relations from SRT:
+R, -_13, _14, Right, 1.0
+R, =_7, T_9, Right, 1.0
+R, S_3, =_7, Right, 1.0
+R, S_3, \mu_5, Sub, 1.0
+R, T_23, \gamma_24, Sub, 1.0
+R, T_23, \gamma_25, Sup, 1.0
+R, T_9, -_13, Right, 1.0
+R, T_9, \mu_11, Sub, 1.0
+R, \gamma_18, T_23, Right, 1.0
+R, \gamma_18, \mu_20, Sub, 1.0
+R, \mu_11, \delta_12, Right, 1.0
+R, \mu_20, \delta_21, Right, 1.0
+R, \mu_5, \delta_6, Right, 1.0
+R, _14, 1_15, Above, 1.0
+R, _14, 2_16, Below, 1.0
+R, _14, \gamma_18, Right, 1.0

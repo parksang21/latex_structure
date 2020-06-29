@@ -1,0 +1,39 @@
+# IUD, 507_em_72_0
+# Objects(18):
+O, -_7, -, 1.0, ORRR
+O, +_14, +, 1.0, ORRRRRRRR
+O, )_21, ), 1.0, ORRRRRRRRRRRRR
+O, _2, -, 1.0, O
+O, 3_4, 3, 1.0, OBelow
+O, b_6, b, 1.0, ORR
+O, a_19, a, 1.0, ORRRRRRRRRRRR
+O, a_15, a, 1.0, ORRRRRRRRR
+O, 2_13, 2, 1.0, ORRRRRRRSup
+O, b_12, b, 1.0, ORRRRRRR
+O, (_10, (, 1.0, ORRRRRR
+O, +_17, +, 1.0, ORRRRRRRRRRR
+O, 1_3, 1, 1.0, OAbove
+O, (_5, (, 1.0, OR
+O, q_16, q, 1.0, ORRRRRRRRRR
+O, 2_20, 2, 1.0, ORRRRRRRRRRRRSup
+O, )_9, ), 1.0, ORRRRR
+O, a_8, a, 1.0, ORRRR
+
+# Relations from SRT:
+R, (_10, b_12, Right, 1.0
+R, (_5, b_6, Right, 1.0
+R, )_9, (_10, Right, 1.0
+R, +_14, a_15, Right, 1.0
+R, +_17, a_19, Right, 1.0
+R, -_7, a_8, Right, 1.0
+R, _2, (_5, Right, 1.0
+R, _2, 1_3, Above, 1.0
+R, _2, 3_4, Below, 1.0
+R, a_15, q_16, Right, 1.0
+R, a_19, )_21, Right, 1.0
+R, a_19, 2_20, Sup, 1.0
+R, a_8, )_9, Right, 1.0
+R, b_12, +_14, Right, 1.0
+R, b_12, 2_13, Sup, 1.0
+R, b_6, -_7, Right, 1.0
+R, q_16, +_17, Right, 1.0

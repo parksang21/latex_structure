@@ -1,0 +1,3 @@
+\begin{equation}
+	( M _ { B V } , M _ { B V } ) - 5 \lambda Z \square M _ { B V } \leq 0
+\end{equation}

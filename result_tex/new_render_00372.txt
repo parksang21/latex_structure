@@ -1,0 +1,3 @@
+\begin{equation}
+	a _ { i } a _ { j } \sqrt { \tau } i _ { i j } ^ { * } a _ { j } a _ { i } = 4 , \therefore i , j \wedge I
+\end{equation}

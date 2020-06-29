@@ -1,0 +1,3 @@
+\begin{equation}
+	\phi = s i n \theta s i n \alpha c o s ( \varphi - \beta ) + c o s \theta c o s \alpha
+\end{equation}

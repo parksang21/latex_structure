@@ -1,0 +1,3 @@
+\begin{equation}
+	d s _ { 1 0 } ^ { 2 } = \Omega ^ { 2 } d s _ { A d S } ^ { 2 } + d s _ { 5 } ^ { 2 }
+\end{equation}

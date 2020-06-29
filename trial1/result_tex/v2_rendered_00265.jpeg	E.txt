@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { i } \neq D \gamma _ { i } + D B _ { i } - \Delta _ { i } A
+\end{equation}

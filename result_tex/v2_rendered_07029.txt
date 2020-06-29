@@ -1,0 +1,3 @@
+\begin{equation}
+	W _ { G } \pm \frac { 1 } { 2 } \varepsilon _ { i j } F _ { i j } ^ { A } Q ^ { A } = 0
+\end{equation}

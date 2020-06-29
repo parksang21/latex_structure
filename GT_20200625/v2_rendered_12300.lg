@@ -1,0 +1,47 @@
+# IUD, v2_rendered_12300
+# Objects(22):
+O, A_11, A, 1.0, ORRRRRRRRR
+O, A_16, A, 1.0, ORRRRRRRRRRRRRR
+O, \angle_2, \angle, 1.0, O
+O, A_10, A, 1.0, ORRRRRRRR
+O, B_22, B, 1.0, ORRRRRRRRRRRRRRRRRRRR
+O, A_4, A, 1.0, ORR
+O, A_5, A, 1.0, ORRR
+O, =_12, =, 1.0, ORRRRRRRRRR
+O, C_23, C, 1.0, ORRRRRRRRRRRRRRRRRRRRR
+O, B_19, B, 1.0, ORRRRRRRRRRRRRRRRR
+O, B_13, B, 1.0, ORRRRRRRRRRR
+O, Z_3, Z, 1.0, OR
+O, A_14, A, 1.0, ORRRRRRRRRRRR
+O, B_7, B, 1.0, ORRRRR
+O, \rightarrow_6, \rightarrow, 1.0, ORRRR
+O, =_21, =, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, Z_17, Z, 1.0, ORRRRRRRRRRRRRRR
+O, Z_20, Z, 1.0, ORRRRRRRRRRRRRRRRRR
+O, +_9, +, 1.0, ORRRRRRR
+O, =_18, =, 1.0, ORRRRRRRRRRRRRRRR
+O, +_15, +, 1.0, ORRRRRRRRRRRRR
+O, A_8, A, 1.0, ORRRRRR
+
+# Relations from SRT:
+R, +_15, A_16, Right, 1.0
+R, +_9, A_10, Right, 1.0
+R, =_12, B_13, Right, 1.0
+R, =_18, B_19, Right, 1.0
+R, =_21, B_22, Right, 1.0
+R, A_10, A_11, Right, 1.0
+R, A_11, =_12, Right, 1.0
+R, A_14, +_15, Right, 1.0
+R, A_16, Z_17, Right, 1.0
+R, A_4, A_5, Right, 1.0
+R, A_5, \rightarrow_6, Right, 1.0
+R, A_8, +_9, Right, 1.0
+R, B_13, A_14, Right, 1.0
+R, B_19, Z_20, Right, 1.0
+R, B_22, C_23, Right, 1.0
+R, B_7, A_8, Right, 1.0
+R, Z_17, =_18, Right, 1.0
+R, Z_20, =_21, Right, 1.0
+R, Z_3, A_4, Right, 1.0
+R, \angle_2, Z_3, Right, 1.0
+R, \rightarrow_6, B_7, Right, 1.0

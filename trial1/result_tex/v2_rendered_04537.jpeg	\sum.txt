@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { i = 2 } ^ { N } s g n ( M _ { i } ) = 0
+\end{equation}

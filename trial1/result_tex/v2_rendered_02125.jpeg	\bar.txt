@@ -1,0 +1,3 @@
+\begin{equation}
+	{ A } = \bar { A } _ { a b i } d x ^ { i } \phi ^ { a b }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	4 0 ^ { \circ } [ \cos ( 4 0 ^ { \circ } - w ) - \cos ( 4 0 ^ { \circ } / w ) ]
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\omega = d \omega - i A \not\subset \omega + i ( - 1 ) ^ { p } \omega \not\subset A
+\end{equation}

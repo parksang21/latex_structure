@@ -1,0 +1,3 @@
+\begin{equation}
+	( \tau + \beta , u ) = \phi ( \tau , u )
+\end{equation}

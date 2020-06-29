@@ -1,0 +1,3 @@
+\begin{equation}
+	\sigma _ { a b s } ^ { ( 1 , 0 ) } = \frac { A } { a } H 2
+\end{equation}

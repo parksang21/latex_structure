@@ -1,0 +1,31 @@
+# IUD, 1071
+# Objects(14):
+O, p_7, p, 1.0, ORR
+O, C_16, C, 1.0, ORRRRRRSub
+O, H_19, H, 1.0, ORRRRRRRR
+O, COMMA_13, COMMA, 1.0, ORRRRR
+O, r_11, r, 1.0, ORRRR
+O, C_4, C, 1.0, OSub
+O, C_8, C, 1.0, ORRSub
+O, C_20, C, 1.0, ORRRRRRRRSub
+O, q_3, q, 1.0, O
+O, s_15, s, 1.0, ORRRRRR
+O, \in_17, \in, 1.0, ORRRRRRR
+O, COMMA_9, COMMA, 1.0, ORRR
+O, COMMA_5, COMMA, 1.0, OR
+O, C_12, C, 1.0, ORRRRSub
+
+# Relations from SRT:
+R, COMMA_13, s_15, Right, 1.0
+R, COMMA_5, p_7, Right, 1.0
+R, COMMA_9, r_11, Right, 1.0
+R, H_19, C_20, Sub, 1.0
+R, \in_17, H_19, Right, 1.0
+R, p_7, COMMA_9, Right, 1.0
+R, p_7, C_8, Sub, 1.0
+R, q_3, COMMA_5, Right, 1.0
+R, q_3, C_4, Sub, 1.0
+R, r_11, COMMA_13, Right, 1.0
+R, r_11, C_12, Sub, 1.0
+R, s_15, C_16, Sub, 1.0
+R, s_15, \in_17, Right, 1.0

@@ -1,0 +1,39 @@
+# IUD, v2_rendered_25489
+# Objects(18):
+O, P_22, P, 1.0, ORRRRRRRRRRBelow
+O, W_2, W, 1.0, O
+O, 2_14, 2, 1.0, ORRRRBelowRSup
+O, o_16, o, 1.0, ORRRRRR
+O, =_6, =, 1.0, ORR
+O, r_17, r, 1.0, ORRRRRRR
+O, f_15, f, 1.0, ORRRRR
+O, \subset_19, \subset, 1.0, ORRRRRRRRR
+O, 4_11, 4, 1.0, ORRRRBelow
+O, _8, -, 1.0, ORRRR
+O, 2_5, 2, 1.0, ORSup
+O, -_7, -, 1.0, ORRR
+O, 1_21, 1, 1.0, ORRRRRRRRRRAbove
+O, \tau_13, \tau, 1.0, ORRRRBelowR
+O, P_4, P, 1.0, OR
+O, _20, -, 1.0, ORRRRRRRRRR
+O, 1_9, 1, 1.0, ORRRRAbove
+O, \tau_18, \tau, 1.0, ORRRRRRRR
+
+# Relations from SRT:
+R, -_7, _8, Right, 1.0
+R, 4_11, \tau_13, Right, 1.0
+R, =_6, -_7, Right, 1.0
+R, P_4, 2_5, Sup, 1.0
+R, P_4, =_6, Right, 1.0
+R, W_2, P_4, Right, 1.0
+R, \subset_19, _20, Right, 1.0
+R, \tau_13, 2_14, Sup, 1.0
+R, \tau_18, \subset_19, Right, 1.0
+R, _20, 1_21, Above, 1.0
+R, _20, P_22, Below, 1.0
+R, _8, 1_9, Above, 1.0
+R, _8, 4_11, Below, 1.0
+R, _8, f_15, Right, 1.0
+R, f_15, o_16, Right, 1.0
+R, o_16, r_17, Right, 1.0
+R, r_17, \tau_18, Right, 1.0

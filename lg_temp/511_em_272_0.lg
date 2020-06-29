@@ -1,0 +1,21 @@
+# IUD, 511_em_272_0
+# Objects(9):
+O, =_7, =, 1.0, 5
+O, l_10, l, 1.0, 8
+O, \tan_9, \tan, 1.0, 7
+O, \theta_5, \theta, 1.0, 3
+O, (_3, (, 1.0, 1
+O, \tan_2, \tan, 1.0, 0
+O, -_4, -, 1.0, 2
+O, -_8, -, 1.0, 6
+O, )_6, ), 1.0, 4
+
+# Relations from SRT:
+R, (_3, -_4, Right, 1.0
+R, )_6, =_7, Right, 1.0
+R, -_4, \theta_5, Right, 1.0
+R, -_8, \tan_9, Right, 1.0
+R, =_7, -_8, Right, 1.0
+R, \tan_2, (_3, Right, 1.0
+R, \tan_9, l_10, Right, 1.0
+R, \theta_5, )_6, Right, 1.0

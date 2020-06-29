@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { b \delta } D _ { a \alpha } \tilde { h } ^ { \dot { \gamma } \delta } = 0
+\end{equation}

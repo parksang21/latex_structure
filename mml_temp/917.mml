@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>U</mi><mi>ω</mi></msub><mi>a</mi><msup><mi>b</mi><mi>′</mi></msup><msub><mi>Ω</mi><mi>ω</mi></msub><mo>=</mo><mi>a</mi><mi>Ω</mi><msqrt><mo>⊗</mo></msqrt><msup><mi>b</mi><mi>′</mi></msup><mi>Ω</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+    U _ { \omega } a b ^ { \prime } \Omega _ { \omega } = a \Omega \sqrt { \otimes } b ^ { \prime } \Omega
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

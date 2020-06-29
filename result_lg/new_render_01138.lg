@@ -1,0 +1,41 @@
+# IUD, new_render_01138
+# Objects(19):
+O, \infty_23, \infty, 1.0, ORRRRRRRRRRRRRR
+O, [_6, [, 1.0, ORR
+O, \because_18, \because, 1.0, ORRRRRRRRR
+O, y_7, y, 1.0, ORRR
+O, w_12, w, 1.0, ORRRRRRSub
+O, ]_8, ], 1.0, ORRRR
+O, y_2, y, 1.0, O
+O, /_14, /, 1.0, ORRRRRRR
+O, c_11, c, 1.0, ORRRRRR
+O, 6_19, 6, 1.0, ORRRRRRRRRR
+O, w_17, w, 1.0, ORRRRRRRRSup
+O, \propto_22, \propto, 1.0, ORRRRRRRRRRRRR
+O, \propto_20, \propto, 1.0, ORRRRRRRRRRR
+O, y_16, y, 1.0, ORRRRRRRR
+O, y_21, y, 1.0, ORRRRRRRRRRRR
+O, 1_5, 1, 1.0, ORSub
+O, \prime_13, \prime, 1.0, ORRRRRRSup
+O, W_4, W, 1.0, OR
+O, \leqq_9, \leqq, 1.0, ORRRRR
+
+# Relations from SRT:
+R, /_14, y_16, Right, 1.0
+R, 6_19, \propto_20, Right, 1.0
+R, W_4, 1_5, Sub, 1.0
+R, W_4, [_6, Right, 1.0
+R, [_6, y_7, Right, 1.0
+R, \because_18, 6_19, Right, 1.0
+R, \leqq_9, c_11, Right, 1.0
+R, \propto_20, y_21, Right, 1.0
+R, \propto_22, \infty_23, Right, 1.0
+R, ]_8, \leqq_9, Right, 1.0
+R, c_11, /_14, Right, 1.0
+R, c_11, \prime_13, Sup, 1.0
+R, c_11, w_12, Sub, 1.0
+R, y_16, \because_18, Right, 1.0
+R, y_16, w_17, Sup, 1.0
+R, y_21, \propto_22, Right, 1.0
+R, y_2, W_4, Right, 1.0
+R, y_7, ]_8, Right, 1.0

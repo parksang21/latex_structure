@@ -1,0 +1,47 @@
+# IUD, v2_rendered_13534
+# Objects(22):
+O, _5, -, 1.0, ORRR
+O, F_20, F, 1.0, ORRRRRRRRRRRR
+O, D_3, D, 1.0, OR
+O, \int_17, \int, 1.0, ORRRRRRRRR
+O, [_21, [, 1.0, ORRRRRRRRRRRRR
+O, 0_13, 0, 1.0, ORRRRR
+O, ]_23, ], 1.0, ORRRRRRRRRRRRRRR
+O, r_16, r, 1.0, ORRRRRRRR
+O, =_12, =, 1.0, ORRRR
+O, F_8, F, 1.0, ORRRAboveR
+O, f_4, f, 1.0, ORR
+O, f_14, f, 1.0, ORRRRRR
+O, \delta_7, \delta, 1.0, ORRRAbove
+O, f_22, f, 1.0, ORRRRRRRRRRRRRR
+O, \propto_24, \propto, 1.0, ORRRRRRRRRRRRRRRR
+O, f_11, f, 1.0, ORRRBelowR
+O, o_15, o, 1.0, ORRRRRRR
+O, \delta_10, \delta, 1.0, ORRRBelow
+O, \infty_25, \infty, 1.0, ORRRRRRRRRRRRRRRRR
+O, D_18, D, 1.0, ORRRRRRRRRR
+O, f_19, f, 1.0, ORRRRRRRRRRR
+O, \int_2, \int, 1.0, O
+
+# Relations from SRT:
+R, 0_13, f_14, Right, 1.0
+R, =_12, 0_13, Right, 1.0
+R, D_18, f_19, Right, 1.0
+R, D_3, f_4, Right, 1.0
+R, F_20, [_21, Right, 1.0
+R, [_21, f_22, Right, 1.0
+R, \delta_10, f_11, Right, 1.0
+R, \delta_7, F_8, Right, 1.0
+R, \int_17, D_18, Right, 1.0
+R, \int_2, D_3, Right, 1.0
+R, \propto_24, \infty_25, Right, 1.0
+R, ]_23, \propto_24, Right, 1.0
+R, _5, =_12, Right, 1.0
+R, _5, \delta_10, Below, 1.0
+R, _5, \delta_7, Above, 1.0
+R, f_14, o_15, Right, 1.0
+R, f_19, F_20, Right, 1.0
+R, f_22, ]_23, Right, 1.0
+R, f_4, _5, Right, 1.0
+R, o_15, r_16, Right, 1.0
+R, r_16, \int_17, Right, 1.0

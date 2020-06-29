@@ -1,0 +1,21 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">517_em_410_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <msup><mi xml:id="c_2">c</mi><mi xml:id="\beta_3">β</mi></msup>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">c</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="c_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\beta</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\beta_3"/>
+	</traceGroup>
+</traceGroup>
+</ink>

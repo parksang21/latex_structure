@@ -1,0 +1,3 @@
+\begin{equation}
+	x _ { L L } \leq x _ { L }
+\end{equation}

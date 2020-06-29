@@ -1,0 +1,3 @@
+\begin{equation}
+	\rightarrow L ^ { \prime } = e ^ { - \frac { 2 u } { f _ { 0 } } } L
+\end{equation}

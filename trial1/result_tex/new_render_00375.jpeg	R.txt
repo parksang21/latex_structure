@@ -1,0 +1,3 @@
+\begin{equation}
+	( \gamma ) e _ { \delta } = e _ { \gamma \cdot \delta } \therefore \gamma , \delta < \theta
+\end{equation}

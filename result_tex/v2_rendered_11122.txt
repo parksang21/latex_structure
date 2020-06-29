@@ -1,0 +1,3 @@
+\begin{equation}
+	V = \omega ( u - \frac { \phi \omega } { 2 } ) + C ( u - \phi \omega ) ^ { 2 }
+\end{equation}

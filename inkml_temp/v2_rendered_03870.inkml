@@ -1,0 +1,91 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_03870</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><munderover><mo xml:id="\sum_3">∑</mo><mi xml:id="\mu_4">μ</mi><mo accent="false" xml:id="\prime_5">′</mo></munderover><msub><mi xml:id="A_7">A</mi><mi xml:id="\mu_8">μ</mi></msub><mo xml:id="\equiv_9">≡</mo><msub><mi xml:id="A_11">A</mi><mn xml:id="0_12">0</mn></msub><mo xml:id="-_13">−</mo><munderover><mo xml:id="\sum_15">∑</mo><mrow><mi xml:id="j_17">j</mi><mo xml:id="=_18">=</mo><mn xml:id="1_19">1</mn></mrow><mi xml:id="n_20">n</mi></munderover><msub><mi xml:id="A_22">A</mi><mi xml:id="j_23">j</mi></msub></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\sum</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\sum_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\mu_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\prime</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\prime_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">A</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="A_7"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="\mu_8"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\equiv</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\equiv_9"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">A</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="A_11"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">0</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="0_12"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="-_13"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">\sum</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="\sum_15"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">j</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="j_17"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="=_18"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">1</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="1_19"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">n</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="n_20"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">A</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="A_22"/>
+	</traceGroup>
+ <traceGroup xml:id="16">
+    <annotation type="truth">j</annotation>
+	<traceView traceDataRef="15"/>
+    <annotationXML href="j_23"/>
+	</traceGroup>
+</traceGroup>
+</ink>

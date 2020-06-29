@@ -1,0 +1,3 @@
+\begin{equation}
+	\varepsilon M = \varepsilon , i . e . M ^ { - 1 } = \varepsilon M \varepsilon
+\end{equation}

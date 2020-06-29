@@ -1,0 +1,37 @@
+# IUD, 965
+# Objects(17):
+O, -_19, -, 1.0, ORRRRRSup
+O, \psi_6, \psi, 1.0, OR
+O, \mu_8, \mu, 1.0, ORSub
+O, X_18, X, 1.0, ORRRRR
+O, -_13, -, 1.0, ORRR
+O, X_11, X, 1.0, ORR
+O, =_24, =, 1.0, ORRRRRRRR
+O, \tau_9, \tau, 1.0, ORSubR
+O, +_20, +, 1.0, ORRRRRR
+O, X_15, X, 1.0, ORRRR
+O, \mu_4, \mu, 1.0, OSup
+O, 2_23, 2, 1.0, ORRRRRRRSup
+O, +_16, +, 1.0, ORRRRSup
+O, R_22, R, 1.0, ORRRRRRR
+O, X_3, X, 1.0, O
+O, 0_25, 0, 1.0, ORRRRRRRRR
+O, \tau_12, \tau, 1.0, ORRSup
+
+# Relations from SRT:
+R, +_20, R_22, Right, 1.0
+R, -_13, X_15, Right, 1.0
+R, =_24, 0_25, Right, 1.0
+R, R_22, 2_23, Sup, 1.0
+R, R_22, =_24, Right, 1.0
+R, X_11, -_13, Right, 1.0
+R, X_11, \tau_12, Sup, 1.0
+R, X_15, +_16, Sup, 1.0
+R, X_15, X_18, Right, 1.0
+R, X_18, +_20, Right, 1.0
+R, X_18, -_19, Sup, 1.0
+R, X_3, \mu_4, Sup, 1.0
+R, X_3, \psi_6, Right, 1.0
+R, \mu_8, \tau_9, Right, 1.0
+R, \psi_6, X_11, Right, 1.0
+R, \psi_6, \mu_8, Sub, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	F _ { y t } = \frac { \otimes b c } { a ^ { n } }
+\end{equation}

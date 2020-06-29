@@ -1,0 +1,3 @@
+\begin{equation}
+	1 + i \gamma ) ^ { - 1 } \neq ( 1 - i \gamma )
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { m } ( g _ { c } ) = \rho + \gamma _ { \bar { \psi } \psi } ( g _ { c } )
+\end{equation}

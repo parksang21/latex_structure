@@ -1,0 +1,51 @@
+# IUD, 3093
+# Objects(24):
+O, P_17, P, 1.0, ORRRRRRRRR
+O, \int_6, \int, 1.0, ORR
+O, W_4, W, 1.0, OSub
+O, S_20, S, 1.0, ORRRRRRRRRRR
+O, COMMA_22, COMMA, 1.0, ORRRRRRRRRRRR
+O, d_8, d, 1.0, ORRR
+O, =_5, =, 1.0, OR
+O, S_3, S, 1.0, O
+O, \theta_14, \theta, 1.0, ORRRRRR
+O, COMMA_26, COMMA, 1.0, ORRRRRRRRRRRRRRRR
+O, ._24, ., 1.0, ORRRRRRRRRRRRRR
+O, (_16, (, 1.0, ORRRRRRRR
+O, )_30, ), 1.0, ORRRRRRRRRRRRRRRRRR
+O, 5_29, 5, 1.0, ORRRRRRRRRRRRRRRRRSub
+O, ._23, ., 1.0, ORRRRRRRRRRRRR
+O, ._25, ., 1.0, ORRRRRRRRRRRRRRR
+O, 1_21, 1, 1.0, ORRRRRRRRRRRSub
+O, W_15, W, 1.0, ORRRRRRR
+O, z_10, z, 1.0, ORRRR
+O, S_28, S, 1.0, ORRRRRRRRRRRRRRRRR
+O, d_12, d, 1.0, ORRRRR
+O, 2_9, 2, 1.0, ORRRSup
+O, COMMA_18, COMMA, 1.0, ORRRRRRRRRR
+O, 2_13, 2, 1.0, ORRRRRSup
+
+# Relations from SRT:
+R, (_16, P_17, Right, 1.0
+R, ._23, ._24, Right, 1.0
+R, ._24, ._25, Right, 1.0
+R, ._25, COMMA_26, Right, 1.0
+R, =_5, \int_6, Right, 1.0
+R, COMMA_18, S_20, Right, 1.0
+R, COMMA_22, ._23, Right, 1.0
+R, COMMA_26, S_28, Right, 1.0
+R, P_17, COMMA_18, Right, 1.0
+R, S_20, 1_21, Sub, 1.0
+R, S_20, COMMA_22, Right, 1.0
+R, S_28, )_30, Right, 1.0
+R, S_28, 5_29, Sub, 1.0
+R, S_3, =_5, Right, 1.0
+R, S_3, W_4, Sub, 1.0
+R, W_15, (_16, Right, 1.0
+R, \int_6, d_8, Right, 1.0
+R, \theta_14, W_15, Right, 1.0
+R, d_12, 2_13, Sup, 1.0
+R, d_12, \theta_14, Right, 1.0
+R, d_8, 2_9, Sup, 1.0
+R, d_8, z_10, Right, 1.0
+R, z_10, d_12, Right, 1.0

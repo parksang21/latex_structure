@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>θ</mi><mo>=</mo><mfrac><mrow><mi>Δ</mi><mi>J</mi></mrow><mrow><mi>Δ</mi><mi>E</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><msup><mi>U</mi><mn>8</mn></msup><mi>E</mi></mrow><msub><mi>∠</mi><mi>σ</mi></msub></mfrac></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \theta = \frac { \Delta J } { \Delta E } = \frac { U ^ { 8 } E } { \angle _ { \sigma } }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

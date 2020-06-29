@@ -1,0 +1,3 @@
+\begin{equation}
+	S , R ] = 0 , \therefore S \in S _ { o b s } ^ { \mu } ( B _ { x } ^ { \mu } )
+\end{equation}

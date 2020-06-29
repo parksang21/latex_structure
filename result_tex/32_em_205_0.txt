@@ -1,0 +1,3 @@
+\begin{equation}
+	( a + b ) - ( c + d i ) = ( a - c ) + ( e - d ) i
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	u _ { \alpha } \leftrightarrow e ^ { i \theta } u _ { \alpha } , \psi \leftrightarrow \psi - 4 \theta
+\end{equation}

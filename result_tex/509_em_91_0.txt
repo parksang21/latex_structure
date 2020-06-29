@@ -1,0 +1,3 @@
+\begin{equation}
+	\mu < 6
+\end{equation}

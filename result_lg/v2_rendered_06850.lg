@@ -1,0 +1,29 @@
+# IUD, v2_rendered_06850
+# Objects(13):
+O, COMMA_10, COMMA, 1.0, ORRRR
+O, k_16, k, 1.0, ORRRRRRR
+O, 3_13, 3, 1.0, ORRRRRSub
+O, COMMA_14, COMMA, 1.0, ORRRRRR
+O, \sum_2, \sum, 1.0, O
+O, k_8, k, 1.0, ORRR
+O, k_4, k, 1.0, OR
+O, 2_9, 2, 1.0, ORRRSub
+O, k_12, k, 1.0, ORRRRR
+O, COMMA_6, COMMA, 1.0, ORR
+O, 1_5, 1, 1.0, ORSub
+O, \equiv_18, \equiv, 1.0, ORRRRRRRR
+O, 4_17, 4, 1.0, ORRRRRRRSub
+
+# Relations from SRT:
+R, COMMA_10, k_12, Right, 1.0
+R, COMMA_14, k_16, Right, 1.0
+R, COMMA_6, k_8, Right, 1.0
+R, \sum_2, k_4, Right, 1.0
+R, k_12, 3_13, Sub, 1.0
+R, k_12, COMMA_14, Right, 1.0
+R, k_16, 4_17, Sub, 1.0
+R, k_16, \equiv_18, Right, 1.0
+R, k_4, 1_5, Sub, 1.0
+R, k_4, COMMA_6, Right, 1.0
+R, k_8, 2_9, Sub, 1.0
+R, k_8, COMMA_10, Right, 1.0

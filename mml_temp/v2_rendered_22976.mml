@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>δ</mi><mo>∘</mo><mi>o</mi><mi>d</mi><msub><mi>x</mi><mi>z</mi></msub><mi>N</mi><mo stretchy="false" form="prefix">(</mo><mi>ψ</mi><mo stretchy="false" form="postfix">)</mo><mo>≡</mo><mi>ψ</mi><mi>δ</mi><mo stretchy="false" form="prefix">(</mo><mi>N</mi><mo stretchy="false" form="prefix">(</mo><mi>ψ</mi><mo stretchy="false" form="postfix">)</mo><mo>,</mo><mi>w</mi><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \delta \circ o d x _ { z } N ( \psi ) \equiv \psi \delta ( N ( \psi ) , w )
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

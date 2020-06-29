@@ -1,0 +1,3 @@
+\begin{equation}
+	\sum _ { \mu \geqq 1 } ^ { m } F _ { \mu } ( v _ { 1 } , \csqrts , v _ { m - 1 } ) \geqq 0
+\end{equation}

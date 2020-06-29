@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta _ { x } ^ { 2 } G ^ { \prime } ( x , y ) = - J _ { \Omega } ( x ) G ^ { 6 } ( x , y )
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\lim _ { x \rightarrow 0 } f ( x )
+\end{equation}

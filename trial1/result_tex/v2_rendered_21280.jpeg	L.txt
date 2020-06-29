@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { X } Y = \Delta _ { X } Y - \Delta _ { Y } X
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\Omega , S _ { k } S _ { l } \rangle = \langle \Omega , S _ { k } \rangle \langle \Omega , S _ { l } \rangle \Omega \cup G
+\end{equation}

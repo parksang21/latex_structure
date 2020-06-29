@@ -1,0 +1,3 @@
+\begin{equation}
+	\circ U _ { Y } \leqq i _ { X } d U _ { Y } \leqq X ^ { k } \alpha \Delta \Delta q ^ { k } U _ { Y }
+\end{equation}

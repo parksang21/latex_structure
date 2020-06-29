@@ -1,0 +1,39 @@
+# IUD, v2_rendered_05712
+# Objects(18):
+O, +_18, +, 1.0, OBelowRRSub
+O, \gamma_10, \gamma, 1.0, OAboveRRR
+O, -_11, -, 1.0, OAboveRRRSub
+O, r_17, r, 1.0, OBelowRR
+O, +_7, +, 1.0, OAboveRSub
+O, _21, -, 1.0, ORR
+O, 2_19, 2, 1.0, OBelowRRSup
+O, -_8, -, 1.0, OAboveRR
+O, \gamma_6, \gamma, 1.0, OAboveR
+O, \pi_15, \pi, 1.0, OBelowR
+O, 4_14, 4, 1.0, OBelow
+O, 2_24, 2, 1.0, ORRBelow
+O, )_12, ), 1.0, OAboveRRRR
+O, A_22, A, 1.0, ORRAbove
+O, _2, -, 1.0, O
+O, \pi_25, \pi, 1.0, ORRBelowR
+O, (_4, (, 1.0, OAbove
+O, \equiv_20, \equiv, 1.0, OR
+
+# Relations from SRT:
+R, (_4, \gamma_6, Right, 1.0
+R, -_8, \gamma_10, Right, 1.0
+R, 2_24, \pi_25, Right, 1.0
+R, 4_14, \pi_15, Right, 1.0
+R, \equiv_20, _21, Right, 1.0
+R, \gamma_10, )_12, Right, 1.0
+R, \gamma_10, -_11, Sub, 1.0
+R, \gamma_6, +_7, Sub, 1.0
+R, \gamma_6, -_8, Right, 1.0
+R, \pi_15, r_17, Right, 1.0
+R, _21, 2_24, Below, 1.0
+R, _21, A_22, Above, 1.0
+R, _2, (_4, Above, 1.0
+R, _2, 4_14, Below, 1.0
+R, _2, \equiv_20, Right, 1.0
+R, r_17, +_18, Sub, 1.0
+R, r_17, 2_19, Sup, 1.0

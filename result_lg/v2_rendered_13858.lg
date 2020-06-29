@@ -1,0 +1,37 @@
+# IUD, v2_rendered_13858
+# Objects(17):
+O, \int_4, \int, 1.0, ORR
+O, \pi_11, \pi, 1.0, ORRRRRSub
+O, D_15, D, 1.0, ORRRRRRRR
+O, Z_2, Z, 1.0, O
+O, S_23, S, 1.0, ORRRRRRRRRRSupR
+O, +_18, +, 1.0, ORRRRRRRRRSub
+O, -_12, -, 1.0, ORRRRRSup
+O, D_13, D, 1.0, ORRRRRR
+O, D_5, D, 1.0, ORRR
+O, e_20, e, 1.0, ORRRRRRRRRR
+O, D_10, D, 1.0, ORRRRR
+O, \beta_14, \beta, 1.0, ORRRRRRR
+O, i_22, i, 1.0, ORRRRRRRRRRSup
+O, A_17, A, 1.0, ORRRRRRRRR
+O, =_3, =, 1.0, OR
+O, -_8, -, 1.0, ORRRRSub
+O, A_7, A, 1.0, ORRRR
+
+# Relations from SRT:
+R, =_3, \int_4, Right, 1.0
+R, A_17, +_18, Sub, 1.0
+R, A_17, e_20, Right, 1.0
+R, A_7, -_8, Sub, 1.0
+R, A_7, D_10, Right, 1.0
+R, D_10, -_12, Sup, 1.0
+R, D_10, D_13, Right, 1.0
+R, D_10, \pi_11, Sub, 1.0
+R, D_13, \beta_14, Right, 1.0
+R, D_15, A_17, Right, 1.0
+R, D_5, A_7, Right, 1.0
+R, Z_2, =_3, Right, 1.0
+R, \beta_14, D_15, Right, 1.0
+R, \int_4, D_5, Right, 1.0
+R, e_20, i_22, Sup, 1.0
+R, i_22, S_23, Right, 1.0

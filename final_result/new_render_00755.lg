@@ -1,0 +1,37 @@
+# IUD, new_render_00755
+# Objects(17):
+O, \in_13, \in, 1.0, ORRRRRRRRRR
+O, \Omega_11, \Omega, 1.0, ORRRRRRRR
+O, \vert_4, \vert, 1.0, OR
+O, \rangle_12, \rangle, 1.0, ORRRRRRRRR
+O, \therefore_9, \therefore, 1.0, ORRRRRR
+O, h_18, h, 1.0, ORRRRRRRRRRRSubR
+O, p_17, p, 1.0, ORRRRRRRRRRRSub
+O, _2, \sqrt, 1.0, O
+O, 0_8, 0, 1.0, ORRRRR
+O, \Omega_5, \Omega, 1.0, ORR
+O, y_19, y, 1.0, ORRRRRRRRRRRSubRR
+O, H_15, H, 1.0, ORRRRRRRRRRR
+O, \delta_3, \delta, 1.0, OInside
+O, \rangle_6, \rangle, 1.0, ORRR
+O, \vert_10, \vert, 1.0, ORRRRRRR
+O, s_20, s, 1.0, ORRRRRRRRRRRSubRRR
+O, \approx_7, \approx, 1.0, ORRRR
+
+# Relations from SRT:
+R, 0_8, \therefore_9, Right, 1.0
+R, H_15, p_17, Sub, 1.0
+R, \Omega_11, \rangle_12, Right, 1.0
+R, \Omega_5, \rangle_6, Right, 1.0
+R, \approx_7, 0_8, Right, 1.0
+R, \in_13, H_15, Right, 1.0
+R, \rangle_12, \in_13, Right, 1.0
+R, \rangle_6, \approx_7, Right, 1.0
+R, \therefore_9, \vert_10, Right, 1.0
+R, \vert_10, \Omega_11, Right, 1.0
+R, \vert_4, \Omega_5, Right, 1.0
+R, _2, \delta_3, Inside, 1.0
+R, _2, \vert_4, Right, 1.0
+R, h_18, y_19, Right, 1.0
+R, p_17, h_18, Right, 1.0
+R, y_19, s_20, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \mu } ^ { T } = A _ { \mu } - \frac { \Delta _ { \mu } \Delta _ { \varepsilon } } { \angle } A _ { \varepsilon }
+\end{equation}

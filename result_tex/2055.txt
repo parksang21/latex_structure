@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta _ { \mu } \Delta ^ { \mu } \phi = 0
+\end{equation}

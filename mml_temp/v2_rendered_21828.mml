@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>r</mi><mo>=</mo><mi>a</mi><msqrt><mi>r</mi></msqrt><mo>,</mo><mi>Q</mi><mo>=</mo><msup><mi>a</mi><mn>2</mn></msup><msub><msqrt><mi>Q</mi></msqrt><mn>1</mn></msub><mi>L</mi><mo>=</mo><msup><mi>a</mi><mn>2</mn></msup><msqrt><mi>L</mi></msqrt><mo>,</mo><mi>E</mi><mo>=</mo><mi>a</mi><msqrt><mi>E</mi></msqrt></mrow><annotation encoding="application/x-tex">\begin{equation}
+    r = a \sqrt { r } , Q = a ^ { 2 } \sqrt { Q } _ { 1 } L = a ^ { 2 } \sqrt { L } , E = a \sqrt { E }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

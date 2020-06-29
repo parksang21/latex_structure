@@ -1,0 +1,3 @@
+\begin{equation}
+	R ( \gamma ) e _ { \delta } = e _ { \gamma \csqrt \delta } \therefore r , \delta \in \theta
+\end{equation}

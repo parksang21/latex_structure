@@ -1,0 +1,3 @@
+\begin{equation}
+	f _ { \mu } \geqq \Delta _ { \delta } h _ { \mu } ^ { s } + \beta \Delta _ { \mu } h
+\end{equation}

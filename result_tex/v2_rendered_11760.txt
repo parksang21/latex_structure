@@ -1,0 +1,3 @@
+\begin{equation}
+	\langle E _ { d } \vert \beta E _ { d } \rangle = \langle \beta E _ { d } \vert E _ { d } \rangle = 1
+\end{equation}

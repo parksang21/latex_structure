@@ -1,0 +1,3 @@
+\begin{equation}
+	\delta _ { \rho } ^ { 0 } A = Q _ { \rho } + m ( A , \rho ) - m ( \rho , A )
+\end{equation}

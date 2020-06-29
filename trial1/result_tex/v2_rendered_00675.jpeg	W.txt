@@ -1,0 +1,3 @@
+\begin{equation}
+	( \gamma ) = 2 \cos K = 2 [ 1 - 2 ( \sin \varphi \sin \alpha \sin \beta ) ^ { 2 } ]
+\end{equation}

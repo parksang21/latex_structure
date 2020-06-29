@@ -1,0 +1,57 @@
+# IUD, v2_rendered_00656
+# Objects(27):
+O, \phi_28, \phi, 1.0, 24
+O, COMMA_17, COMMA, 1.0, 14
+O, \prime_5, \prime, 1.0, 2
+O, \pi_8, \pi, 1.0, 5
+O, \rho_22, \rho, 1.0, 18
+O, *_4, *, 1.0, 1
+O, \neq_7, \neq, 1.0, 4
+O, COMMA_14, COMMA, 1.0, 11
+O, )_29, ), 1.0, 25
+O, a_2, a, 1.0, 0
+O, y_12, y, 1.0, 9
+O, )_13, ), 1.0, 10
+O, \cup_19, \cup, 1.0, 16
+O, \forall_15, \forall, 1.0, 12
+O, y_18, y, 1.0, 15
+O, M_24, M, 1.0, 20
+O, y_6, y, 1.0, 3
+O, ]_30, ], 1.0, 26
+O, (_9, (, 1.0, 6
+O, *_11, *, 1.0, 8
+O, a_16, a, 1.0, 13
+O, (_23, (, 1.0, 19
+O, [_26, [, 1.0, 22
+O, )_25, ), 1.0, 21
+O, H_21, H, 1.0, 17
+O, [_27, [, 1.0, 23
+O, a_10, a, 1.0, 7
+
+# Relations from SRT:
+R, (_23, M_24, Right, 1.0
+R, (_9, a_10, Right, 1.0
+R, )_13, COMMA_14, Right, 1.0
+R, )_25, [_26, Right, 1.0
+R, )_29, ]_30, Right, 1.0
+R, *_11, y_12, Right, 1.0
+R, *_4, \prime_5, Above, 1.0
+R, *_4, y_6, Right, 1.0
+R, COMMA_14, \forall_15, Right, 1.0
+R, COMMA_17, y_18, Right, 1.0
+R, H_21, (_23, Right, 1.0
+R, H_21, \rho_22, Sup, 1.0
+R, M_24, )_25, Right, 1.0
+R, [_26, [_27, Right, 1.0
+R, [_27, \phi_28, Right, 1.0
+R, \cup_19, H_21, Right, 1.0
+R, \forall_15, a_16, Right, 1.0
+R, \neq_7, \pi_8, Right, 1.0
+R, \phi_28, )_29, Right, 1.0
+R, \pi_8, (_9, Right, 1.0
+R, a_10, *_11, Right, 1.0
+R, a_16, COMMA_17, Right, 1.0
+R, a_2, *_4, Right, 1.0
+R, y_12, )_13, Right, 1.0
+R, y_18, \cup_19, Right, 1.0
+R, y_6, \neq_7, Right, 1.0

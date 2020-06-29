@@ -1,0 +1,47 @@
+# IUD, v2_rendered_01315
+# Objects(22):
+O, r_18, r, 1.0, ORRRRRRRRRRRRRR
+O, \Delta_17, \Delta, 1.0, ORRRRRRRRRRRRR
+O, (_12, (, 1.0, ORRRRRRRR
+O, \phi_24, \phi, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, 1_3, 1, 1.0, OR
+O, \gamma_9, \gamma, 1.0, ORRRRRR
+O, T_10, T, 1.0, ORRRRRRSub
+O, \Delta_13, \Delta, 1.0, ORRRRRRRRR
+O, T_21, T, 1.0, ORRRRRRRRRRRRRRRRR
+O, \in_22, \in, 1.0, ORRRRRRRRRRRRRRRRRR
+O, n_25, n, 1.0, ORRRRRRRRRRRRRRRRRRRSub
+O, )_6, ), 1.0, ORRRR
+O, \tau_19, \tau, 1.0, ORRRRRRRRRRRRRRR
+O, \Delta_5, \Delta, 1.0, ORRR
+O, )_16, ), 1.0, ORRRRRRRRRRRR
+O, 1_15, 1, 1.0, ORRRRRRRRRRR
+O, \otimes_14, \otimes, 1.0, ORRRRRRRRRR
+O, (_2, (, 1.0, O
+O, \leq_11, \leq, 1.0, ORRRRRRR
+O, \forall_20, \forall, 1.0, ORRRRRRRRRRRRRRRR
+O, \otimes_4, \otimes, 1.0, ORR
+O, \Delta_7, \Delta, 1.0, ORRRRR
+
+# Relations from SRT:
+R, (_12, \Delta_13, Right, 1.0
+R, (_2, 1_3, Right, 1.0
+R, )_16, \Delta_17, Right, 1.0
+R, )_6, \Delta_7, Right, 1.0
+R, 1_15, )_16, Right, 1.0
+R, 1_3, \otimes_4, Right, 1.0
+R, T_21, \in_22, Right, 1.0
+R, \Delta_13, \otimes_14, Right, 1.0
+R, \Delta_17, r_18, Right, 1.0
+R, \Delta_5, )_6, Right, 1.0
+R, \Delta_7, \gamma_9, Right, 1.0
+R, \forall_20, T_21, Right, 1.0
+R, \gamma_9, T_10, Sub, 1.0
+R, \gamma_9, \leq_11, Right, 1.0
+R, \in_22, \phi_24, Right, 1.0
+R, \leq_11, (_12, Right, 1.0
+R, \otimes_14, 1_15, Right, 1.0
+R, \otimes_4, \Delta_5, Right, 1.0
+R, \phi_24, n_25, Sub, 1.0
+R, \tau_19, \forall_20, Right, 1.0
+R, r_18, \tau_19, Right, 1.0

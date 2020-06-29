@@ -1,0 +1,3 @@
+\begin{equation}
+	g _ { * } \geq 1 / 1 2 a n d z _ { * } \geq 2 \sqrt { 2 }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	g _ { \mu \Omega } \equiv Y _ { \mu \Omega } + h _ { \mu \Omega } ^ { ( 1 ) } + \csqrts
+\end{equation}

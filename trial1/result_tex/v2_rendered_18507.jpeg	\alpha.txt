@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { \prime } k ^ { i } k _ { i } = 1 - \frac { \delta ^ { a } \delta _ { a } } { 4 \alpha ^ { \prime } \pi ^ { 2 } }
+\end{equation}

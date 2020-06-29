@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { \mu } = \int \tilde { d k } k ^ { \mu } \overline { a } ( k ) a ( k )
+\end{equation}

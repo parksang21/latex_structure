@@ -1,0 +1,41 @@
+# IUD, v2_rendered_10959
+# Objects(19):
+O, *_14, *, 1.0, ORRRRRRSup
+O, +_7, +, 1.0, ORRRSub
+O, 0_17, 0, 1.0, ORRRRRRRSub
+O, COMMA_8, COMMA, 1.0, ORRRR
+O, \Omega_6, \Omega, 1.0, ORRR
+O, J_16, J, 1.0, ORRRRRRR
+O, COMMA_22, COMMA, 1.0, ORRRRRRRRRR
+O, 0_11, 0, 1.0, ORRRRRSub
+O, \gt_21, \gt, 1.0, ORRRRRRRRR
+O, A_2, A, 1.0, O
+O, \cap_24, \cap, 1.0, ORRRRRRRRRRRR
+O, \rightarrow_3, \rightarrow, 1.0, OR
+O, +_20, +, 1.0, ORRRRRRRRSub
+O, A_13, A, 1.0, ORRRRRR
+O, \Omega_19, \Omega, 1.0, ORRRRRRRR
+O, J_10, J, 1.0, ORRRRR
+O, A_25, A, 1.0, ORRRRRRRRRRRRR
+O, \lt_4, \lt, 1.0, ORR
+O, A_23, A, 1.0, ORRRRRRRRRRR
+
+# Relations from SRT:
+R, A_13, *_14, Sup, 1.0
+R, A_13, J_16, Right, 1.0
+R, A_23, \cap_24, Right, 1.0
+R, A_2, \rightarrow_3, Right, 1.0
+R, COMMA_22, A_23, Right, 1.0
+R, COMMA_8, J_10, Right, 1.0
+R, J_10, 0_11, Sub, 1.0
+R, J_10, A_13, Right, 1.0
+R, J_16, 0_17, Sub, 1.0
+R, J_16, \Omega_19, Right, 1.0
+R, \Omega_19, +_20, Sub, 1.0
+R, \Omega_19, \gt_21, Right, 1.0
+R, \Omega_6, +_7, Sub, 1.0
+R, \Omega_6, COMMA_8, Right, 1.0
+R, \cap_24, A_25, Right, 1.0
+R, \gt_21, COMMA_22, Right, 1.0
+R, \lt_4, \Omega_6, Right, 1.0
+R, \rightarrow_3, \lt_4, Right, 1.0

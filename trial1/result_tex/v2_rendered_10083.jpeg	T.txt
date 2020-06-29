@@ -1,0 +1,3 @@
+\begin{equation}
+	r [ \phi ( \bar { x } ) ^ { 4 } ] = \int d x ( \phi ( x ) ) _ { * } ^ { 4 }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\Leftrightarrow m , m ^ { \prime } \Leftrightarrow m ^ { \prime } - \theta
+\end{equation}

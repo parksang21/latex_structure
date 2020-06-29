@@ -1,0 +1,55 @@
+# IUD, new_render_00001
+# Objects(26):
+O, ω_11, ω, 1.0, ORRRRRRRRR
+O, )_15, ), 1.0, ORRRRRRRRRRRRR
+O, (_12, (, 1.0, ORRRRRRRRRR
+O, s_4, s, 1.0, ORR
+O, COMMA_9, COMMA, 1.0, ORRRRRRR
+O, q_21, q, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, COMMA_20, COMMA, 1.0, ORRRRRRRRRRRRRRRRRR
+O, (_6, (, 1.0, ORRRR
+O, ω_5, ω, 1.0, ORRR
+O, )_8, ), 1.0, ORRRRRR
+O, ω_25, ω, 1.0, ORRRRRRRRRRRRRRRRRRRRRRR
+O, \Delta_27, \Delta, 1.0, ORRRRRRRRRRRRRRRRRRRRRRRRR
+O, )_14, ), 1.0, ORRRRRRRRRRRR
+O, y_19, y, 1.0, ORRRRRRRRRRRRRRRRR
+O, (_18, (, 1.0, ORRRRRRRRRRRRRRRR
+O, (_3, (, 1.0, OR
+O, COMMA_23, COMMA, 1.0, ORRRRRRRRRRRRRRRRRRRRR
+O, q_13, q, 1.0, ORRRRRRRRRRR
+O, \in_26, \in, 1.0, ORRRRRRRRRRRRRRRRRRRRRRRR
+O, y_7, y, 1.0, ORRRRR
+O, V_17, V, 1.0, ORRRRRRRRRRRRRRR
+O, V_2, V, 1.0, O
+O, \approx_16, \approx, 1.0, ORRRRRRRRRRRRRR
+O, \therefore_24, \therefore, 1.0, ORRRRRRRRRRRRRRRRRRRRRR
+O, )_22, ), 1.0, ORRRRRRRRRRRRRRRRRRRR
+O, s_10, s, 1.0, ORRRRRRRR
+
+# Relations from SRT:
+R, (_12, q_13, Right, 1.0
+R, (_18, y_19, Right, 1.0
+R, (_3, s_4, Right, 1.0
+R, (_6, y_7, Right, 1.0
+R, )_14, )_15, Right, 1.0
+R, )_15, \approx_16, Right, 1.0
+R, )_22, COMMA_23, Right, 1.0
+R, )_8, COMMA_9, Right, 1.0
+R, COMMA_20, q_21, Right, 1.0
+R, COMMA_23, \therefore_24, Right, 1.0
+R, COMMA_9, s_10, Right, 1.0
+R, V_17, (_18, Right, 1.0
+R, V_2, (_3, Right, 1.0
+R, \approx_16, V_17, Right, 1.0
+R, \in_26, \Delta_27, Right, 1.0
+R, \therefore_24, ω_25, Right, 1.0
+R, q_13, )_14, Right, 1.0
+R, q_21, )_22, Right, 1.0
+R, s_10, ω_11, Right, 1.0
+R, s_4, ω_5, Right, 1.0
+R, y_19, COMMA_20, Right, 1.0
+R, y_7, )_8, Right, 1.0
+R, ω_11, (_12, Right, 1.0
+R, ω_25, \in_26, Right, 1.0
+R, ω_5, (_6, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	\square _ { V } ^ { \phi } \neq 4 ( \Delta _ { 0 } X _ { c } ^ { c } S ^ { 0 c } ) n ^ { c }
+\end{equation}

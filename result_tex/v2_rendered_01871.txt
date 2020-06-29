@@ -1,0 +1,3 @@
+\begin{equation}
+	\langle A B \rangle _ { i } = \langle A B \rangle - \langle A ) ( \beta \rangle
+\end{equation}

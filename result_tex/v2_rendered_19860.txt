@@ -1,0 +1,3 @@
+\begin{equation}
+	\delta _ { R } \sqrt { \lambda } = - \Delta ^ { i } \sqrt { \lambda } _ { i }
+\end{equation}

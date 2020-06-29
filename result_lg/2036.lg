@@ -1,0 +1,43 @@
+# IUD, 2036
+# Objects(20):
+O, 1_19, 1, 1.0, ORRRRRRRRRRSupR
+O, (_23, (, 1.0, ORRRRRRRRRRRR
+O, ]_16, ], 1.0, ORRRRRRRRRR
+O, )_14, ), 1.0, ORRRRRRRRR
+O, a_7, a, 1.0, ORR
+O, b_5, b, 1.0, OSub
+O, )_8, ), 1.0, ORRR
+O, a_24, a, 1.0, ORRRRRRRRRRRRR
+O, g_21, g, 1.0, ORRRRRRRRRRR
+O, g_4, g, 1.0, OInside
+O, (_6, (, 1.0, OR
+O, b_22, b, 1.0, ORRRRRRRRRRRSub
+O, [_10, [, 1.0, ORRRRR
+O, )_25, ), 1.0, ORRRRRRRRRRRRRR
+O, b_13, b, 1.0, ORRRRRRRR
+O, _3, \sqrt, 1.0, O
+O, -_18, -, 1.0, ORRRRRRRRRRSup
+O, \equiv_9, \equiv, 1.0, ORRRR
+O, \lambda_11, \lambda, 1.0, ORRRRRR
+O, (_12, (, 1.0, ORRRRRRR
+
+# Relations from SRT:
+R, (_12, b_13, Right, 1.0
+R, (_23, a_24, Right, 1.0
+R, (_6, a_7, Right, 1.0
+R, )_14, ]_16, Right, 1.0
+R, )_8, \equiv_9, Right, 1.0
+R, -_18, 1_19, Right, 1.0
+R, [_10, \lambda_11, Right, 1.0
+R, \equiv_9, [_10, Right, 1.0
+R, \lambda_11, (_12, Right, 1.0
+R, ]_16, -_18, Sup, 1.0
+R, ]_16, g_21, Right, 1.0
+R, _3, (_6, Right, 1.0
+R, _3, b_5, Sub, 1.0
+R, _3, g_4, Inside, 1.0
+R, a_24, )_25, Right, 1.0
+R, a_7, )_8, Right, 1.0
+R, b_13, )_14, Right, 1.0
+R, g_21, (_23, Right, 1.0
+R, g_21, b_22, Sub, 1.0

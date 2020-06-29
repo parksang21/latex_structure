@@ -1,0 +1,34 @@
+# IUD, v2_rendered_08273
+# Objects(15):
+O, \pm_6, \pm, 1.0, ORR
+O, (_9, (, 1.0, ORRRInside
+O, p_12, p, 1.0, ORRRInsideRSub
+O, \phi_20, \phi, 1.0, ORRRInsideRRRRRR
+O, \div_18, \div, 1.0, ORRRInsideRRRRR
+O, 2_21, 2, 1.0, ORRRInsideRRRRRRSup
+O, p_4, p, 1.0, OSub
+O, \mu_14, \mu, 1.0, ORRRInsideRRR
+O, \delta_3, \delta, 1.0, O
+O, E_11, E, 1.0, ORRRInsideR
+O, 2_17, 2, 1.0, ORRRInsideRRRRSup
+O, \pm_13, \pm, 1.0, ORRRInsideRR
+O, =_5, =, 1.0, OR
+O, _7, \sqrt, 1.0, ORRR
+O, )_16, ), 1.0, ORRRInsideRRRR
+
+# Relations from SRT:
+R, (_9, E_11, Right, 1.0
+R, )_16, 2_17, Sup, 1.0
+R, )_16, \div_18, Right, 1.0
+R, =_5, \pm_6, Right, 1.0
+R, E_11, \pm_13, Right, 1.0
+R, E_11, p_12, Sub, 1.0
+R, \delta_3, =_5, Right, 1.0
+R, \delta_3, p_4, Sub, 1.0
+R, \div_18, \phi_20, Right, 1.0
+R, \mu_14, )_16, Right, 1.0
+R, \phi_20, 2_21, Sup, 1.0
+R, \pm_13, \mu_14, Right, 1.0
+R, \pm_6, _7, Right, 1.0
+R, _7, (_9, Inside, 1.0
+R, _7, E_11, Inside, 1.0

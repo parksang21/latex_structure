@@ -1,0 +1,17 @@
+# IUD, 32_em_219_0
+# Objects(7):
+O, E_6, E, 1.0, 3
+O, 1_4, 1, 1.0, 1
+O, E_9, E, 1.0, 5
+O, E_3, E, 1.0, 0
+O, 2_10, 2, 1.0, 6
+O, \lt_5, \lt, 1.0, 2
+O, \lt_7, \lt, 1.0, 4
+
+# Relations from SRT:
+R, E_3, 1_4, Sub, 1.0
+R, E_3, \lt_5, Right, 1.0
+R, E_6, \lt_7, Right, 1.0
+R, E_9, 2_10, Sub, 1.0
+R, \lt_5, E_6, Right, 1.0
+R, \lt_7, E_9, Right, 1.0

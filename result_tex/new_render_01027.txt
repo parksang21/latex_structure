@@ -1,0 +1,3 @@
+\begin{equation}
+	\sqrt { h } _ { \rho } \theta _ { 0 } = \theta _ { 0 } , \sqrt { n } _ { \rho } W = W , \therefore \rho \in \Delta
+\end{equation}

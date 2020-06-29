@@ -1,0 +1,3 @@
+\begin{equation}
+	A M _ { r } \neq \div M _ { r } \forall r
+\end{equation}

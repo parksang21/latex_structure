@@ -1,0 +1,3 @@
+\begin{equation}
+	d e t \frac { \Delta \phi _ { j } ( \theta _ { i } ) } { \Delta \theta _ { k } } = 1
+\end{equation}

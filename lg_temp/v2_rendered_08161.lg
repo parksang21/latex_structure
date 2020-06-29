@@ -1,0 +1,39 @@
+# IUD, v2_rendered_08161
+# Objects(18):
+O, z_17, z, 1.0, 14
+O, -_18, -, 1.0, 15
+O, b_13, b, 1.0, 10
+O, \phi_2, \phi, 1.0, 0
+O, ω_8, ω, 1.0, 6
+O, \vert_16, \vert, 1.0, 13
+O, )_5, ), 1.0, 3
+O, \ln_15, \ln, 1.0, 12
+O, (_7, (, 1.0, 5
+O, (_3, (, 1.0, 1
+O, w_19, w, 1.0, 16
+O, \vert_20, \vert, 1.0, 17
+O, \sim_10, \sim, 1.0, 8
+O, )_9, ), 1.0, 7
+O, -_11, -, 1.0, 9
+O, z_4, z, 1.0, 2
+O, \phi_6, \phi, 1.0, 4
+O, 2_14, 2, 1.0, 11
+
+# Relations from SRT:
+R, (_3, z_4, Right, 1.0
+R, (_7, ω_8, Right, 1.0
+R, )_5, \phi_6, Right, 1.0
+R, )_9, \sim_10, Right, 1.0
+R, -_11, b_13, Right, 1.0
+R, -_18, w_19, Right, 1.0
+R, \ln_15, \vert_16, Right, 1.0
+R, \phi_2, (_3, Right, 1.0
+R, \phi_6, (_7, Right, 1.0
+R, \sim_10, -_11, Right, 1.0
+R, \vert_16, z_17, Right, 1.0
+R, b_13, 2_14, Sup, 1.0
+R, b_13, \ln_15, Right, 1.0
+R, w_19, \vert_20, Right, 1.0
+R, z_17, -_18, Right, 1.0
+R, z_4, )_5, Right, 1.0
+R, ω_8, )_9, Right, 1.0

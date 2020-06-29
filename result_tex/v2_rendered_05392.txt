@@ -1,0 +1,3 @@
+\begin{equation}
+	( \frac { 2 \pi n } { \beta _ { T } } ) ^ { 2 } + ( \omega _ { m } ^ { ( 1 ) } ) ^ { 2 }
+\end{equation}

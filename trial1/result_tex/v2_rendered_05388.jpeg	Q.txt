@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { \rho \sigma } Q _ { \rho } ^ { \lambda } = \tau ^ { \sigma \lambda }
+\end{equation}

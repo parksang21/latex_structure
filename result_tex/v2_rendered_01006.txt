@@ -1,0 +1,3 @@
+\begin{equation}
+	\sigma = \frac { 1 } { 4 \pi } \frac { m } { \vert m / }
+\end{equation}

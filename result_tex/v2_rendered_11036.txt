@@ -1,0 +1,3 @@
+\begin{equation}
+	\lambda ^ { ( a ) } < u , \exists a \leq 1 , \lsqrts , U
+\end{equation}

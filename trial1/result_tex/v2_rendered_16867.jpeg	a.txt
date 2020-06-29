@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { - } \vert \theta \cap _ { W } = \theta \vert \theta \cap _ { W }
+\end{equation}

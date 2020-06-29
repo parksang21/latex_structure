@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msqrt><mi>O</mi></msqrt><mo>=</mo><mo stretchy="false" form="prefix">(</mo><msqrt><mi>λ</mi></msqrt><mo>,</mo><msup><mi>δ</mi><mi>′</mi></msup><mo stretchy="false" form="postfix">)</mo><mo>−</mo><mi>i</mi><mi>β</mi><mi>Δ</mi><msqrt><mi>λ</mi></msqrt><mo>=</mo><msup><mi>Ω</mi><mi>′</mi></msup><msqrt><mi>λ</mi></msqrt></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \sqrt { O } = ( \sqrt { \lambda } , \delta ^ { \prime } ) - i \beta \Delta \sqrt { \lambda } = \Omega ^ { \prime } \sqrt { \lambda }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

@@ -1,0 +1,3 @@
+\begin{equation}
+	S = \frac { 1 } { 1 7 \pi } \int d ^ { 5 } x \sqrt { - g } R
+\end{equation}

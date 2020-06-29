@@ -1,0 +1,9 @@
+# IUD, 505_em_52_0
+# Objects(3):
+O, o_2, o, 1.0, 0
+O, r_3, r, 1.0, 1
+O, 1_4, 1, 1.0, 2
+
+# Relations from SRT:
+R, o_2, r_3, Right, 1.0
+R, r_3, 1_4, Right, 1.0

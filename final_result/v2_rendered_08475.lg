@@ -1,0 +1,29 @@
+# IUD, v2_rendered_08475
+# Objects(13):
+O, b_3, b, 1.0, O
+O, i_12, i, 1.0, ORRRSup
+O, 6_4, 6, 1.0, OSub
+O, e_10, e, 1.0, ORRR
+O, \phi_13, \phi, 1.0, ORRRSupR
+O, b_15, b, 1.0, ORRRR
+O, 9_7, 9, 1.0, ORRAbove
+O, \exists_17, \exists, 1.0, ORRRRR
+O, 9_16, 9, 1.0, ORRRRSub
+O, 7_8, 7, 1.0, ORRBelow
+O, _6, -, 1.0, ORR
+O, \leq_5, \leq, 1.0, OR
+O, \phi_18, \phi, 1.0, ORRRRRR
+
+# Relations from SRT:
+R, \exists_17, \phi_18, Right, 1.0
+R, \leq_5, _6, Right, 1.0
+R, _6, 7_8, Below, 1.0
+R, _6, 9_7, Above, 1.0
+R, _6, e_10, Right, 1.0
+R, b_15, 9_16, Sub, 1.0
+R, b_15, \exists_17, Right, 1.0
+R, b_3, 6_4, Sub, 1.0
+R, b_3, \leq_5, Right, 1.0
+R, e_10, b_15, Right, 1.0
+R, e_10, i_12, Sup, 1.0
+R, i_12, \phi_13, Right, 1.0

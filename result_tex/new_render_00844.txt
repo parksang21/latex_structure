@@ -1,0 +1,3 @@
+\begin{equation}
+	S V _ { n } = \div V _ { n } \therefore n
+\end{equation}

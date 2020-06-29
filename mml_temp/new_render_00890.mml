@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>δ</mi><mn>1</mn></msub><mo stretchy="false" form="prefix">(</mo><mi>S</mi><mi>G</mi><mo stretchy="false" form="postfix">)</mo><mi>L</mi><mo>≠</mo><mi>S</mi><msub><mi>δ</mi><mi>n</mi></msub><mo stretchy="false" form="prefix">(</mo><mi>G</mi><mi>L</mi><mo stretchy="false" form="postfix">)</mo><mo>,</mo><mo>∴</mo><mi>S</mi><mo>,</mo><mi>G</mi><mo>,</mo><mi>L</mi><mi>e</mi><mi>N</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \delta _ { 1 } ( S G ) L \neq S \delta _ { n } ( G L ) , \therefore S , G , L e N
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

@@ -1,0 +1,3 @@
+\begin{equation}
+	\gamma _ { D } \geqq ( 3 - D ) \frac { \pi } { 4 }
+\end{equation}

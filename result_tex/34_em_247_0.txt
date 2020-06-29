@@ -1,0 +1,3 @@
+\begin{equation}
+	( \sum _ { k = b } ^ { n } a _ { k } ) ^ { \frac { 1 } { 2 } } \leq \sum _ { u o b } ^ { n } a _ { k } ^ { 1 }
+\end{equation}

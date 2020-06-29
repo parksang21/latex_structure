@@ -1,0 +1,45 @@
+# IUD, v2_rendered_13562
+# Objects(21):
+O, m_15, m, 1.0, ORRRRRRRRR
+O, 1_11, 1, 1.0, ORRRRRBelow
+O, +_22, +, 1.0, ORRRRRRRRRRRRRR
+O, 1_23, 1, 1.0, ORRRRRRRRRRRRRRR
+O, \sim_6, \sim, 1.0, ORRSub
+O, \times_19, \times, 1.0, ORRRRRRRRRRR
+O, (_14, (, 1.0, ORRRRRRRR
+O, )_21, ), 1.0, ORRRRRRRRRRRRR
+O, x_17, x, 1.0, ORRRRRRRRRR
+O, =_8, =, 1.0, ORRRR
+O, v_2, v, 1.0, O
+O, )_7, ), 1.0, ORRR
+O, (_3, (, 1.0, OR
+O, [_12, [, 1.0, ORRRRRR
+O, \tan_13, \tan, 1.0, ORRRRRRR
+O, 1_20, 1, 1.0, ORRRRRRRRRRRR
+O, _9, -, 1.0, ORRRRR
+O, \sim_18, \sim, 1.0, ORRRRRRRRRRSub
+O, ]_24, ], 1.0, ORRRRRRRRRRRRRRRR
+O, x_5, x, 1.0, ORR
+O, \gamma_10, \gamma, 1.0, ORRRRRAbove
+
+# Relations from SRT:
+R, (_14, m_15, Right, 1.0
+R, (_3, x_5, Right, 1.0
+R, )_21, +_22, Right, 1.0
+R, )_7, =_8, Right, 1.0
+R, +_22, 1_23, Right, 1.0
+R, 1_20, )_21, Right, 1.0
+R, 1_23, ]_24, Right, 1.0
+R, =_8, _9, Right, 1.0
+R, [_12, \tan_13, Right, 1.0
+R, \tan_13, (_14, Right, 1.0
+R, \times_19, 1_20, Right, 1.0
+R, _9, 1_11, Below, 1.0
+R, _9, [_12, Right, 1.0
+R, _9, \gamma_10, Above, 1.0
+R, m_15, x_17, Right, 1.0
+R, v_2, (_3, Right, 1.0
+R, x_17, \sim_18, Sub, 1.0
+R, x_17, \times_19, Right, 1.0
+R, x_5, )_7, Right, 1.0
+R, x_5, \sim_6, Sub, 1.0

@@ -1,0 +1,29 @@
+# IUD, 936
+# Objects(13):
+O, \sigma_13, \sigma, 1.0, ORRRRRRRRRRR
+O, \sigma_14, \sigma, 1.0, ORRRRRRRRRRRR
+O, =_3, =, 1.0, OR
+O, \sigma_10, \sigma, 1.0, ORRRRRRRR
+O, \sigma_11, \sigma, 1.0, ORRRRRRRRR
+O, +_9, +, 1.0, ORRRRRRR
+O, \Delta_7, \Delta, 1.0, ORRRRR
+O, -_12, -, 1.0, ORRRRRRRRRR
+O, \sigma_5, \sigma, 1.0, ORRR
+O, \sigma_8, \sigma, 1.0, ORRRRRR
+O, -_6, -, 1.0, ORRRR
+O, \Delta_4, \Delta, 1.0, ORR
+O, R_2, R, 1.0, O
+
+# Relations from SRT:
+R, +_9, \sigma_10, Right, 1.0
+R, -_12, \sigma_13, Right, 1.0
+R, -_6, \Delta_7, Right, 1.0
+R, =_3, \Delta_4, Right, 1.0
+R, R_2, =_3, Right, 1.0
+R, \Delta_4, \sigma_5, Right, 1.0
+R, \Delta_7, \sigma_8, Right, 1.0
+R, \sigma_10, \sigma_11, Right, 1.0
+R, \sigma_11, -_12, Right, 1.0
+R, \sigma_13, \sigma_14, Right, 1.0
+R, \sigma_5, -_6, Right, 1.0
+R, \sigma_8, +_9, Right, 1.0

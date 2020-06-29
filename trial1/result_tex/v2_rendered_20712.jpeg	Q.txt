@@ -1,0 +1,3 @@
+\begin{equation}
+	= \int d ^ { 2 } x J _ { 0 } = e g \int d ^ { 2 } x \vert \phi \vert ^ { 2 } B
+\end{equation}

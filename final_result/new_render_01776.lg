@@ -1,0 +1,41 @@
+# IUD, new_render_01776
+# Objects(19):
+O, !_21, !, 1.0, ORRRRRRAboveRR
+O, \vert_4, \vert, 1.0, ORR
+O, \beta_3, \beta, 1.0, OR
+O, \vert_23, \vert, 1.0, ORRRRRRBelow
+O, COMMA_16, COMMA, 1.0, ORRRRRRAboveSubR
+O, \beta_26, \beta, 1.0, ORRRRRRBelowRSub
+O, \phi_11, \phi, 1.0, ORRRRRRAbove
+O, L_14, L, 1.0, ORRRRRRAboveSub
+O, \vert_27, \vert, 1.0, ORRRRRRBelowRR
+O, \langle_2, \langle, 1.0, O
+O, \beta_15, \beta, 1.0, ORRRRRRAboveSubSub
+O, \mu_5, \mu, 1.0, ORRR
+O, \rangle_6, \rangle, 1.0, ORRRR
+O, \mu_19, \mu, 1.0, ORRRRRRAboveSubRRSub
+O, L_25, L, 1.0, ORRRRRRBelowR
+O, b_20, b, 1.0, ORRRRRRAboveR
+O, \geqq_7, \geqq, 1.0, ORRRRR
+O, L_18, L, 1.0, ORRRRRRAboveSubRR
+O, _8, -, 1.0, ORRRRRR
+
+# Relations from SRT:
+R, COMMA_16, L_18, Right, 1.0
+R, L_14, COMMA_16, Right, 1.0
+R, L_14, \beta_15, Sub, 1.0
+R, L_18, \mu_19, Sub, 1.0
+R, L_25, \beta_26, Sub, 1.0
+R, L_25, \vert_27, Right, 1.0
+R, \beta_3, \vert_4, Right, 1.0
+R, \geqq_7, _8, Right, 1.0
+R, \langle_2, \beta_3, Right, 1.0
+R, \mu_5, \rangle_6, Right, 1.0
+R, \phi_11, L_14, Sub, 1.0
+R, \phi_11, b_20, Right, 1.0
+R, \rangle_6, \geqq_7, Right, 1.0
+R, \vert_23, L_25, Right, 1.0
+R, \vert_4, \mu_5, Right, 1.0
+R, _8, \phi_11, Above, 1.0
+R, _8, \vert_23, Below, 1.0
+R, b_20, !_21, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	W = - \frac { 1 } { 2 } \int \int \sqrt { \rho } ( x ) \sqrt { \rho } ( y ) \log \vert x - y ) d x d y
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\pi _ { i } \pi ^ { l } = ( \pi ^ { 0 } ) ^ { 2 } - \vert \sqrt { \pi } \vert ^ { 2 } = 1 , \pi ^ { 0 } \geq 1
+\end{equation}

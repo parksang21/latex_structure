@@ -1,0 +1,56 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_10890</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msqrt xml:id="_2"><mi xml:id="\gamma_3">γ</mi></msqrt><mo xml:id="\in_4">∈</mo><mi xml:id="A_5">A</mi><mi xml:id="u_6">u</mi><mi xml:id="t_7">t</mi><mo form="prefix" stretchy="false" xml:id="(_8">(</mo><mi xml:id="S_9">S</mi><mo form="postfix" stretchy="false" xml:id=")_10">)</mo></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\gamma</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\gamma_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\in</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\in_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">A</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="A_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">u</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="u_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">t</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="t_7"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="(_8"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">S</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="S_9"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href=")_10"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="_2"/>
+	</traceGroup>
+</traceGroup>
+</ink>

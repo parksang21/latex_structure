@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>β</mi><mo stretchy="false" form="prefix">(</mo><mi>a</mi><mi>π</mi><mo stretchy="false" form="postfix">)</mo><mo>−</mo><mi>β</mi><mo stretchy="false" form="prefix">(</mo><mn>0</mn><mo stretchy="false" form="postfix">)</mo><mo>=</mo><mn>2</mn><mi>π</mi><mi>n</mi><mo>,</mo><mi>w</mi><mi>e</mi><mi>r</mi><mi>e</mi><mi>n</mi><mo>∪</mo><mi>Z</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \beta ( a \pi ) - \beta ( 0 ) = 2 \pi n , w e r e n \cup Z
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

@@ -1,0 +1,3 @@
+\begin{equation}
+	\sum _ { n , m } ( s _ { n + m } , \theta f _ { n } ^ { * } \oplus f _ { m } ) \geq 0
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	S _ { n r } ^ { ( k ) } = 0 \csqrt r \not\subset n
+\end{equation}

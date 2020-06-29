@@ -1,0 +1,3 @@
+\begin{equation}
+	= \sigma _ { 0 } \circ q _ { s } w i t h U ( q _ { s } , \theta ) = s
+\end{equation}

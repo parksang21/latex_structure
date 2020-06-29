@@ -1,0 +1,3 @@
+\begin{equation}
+	g \approx 3 \div \sqrt { 3 } \div 0 . 9 1 7 7 f _ { 0 } ^ { 2 }
+\end{equation}

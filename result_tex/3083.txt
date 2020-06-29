@@ -1,0 +1,3 @@
+\begin{equation}
+	\beta \Delta _ { D } C _ { A B } = \beta \Delta _ { D } \times \beta W _ { A B }
+\end{equation}

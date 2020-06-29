@@ -1,0 +1,47 @@
+# IUD, v2_rendered_10758
+# Objects(22):
+O, b_9, b, 1.0, ORRRRRRR
+O, a_15, a, 1.0, ORRRRRRRRRRR
+O, \rangle_22, \rangle, 1.0, ORRRRRRRRRRRRRR
+O, \vert_2, \vert, 1.0, O
+O, \vert_24, \vert, 1.0, ORRRRRRRRRRRRRRRR
+O, \equiv_23, \equiv, 1.0, ORRRRRRRRRRRRRRR
+O, \rangle_26, \rangle, 1.0, ORRRRRRRRRRRRRRRRRR
+O, k_21, k, 1.0, ORRRRRRRRRRRRRSupR
+O, -_20, -, 1.0, ORRRRRRRRRRRRRSup
+O, \vert_6, \vert, 1.0, ORRRR
+O, \rightarrow_5, \rightarrow, 1.0, ORRR
+O, b_13, b, 1.0, ORRRRRRRRR
+O, k_12, k, 1.0, ORRRRRRRRSup
+O, k_25, k, 1.0, ORRRRRRRRRRRRRRRRR
+O, (_7, (, 1.0, ORRRRR
+O, b_16, b, 1.0, ORRRRRRRRRRRR
+O, )_18, ), 1.0, ORRRRRRRRRRRRR
+O, \rangle_4, \rangle, 1.0, ORR
+O, b_3, b, 1.0, OR
+O, a_8, a, 1.0, ORRRRRR
+O, (_14, (, 1.0, ORRRRRRRRRR
+O, )_11, ), 1.0, ORRRRRRRR
+
+# Relations from SRT:
+R, (_14, a_15, Right, 1.0
+R, (_7, a_8, Right, 1.0
+R, )_11, b_13, Right, 1.0
+R, )_11, k_12, Sup, 1.0
+R, )_18, -_20, Sup, 1.0
+R, )_18, \rangle_22, Right, 1.0
+R, -_20, k_21, Right, 1.0
+R, \equiv_23, \vert_24, Right, 1.0
+R, \rangle_22, \equiv_23, Right, 1.0
+R, \rangle_4, \rightarrow_5, Right, 1.0
+R, \rightarrow_5, \vert_6, Right, 1.0
+R, \vert_24, k_25, Right, 1.0
+R, \vert_2, b_3, Right, 1.0
+R, \vert_6, (_7, Right, 1.0
+R, a_15, b_16, Right, 1.0
+R, a_8, b_9, Right, 1.0
+R, b_13, (_14, Right, 1.0
+R, b_16, )_18, Right, 1.0
+R, b_3, \rangle_4, Right, 1.0
+R, b_9, )_11, Right, 1.0
+R, k_25, \rangle_26, Right, 1.0

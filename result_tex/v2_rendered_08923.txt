@@ -1,0 +1,3 @@
+\begin{equation}
+	\vert A _ { n } ( x ) \vert \cup A ^ { n } ( x )
+\end{equation}

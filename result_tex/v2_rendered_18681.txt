@@ -1,0 +1,3 @@
+\begin{equation}
+	\beta ( x , t ) = e ^ { i \omega t } ( \phi _ { 0 } ( x ) + \varepsilon ( x , t ) )
+\end{equation}

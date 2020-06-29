@@ -1,0 +1,3 @@
+\begin{equation}
+	\lambda = \frac { \sqrt { \lambda } } { \mu ^ { 2 } }
+\end{equation}

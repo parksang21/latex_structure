@@ -1,0 +1,3 @@
+\begin{equation}
+	[ G _ { a } , G _ { b } ] _ { - } = i U _ { a b } ^ { c } G _ { c }
+\end{equation}

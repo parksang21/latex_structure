@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { 2 } r ^ { 2 } \leq \vert \rho _ { \cap } \vert _ { \infty } ^ { 2 } \leq M ^ { 2 } r ^ { 2 }
+\end{equation}

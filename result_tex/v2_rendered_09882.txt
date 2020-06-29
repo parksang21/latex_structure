@@ -1,0 +1,3 @@
+\begin{equation}
+	\theta p ( p ) = p f _ { s } ( p ) , p \not\subset P
+\end{equation}

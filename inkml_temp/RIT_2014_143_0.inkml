@@ -1,0 +1,56 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">RIT_2014_143_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mi xml:id="m_2">m</mi><mo form="postfix" stretchy="false" xml:id="\vert_3">|</mo><mi xml:id="y_4">y</mi><mo form="postfix" stretchy="false" xml:id="\vert_5">|</mo><mo xml:id="=_6">=</mo><mo form="postfix" stretchy="false" xml:id="\vert_7">|</mo><mi xml:id="y_8">y</mi><mi xml:id="y_9">y</mi><mo form="postfix" stretchy="false" xml:id="\vert_10">|</mo></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">m</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="m_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\vert</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\vert_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">y</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="y_4"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\vert</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\vert_5"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="=_6"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\vert</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\vert_7"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">y</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="y_8"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">y</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="y_9"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">\vert</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="\vert_10"/>
+	</traceGroup>
+</traceGroup>
+</ink>

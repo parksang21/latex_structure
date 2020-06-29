@@ -1,0 +1,3 @@
+\begin{equation}
+	\prod _ { \varepsilon , r } \circ \Delta _ { \varepsilon , r } ( r ) \neq r \circ \pi _ { \varepsilon , r }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\delta \circ o d x _ { z } N ( \psi ) \equiv \psi \delta ( N ( \psi ) , w )
+\end{equation}

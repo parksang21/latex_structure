@@ -1,0 +1,3 @@
+\begin{equation}
+	I [ A ] = \frac { k } { 4 \pi } \int T r ( A d A + \frac { 2 } { 3 } A ^ { 3 } )
+\end{equation}

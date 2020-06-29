@@ -1,0 +1,39 @@
+# IUD, v2_rendered_15731
+# Objects(18):
+O, )_9, ), 1.0, OAboveRRRRR
+O, +_7, +, 1.0, OAboveRRR
+O, n_6, n, 1.0, OAboveRR
+O, (_5, (, 1.0, OAboveR
+O, +_18, +, 1.0, ORRInsideAboveRRR
+O, n_15, n, 1.0, ORRInsideAbove
+O, \oplus_11, \oplus, 1.0, OR
+O, _2, -, 1.0, O
+O, (_16, (, 1.0, ORRInsideAboveR
+O, _13, -, 1.0, ORRInside
+O, n_4, n, 1.0, OAbove
+O, _12, \sqrt, 1.0, ORR
+O, 1_19, 1, 1.0, ORRInsideAboveRRRR
+O, 2_10, 2, 1.0, OBelow
+O, 2_21, 2, 1.0, ORRInsideBelow
+O, n_17, n, 1.0, ORRInsideAboveRR
+O, )_20, ), 1.0, ORRInsideAboveRRRRR
+O, 1_8, 1, 1.0, OAboveRRRR
+
+# Relations from SRT:
+R, (_16, n_17, Right, 1.0
+R, (_5, n_6, Right, 1.0
+R, +_18, 1_19, Right, 1.0
+R, +_7, 1_8, Right, 1.0
+R, 1_19, )_20, Right, 1.0
+R, 1_8, )_9, Right, 1.0
+R, \oplus_11, _12, Right, 1.0
+R, _12, _13, Inside, 1.0
+R, _13, 2_21, Below, 1.0
+R, _13, n_15, Above, 1.0
+R, _2, 2_10, Below, 1.0
+R, _2, \oplus_11, Right, 1.0
+R, _2, n_4, Above, 1.0
+R, n_15, (_16, Right, 1.0
+R, n_17, +_18, Right, 1.0
+R, n_4, (_5, Right, 1.0
+R, n_6, +_7, Right, 1.0

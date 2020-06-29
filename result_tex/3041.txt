@@ -1,0 +1,3 @@
+\begin{equation}
+	E _ { c } = \frac { \sqrt { g _ { 0 } g _ { 1 } } } { 2 \pi \alpha ^ { \prime } }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\rho _ { \sqrt { A } } = ( i \gamma _ { \alpha } \otimes \rho _ { 7 } , 1 \otimes \phi _ { \sqrt { \alpha } } )
+\end{equation}

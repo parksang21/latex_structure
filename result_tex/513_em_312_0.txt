@@ -1,0 +1,3 @@
+\begin{equation}
+	( \cos \theta + i \sin \theta \int ^ { n } = \cos n \theta + i \sin n \theta
+\end{equation}

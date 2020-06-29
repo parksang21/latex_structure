@@ -1,0 +1,43 @@
+# IUD, v2_rendered_17696
+# Objects(20):
+O, \infty_16, \infty, 1.0, ORRRRRSubR
+O, )_25, ), 1.0, ORRRRRRRRRRRRR
+O, -_15, -, 1.0, ORRRRRSub
+O, (_21, (, 1.0, ORRRRRRRRR
+O, x_19, x, 1.0, ORRRRRRR
+O, \int_13, \int, 1.0, ORRRRR
+O, -_7, -, 1.0, ORRSub
+O, \infty_9, \infty, 1.0, ORRSup
+O, t_11, t, 1.0, ORRRR
+O, L_20, L, 1.0, ORRRRRRRR
+O, COMMA_23, COMMA, 1.0, ORRRRRRRRRRR
+O, x_22, x, 1.0, ORRRRRRRRRR
+O, \infty_8, \infty, 1.0, ORRSubR
+O, d_18, d, 1.0, ORRRRRR
+O, W_2, W, 1.0, O
+O, \int_5, \int, 1.0, ORR
+O, t_24, t, 1.0, ORRRRRRRRRRRR
+O, =_3, =, 1.0, OR
+O, d_10, d, 1.0, ORRR
+O, \infty_17, \infty, 1.0, ORRRRRSup
+
+# Relations from SRT:
+R, (_21, x_22, Right, 1.0
+R, -_15, \infty_16, Right, 1.0
+R, -_7, \infty_8, Right, 1.0
+R, =_3, \int_5, Right, 1.0
+R, COMMA_23, t_24, Right, 1.0
+R, L_20, (_21, Right, 1.0
+R, W_2, =_3, Right, 1.0
+R, \int_13, -_15, Sub, 1.0
+R, \int_13, \infty_17, Sup, 1.0
+R, \int_13, d_18, Right, 1.0
+R, \int_5, -_7, Sub, 1.0
+R, \int_5, \infty_9, Sup, 1.0
+R, \int_5, d_10, Right, 1.0
+R, d_10, t_11, Right, 1.0
+R, d_18, x_19, Right, 1.0
+R, t_11, \int_13, Right, 1.0
+R, t_24, )_25, Right, 1.0
+R, x_19, L_20, Right, 1.0
+R, x_22, COMMA_23, Right, 1.0

@@ -1,0 +1,41 @@
+# IUD, v2_rendered_19806
+# Objects(19):
+O, )_22, ), 1.0, ORRRRRRRRRRRR
+O, 0_6, 0, 1.0, OSubR
+O, t_8, t, 1.0, ORR
+O, \alpha_3, \alpha, 1.0, O
+O, t_19, t, 1.0, ORRRRRRRRR
+O, \Leftrifhtarrow_20, \Leftrifhtarrow, 1.0, ORRRRRRRRRR
+O, 0_5, 0, 1.0, OSub
+O, 0_24, 0, 1.0, ORRRRRRRRRRRRRR
+O, \infty_21, \infty, 1.0, ORRRRRRRRRRR
+O, (_18, (, 1.0, ORRRRRRRR
+O, =_23, =, 1.0, ORRRRRRRRRRRRR
+O, 0_16, 0, 1.0, ORRRRRRRSub
+O, 0_17, 0, 1.0, ORRRRRRRSubR
+O, =_12, =, 1.0, ORRRRRR
+O, \beta_14, \beta, 1.0, ORRRRRRR
+O, )_11, ), 1.0, ORRRRR
+O, (_7, (, 1.0, OR
+O, \Leftrifhtarrow_9, \Leftrifhtarrow, 1.0, ORRR
+O, \infty_10, \infty, 1.0, ORRRR
+
+# Relations from SRT:
+R, (_18, t_19, Right, 1.0
+R, (_7, t_8, Right, 1.0
+R, )_11, =_12, Right, 1.0
+R, )_22, =_23, Right, 1.0
+R, 0_16, 0_17, Right, 1.0
+R, 0_5, 0_6, Right, 1.0
+R, =_12, \beta_14, Right, 1.0
+R, =_23, 0_24, Right, 1.0
+R, \Leftrifhtarrow_20, \infty_21, Right, 1.0
+R, \Leftrifhtarrow_9, \infty_10, Right, 1.0
+R, \alpha_3, (_7, Right, 1.0
+R, \alpha_3, 0_5, Sub, 1.0
+R, \beta_14, (_18, Right, 1.0
+R, \beta_14, 0_16, Sub, 1.0
+R, \infty_10, )_11, Right, 1.0
+R, \infty_21, )_22, Right, 1.0
+R, t_19, \Leftrifhtarrow_20, Right, 1.0
+R, t_8, \Leftrifhtarrow_9, Right, 1.0

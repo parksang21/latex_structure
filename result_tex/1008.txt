@@ -1,0 +1,3 @@
+\begin{equation}
+	[ b _ { i } , b _ { j } ^ { + } ] = \delta _ { i j }
+\end{equation}

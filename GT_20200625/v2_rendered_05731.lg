@@ -1,0 +1,17 @@
+# IUD, v2_rendered_05731
+# Objects(7):
+O, (_3, (, 1.0, OR
+O, 4_8, 4, 1.0, ORRRRRR
+O, )_6, ), 1.0, ORRRR
+O, \angle_4, \angle, 1.0, ORR
+O, \gamma_5, \gamma, 1.0, ORRR
+O, \angle_2, \angle, 1.0, O
+O, \leq_7, \leq, 1.0, ORRRRR
+
+# Relations from SRT:
+R, (_3, \angle_4, Right, 1.0
+R, )_6, \leq_7, Right, 1.0
+R, \angle_2, (_3, Right, 1.0
+R, \angle_4, \gamma_5, Right, 1.0
+R, \gamma_5, )_6, Right, 1.0
+R, \leq_7, 4_8, Right, 1.0

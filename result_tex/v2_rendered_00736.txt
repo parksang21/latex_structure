@@ -1,0 +1,3 @@
+\begin{equation}
+	\rho _ { 1 } \otimes \rho _ { 2 } \otimes \rho _ { 3 } = \rho _ { 4 } \otimes \rho _ { 5 } \otimes \rho _ { 6 }
+\end{equation}

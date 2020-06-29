@@ -1,0 +1,3 @@
+\begin{equation}
+	= \sum _ { \omega \cap P } \frac { 2 n _ { \omega } } { ( \omega , \omega ) } \omega , n _ { \omega } \cap Z
+\end{equation}

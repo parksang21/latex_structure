@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msubsup><mi>π</mi><mn>0</mn><mi>a</mi></msubsup><mo>=</mo><mfrac><mrow><mi>Δ</mi><mi>L</mi></mrow><mrow><mi>Δ</mi><msubsup><msqrt><mi>A</mi></msqrt><mn>0</mn><mi>a</mi></msubsup></mrow></mfrac><mo>=</mo><mn>0</mn></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \pi _ { 0 } ^ { a } = \frac { \Delta L } { \Delta \sqrt { A } _ { 0 } ^ { a } } = 0
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

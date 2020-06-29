@@ -1,0 +1,86 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_06403</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msub><mi xml:id="\psi_3">ψ</mi><mrow><mi xml:id="e_5">e</mi><mi xml:id="f_6">f</mi><mi xml:id="f_7">f</mi></mrow></msub><mo xml:id="\geq_8">≥</mo><mfrac xml:id="_9"><mn xml:id="2_10">2</mn><mrow><mn xml:id="2_12">2</mn><mo xml:id="\times_13">×</mo><msup><mi xml:id="\psi_15">ψ</mi><mn xml:id="4_16">4</mn></msup><mo xml:id="\times_17">×</mo><mi xml:id="k_18">k</mi><mo xml:id="\circle_19">∘</mo><mi xml:id="k_20">k</mi></mrow></mfrac></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\psi</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\psi_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">e</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="e_5"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">f</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="f_6"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">f</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="f_7"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">\geq</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="\geq_8"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">2</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="2_10"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">2</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="2_12"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\times</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\times_13"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">\psi</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="\psi_15"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">4</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="4_16"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">\times</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="\times_17"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">k</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="k_18"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">\circle</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="\circle_19"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">k</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="k_20"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="_9"/>
+	</traceGroup>
+</traceGroup>
+</ink>

@@ -1,0 +1,47 @@
+# IUD, v2_rendered_07696
+# Objects(22):
+O, 0_18, 0, 1.0, ORRRRRRRRRRR
+O, \geq_17, \geq, 1.0, ORRRRRRRRRR
+O, 1_12, 1, 1.0, ORRRRRSupRR
+O, N_10, N, 1.0, ORRRRRSup
+O, n_5, n, 1.0, ORRR
+O, +_11, +, 1.0, ORRRRRSupR
+O, \sigma_2, \sigma, 1.0, O
+O, =_3, =, 1.0, OR
+O, /_15, /, 1.0, ORRRRRRRR
+O, \in_22, \in, 1.0, ORRRRRRRRRRRRRRR
+O, \forall_20, \forall, 1.0, ORRRRRRRRRRRRR
+O, \in_6, \in, 1.0, ORRRR
+O, m_14, m, 1.0, ORRRRRRR
+O, \sigma_24, \sigma, 1.0, ORRRRRRRRRRRRRRRRInside
+O, R_8, R, 1.0, ORRRRR
+O, \{_4, \{, 1.0, ORR
+O, COMMA_19, COMMA, 1.0, ORRRRRRRRRRRR
+O, \vert_13, \vert, 1.0, ORRRRRR
+O, n_16, n, 1.0, ORRRRRRRRR
+O, \}_25, \}, 1.0, ORRRRRRRRRRRRRRRRR
+O, _23, \sqrt, 1.0, ORRRRRRRRRRRRRRRR
+O, m_21, m, 1.0, ORRRRRRRRRRRRRR
+
+# Relations from SRT:
+R, +_11, 1_12, Right, 1.0
+R, /_15, n_16, Right, 1.0
+R, 0_18, COMMA_19, Right, 1.0
+R, =_3, \{_4, Right, 1.0
+R, COMMA_19, \forall_20, Right, 1.0
+R, N_10, +_11, Right, 1.0
+R, R_8, N_10, Sup, 1.0
+R, R_8, \vert_13, Right, 1.0
+R, \forall_20, m_21, Right, 1.0
+R, \geq_17, 0_18, Right, 1.0
+R, \in_22, _23, Right, 1.0
+R, \in_6, R_8, Right, 1.0
+R, \sigma_2, =_3, Right, 1.0
+R, \vert_13, m_14, Right, 1.0
+R, \{_4, n_5, Right, 1.0
+R, _23, \sigma_24, Inside, 1.0
+R, _23, \}_25, Right, 1.0
+R, m_14, /_15, Right, 1.0
+R, m_21, \in_22, Right, 1.0
+R, n_16, \geq_17, Right, 1.0
+R, n_5, \in_6, Right, 1.0

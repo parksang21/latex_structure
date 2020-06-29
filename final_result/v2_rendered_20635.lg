@@ -1,0 +1,43 @@
+# IUD, v2_rendered_20635
+# Objects(20):
+O, _6, -, 1.0, ORRRR
+O, (_5, (, 1.0, ORRR
+O, )_25, ), 1.0, ORRRRRRRRRRR
+O, \equiv_3, \equiv, 1.0, OR
+O, R_22, R, 1.0, ORRRRRRRRRRAboveSub
+O, K_9, K, 1.0, ORRRRAbove
+O, S_14, S, 1.0, ORRRRRR
+O, M_12, M, 1.0, ORRRRBelow
+O, )_13, ), 1.0, ORRRRR
+O, C_2, C, 1.0, O
+O, \sin_16, \sin, 1.0, ORRRRRRRR
+O, M_24, M, 1.0, ORRRRRRRRRRBelow
+O, _18, -, 1.0, ORRRRRRRRRR
+O, R_10, R, 1.0, ORRRRAboveSub
+O, s_11, s, 1.0, ORRRRAboveR
+O, s_23, s, 1.0, ORRRRRRRRRRAboveR
+O, K_21, K, 1.0, ORRRRRRRRRRAbove
+O, \equiv_15, \equiv, 1.0, ORRRRRRR
+O, (_17, (, 1.0, ORRRRRRRRR
+O, \tan_4, \tan, 1.0, ORR
+
+# Relations from SRT:
+R, (_17, _18, Right, 1.0
+R, (_5, _6, Right, 1.0
+R, )_13, S_14, Right, 1.0
+R, C_2, \equiv_3, Right, 1.0
+R, K_21, R_22, Sub, 1.0
+R, K_21, s_23, Right, 1.0
+R, K_9, R_10, Sub, 1.0
+R, K_9, s_11, Right, 1.0
+R, S_14, \equiv_15, Right, 1.0
+R, \equiv_15, \sin_16, Right, 1.0
+R, \equiv_3, \tan_4, Right, 1.0
+R, \sin_16, (_17, Right, 1.0
+R, \tan_4, (_5, Right, 1.0
+R, _18, )_25, Right, 1.0
+R, _18, K_21, Above, 1.0
+R, _18, M_24, Below, 1.0
+R, _6, )_13, Right, 1.0
+R, _6, K_9, Above, 1.0
+R, _6, M_12, Below, 1.0

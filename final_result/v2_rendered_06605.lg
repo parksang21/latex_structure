@@ -1,0 +1,31 @@
+# IUD, v2_rendered_06605
+# Objects(14):
+O, \psi_4, \psi, 1.0, OR
+O, \rangle_17, \rangle, 1.0, ORRRRRRRRRRR
+O, \rangle_6, \rangle, 1.0, ORR
+O, =_7, =, 1.0, ORRR
+O, \vert_15, \vert, 1.0, ORRRRRRRRR
+O, \vert_2, \vert, 1.0, O
+O, \rangle_10, \rangle, 1.0, ORRRRRR
+O, +_11, +, 1.0, ORRRRRRR
+O, \prime_5, \prime, 1.0, ORSup
+O, Q_13, Q, 1.0, ORRRRRRRR
+O, \beta_16, \beta, 1.0, ORRRRRRRRRR
+O, \vert_8, \vert, 1.0, ORRRR
+O, B_14, B, 1.0, ORRRRRRRRSub
+O, \psi_9, \psi, 1.0, ORRRRR
+
+# Relations from SRT:
+R, +_11, Q_13, Right, 1.0
+R, =_7, \vert_8, Right, 1.0
+R, Q_13, B_14, Sub, 1.0
+R, Q_13, \vert_15, Right, 1.0
+R, \beta_16, \rangle_17, Right, 1.0
+R, \psi_4, \prime_5, Sup, 1.0
+R, \psi_4, \rangle_6, Right, 1.0
+R, \psi_9, \rangle_10, Right, 1.0
+R, \rangle_10, +_11, Right, 1.0
+R, \rangle_6, =_7, Right, 1.0
+R, \vert_15, \beta_16, Right, 1.0
+R, \vert_2, \psi_4, Right, 1.0
+R, \vert_8, \psi_9, Right, 1.0

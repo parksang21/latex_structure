@@ -1,0 +1,47 @@
+# IUD, v2_rendered_16286
+# Objects(22):
+O, 0_7, 0, 1.0, OSubRR
+O, \log_25, \log, 1.0, ORRRRRRRRRRRRRR
+O, \log_20, \log, 1.0, ORRRRRRRRRRR
+O, _9, -, 1.0, ORR
+O, 2_17, 2, 1.0, ORRRRRRRR
+O, \log_16, \log, 1.0, ORRRRRRR
+O, K_3, K, 1.0, O
+O, -_14, -, 1.0, ORRRRR
+O, \delta_22, \delta, 1.0, ORRRRRRRRRRRR
+O, +_18, +, 1.0, ORRRRRRRRR
+O, \varepsilon_26, \varepsilon, 1.0, ORRRRRRRRRRRRRRR
+O, 3_15, 3, 1.0, ORRRRRR
+O, 1_5, 1, 1.0, OSub
+O, z_23, z, 1.0, ORRRRRRRRRRRRSub
+O, \log_12, \log, 1.0, ORRR
+O, =_8, =, 1.0, OR
+O, 3_13, 3, 1.0, ORRRR
+O, -_19, -, 1.0, ORRRRRRRRRR
+O, +_24, +, 1.0, ORRRRRRRRRRRRR
+O, 1_6, 1, 1.0, OSubR
+O, 3_10, 3, 1.0, ORRAbove
+O, 2_11, 2, 1.0, ORRBelow
+
+# Relations from SRT:
+R, +_18, -_19, Right, 1.0
+R, +_24, \log_25, Right, 1.0
+R, -_14, 3_15, Right, 1.0
+R, -_19, \log_20, Right, 1.0
+R, 1_5, 1_6, Right, 1.0
+R, 1_6, 0_7, Right, 1.0
+R, 2_17, +_18, Right, 1.0
+R, 3_13, -_14, Right, 1.0
+R, 3_15, \log_16, Right, 1.0
+R, =_8, _9, Right, 1.0
+R, K_3, 1_5, Sub, 1.0
+R, K_3, =_8, Right, 1.0
+R, \delta_22, +_24, Right, 1.0
+R, \delta_22, z_23, Sub, 1.0
+R, \log_12, 3_13, Right, 1.0
+R, \log_16, 2_17, Right, 1.0
+R, \log_20, \delta_22, Right, 1.0
+R, \log_25, \varepsilon_26, Right, 1.0
+R, _9, 2_11, Below, 1.0
+R, _9, 3_10, Above, 1.0
+R, _9, \log_12, Right, 1.0

@@ -1,0 +1,41 @@
+# IUD, 1068
+# Objects(19):
+O, \int_16, \int, 1.0, ORRRRRRR
+O, =_23, =, 1.0, ORRRRRRRRRRRRR
+O, M_4, M, 1.0, OSub
+O, ]_22, ], 1.0, ORRRRRRRRRRRR
+O, [_18, [, 1.0, ORRRRRRRR
+O, \Delta_11, \Delta, 1.0, ORRRRSub
+O, F_21, F, 1.0, ORRRRRRRRRRR
+O, 0_24, 0, 1.0, ORRRRRRRRRRRRRR
+O, =_7, =, 1.0, ORRR
+O, F_6, F, 1.0, ORR
+O, F_13, F, 1.0, ORRRRR
+O, +_14, +, 1.0, ORRRRRR
+O, COMMA_20, COMMA, 1.0, ORRRRRRRRRR
+O, M_17, M, 1.0, ORRRRRRRSub
+O, D_5, D, 1.0, OR
+O, ω_19, ω, 1.0, ORRRRRRRRR
+O, \int_3, \int, 1.0, O
+O, \int_9, \int, 1.0, ORRRR
+O, M_12, M, 1.0, ORRRRSubR
+
+# Relations from SRT:
+R, +_14, \int_16, Right, 1.0
+R, =_23, 0_24, Right, 1.0
+R, =_7, \int_9, Right, 1.0
+R, COMMA_20, F_21, Right, 1.0
+R, D_5, F_6, Right, 1.0
+R, F_13, +_14, Right, 1.0
+R, F_21, ]_22, Right, 1.0
+R, F_6, =_7, Right, 1.0
+R, [_18, ω_19, Right, 1.0
+R, \Delta_11, M_12, Right, 1.0
+R, \int_16, M_17, Sub, 1.0
+R, \int_16, [_18, Right, 1.0
+R, \int_3, D_5, Right, 1.0
+R, \int_3, M_4, Sub, 1.0
+R, \int_9, F_13, Right, 1.0
+R, \int_9, \Delta_11, Sub, 1.0
+R, ]_22, =_23, Right, 1.0
+R, ω_19, COMMA_20, Right, 1.0

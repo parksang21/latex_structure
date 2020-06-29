@@ -1,0 +1,3 @@
+\begin{equation}
+	< \lambda \lambda > _ { \theta } \rightarrow < \times \lambda ) _ { \theta } e ^ { 2 \pi i \div N }
+\end{equation}

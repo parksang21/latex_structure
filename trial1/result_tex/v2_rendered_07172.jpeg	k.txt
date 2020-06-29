@@ -1,0 +1,3 @@
+\begin{equation}
+	( A ) \geq X _ { A \circ \mu } f o r a n y A \notin L i e ( G )
+\end{equation}

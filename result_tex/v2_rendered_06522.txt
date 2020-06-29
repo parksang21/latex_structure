@@ -1,0 +1,3 @@
+\begin{equation}
+	( a _ { j } , b _ { j } , \theta _ { a } , a n d \tau _ { I } ) \vert 0 \not\subset 0
+\end{equation}

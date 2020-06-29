@@ -1,0 +1,3 @@
+\begin{equation}
+	\rho \csqrt \phi _ { 1 } = \rho _ { 0 } \phi _ { 2 }
+\end{equation}

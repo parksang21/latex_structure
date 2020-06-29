@@ -1,0 +1,37 @@
+# IUD, v2_rendered_24534
+# Objects(17):
+O, \mu_7, \mu, 1.0, ORSup
+O, n_19, n, 1.0, ORRRRRRRSub
+O, d_15, d, 1.0, ORRRRRRSub
+O, (_8, (, 1.0, ORR
+O, P_24, P, 1.0, ORRRRRRRRR
+O, ω_9, ω, 1.0, ORRR
+O, \psi_18, \psi, 1.0, ORRRRRRR
+O, \delta_3, \delta, 1.0, O
+O, \int_13, \int, 1.0, ORRRRRR
+O, =_11, =, 1.0, ORRRRR
+O, m_25, m, 1.0, ORRRRRRRRRSup
+O, \delta_21, \delta, 1.0, ORRRRRRRR
+O, \notin_4, \notin, 1.0, OSub
+O, )_10, ), 1.0, ORRRR
+O, \notin_22, \notin, 1.0, ORRRRRRRRSub
+O, m_16, m, 1.0, ORRRRRRSubR
+O, P_6, P, 1.0, OR
+
+# Relations from SRT:
+R, (_8, ω_9, Right, 1.0
+R, )_10, =_11, Right, 1.0
+R, =_11, \int_13, Right, 1.0
+R, P_24, m_25, Sup, 1.0
+R, P_6, (_8, Right, 1.0
+R, P_6, \mu_7, Sup, 1.0
+R, \delta_21, P_24, Right, 1.0
+R, \delta_21, \notin_22, Sub, 1.0
+R, \delta_3, P_6, Right, 1.0
+R, \delta_3, \notin_4, Sub, 1.0
+R, \int_13, \psi_18, Right, 1.0
+R, \int_13, d_15, Sub, 1.0
+R, \psi_18, \delta_21, Right, 1.0
+R, \psi_18, n_19, Sub, 1.0
+R, d_15, m_16, Right, 1.0
+R, ω_9, )_10, Right, 1.0

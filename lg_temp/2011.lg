@@ -1,0 +1,29 @@
+# IUD, 2011
+# Objects(13):
+O, +_12, +, 1.0, 6
+O, \pi_2, \pi, 1.0, 0
+O, \Delta_16, \Delta, 1.0, 9
+O, \equiv_3, \equiv, 1.0, 1
+O, \phi_13, \phi, 1.0, 7
+O, _4, -, 1.0, 12
+O, \phi_18, \phi, 1.0, 11
+O, L_7, L, 1.0, 3
+O, \Delta_6, \Delta, 1.0, 2
+O, -_17, -, 1.0, 10
+O, \Delta_11, \Delta, 1.0, 5
+O, \Delta_9, \Delta, 1.0, 4
+O, =_14, =, 1.0, 8
+
+# Relations from SRT:
+R, =_14, \Delta_16, Right, 1.0
+R, \Delta_11, +_12, Sub, 1.0
+R, \Delta_11, \phi_13, Right, 1.0
+R, \Delta_16, -_17, Sub, 1.0
+R, \Delta_16, \phi_18, Right, 1.0
+R, \Delta_6, L_7, Right, 1.0
+R, \Delta_9, \Delta_11, Right, 1.0
+R, \equiv_3, _4, Right, 1.0
+R, \pi_2, \equiv_3, Right, 1.0
+R, _4, =_14, Right, 1.0
+R, _4, \Delta_6, Above, 1.0
+R, _4, \Delta_9, Below, 1.0

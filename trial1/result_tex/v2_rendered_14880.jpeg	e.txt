@@ -1,0 +1,3 @@
+\begin{equation}
+	( t ) = \dot { x } / \sqrt { \dot { x } } ^ { 9 }
+\end{equation}

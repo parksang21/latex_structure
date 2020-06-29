@@ -1,0 +1,37 @@
+# IUD, new_render_00513
+# Objects(17):
+O, 0_19, 0, 1.0, 12
+O, c_15, c, 1.0, 10
+O, V_4, V, 1.0, 1
+O, c_20, c, 1.0, 13
+O, (_8, (, 1.0, 5
+O, \phi_5, \phi, 1.0, 2
+O, n_23, n, 1.0, 15
+O, c_24, c, 1.0, 16
+O, S_17, S, 1.0, 11
+O, 4_7, 4, 1.0, 4
+O, \neq_6, \neq, 1.0, 3
+O, )_21, ), 1.0, 14
+O, 0_11, 0, 1.0, 7
+O, \square_3, \square, 1.0, 0
+O, \Delta_10, \Delta, 1.0, 6
+O, c_14, c, 1.0, 9
+O, X_13, X, 1.0, 8
+
+# Relations from SRT:
+R, (_8, \Delta_10, Right, 1.0
+R, )_21, n_23, Right, 1.0
+R, 0_19, c_20, Right, 1.0
+R, 4_7, (_8, Right, 1.0
+R, S_17, )_21, Right, 1.0
+R, S_17, 0_19, Sup, 1.0
+R, X_13, S_17, Right, 1.0
+R, X_13, c_14, Sub, 1.0
+R, X_13, c_15, Sup, 1.0
+R, \Delta_10, 0_11, Sub, 1.0
+R, \Delta_10, X_13, Right, 1.0
+R, \neq_6, 4_7, Right, 1.0
+R, \square_3, V_4, Sub, 1.0
+R, \square_3, \neq_6, Right, 1.0
+R, \square_3, \phi_5, Sup, 1.0
+R, n_23, c_24, Sup, 1.0

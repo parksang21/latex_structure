@@ -1,0 +1,25 @@
+# IUD, v2_rendered_15124
+# Objects(11):
+O, \langle_17, \langle, 1.0, ORRRRRSub
+O, 5_13, 5, 1.0, ORRRRSub
+O, t_3, t, 1.0, O
+O, t_11, t, 1.0, ORRRR
+O, t_16, t, 1.0, ORRRRR
+O, 5_14, 5, 1.0, ORRRRSubR
+O, \langle_8, \langle, 1.0, ORRSub
+O, t_7, t, 1.0, ORR
+O, \times_9, \times, 1.0, ORRR
+O, \langle_4, \langle, 1.0, OSub
+O, \rightarrow_5, \rightarrow, 1.0, OR
+
+# Relations from SRT:
+R, 5_13, 5_14, Right, 1.0
+R, \rightarrow_5, t_7, Right, 1.0
+R, \times_9, t_11, Right, 1.0
+R, t_11, 5_13, Sub, 1.0
+R, t_11, t_16, Right, 1.0
+R, t_16, \langle_17, Sub, 1.0
+R, t_3, \langle_4, Sub, 1.0
+R, t_3, \rightarrow_5, Right, 1.0
+R, t_7, \langle_8, Sub, 1.0
+R, t_7, \times_9, Right, 1.0

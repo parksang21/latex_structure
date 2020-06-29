@@ -1,0 +1,3 @@
+\begin{equation}
+	0 ( \tau ) \vert 0 _ { M } > \Leftrightarrow 0 a s V \Leftrightarrow \infty , \forall \tau
+\end{equation}

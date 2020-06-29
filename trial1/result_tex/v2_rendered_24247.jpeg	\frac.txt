@@ -1,0 +1,3 @@
+\begin{equation}
+	{ \Delta w } { \Delta t } = - \Delta \propto l
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	[ M _ { a b } , Q _ { \alpha } ] = - \frac { i } { 2 } ( \phi _ { a b } Q ) _ { \alpha }
+\end{equation}

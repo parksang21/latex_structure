@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \mu } ^ { ( 3 ) } + p \bar { z } _ { \mu } + q \dot { z } _ { \mu } + r \lambda _ { \mu } \leqq 0
+\end{equation}

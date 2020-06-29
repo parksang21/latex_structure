@@ -1,0 +1,3 @@
+\begin{equation}
+	( 1 \otimes \Delta ) \Delta \gamma _ { T } = ( \Delta \otimes 1 ) \Delta _ { \gamma _ { T } } \forall T \in \phi _ { n }
+\end{equation}

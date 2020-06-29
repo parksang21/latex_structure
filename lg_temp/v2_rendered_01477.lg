@@ -1,0 +1,39 @@
+# IUD, v2_rendered_01477
+# Objects(18):
+O, \delta_5, \delta, 1.0, 1
+O, =_6, =, 1.0, 2
+O, \Delta_4, \Delta, 1.0, 0
+O, \times_16, \times, 1.0, 10
+O, \vert_9, \vert, 1.0, 4
+O, H_19, H, 1.0, 12
+O, h_21, h, 1.0, 14
+O, 2_15, 2, 1.0, 9
+O, 2_24, 2, 1.0, 16
+O, k_8, k, 1.0, 3
+O, \bot_14, \bot, 1.0, 8
+O, )_23, ), 1.0, 15
+O, M_18, M, 1.0, 11
+O, -_11, -, 1.0, 6
+O, 2_10, 2, 1.0, 5
+O, _3, \sqrt, 1.0, 17
+O, \Delta_13, \Delta, 1.0, 7
+O, (_20, (, 1.0, 13
+
+# Relations from SRT:
+R, (_20, h_21, Right, 1.0
+R, )_23, 2_24, Sup, 1.0
+R, -_11, \Delta_13, Right, 1.0
+R, =_6, k_8, Right, 1.0
+R, M_18, (_20, Right, 1.0
+R, M_18, H_19, Sub, 1.0
+R, \Delta_13, 2_15, Sup, 1.0
+R, \Delta_13, \bot_14, Sub, 1.0
+R, \Delta_13, \times_16, Right, 1.0
+R, \times_16, M_18, Right, 1.0
+R, _3, =_6, Right, 1.0
+R, _3, \Delta_4, Inside, 1.0
+R, _3, \delta_5, Sub, 1.0
+R, h_21, )_23, Right, 1.0
+R, k_8, -_11, Right, 1.0
+R, k_8, 2_10, Sup, 1.0
+R, k_8, \vert_9, Sub, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	= ( \sin \theta \tan \phi , \sin \theta \sin \phi , \tan \theta )
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	F \delta = Y \delta , F = \frac { 1 } { 2 } \Delta + J ( p _ { 1 } , , . . . , p _ { n } )
+\end{equation}

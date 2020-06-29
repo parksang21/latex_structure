@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { 2 } \dot { R } ^ { - 1 } = \dot { R } - ( q ^ { 3 } - q ^ { - 1 } ) P _ { - }
+\end{equation}

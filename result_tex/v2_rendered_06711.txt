@@ -1,0 +1,3 @@
+\begin{equation}
+	A ( w ) = A ( R _ { + } ^ { c } )
+\end{equation}

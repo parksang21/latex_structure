@@ -1,0 +1,3 @@
+\begin{equation}
+	M = \vert m \vert \sqrt { ( S + \frac { \theta } { 2 \pi } ) ^ { 2 } + r ^ { 2 } }
+\end{equation}

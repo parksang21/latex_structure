@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>x</mi><mi>n</mi></msub><mo>=</mo><msqrt><mi>τ</mi></msqrt><mo stretchy="false" form="prefix">[</mo><mi>A</mi><msub><mi>J</mi><mn>0</mn></msub><mo stretchy="false" form="prefix">(</mo><mi>n</mi><mi>τ</mi><mo stretchy="false" form="postfix">)</mo><mo>+</mo><mi>B</mi><msub><mi>N</mi><mn>0</mn></msub><mo stretchy="false" form="prefix">(</mo><mi>n</mi><mi>τ</mi><mo stretchy="false" form="postfix">)</mo><mo stretchy="false" form="postfix">]</mo></mrow><annotation encoding="application/x-tex">\begin{equation}
+    x _ { n } = \sqrt { \tau } [ A J _ { 0 } ( n \tau ) + B N _ { 0 } ( n \tau ) ]
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

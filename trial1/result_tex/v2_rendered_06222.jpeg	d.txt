@@ -1,0 +1,3 @@
+\begin{equation}
+	e t T _ { ( 0 , r ) } - \Omega _ { ( 0 , r ) } = 0
+\end{equation}

@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mi>Δ</mi><mi>ψ</mi></msup><msub><mi>B</mi><mrow><mi>μ</mi><mi>ψ</mi></mrow></msub><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msup><mi>g</mi><mi>′</mi></msup><mo stretchy="false" form="prefix">(</mo><mi>L</mi><msub><mi>γ</mi><mi>μ</mi></msub><mi>L</mi><mo>+</mo><mn>2</mn><mi>β</mi><mi>l</mi><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \Delta ^ { \psi } B _ { \mu \psi } = - \frac { 1 } { 2 } g ^ { \prime } ( L \gamma _ { \mu } L + 2 \beta l )
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

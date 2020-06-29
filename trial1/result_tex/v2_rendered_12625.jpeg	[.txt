@@ -1,0 +1,3 @@
+\begin{equation}
+	A , \Delta \tau _ { 0 } / \Delta \bar { z } ^ { l } ] = B _ { l } , l = 1 , \cdots , m
+\end{equation}

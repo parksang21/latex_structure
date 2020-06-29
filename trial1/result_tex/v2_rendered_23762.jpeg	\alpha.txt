@@ -1,0 +1,3 @@
+\begin{equation}
+	= 1 , \beta = \omega , \gamma = \omega ^ { 2 }
+\end{equation}

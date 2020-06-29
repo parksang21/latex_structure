@@ -1,0 +1,3 @@
+\begin{equation}
+	{ \sigma } \vert \sigma \rangle = 7 \exists \vert \sigma \rangle \wedge I _ { p h y s }
+\end{equation}

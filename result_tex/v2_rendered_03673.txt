@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { \delta a } { a _ { p h y s } } \neq \frac { C _ { 2 } ^ { \infty } } { C _ { 1 } }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { 1 } { f \pi } \varepsilon ( p + \frac { 9 } { 2 } ) \gamma _ { 5 } T ^ { a }
+\end{equation}

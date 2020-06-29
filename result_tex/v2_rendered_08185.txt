@@ -1,0 +1,3 @@
+\begin{equation}
+	C ( p , k ) = 1 - \cos \sqrt { p } \csqrt k
+\end{equation}

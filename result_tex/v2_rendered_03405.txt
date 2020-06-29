@@ -1,0 +1,3 @@
+\begin{equation}
+	U _ { \lambda } = \otimes \sum _ { ( t ) _ { j } } U _ { \lambda } ^ { ( t ) _ { j } }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	d ^ { 2 } \lambda \equiv \frac { d \lambda \propto d \sqrt { \lambda } } { 2 i }
+\end{equation}

@@ -1,0 +1,39 @@
+# IUD, v2_rendered_11251
+# Objects(18):
+O, w_16, w, 1.0, 10
+O, w_5, w, 1.0, 2
+O, \neq_17, \neq, 1.0, 11
+O, COMMA_21, COMMA, 1.0, 15
+O, 2_20, 2, 1.0, 14
+O, b_4, b, 1.0, 1
+O, COMMA_19, COMMA, 1.0, 13
+O, COMMA_15, COMMA, 1.0, 9
+O, 3_22, 3, 1.0, 16
+O, \angle_7, \angle, 1.0, 3
+O, \geq_11, \geq, 1.0, 6
+O, \lambda_13, \lambda, 1.0, 7
+O, \angle_2, \angle, 1.0, 0
+O, p_9, p, 1.0, 4
+O, _12, -, 1.0, 17
+O, 3_18, 3, 1.0, 12
+O, w_10, w, 1.0, 5
+O, 2_14, 2, 1.0, 8
+
+# Relations from SRT:
+R, 2_20, COMMA_21, Right, 1.0
+R, 3_18, COMMA_19, Right, 1.0
+R, COMMA_15, w_16, Right, 1.0
+R, COMMA_19, 2_20, Right, 1.0
+R, COMMA_21, 3_22, Right, 1.0
+R, \angle_2, b_4, Right, 1.0
+R, \angle_7, \geq_11, Right, 1.0
+R, \angle_7, p_9, Sub, 1.0
+R, \geq_11, _12, Right, 1.0
+R, \neq_17, 3_18, Right, 1.0
+R, _12, 2_14, Below, 1.0
+R, _12, COMMA_15, Right, 1.0
+R, _12, \lambda_13, Above, 1.0
+R, b_4, \angle_7, Right, 1.0
+R, b_4, w_5, Sup, 1.0
+R, p_9, w_10, Right, 1.0
+R, w_16, \neq_17, Right, 1.0

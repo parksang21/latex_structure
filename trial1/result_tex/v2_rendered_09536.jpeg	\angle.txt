@@ -1,0 +1,3 @@
+\begin{equation}
+	x ^ { j } \angle e _ { j } = \frac { \lambda } { 2 } , j = 9 , 2 , 3
+\end{equation}

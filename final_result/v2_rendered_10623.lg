@@ -1,0 +1,40 @@
+# IUD, v2_rendered_10623
+# Objects(18):
+O, -_4, -, 1.0, OInside
+O, a_24, a, 1.0, ORRRRRRRRRSup
+O, (_9, (, 1.0, ORR
+O, \mu_25, \mu, 1.0, ORRRRRRRRRSupR
+O, P_22, P, 1.0, ORRRRRRRRR
+O, a_20, a, 1.0, ORRRRRRRRSub
+O, E_7, E, 1.0, OR
+O, n_13, n, 1.0, ORRRRR
+O, i_14, i, 1.0, ORRRRRSub
+O, _2, \sqrt, 1.0, O
+O, i_8, i, 1.0, ORSup
+O, )_11, ), 1.0, ORRRR
+O, \gamma_5, \gamma, 1.0, OInsideR
+O, -_17, -, 1.0, ORRRRRRR
+O, \mu_15, \mu, 1.0, ORRRRRSup
+O, \Delta_19, \Delta, 1.0, ORRRRRRRR
+O, =_16, =, 1.0, ORRRRRR
+O, L_10, L, 1.0, ORRR
+
+# Relations from SRT:
+R, (_9, L_10, Right, 1.0
+R, )_11, n_13, Right, 1.0
+R, -_17, \Delta_19, Right, 1.0
+R, -_4, \gamma_5, Right, 1.0
+R, =_16, -_17, Right, 1.0
+R, E_7, (_9, Right, 1.0
+R, E_7, i_8, Sup, 1.0
+R, L_10, )_11, Right, 1.0
+R, P_22, a_24, Sup, 1.0
+R, \Delta_19, P_22, Right, 1.0
+R, \Delta_19, a_20, Sub, 1.0
+R, _2, -_4, Inside, 1.0
+R, _2, E_7, Right, 1.0
+R, _2, \gamma_5, Inside, 1.0
+R, a_24, \mu_25, Right, 1.0
+R, n_13, =_16, Right, 1.0
+R, n_13, \mu_15, Sup, 1.0
+R, n_13, i_14, Sub, 1.0

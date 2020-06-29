@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta _ { 1 } \omega ( 0 ) \geq \sqrt { \gamma } L ^ { 4 } \omega ( 0 )
+\end{equation}

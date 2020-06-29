@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>π</mi><mi>i</mi></msub><msup><mi>π</mi><mi>l</mi></msup><mo>=</mo><mo stretchy="false" form="prefix">(</mo><msup><mi>π</mi><mn>0</mn></msup><msup><mo stretchy="false" form="postfix">)</mo><mn>2</mn></msup><mo>−</mo><mo stretchy="false" form="postfix">|</mo><msqrt><mi>π</mi></msqrt><msup><mo stretchy="false" form="postfix">|</mo><mn>2</mn></msup><mo>=</mo><mn>1</mn><mo>,</mo><msup><mi>π</mi><mn>0</mn></msup><mo>≥</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \pi _ { i } \pi ^ { l } = ( \pi ^ { 0 } ) ^ { 2 } - \vert \sqrt { \pi } \vert ^ { 2 } = 1 , \pi ^ { 0 } \geq 1
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

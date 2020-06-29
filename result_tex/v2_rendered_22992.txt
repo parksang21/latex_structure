@@ -1,0 +1,3 @@
+\begin{equation}
+	\phi \sigma ( x ) = - \lim _ { i } \delta ( x - \lambda _ { i } ) p _ { i }
+\end{equation}

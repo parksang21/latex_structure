@@ -1,0 +1,3 @@
+\begin{equation}
+	I = \beta M - A _ { b h } / 4 = \frac { \pi } { \Omega } ( M + Q U )
+\end{equation}

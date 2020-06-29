@@ -1,0 +1,3 @@
+\begin{equation}
+	D _ { a } = d a + 2 A ^ { \prime H }
+\end{equation}

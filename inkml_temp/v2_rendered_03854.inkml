@@ -1,0 +1,56 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_03854</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mo xml:id="\int_2">∫</mo><msub><mi xml:id="\beta_4">β</mi><mi xml:id="I_5">I</mi></msub><msub><mi xml:id="ω_7">ω</mi><mi xml:id="J_8">J</mi></msub><mo xml:id="=_9">=</mo><msubsup><mi xml:id="\delta_11">δ</mi><mi xml:id="J_12">J</mi><mi xml:id="I_13">I</mi></msubsup></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\int</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\int_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\beta</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\beta_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">I</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="I_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">ω</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="ω_7"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">J</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="J_8"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="=_9"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">\delta</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="\delta_11"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">J</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="J_12"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">I</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="I_13"/>
+	</traceGroup>
+</traceGroup>
+</ink>

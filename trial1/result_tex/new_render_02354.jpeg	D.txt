@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { b } \psi ^ { a b } \leqq 0 , \psi ^ { a b } \leqq \psi ^ { b a }
+\end{equation}

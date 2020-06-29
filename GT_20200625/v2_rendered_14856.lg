@@ -1,0 +1,37 @@
+# IUD, v2_rendered_14856
+# Objects(17):
+O, u_18, u, 1.0, ORRRRRRRRRRRRRRRR
+O, \notin_5, \notin, 1.0, ORRR
+O, d_11, d, 1.0, ORRRRRRRRR
+O, z_12, z, 1.0, ORRRRRRRRRR
+O, \notin_7, \notin, 1.0, ORRRRR
+O, \beta_6, \beta, 1.0, ORRRR
+O, d_17, d, 1.0, ORRRRRRRRRRRRRRR
+O, =_3, =, 1.0, OR
+O, \alpha_4, \alpha, 1.0, ORR
+O, \notin_13, \notin, 1.0, ORRRRRRRRRRR
+O, -_10, -, 1.0, ORRRRRRRR
+O, d_14, d, 1.0, ORRRRRRRRRRRR
+O, \gamma_8, \gamma, 1.0, ORRRRRR
+O, \notin_16, \notin, 1.0, ORRRRRRRRRRRRRR
+O, =_9, =, 1.0, ORRRRRRR
+O, v_15, v, 1.0, ORRRRRRRRRRRRR
+O, \phi_2, \phi, 1.0, O
+
+# Relations from SRT:
+R, -_10, d_11, Right, 1.0
+R, =_3, \alpha_4, Right, 1.0
+R, =_9, -_10, Right, 1.0
+R, \alpha_4, \notin_5, Right, 1.0
+R, \beta_6, \notin_7, Right, 1.0
+R, \gamma_8, =_9, Right, 1.0
+R, \notin_13, d_14, Right, 1.0
+R, \notin_16, d_17, Right, 1.0
+R, \notin_5, \beta_6, Right, 1.0
+R, \notin_7, \gamma_8, Right, 1.0
+R, \phi_2, =_3, Right, 1.0
+R, d_11, z_12, Right, 1.0
+R, d_14, v_15, Right, 1.0
+R, d_17, u_18, Right, 1.0
+R, v_15, \notin_16, Right, 1.0
+R, z_12, \notin_13, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	\tau _ { \beta } ^ { ( n ) } = - \sin n \beta \sigma _ { 1 } + \cos n \beta \sigma _ { 2 }
+\end{equation}

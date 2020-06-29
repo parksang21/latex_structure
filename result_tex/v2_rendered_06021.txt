@@ -1,0 +1,3 @@
+\begin{equation}
+	g = \prod _ { l } G _ { l } ( m _ { 0 } , \mu , \varepsilon , \Omega ) g _ { 0 } ^ { l }
+\end{equation}

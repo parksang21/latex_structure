@@ -1,0 +1,3 @@
+\begin{equation}
+	S _ { l _ { 0 } } = \{ g \not\subset G A d ^ { * } ( g ) l _ { 0 } = l _ { 0 } \}
+\end{equation}

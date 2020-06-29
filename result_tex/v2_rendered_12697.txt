@@ -1,0 +1,3 @@
+\begin{equation}
+	\psi ^ { a s } ( q ) = \sum _ { n = 0 } ^ { \infty } ( - \alpha ( q ) ) ^ { n }
+\end{equation}

@@ -1,0 +1,35 @@
+# IUD, v2_rendered_20854
+# Objects(16):
+O, b_15, b, 1.0, ORRRRRRRR
+O, COMMA_13, COMMA, 1.0, ORRRRRR
+O, )_10, ), 1.0, ORRR
+O, f_14, f, 1.0, ORRRRRRR
+O, \lambda_9, \lambda, 1.0, ORR
+O, (_8, (, 1.0, OR
+O, \beta_4, \beta, 1.0, OInside
+O, 9_12, 9, 1.0, ORRRRR
+O, \leq_11, \leq, 1.0, ORRRR
+O, \angle_6, \angle, 1.0, OSub
+O, \lambda_16, \lambda, 1.0, ORRRRRRRRR
+O, \lambda_7, \lambda, 1.0, OSubR
+O, \angle_18, \angle, 1.0, ORRRRRRRRRRR
+O, \lambda_19, \lambda, 1.0, ORRRRRRRRRRRR
+O, _3, \sqrt, 1.0, O
+O, \vee_17, \vee, 1.0, ORRRRRRRRRR
+
+# Relations from SRT:
+R, (_8, \lambda_9, Right, 1.0
+R, )_10, \leq_11, Right, 1.0
+R, 9_12, COMMA_13, Right, 1.0
+R, COMMA_13, f_14, Right, 1.0
+R, \angle_18, \lambda_19, Right, 1.0
+R, \angle_6, \lambda_7, Right, 1.0
+R, \lambda_16, \vee_17, Right, 1.0
+R, \lambda_9, )_10, Right, 1.0
+R, \leq_11, 9_12, Right, 1.0
+R, \vee_17, \angle_18, Right, 1.0
+R, _3, (_8, Right, 1.0
+R, _3, \angle_6, Sub, 1.0
+R, _3, \beta_4, Inside, 1.0
+R, b_15, \lambda_16, Right, 1.0
+R, f_14, b_15, Right, 1.0

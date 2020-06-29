@@ -1,0 +1,3 @@
+\begin{equation}
+	F _ { I } F _ { K } ^ { - 1 } F _ { J } = F _ { J }
+\end{equation}

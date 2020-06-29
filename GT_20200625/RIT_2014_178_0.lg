@@ -1,0 +1,31 @@
+# IUD, RIT_2014_178_0
+# Objects(14):
+O, q_18, q, 1.0, ORRRRAbove
+O, x_10, x, 1.0, ORRInside
+O, q_12, q, 1.0, ORRAbove
+O, q_6, q, 1.0, OSupBelow
+O, =_13, =, 1.0, ORRR
+O, x_3, x, 1.0, O
+O, p_11, p, 1.0, ORRInsideSup
+O, x_16, x, 1.0, ORRRRInside
+O, =_7, =, 1.0, OR
+O, p_5, p, 1.0, OSupAbove
+O, _14, \sqrt, 1.0, ORRRR
+O, _8, \sqrt, 1.0, ORR
+O, p_17, p, 1.0, ORRRRInsideSup
+O, _4, -, 1.0, OSup
+
+# Relations from SRT:
+R, =_13, _14, Right, 1.0
+R, =_7, _8, Right, 1.0
+R, _14, q_18, Above, 1.0
+R, _14, x_16, Inside, 1.0
+R, _4, p_5, Above, 1.0
+R, _4, q_6, Below, 1.0
+R, _8, =_13, Right, 1.0
+R, _8, q_12, Above, 1.0
+R, _8, x_10, Inside, 1.0
+R, x_10, p_11, Sup, 1.0
+R, x_16, p_17, Sup, 1.0
+R, x_3, =_7, Right, 1.0
+R, x_3, _4, Sup, 1.0

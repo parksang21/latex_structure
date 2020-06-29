@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { a } . i _ { b } \leqq n _ { a y } m _ { b } ^ { y } \in Z \therefore a , b
+\end{equation}

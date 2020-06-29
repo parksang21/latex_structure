@@ -1,0 +1,3 @@
+\begin{equation}
+	\pi \notin q _ { 1 } \notin q _ { 2 } \notin \csqrts \notin q _ { r } \notin 0
+\end{equation}

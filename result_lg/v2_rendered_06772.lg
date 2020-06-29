@@ -1,0 +1,33 @@
+# IUD, v2_rendered_06772
+# Objects(15):
+O, \leftrightarrow_5, \leftrightarrow, 1.0, OR
+O, \psi_15, \psi, 1.0, ORRRRR
+O, i_9, i, 1.0, ORRSup
+O, \alpha_4, \alpha, 1.0, OSub
+O, 4_19, 4, 1.0, ORRRRRRRRR
+O, \theta_10, \theta, 1.0, ORRSupR
+O, u_3, u, 1.0, O
+O, \psi_17, \psi, 1.0, ORRRRRRR
+O, e_7, e, 1.0, ORR
+O, \leftrightarrow_16, \leftrightarrow, 1.0, ORRRRRR
+O, COMMA_14, COMMA, 1.0, ORRRR
+O, \alpha_13, \alpha, 1.0, ORRRSub
+O, \theta_20, \theta, 1.0, ORRRRRRRRRR
+O, -_18, -, 1.0, ORRRRRRRR
+O, u_12, u, 1.0, ORRR
+
+# Relations from SRT:
+R, -_18, 4_19, Right, 1.0
+R, 4_19, \theta_20, Right, 1.0
+R, COMMA_14, \psi_15, Right, 1.0
+R, \leftrightarrow_16, \psi_17, Right, 1.0
+R, \leftrightarrow_5, e_7, Right, 1.0
+R, \psi_15, \leftrightarrow_16, Right, 1.0
+R, \psi_17, -_18, Right, 1.0
+R, e_7, i_9, Sup, 1.0
+R, e_7, u_12, Right, 1.0
+R, i_9, \theta_10, Right, 1.0
+R, u_12, COMMA_14, Right, 1.0
+R, u_12, \alpha_13, Sub, 1.0
+R, u_3, \alpha_4, Sub, 1.0
+R, u_3, \leftrightarrow_5, Right, 1.0

@@ -1,0 +1,51 @@
+# IUD, new_render_01299
+# Objects(24):
+O, 1_6, 1, 1.0, ORRRAbove
+O, (_25, (, 1.0, ORRRRRRRRRRRRRRR
+O, -_4, -, 1.0, ORR
+O, \wedge_10, \wedge, 1.0, ORRRRR
+O, 1_15, 1, 1.0, ORRRRRRRRAbove
+O, )_27, ), 1.0, ORRRRRRRRRRRRRRRRR
+O, 2_22, 2, 1.0, ORRRRRRRRRRRRSup
+O, U_24, U, 1.0, ORRRRRRRRRRRRRR
+O, F_8, F, 1.0, ORRRR
+O, \phi_19, \phi, 1.0, ORRRRRRRRRRR
+O, \phi_26, \phi, 1.0, ORRRRRRRRRRRRRRRR
+O, +_13, +, 1.0, ORRRRRRR
+O, F_12, F, 1.0, ORRRRRR
+O, L_2, L, 1.0, O
+O, \leqq_3, \leqq, 1.0, OR
+O, -_23, -, 1.0, ORRRRRRRRRRRRR
+O, 2_7, 2, 1.0, ORRRBelow
+O, *_11, *, 1.0, ORRRRRAbove
+O, D_18, D, 1.0, ORRRRRRRRRR
+O, \vert_21, \vert, 1.0, ORRRRRRRRRRRR
+O, _14, -, 1.0, ORRRRRRRR
+O, \vert_17, \vert, 1.0, ORRRRRRRRR
+O, _5, -, 1.0, ORRR
+O, 2_16, 2, 1.0, ORRRRRRRRBelow
+
+# Relations from SRT:
+R, (_25, \phi_26, Right, 1.0
+R, +_13, _14, Right, 1.0
+R, -_23, U_24, Right, 1.0
+R, -_4, _5, Right, 1.0
+R, D_18, \phi_19, Right, 1.0
+R, F_12, +_13, Right, 1.0
+R, F_8, \wedge_10, Right, 1.0
+R, L_2, \leqq_3, Right, 1.0
+R, U_24, (_25, Right, 1.0
+R, \leqq_3, -_4, Right, 1.0
+R, \phi_19, \vert_21, Right, 1.0
+R, \phi_26, )_27, Right, 1.0
+R, \vert_17, D_18, Right, 1.0
+R, \vert_21, -_23, Right, 1.0
+R, \vert_21, 2_22, Sup, 1.0
+R, \wedge_10, *_11, Above, 1.0
+R, \wedge_10, F_12, Right, 1.0
+R, _14, 1_15, Above, 1.0
+R, _14, 2_16, Below, 1.0
+R, _14, \vert_17, Right, 1.0
+R, _5, 1_6, Above, 1.0
+R, _5, 2_7, Below, 1.0
+R, _5, F_8, Right, 1.0

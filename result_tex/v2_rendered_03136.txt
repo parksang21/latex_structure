@@ -1,0 +1,3 @@
+\begin{equation}
+	F _ { \mu } = \Delta _ { \tau } ( h _ { \mu } ^ { \tau } - \frac { 1 } { 2 } \delta _ { \mu } ^ { \tau } h )
+\end{equation}

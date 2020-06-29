@@ -1,0 +1,3 @@
+\begin{equation}
+	\rho ( q ) \equiv \langle 0 \vert \delta ( q - \phi ) \vert 0 \rangle \geq 0 , \int d q \rho ( q ) = 1
+\end{equation}

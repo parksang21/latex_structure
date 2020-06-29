@@ -1,0 +1,61 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_23547</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mo xml:id="\forall_2">∀</mo><mi xml:id="Q_3">Q</mi><mo xml:id="\in_4">∈</mo><mi xml:id="\rho_5">ρ</mi><mo xml:id="\subset_6">⊂</mo><mi xml:id="M_7">M</mi><mi xml:id="Q_8">Q</mi><mo form="prefix" stretchy="false" xml:id="(_9">(</mo><mn xml:id="9_10">9</mn><mo form="postfix" stretchy="false" xml:id=")_11">)</mo></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\forall</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\forall_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">Q</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="Q_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\in</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\in_4"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\rho</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\rho_5"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">\subset</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="\subset_6"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">M</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="M_7"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">Q</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="Q_8"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="(_9"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">9</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="9_10"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href=")_11"/>
+	</traceGroup>
+</traceGroup>
+</ink>

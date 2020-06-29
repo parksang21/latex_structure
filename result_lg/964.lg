@@ -1,0 +1,19 @@
+# IUD, 964
+# Objects(8):
+O, 4_11, 4, 1.0, ORRBelow
+O, 2_10, 2, 1.0, ORRAboveRInside
+O, _6, -, 1.0, ORR
+O, \gamma_3, \gamma, 1.0, O
+O, \pi_8, \pi, 1.0, ORRAbove
+O, h_4, h, 1.0, OSub
+O, _9, \sqrt, 1.0, ORRAboveR
+O, \gt_5, \gt, 1.0, OR
+
+# Relations from SRT:
+R, \gamma_3, \gt_5, Right, 1.0
+R, \gamma_3, h_4, Sub, 1.0
+R, \gt_5, _6, Right, 1.0
+R, \pi_8, _9, Right, 1.0
+R, _6, 4_11, Below, 1.0
+R, _6, \pi_8, Above, 1.0
+R, _9, 2_10, Inside, 1.0

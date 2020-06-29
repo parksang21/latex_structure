@@ -1,0 +1,3 @@
+\begin{equation}
+	v ^ { \mu } = v ^ { \mu } - 2 \frac { ( w \csqrt v ) w ^ { \mu } } { ( w \csqrt w ) }
+\end{equation}

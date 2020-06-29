@@ -1,0 +1,27 @@
+# IUD, RIT_2014_42_0
+# Objects(12):
+O, +_8, +, 1.0, ORRRRRR
+O, \alpha_6, \alpha, 1.0, ORRRR
+O, \alpha_3, \alpha, 1.0, OR
+O, \beta_12, \beta, 1.0, ORRRRRRRRRR
+O, \gamma_10, \gamma, 1.0, ORRRRRRRR
+O, =_5, =, 1.0, ORRR
+O, \alpha_9, \alpha, 1.0, ORRRRRRR
+O, \sum_2, \sum, 1.0, O
+O, \beta_7, \beta, 1.0, ORRRRR
+O, +_11, +, 1.0, ORRRRRRRRR
+O, \beta_4, \beta, 1.0, ORR
+O, \gamma_13, \gamma, 1.0, ORRRRRRRRRRR
+
+# Relations from SRT:
+R, +_11, \beta_12, Right, 1.0
+R, +_8, \alpha_9, Right, 1.0
+R, =_5, \alpha_6, Right, 1.0
+R, \alpha_3, \beta_4, Right, 1.0
+R, \alpha_6, \beta_7, Right, 1.0
+R, \alpha_9, \gamma_10, Right, 1.0
+R, \beta_12, \gamma_13, Right, 1.0
+R, \beta_4, =_5, Right, 1.0
+R, \beta_7, +_8, Right, 1.0
+R, \gamma_10, +_11, Right, 1.0
+R, \sum_2, \alpha_3, Right, 1.0

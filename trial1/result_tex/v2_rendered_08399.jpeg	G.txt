@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { A B } \equiv \theta _ { \mu \varepsilon } x _ { , A } ^ { \mu } x _ { , B } ^ { \varepsilon }
+\end{equation}

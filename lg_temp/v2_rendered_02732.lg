@@ -1,0 +1,41 @@
+# IUD, v2_rendered_02732
+# Objects(19):
+O, \lambda_23, \lambda, 1.0, 15
+O, h_9, h, 1.0, 4
+O, (_8, (, 1.0, 3
+O, F_11, F, 1.0, 6
+O, *_17, *, 1.0, 10
+O, H_4, H, 1.0, 0
+O, \beta_6, \beta, 1.0, 1
+O, 1_25, 1, 1.0, 17
+O, -_7, -, 1.0, 2
+O, -_16, -, 1.0, 9
+O, \geq_24, \geq, 1.0, 16
+O, )_10, ), 1.0, 5
+O, \circle_19, \circle, 1.0, 12
+O, \beta_14, \beta, 1.0, 8
+O, H_21, H, 1.0, 13
+O, _3, \sqrt, 1.0, 18
+O, h_22, h, 1.0, 14
+O, \circle_12, \circle, 1.0, 7
+O, h_18, h, 1.0, 11
+
+# Relations from SRT:
+R, (_8, h_9, Right, 1.0
+R, *_17, h_18, Right, 1.0
+R, -_16, *_17, Right, 1.0
+R, -_7, (_8, Right, 1.0
+R, H_21, \geq_24, Right, 1.0
+R, H_21, \lambda_23, Sup, 1.0
+R, H_21, h_22, Sub, 1.0
+R, \beta_14, -_16, Sub, 1.0
+R, \beta_14, \circle_19, Right, 1.0
+R, \beta_6, -_7, Right, 1.0
+R, \circle_12, \beta_14, Right, 1.0
+R, \circle_19, H_21, Right, 1.0
+R, \geq_24, 1_25, Right, 1.0
+R, _3, F_11, Sup, 1.0
+R, _3, H_4, Inside, 1.0
+R, _3, \beta_6, Sub, 1.0
+R, _3, \circle_12, Right, 1.0
+R, h_9, )_10, Right, 1.0

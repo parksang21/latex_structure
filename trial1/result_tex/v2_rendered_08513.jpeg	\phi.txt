@@ -1,0 +1,3 @@
+\begin{equation}
+	( A ) = \varphi ( A ) 1 , A \vee \rho ^ { 2 } ( A ) ^ { \prime }
+\end{equation}

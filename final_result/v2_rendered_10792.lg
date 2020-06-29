@@ -1,0 +1,39 @@
+# IUD, v2_rendered_10792
+# Objects(18):
+O, n_21, n, 1.0, ORRRRRRRSub
+O, R_20, R, 1.0, ORRRRRRR
+O, t_17, t, 1.0, ORRRRRR
+O, ]_24, ], 1.0, ORRRRRRRRRR
+O, =_12, =, 1.0, ORRRRBelowR
+O, 1_13, 1, 1.0, ORRRRBelowRR
+O, n_15, n, 1.0, ORRRRR
+O, n_11, n, 1.0, ORRRRBelow
+O, u_23, u, 1.0, ORRRRRRRRR
+O, \infty_14, \infty, 1.0, ORRRRAbove
+O, n_18, n, 1.0, ORRRRRRSub
+O, t_5, t, 1.0, ORR
+O, u_2, u, 1.0, O
+O, \sum_9, \sum, 1.0, ORRRR
+O, 0_6, 0, 1.0, ORRSub
+O, [_22, [, 1.0, ORRRRRRRR
+O, +_7, +, 1.0, ORRR
+O, =_3, =, 1.0, OR
+
+# Relations from SRT:
+R, +_7, \sum_9, Right, 1.0
+R, =_12, 1_13, Right, 1.0
+R, =_3, t_5, Right, 1.0
+R, R_20, [_22, Right, 1.0
+R, R_20, n_21, Sub, 1.0
+R, [_22, u_23, Right, 1.0
+R, \sum_9, \infty_14, Above, 1.0
+R, \sum_9, n_11, Below, 1.0
+R, \sum_9, n_15, Right, 1.0
+R, n_11, =_12, Right, 1.0
+R, n_15, t_17, Right, 1.0
+R, t_17, R_20, Right, 1.0
+R, t_17, n_18, Sub, 1.0
+R, t_5, +_7, Right, 1.0
+R, t_5, 0_6, Sub, 1.0
+R, u_23, ]_24, Right, 1.0
+R, u_2, =_3, Right, 1.0

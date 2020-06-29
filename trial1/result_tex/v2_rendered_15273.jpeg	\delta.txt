@@ -1,0 +1,3 @@
+\begin{equation}
+	( D [ A ] , s ) = T r ( D ^ { - s } [ A ] )
+\end{equation}

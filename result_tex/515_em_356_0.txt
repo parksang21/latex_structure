@@ -1,0 +1,3 @@
+\begin{equation}
+	x \rightarrow 0
+\end{equation}

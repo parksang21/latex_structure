@@ -1,0 +1,3 @@
+\begin{equation}
+	\propto \pi / 2 , v \propto 0
+\end{equation}

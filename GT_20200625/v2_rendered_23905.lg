@@ -1,0 +1,42 @@
+# IUD, v2_rendered_23905
+# Objects(19):
+O, \pi_8, \pi, 1.0, ORRRR
+O, 8_7, 8, 1.0, ORRR
+O, g_22, g, 1.0, ORRRRRRRRRInsideR
+O, d_11, d, 1.0, ORRRRRR
+O, -_6, -, 1.0, ORR
+O, g_15, g, 1.0, ORRRRRRRR
+O, -_21, -, 1.0, ORRRRRRRRRInside
+O, x_13, x, 1.0, ORRRRRRR
+O, \rho_27, \rho, 1.0, ORRRRRRRRRRSubR
+O, =_5, =, 1.0, OR
+O, _19, \sqrt, 1.0, ORRRRRRRRR
+O, \rho_18, \rho, 1.0, ORRRRRRRRSupR
+O, M_4, M, 1.0, OSub
+O, \mu_26, \mu, 1.0, ORRRRRRRRRRSub
+O, \mu_17, \mu, 1.0, ORRRRRRRRSup
+O, T_24, T, 1.0, ORRRRRRRRRR
+O, S_3, S, 1.0, O
+O, 4_12, 4, 1.0, ORRRRRRSup
+O, \int_9, \int, 1.0, ORRRRR
+
+# Relations from SRT:
+R, -_21, g_22, Right, 1.0
+R, -_6, 8_7, Right, 1.0
+R, 8_7, \pi_8, Right, 1.0
+R, =_5, -_6, Right, 1.0
+R, S_3, =_5, Right, 1.0
+R, S_3, M_4, Sub, 1.0
+R, T_24, \mu_26, Sub, 1.0
+R, \int_9, d_11, Right, 1.0
+R, \mu_17, \rho_18, Right, 1.0
+R, \mu_26, \rho_27, Right, 1.0
+R, \pi_8, \int_9, Right, 1.0
+R, _19, -_21, Inside, 1.0
+R, _19, T_24, Right, 1.0
+R, _19, g_22, Inside, 1.0
+R, d_11, 4_12, Sup, 1.0
+R, d_11, x_13, Right, 1.0
+R, g_15, \mu_17, Sup, 1.0
+R, g_15, _19, Right, 1.0
+R, x_13, g_15, Right, 1.0

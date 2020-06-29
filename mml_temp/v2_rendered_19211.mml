@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>M</mi><mo>=</mo><mfrac><mrow><mi>ω</mi><mi>A</mi></mrow><mrow><mn>4</mn><mi>π</mi></mrow></mfrac><mo>+</mo><mn>2</mn><msub><mi>Ω</mi><mi>H</mi></msub><mi>J</mi><mo>+</mo><msub><mi>γ</mi><mi>H</mi></msub><mi>Q</mi><mo>+</mo><msub><mi>ϕ</mi><mi>H</mi></msub><mi>ρ</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+    M = \frac { \omega A } { 4 \pi } + 2 \Omega _ { H } J + \gamma _ { H } Q + \phi _ { H } \rho
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

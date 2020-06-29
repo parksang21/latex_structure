@@ -1,0 +1,31 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">28_em_144_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><munder><mo xml:id="\sum_3">∑</mo><mi xml:id="i_4">i</mi></munder><msub><mi xml:id="K_6">K</mi><mi xml:id="i_7">i</mi></msub></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\sum</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\sum_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">i</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="i_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">K</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="K_6"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">i</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="i_7"/>
+	</traceGroup>
+</traceGroup>
+</ink>

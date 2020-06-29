@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>B</mi><mo stretchy="false" form="prefix">(</mo><msub><mi>j</mi><mi>ε</mi></msub><mo stretchy="false" form="prefix">(</mo><mi>t</mi><mo stretchy="false" form="postfix">)</mo><mo>,</mo><msub><mi>j</mi><mi>ε</mi></msub><mo stretchy="false" form="prefix">(</mo><mi>x</mi><mo stretchy="false" form="postfix">)</mo><mo stretchy="false" form="postfix">)</mo><mo>≦</mo><mi>B</mi><mo stretchy="false" form="prefix">(</mo><mi>t</mi><mo>,</mo><mi>x</mi><mo stretchy="false" form="postfix">)</mo><mo>,</mo><mo>∴</mo><mi>ε</mi><mo>&lt;</mo><mi>Δ</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+    B ( j _ { \varepsilon } ( t ) , j _ { \varepsilon } ( x ) ) \leqq B ( t , x ) , \therefore \varepsilon &lt; \Delta
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

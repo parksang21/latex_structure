@@ -1,0 +1,3 @@
+\begin{equation}
+	H ( \alpha ) \approx \frac { s ^ { 4 } } { 4 } \vert \alpha \vert ^ { l } \div \frac { \rho } { 7 ! } \vert \alpha \vert ^ { 7 }
+\end{equation}

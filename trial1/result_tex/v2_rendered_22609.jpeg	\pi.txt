@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { 0 } ( A ( C ) ) \in \pi _ { 0 } ( A ( C ^ { \prime } ) ) ^ { \prime }
+\end{equation}

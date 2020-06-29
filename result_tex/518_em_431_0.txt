@@ -1,0 +1,3 @@
+\begin{equation}
+	a x - b y = 5 t + b y - b y
+\end{equation}

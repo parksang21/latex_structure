@@ -1,0 +1,3 @@
+\begin{equation}
+	L _ { \delta } ^ { a } p ^ { \delta } - L ^ { a \delta } q _ { \delta } = 0
+\end{equation}

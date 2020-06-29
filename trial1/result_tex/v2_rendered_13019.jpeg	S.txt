@@ -1,0 +1,3 @@
+\begin{equation}
+	= I _ { } _ { E , h } ^ { } ^ { \infty } - I _ { } _ { E } ^ { } ^ { \infty }
+\end{equation}

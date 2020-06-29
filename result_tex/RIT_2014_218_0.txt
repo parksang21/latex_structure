@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { \sin A + \sin 3 A } { \cos A + \cos 3 } = \tan 2 A
+\end{equation}

@@ -1,0 +1,39 @@
+# IUD, new_render_00476
+# Objects(18):
+O, 6_17, 6, 1.0, ORRRRRRRRR
+O, t_9, t, 1.0, ORRRSub
+O, \leqq_10, \leqq, 1.0, ORRRR
+O, COMMA_18, COMMA, 1.0, ORRRRRRRRRR
+O, =_16, =, 1.0, ORRRRRRRR
+O, \tau_12, \tau, 1.0, ORRRRRAbove
+O, 6_21, 6, 1.0, ORRRRRRRRRRRRR
+O, t_5, t, 1.0, ORSup
+O, 2_13, 2, 1.0, ORRRRRBelow
+O, \square_6, \square, 1.0, ORR
+O, p_8, p, 1.0, ORRR
+O, q_4, q, 1.0, OR
+O, \square_2, \square, 1.0, O
+O, COMMA_14, COMMA, 1.0, ORRRRRR
+O, _11, -, 1.0, ORRRRR
+O, t_15, t, 1.0, ORRRRRRR
+O, 2_19, 2, 1.0, ORRRRRRRRRRR
+O, COMMA_20, COMMA, 1.0, ORRRRRRRRRRRR
+
+# Relations from SRT:
+R, 2_19, COMMA_20, Right, 1.0
+R, 6_17, COMMA_18, Right, 1.0
+R, =_16, 6_17, Right, 1.0
+R, COMMA_14, t_15, Right, 1.0
+R, COMMA_18, 2_19, Right, 1.0
+R, COMMA_20, 6_21, Right, 1.0
+R, \leqq_10, _11, Right, 1.0
+R, \square_2, q_4, Right, 1.0
+R, \square_6, p_8, Right, 1.0
+R, _11, 2_13, Below, 1.0
+R, _11, COMMA_14, Right, 1.0
+R, _11, \tau_12, Above, 1.0
+R, p_8, \leqq_10, Right, 1.0
+R, p_8, t_9, Sub, 1.0
+R, q_4, \square_6, Right, 1.0
+R, q_4, t_5, Sup, 1.0
+R, t_15, =_16, Right, 1.0

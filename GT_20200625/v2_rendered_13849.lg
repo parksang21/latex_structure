@@ -1,0 +1,37 @@
+# IUD, v2_rendered_13849
+# Objects(17):
+O, COMMA_13, COMMA, 1.0, ORRRRRRR
+O, _14, -, 1.0, ORRRRRRRR
+O, M_9, M, 1.0, ORRRRAbove
+O, \vee_11, \vee, 1.0, ORRRRR
+O, P_15, P, 1.0, ORRRRRRRRAbove
+O, N_3, N, 1.0, OAbove
+O, COMMA_7, COMMA, 1.0, ORRR
+O, M_4, M, 1.0, OBelow
+O, Z_12, Z, 1.0, ORRRRRR
+O, Q_16, Q, 1.0, ORRRRRRRRBelow
+O, \vee_17, \vee, 1.0, ORRRRRRRRR
+O, Z_6, Z, 1.0, ORR
+O, _8, -, 1.0, ORRRR
+O, P_10, P, 1.0, ORRRRBelow
+O, _2, -, 1.0, O
+O, \vee_5, \vee, 1.0, OR
+O, Z_18, Z, 1.0, ORRRRRRRRRR
+
+# Relations from SRT:
+R, COMMA_13, _14, Right, 1.0
+R, COMMA_7, _8, Right, 1.0
+R, Z_12, COMMA_13, Right, 1.0
+R, Z_6, COMMA_7, Right, 1.0
+R, \vee_11, Z_12, Right, 1.0
+R, \vee_17, Z_18, Right, 1.0
+R, \vee_5, Z_6, Right, 1.0
+R, _14, P_15, Above, 1.0
+R, _14, Q_16, Below, 1.0
+R, _14, \vee_17, Right, 1.0
+R, _2, M_4, Below, 1.0
+R, _2, N_3, Above, 1.0
+R, _2, \vee_5, Right, 1.0
+R, _8, M_9, Above, 1.0
+R, _8, P_10, Below, 1.0
+R, _8, \vee_11, Right, 1.0

@@ -1,0 +1,45 @@
+# IUD, v2_rendered_00870
+# Objects(21):
+O, d_19, d, 1.0, 16
+O, B_13, B, 1.0, 11
+O, t_8, t, 1.0, 6
+O, d_10, d, 1.0, 8
+O, r_15, r, 1.0, 12
+O, \sin_17, \sin, 1.0, 14
+O, \theta_18, \theta, 1.0, 15
+O, z_11, z, 1.0, 9
+O, E_6, E, 1.0, 4
+O, \wedge_9, \wedge, 1.0, 7
+O, 2_16, 2, 1.0, 13
+O, \theta_20, \theta, 1.0, 17
+O, d_22, d, 1.0, 19
+O, d_7, d, 1.0, 5
+O, \beta_23, \beta, 1.0, 20
+O, +_12, +, 1.0, 10
+O, \wedge_21, \wedge, 1.0, 18
+O, \pi_3, \pi, 1.0, 1
+O, F_4, F, 1.0, 2
+O, =_5, =, 1.0, 3
+O, 2_2, 2, 1.0, 0
+
+# Relations from SRT:
+R, +_12, B_13, Right, 1.0
+R, 2_2, \pi_3, Right, 1.0
+R, =_5, E_6, Right, 1.0
+R, B_13, r_15, Right, 1.0
+R, E_6, d_7, Right, 1.0
+R, F_4, =_5, Right, 1.0
+R, \pi_3, F_4, Right, 1.0
+R, \sin_17, \theta_18, Right, 1.0
+R, \theta_18, d_19, Right, 1.0
+R, \theta_20, \wedge_21, Right, 1.0
+R, \wedge_21, d_22, Right, 1.0
+R, \wedge_9, d_10, Right, 1.0
+R, d_10, z_11, Right, 1.0
+R, d_19, \theta_20, Right, 1.0
+R, d_22, \beta_23, Right, 1.0
+R, d_7, t_8, Right, 1.0
+R, r_15, 2_16, Sup, 1.0
+R, r_15, \sin_17, Right, 1.0
+R, t_8, \wedge_9, Right, 1.0
+R, z_11, +_12, Right, 1.0

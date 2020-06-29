@@ -1,0 +1,39 @@
+# IUD, v2_rendered_24116
+# Objects(18):
+O, +_21, +, 1.0, ORRRRRRRRRRR
+O, 2_4, 2, 1.0, OSup
+O, -_16, -, 1.0, ORRRRRRRR
+O, (_6, (, 1.0, ORR
+O, y_3, y, 1.0, O
+O, 2_12, 2, 1.0, ORRRRRSup
+O, s_13, s, 1.0, ORRRRRSupR
+O, 1_8, 1, 1.0, ORRRR
+O, 2_24, 2, 1.0, ORRRRRRRRRRRRSup
+O, u_23, u, 1.0, ORRRRRRRRRRRR
+O, )_20, ), 1.0, ORRRRRRRRRR
+O, (_14, (, 1.0, ORRRRRR
+O, -_7, -, 1.0, ORRR
+O, )_10, ), 1.0, ORRRRR
+O, x_15, x, 1.0, ORRRRRRR
+O, =_5, =, 1.0, OR
+O, g_19, g, 1.0, ORRRRRRRRRSup
+O, x_18, x, 1.0, ORRRRRRRRR
+
+# Relations from SRT:
+R, (_14, x_15, Right, 1.0
+R, (_6, -_7, Right, 1.0
+R, )_10, (_14, Right, 1.0
+R, )_10, 2_12, Sup, 1.0
+R, )_20, +_21, Right, 1.0
+R, +_21, u_23, Right, 1.0
+R, -_16, x_18, Right, 1.0
+R, -_7, 1_8, Right, 1.0
+R, 1_8, )_10, Right, 1.0
+R, 2_12, s_13, Right, 1.0
+R, =_5, (_6, Right, 1.0
+R, u_23, 2_24, Sup, 1.0
+R, x_15, -_16, Right, 1.0
+R, x_18, )_20, Right, 1.0
+R, x_18, g_19, Sup, 1.0
+R, y_3, 2_4, Sup, 1.0
+R, y_3, =_5, Right, 1.0

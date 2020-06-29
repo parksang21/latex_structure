@@ -1,0 +1,3 @@
+\begin{equation}
+	\omega ^ { \prime } \geq n \circ \omega \circ \theta
+\end{equation}

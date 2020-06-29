@@ -1,0 +1,3 @@
+\begin{equation}
+	= \alpha _ { m } = \int _ { C } \frac { d z } { 2 \pi } z ^ { m } \Delta X , m \geq 0
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	{ e } \leqq e / \varepsilon , \tilde { G } _ { 4 } \leqq G _ { 4 }
+\end{equation}

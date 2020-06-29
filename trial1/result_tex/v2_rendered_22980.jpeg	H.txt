@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { p } ( G R ) \odot H _ { p } ( G ^ { * } R ) \rightarrow R
+\end{equation}

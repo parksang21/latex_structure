@@ -1,0 +1,3 @@
+\begin{equation}
+	A = \{ D , A \} , A \not\subset \sigma _ { - }
+\end{equation}

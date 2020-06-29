@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>τ</mi><mo stretchy="false" form="prefix">(</mo><mi>X</mi><mo stretchy="false" form="postfix">)</mo><mo>=</mo><msub><mi>Y</mi><mi>X</mi></msub><mi>Ω</mi><mo>,</mo><mo>∀</mo><mi>X</mi><mo>&lt;</mo><mi>ε</mi><mi>D</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \tau ( X ) = Y _ { X } \Omega , \forall X &lt; \varepsilon D
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

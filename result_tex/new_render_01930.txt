@@ -1,0 +1,3 @@
+\begin{equation}
+	\sqrt { \delta } _ { k } 4 \leq \delta _ { K } G \div 4 i [ \square _ { Y } ^ { - 1 } \phi \csqrt Y , G ]
+\end{equation}

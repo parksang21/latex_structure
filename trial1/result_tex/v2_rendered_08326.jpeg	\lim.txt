@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { i < j } \sqrt { l _ { i } l _ { j } } \leq \frac { n - 1 } { 2 }
+\end{equation}

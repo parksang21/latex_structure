@@ -1,0 +1,19 @@
+# IUD, RIT_2014_181_0
+# Objects(8):
+O, )_11, ), 1.0, 7
+O, (_9, (, 1.0, 5
+O, f_8, f, 1.0, 4
+O, \rightarrow_6, \rightarrow, 1.0, 2
+O, \infty_7, \infty, 1.0, 3
+O, 6_5, 6, 1.0, 1
+O, 6_10, 6, 1.0, 6
+O, \lim_3, \lim, 1.0, 0
+
+# Relations from SRT:
+R, (_9, 6_10, Right, 1.0
+R, 6_10, )_11, Right, 1.0
+R, 6_5, \rightarrow_6, Right, 1.0
+R, \lim_3, 6_5, Below, 1.0
+R, \lim_3, f_8, Right, 1.0
+R, \rightarrow_6, \infty_7, Right, 1.0
+R, f_8, (_9, Right, 1.0

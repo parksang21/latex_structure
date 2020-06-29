@@ -1,0 +1,39 @@
+# IUD, v2_rendered_11099
+# Objects(18):
+O, f_8, f, 1.0, ORRAboveR
+O, \otimes_10, \otimes, 1.0, ORRAboveRR
+O, f_22, f, 1.0, ORRBelowRRR
+O, \prime_9, \prime, 1.0, ORRAboveRSup
+O, _4, -, 1.0, ORR
+O, 1_19, 1, 1.0, ORRBelowRSup
+O, (_16, (, 1.0, ORRBelow
+O, 2_26, 2, 1.0, ORRBelowRRRRSup
+O, 2_14, 2, 1.0, ORRAboveRRRRSup
+O, -_20, -, 1.0, ORRBelowRR
+O, 2_23, 2, 1.0, ORRBelowRRRSup
+O, f_18, f, 1.0, ORRBelowR
+O, f_13, f, 1.0, ORRAboveRRRR
+O, )_25, ), 1.0, ORRBelowRRRR
+O, =_3, =, 1.0, OR
+O, d_6, d, 1.0, ORRAbove
+O, d_11, d, 1.0, ORRAboveRRR
+O, g_2, g, 1.0, O
+
+# Relations from SRT:
+R, (_16, f_18, Right, 1.0
+R, )_25, 2_26, Sup, 1.0
+R, -_20, f_22, Right, 1.0
+R, =_3, _4, Right, 1.0
+R, \otimes_10, d_11, Right, 1.0
+R, _4, (_16, Below, 1.0
+R, _4, d_6, Above, 1.0
+R, d_11, f_13, Right, 1.0
+R, d_6, f_8, Right, 1.0
+R, f_13, 2_14, Sup, 1.0
+R, f_18, -_20, Right, 1.0
+R, f_18, 1_19, Sup, 1.0
+R, f_22, )_25, Right, 1.0
+R, f_22, 2_23, Sup, 1.0
+R, f_8, \otimes_10, Right, 1.0
+R, f_8, \prime_9, Sup, 1.0
+R, g_2, =_3, Right, 1.0

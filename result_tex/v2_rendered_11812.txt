@@ -1,0 +1,3 @@
+\begin{equation}
+	\tau \rightarrow - 1 \div \tau + n \rightarrow - s
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	G ( P ) = R e F ( h _ { + } , h - \frac { D } { 2 } \frac { 1 + p } { 2 } )
+\end{equation}

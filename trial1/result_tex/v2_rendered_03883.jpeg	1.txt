@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { M } ^ { N } ( \theta _ { N } ^ { \prime } \theta
+\end{equation}

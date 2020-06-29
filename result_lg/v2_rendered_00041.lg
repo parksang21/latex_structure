@@ -1,0 +1,45 @@
+# IUD, v2_rendered_00041
+# Objects(21):
+O, _5, \sqrt, 1.0, ORR
+O, 1_2, 1, 1.0, O
+O, \Leftrifhtarrow_3, \Leftrifhtarrow, 1.0, OR
+O, 1_28, 1, 1.0, ORRRRRRRRRRR
+O, \Leftrifhtarrow_27, \Leftrifhtarrow, 1.0, ORRRRRRRRRR
+O, \Leftrifhtarrow_13, \Leftrifhtarrow, 1.0, ORRRRRR
+O, g_17, g, 1.0, ORRRRRRRSub
+O, \Leftrifhtarrow_20, \Leftrifhtarrow, 1.0, ORRRRRRRR
+O, n_19, n, 1.0, ORRRRRRRSubRR
+O, q_11, q, 1.0, ORRRRSub
+O, COMMA_25, COMMA, 1.0, ORRRRRRRRRSubR
+O, \phi_10, \phi, 1.0, ORRRR
+O, 0_26, 0, 1.0, ORRRRRRRRRSubRR
+O, M_22, M, 1.0, ORRRRRRRRR
+O, B_6, B, 1.0, ORRInside
+O, M_15, M, 1.0, ORRRRRRR
+O, g_24, g, 1.0, ORRRRRRRRRSub
+O, (_8, (, 1.0, ORRR
+O, n_7, n, 1.0, ORRSub
+O, COMMA_18, COMMA, 1.0, ORRRRRRRSubR
+O, )_12, ), 1.0, ORRRRR
+
+# Relations from SRT:
+R, (_8, \phi_10, Right, 1.0
+R, )_12, \Leftrifhtarrow_13, Right, 1.0
+R, 1_2, \Leftrifhtarrow_3, Right, 1.0
+R, COMMA_18, n_19, Right, 1.0
+R, COMMA_25, 0_26, Right, 1.0
+R, M_15, \Leftrifhtarrow_20, Right, 1.0
+R, M_15, g_17, Sub, 1.0
+R, M_22, \Leftrifhtarrow_27, Right, 1.0
+R, M_22, g_24, Sub, 1.0
+R, \Leftrifhtarrow_13, M_15, Right, 1.0
+R, \Leftrifhtarrow_20, M_22, Right, 1.0
+R, \Leftrifhtarrow_27, 1_28, Right, 1.0
+R, \Leftrifhtarrow_3, _5, Right, 1.0
+R, \phi_10, )_12, Right, 1.0
+R, \phi_10, q_11, Sub, 1.0
+R, _5, (_8, Right, 1.0
+R, _5, B_6, Inside, 1.0
+R, _5, n_7, Sub, 1.0
+R, g_17, COMMA_18, Right, 1.0
+R, g_24, COMMA_25, Right, 1.0

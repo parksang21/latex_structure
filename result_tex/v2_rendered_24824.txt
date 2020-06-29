@@ -1,0 +1,3 @@
+\begin{equation}
+	\phi _ { U } = ( \Omega _ { B } \oplus i d ) \circ ( i d \oplus \Delta ) \circ \Omega _ { \beta } ^ { - 1 }
+\end{equation}

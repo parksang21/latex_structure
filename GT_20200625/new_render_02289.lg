@@ -1,0 +1,49 @@
+# IUD, new_render_02289
+# Objects(23):
+O, \geqq_11, \geqq, 1.0, ORRRRRRR
+O, [_3, [, 1.0, OR
+O, P_2, P, 1.0, O
+O, \gt_7, \gt, 1.0, ORRR
+O, \geqq_21, \geqq, 1.0, ORRRRRRRRRRRRRBelowR
+O, \geq_14, \geq, 1.0, ORRRRRRRRRR
+O, s_27, s, 1.0, ORRRRRRRRRRRRRRRR
+O, ]_13, ], 1.0, ORRRRRRRRR
+O, t_8, t, 1.0, ORRRR
+O, m_22, m, 1.0, ORRRRRRRRRRRRRBelowRR
+O, [_16, [, 1.0, ORRRRRRRRRRRR
+O, n_25, n, 1.0, ORRRRRRRRRRRRRRSub
+O, n_10, n, 1.0, ORRRRRR
+O, X_24, X, 1.0, ORRRRRRRRRRRRRR
+O, n_6, n, 1.0, ORRSub
+O, n_20, n, 1.0, ORRRRRRRRRRRRRBelow
+O, \sum_18, \sum, 1.0, ORRRRRRRRRRRRR
+O, \forall_9, \forall, 1.0, ORRRRR
+O, P_15, P, 1.0, ORRRRRRRRRRR
+O, ]_28, ], 1.0, ORRRRRRRRRRRRRRRRR
+O, X_5, X, 1.0, ORR
+O, \gt_26, \gt, 1.0, ORRRRRRRRRRRRRRR
+O, m_12, m, 1.0, ORRRRRRRR
+
+# Relations from SRT:
+R, P_15, [_16, Right, 1.0
+R, P_2, [_3, Right, 1.0
+R, X_24, \gt_26, Right, 1.0
+R, X_24, n_25, Sub, 1.0
+R, X_5, \gt_7, Right, 1.0
+R, X_5, n_6, Sub, 1.0
+R, [_16, \sum_18, Right, 1.0
+R, [_3, X_5, Right, 1.0
+R, \forall_9, n_10, Right, 1.0
+R, \geq_14, P_15, Right, 1.0
+R, \geqq_11, m_12, Right, 1.0
+R, \geqq_21, m_22, Right, 1.0
+R, \gt_26, s_27, Right, 1.0
+R, \gt_7, t_8, Right, 1.0
+R, \sum_18, X_24, Right, 1.0
+R, \sum_18, n_20, Below, 1.0
+R, ]_13, \geq_14, Right, 1.0
+R, m_12, ]_13, Right, 1.0
+R, n_10, \geqq_11, Right, 1.0
+R, n_20, \geqq_21, Right, 1.0
+R, s_27, ]_28, Right, 1.0
+R, t_8, \forall_9, Right, 1.0

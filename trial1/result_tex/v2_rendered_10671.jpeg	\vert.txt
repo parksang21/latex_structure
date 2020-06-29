@@ -1,0 +1,3 @@
+\begin{equation}
+	\mu > \Leftrightarrow d s _ { \mu } ^ { 2 } = < \mu \vert d \dot { s } ^ { 2 } \vert \mu >
+\end{equation}

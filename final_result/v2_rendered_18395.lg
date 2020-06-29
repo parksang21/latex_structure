@@ -1,0 +1,47 @@
+# IUD, v2_rendered_18395
+# Objects(22):
+O, d_26, d, 1.0, ORRRRRRRRRRRRR
+O, 2_15, 2, 1.0, ORRRRRRSup
+O, d_8, d, 1.0, ORRR
+O, 2_20, 2, 1.0, ORRRRRRRRRSup
+O, \psi_28, \psi, 1.0, ORRRRRRRRRRRRRR
+O, \Omega_4, \Omega, 1.0, OR
+O, 2_24, 2, 1.0, ORRRRRRRRRRRSup
+O, +_21, +, 1.0, ORRRRRRRRRR
+O, 3_5, 3, 1.0, ORSub
+O, \sin_14, \sin, 1.0, ORRRRRR
+O, d_2, d, 1.0, O
+O, \theta_16, \theta, 1.0, ORRRRRRR
+O, =_7, =, 1.0, ORR
+O, \theta_10, \theta, 1.0, ORRRR
+O, d_17, d, 1.0, ORRRRRRRR
+O, 2_6, 2, 1.0, ORSup
+O, \cos_23, \cos, 1.0, ORRRRRRRRRRR
+O, 2_29, 2, 1.0, ORRRRRRRRRRRRRRSup
+O, \phi_19, \phi, 1.0, ORRRRRRRRR
+O, \theta_25, \theta, 1.0, ORRRRRRRRRRRR
+O, +_12, +, 1.0, ORRRRR
+O, 2_11, 2, 1.0, ORRRRSup
+
+# Relations from SRT:
+R, +_12, \sin_14, Right, 1.0
+R, +_21, \cos_23, Right, 1.0
+R, =_7, d_8, Right, 1.0
+R, \Omega_4, 2_6, Sup, 1.0
+R, \Omega_4, 3_5, Sub, 1.0
+R, \Omega_4, =_7, Right, 1.0
+R, \cos_23, 2_24, Sup, 1.0
+R, \cos_23, \theta_25, Right, 1.0
+R, \phi_19, +_21, Right, 1.0
+R, \phi_19, 2_20, Sup, 1.0
+R, \psi_28, 2_29, Sup, 1.0
+R, \sin_14, 2_15, Sup, 1.0
+R, \sin_14, \theta_16, Right, 1.0
+R, \theta_10, +_12, Right, 1.0
+R, \theta_10, 2_11, Sup, 1.0
+R, \theta_16, d_17, Right, 1.0
+R, \theta_25, d_26, Right, 1.0
+R, d_17, \phi_19, Right, 1.0
+R, d_26, \psi_28, Right, 1.0
+R, d_2, \Omega_4, Right, 1.0
+R, d_8, \theta_10, Right, 1.0

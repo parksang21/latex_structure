@@ -1,0 +1,3 @@
+\begin{equation}
+	\phi _ { \mu } \Delta _ { \mu } + m ) \theta ( x ) = 0
+\end{equation}

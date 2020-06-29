@@ -1,0 +1,3 @@
+\begin{equation}
+	\rho _ { 0 } = - \frac { 1 } { 2 } \sin \theta ( p ) , \rho _ { 5 } = - \frac { 1 } { 2 } \cos \theta ( \rho )
+\end{equation}

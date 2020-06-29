@@ -1,0 +1,3 @@
+\begin{equation}
+	\beta A = \beta \Delta _ { W } - \frac { 1 } { 2 } \beta \Delta \times \ln \rho
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \mu } ( \tau ) = \lambda _ { 2 \mu } A _ { 1 } ( \tau )
+\end{equation}

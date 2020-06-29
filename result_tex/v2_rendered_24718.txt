@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta V \geq \int \beta ^ { 3 } ( p ) z ^ { 2 } ( x ) 4 c x t
+\end{equation}

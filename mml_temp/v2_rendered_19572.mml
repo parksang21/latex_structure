@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>H</mi><mo stretchy="false" form="prefix">(</mo><mi>α</mi><mo stretchy="false" form="postfix">)</mo><mo>≈</mo><mfrac><msup><mi>s</mi><mn>4</mn></msup><mn>4</mn></mfrac><mo stretchy="false" form="postfix">|</mo><mi>α</mi><msup><mo stretchy="false" form="postfix">|</mo><mi>l</mi></msup><mo>÷</mo><mfrac><mi>ρ</mi><mrow><mn>7</mn><mi>!</mi></mrow></mfrac><mo stretchy="false" form="postfix">|</mo><mi>α</mi><msup><mo stretchy="false" form="postfix">|</mo><mn>7</mn></msup></mrow><annotation encoding="application/x-tex">\begin{equation}
+    H ( \alpha ) \approx \frac { s ^ { 4 } } { 4 } \vert \alpha \vert ^ { l } \div \frac { \rho } { 7 ! } \vert \alpha \vert ^ { 7 }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

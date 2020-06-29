@@ -1,0 +1,3 @@
+\begin{equation}
+	X _ { i } = i \theta D _ { i } = x _ { i } - \theta A _ { i }
+\end{equation}

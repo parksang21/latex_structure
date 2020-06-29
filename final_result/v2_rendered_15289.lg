@@ -1,0 +1,35 @@
+# IUD, v2_rendered_15289
+# Objects(16):
+O, \sum_10, \sum, 1.0, ORRRR
+O, n_12, n, 1.0, ORRRRBelow
+O, ⊄_5, ⊄, 1.0, ORSub
+O, \rangle_7, \rangle, 1.0, ORR
+O, \sim_8, \sim, 1.0, ORRR
+O, 1_14, 1, 1.0, ORRRRBelowRR
+O, \langle_2, \langle, 1.0, O
+O, n_16, n, 1.0, ORRRRR
+O, \langle_17, \langle, 1.0, ORRRRRR
+O, n_20, n, 1.0, ORRRRRRRSub
+O, \infty_15, \infty, 1.0, ORRRRAbove
+O, =_13, =, 1.0, ORRRRBelowR
+O, M_4, M, 1.0, OR
+O, \rangle_21, \rangle, 1.0, ORRRRRRRR
+O, 2_6, 2, 1.0, ORSup
+O, N_19, N, 1.0, ORRRRRRR
+
+# Relations from SRT:
+R, =_13, 1_14, Right, 1.0
+R, M_4, 2_6, Sup, 1.0
+R, M_4, \rangle_7, Right, 1.0
+R, M_4, ⊄_5, Sub, 1.0
+R, N_19, \rangle_21, Right, 1.0
+R, N_19, n_20, Sub, 1.0
+R, \langle_17, N_19, Right, 1.0
+R, \langle_2, M_4, Right, 1.0
+R, \rangle_7, \sim_8, Right, 1.0
+R, \sim_8, \sum_10, Right, 1.0
+R, \sum_10, \infty_15, Above, 1.0
+R, \sum_10, n_12, Below, 1.0
+R, \sum_10, n_16, Right, 1.0
+R, n_12, =_13, Right, 1.0
+R, n_16, \langle_17, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	( p _ { 8 } p _ { 6 } ) \leqq \Delta p _ { 8 } \Delta p _ { 6 } \exists p _ { y } \cup J _ { T }
+\end{equation}

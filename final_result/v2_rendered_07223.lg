@@ -1,0 +1,41 @@
+# IUD, v2_rendered_07223
+# Objects(19):
+O, (_13, (, 1.0, ORR
+O, )_19, ), 1.0, ORRRRRRRR
+O, j_23, j, 1.0, ORRRRRRRRRRRR
+O, )_24, ), 1.0, ORRRRRRRRRRRRR
+O, \phi_16, \phi, 1.0, ORRRRR
+O, \tau_12, \tau, 1.0, ORSubR
+O, \lambda_21, \lambda, 1.0, ORRRRRRRRRR
+O, =_20, =, 1.0, ORRRRRRRRR
+O, (_22, (, 1.0, ORRRRRRRRRRR
+O, j_18, j, 1.0, ORRRRRRR
+O, \triangle_11, \triangle, 1.0, ORSub
+O, COMMA_15, COMMA, 1.0, ORRRR
+O, \phi_9, \phi, 1.0, OR
+O, 8_7, 8, 1.0, OBelowRR
+O, \phi_5, \phi, 1.0, OBelow
+O, \rightarrow_6, \rightarrow, 1.0, OBelowR
+O, \lim_3, \lim, 1.0, O
+O, o_14, o, 1.0, ORRR
+O, COMMA_17, COMMA, 1.0, ORRRRRR
+
+# Relations from SRT:
+R, (_13, o_14, Right, 1.0
+R, (_22, j_23, Right, 1.0
+R, )_19, =_20, Right, 1.0
+R, =_20, \lambda_21, Right, 1.0
+R, COMMA_15, \phi_16, Right, 1.0
+R, COMMA_17, j_18, Right, 1.0
+R, \lambda_21, (_22, Right, 1.0
+R, \lim_3, \phi_5, Below, 1.0
+R, \lim_3, \phi_9, Right, 1.0
+R, \phi_16, COMMA_17, Right, 1.0
+R, \phi_5, \rightarrow_6, Right, 1.0
+R, \phi_9, (_13, Right, 1.0
+R, \phi_9, \triangle_11, Sub, 1.0
+R, \rightarrow_6, 8_7, Right, 1.0
+R, \triangle_11, \tau_12, Right, 1.0
+R, j_18, )_19, Right, 1.0
+R, j_23, )_24, Right, 1.0
+R, o_14, COMMA_15, Right, 1.0

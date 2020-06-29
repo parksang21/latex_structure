@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>W</mi><mi>m</mi></msub><mo>×</mo><msub><mi>Δ</mi><mi>m</mi></msub><mo>ln</mo><mi>Z</mi><mo>,</mo><msub><mi>γ</mi><mi>W</mi></msub><mo>=</mo><msup><mi>γ</mi><mi>m</mi></msup><msub><mi>W</mi><mi>m</mi></msub></mrow><annotation encoding="application/x-tex">\begin{equation}
+    W _ { m } \times \Delta _ { m } \ln Z , \gamma _ { W } = \gamma ^ { m } W _ { m }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

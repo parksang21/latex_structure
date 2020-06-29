@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>cos</mo><mi>x</mi><mo>+</mo><mo>cos</mo><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>=</mo><mfrac><mi>π</mi><mn>2</mn></mfrac><mi>f</mi><mi>o</mi><mi>r</mi><mi>x</mi><mo>=</mo><mn>0</mn></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \cos x + \cos \frac { 1 } { x } = \frac { \pi } { 2 } f o r x = 0
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

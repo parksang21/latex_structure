@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>Z</mi><mo>±</mo></msub><mo>=</mo><msqrt><mn>2</mn></msqrt><msup><mi>e</mi><mrow><mo>−</mo><msub><mi>ϕ</mi><mn>0</mn></msub></mrow></msup><mo stretchy="false" form="prefix">(</mo><msup><mi>ρ</mi><mi>A</mi></msup><mo>±</mo><mi>i</mi><msup><mi>ρ</mi><mi>β</mi></msup><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">\begin{equation}
+    Z _ { \pm } = \sqrt { 2 } e ^ { - \phi _ { 0 } } ( \rho ^ { A } \pm i \rho ^ { \beta } )
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

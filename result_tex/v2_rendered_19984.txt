@@ -1,0 +1,3 @@
+\begin{equation}
+	\delta G _ { i } ^ { k } \cup \Omega _ { k l } G _ { j } ^ { l } = \Omega _ { i j }
+\end{equation}

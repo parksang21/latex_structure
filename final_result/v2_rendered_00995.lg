@@ -1,0 +1,37 @@
+# IUD, v2_rendered_00995
+# Objects(17):
+O, =_13, =, 1.0, ORRRRRRR
+O, \phi_18, \phi, 1.0, ORRRRRRRRRRSub
+O, H_19, H, 1.0, ORRRRRRRRRRR
+O, \mu_4, \mu, 1.0, OSub
+O, H_12, H, 1.0, ORRRRRR
+O, \Delta_3, \Delta, 1.0, O
+O, H_5, H, 1.0, OR
+O, =_20, =, 1.0, ORRRRRRRRRRRR
+O, \Delta_10, \Delta, 1.0, ORRRRR
+O, 0_14, 0, 1.0, ORRRRRRRR
+O, COMMA_15, COMMA, 1.0, ORRRRRRRRR
+O, COMMA_8, COMMA, 1.0, ORRRR
+O, \Delta_17, \Delta, 1.0, ORRRRRRRRRR
+O, 0_7, 0, 1.0, ORRR
+O, \theta_11, \theta, 1.0, ORRRRRSub
+O, =_6, =, 1.0, ORR
+O, 0_21, 0, 1.0, ORRRRRRRRRRRRR
+
+# Relations from SRT:
+R, 0_14, COMMA_15, Right, 1.0
+R, 0_7, COMMA_8, Right, 1.0
+R, =_13, 0_14, Right, 1.0
+R, =_20, 0_21, Right, 1.0
+R, =_6, 0_7, Right, 1.0
+R, COMMA_15, \Delta_17, Right, 1.0
+R, COMMA_8, \Delta_10, Right, 1.0
+R, H_12, =_13, Right, 1.0
+R, H_19, =_20, Right, 1.0
+R, H_5, =_6, Right, 1.0
+R, \Delta_10, H_12, Right, 1.0
+R, \Delta_10, \theta_11, Sub, 1.0
+R, \Delta_17, H_19, Right, 1.0
+R, \Delta_17, \phi_18, Sub, 1.0
+R, \Delta_3, H_5, Right, 1.0
+R, \Delta_3, \mu_4, Sub, 1.0

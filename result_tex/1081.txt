@@ -1,0 +1,3 @@
+\begin{equation}
+	G _ { \mu \mu } ^ { ( E ) } = e ^ { - 2 \phi } G _ { \mu \mu }
+\end{equation}

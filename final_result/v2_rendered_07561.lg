@@ -1,0 +1,45 @@
+# IUD, v2_rendered_07561
+# Objects(21):
+O, -_19, -, 1.0, ORRRRRRRRRRR
+O, \delta_17, \delta, 1.0, ORRRRRRRRR
+O, \delta_23, \delta, 1.0, ORRRRRRRRRRRRR
+O, \delta_2, \delta, 1.0, O
+O, 2_12, 2, 1.0, ORRRRRRSup
+O, \theta_3, \theta, 1.0, OR
+O, \lambda_22, \lambda, 1.0, ORRRRRRRRRRRRSub
+O, \delta_9, \delta, 1.0, ORRRRR
+O, e_18, e, 1.0, ORRRRRRRRRR
+O, \sim_25, \sim, 1.0, ORRRRRRRRRRRRRRR
+O, J_21, J, 1.0, ORRRRRRRRRRRR
+O, 0_26, 0, 1.0, ORRRRRRRRRRRRRRRR
+O, \lambda_24, \lambda, 1.0, ORRRRRRRRRRRRRR
+O, -_5, -, 1.0, ORRR
+O, J_15, J, 1.0, ORRRRRRRR
+O, J_7, J, 1.0, ORRRR
+O, m_11, m, 1.0, ORRRRRR
+O, m_8, m, 1.0, ORRRRSub
+O, -_13, -, 1.0, ORRRRRRR
+O, =_4, =, 1.0, ORR
+O, e_16, e, 1.0, ORRRRRRRRSub
+
+# Relations from SRT:
+R, -_13, J_15, Right, 1.0
+R, -_19, J_21, Right, 1.0
+R, -_5, J_7, Right, 1.0
+R, =_4, -_5, Right, 1.0
+R, J_15, \delta_17, Right, 1.0
+R, J_15, e_16, Sub, 1.0
+R, J_21, \delta_23, Right, 1.0
+R, J_21, \lambda_22, Sub, 1.0
+R, J_7, \delta_9, Right, 1.0
+R, J_7, m_8, Sub, 1.0
+R, \delta_17, e_18, Right, 1.0
+R, \delta_23, \lambda_24, Right, 1.0
+R, \delta_2, \theta_3, Right, 1.0
+R, \delta_9, m_11, Right, 1.0
+R, \lambda_24, \sim_25, Right, 1.0
+R, \sim_25, 0_26, Right, 1.0
+R, \theta_3, =_4, Right, 1.0
+R, e_18, -_19, Right, 1.0
+R, m_11, -_13, Right, 1.0
+R, m_11, 2_12, Sup, 1.0

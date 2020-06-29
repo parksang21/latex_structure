@@ -1,0 +1,3 @@
+\begin{equation}
+	D [ A ] \leqq \gamma _ { \mu } ( i \Delta _ { \mu } + e A _ { \mu } ) + i m
+\end{equation}

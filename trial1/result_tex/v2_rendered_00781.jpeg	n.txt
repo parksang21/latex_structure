@@ -1,0 +1,3 @@
+\begin{equation}
+	\times F = ( n \times \Delta _ { 0 } n ) \times k
+\end{equation}

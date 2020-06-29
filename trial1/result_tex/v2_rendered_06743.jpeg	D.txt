@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { H } ^ { \alpha } ( x ) \leq N _ { H } ( x . \alpha ) - H !
+\end{equation}

@@ -1,0 +1,57 @@
+# IUD, new_render_00171
+# Objects(27):
+O, f_4, f, 1.0, 2
+O, m_9, m, 1.0, 7
+O, b_6, b, 1.0, 4
+O, \{_3, \{, 1.0, 1
+O, COMMA_23, COMMA, 1.0, 21
+O, COMMA_8, COMMA, 1.0, 6
+O, m_26, m, 1.0, 24
+O, m_17, m, 1.0, 15
+O, m_12, m, 1.0, 10
+O, y_13, y, 1.0, 11
+O, m_14, m, 1.0, 12
+O, \}_10, \}, 1.0, 8
+O, \cap_27, \cap, 1.0, 25
+O, i_16, i, 1.0, 14
+O, l_15, l, 1.0, 13
+O, 4_19, 4, 1.0, 17
+O, \times_11, \times, 1.0, 9
+O, b_24, b, 1.0, 22
+O, COMMA_20, COMMA, 1.0, 18
+O, COMMA_5, COMMA, 1.0, 3
+O, \rho_22, \rho, 1.0, 20
+O, \therefore_21, \therefore, 1.0, 19
+O, \}_7, \}, 1.0, 5
+O, COMMA_25, COMMA, 1.0, 23
+O, A_28, A, 1.0, 26
+O, \{_2, \{, 1.0, 0
+O, =_18, =, 1.0, 16
+
+# Relations from SRT:
+R, 4_19, COMMA_20, Right, 1.0
+R, =_18, 4_19, Right, 1.0
+R, COMMA_20, \therefore_21, Right, 1.0
+R, COMMA_23, b_24, Right, 1.0
+R, COMMA_25, m_26, Right, 1.0
+R, COMMA_5, b_6, Right, 1.0
+R, COMMA_8, m_9, Right, 1.0
+R, \cap_27, A_28, Right, 1.0
+R, \rho_22, COMMA_23, Right, 1.0
+R, \therefore_21, \rho_22, Right, 1.0
+R, \times_11, m_12, Right, 1.0
+R, \{_2, \{_3, Right, 1.0
+R, \{_3, f_4, Right, 1.0
+R, \}_10, \times_11, Right, 1.0
+R, \}_7, COMMA_8, Right, 1.0
+R, b_24, COMMA_25, Right, 1.0
+R, b_6, \}_7, Right, 1.0
+R, f_4, COMMA_5, Right, 1.0
+R, i_16, m_17, Right, 1.0
+R, l_15, i_16, Right, 1.0
+R, m_12, y_13, Right, 1.0
+R, m_14, l_15, Right, 1.0
+R, m_17, =_18, Right, 1.0
+R, m_26, \cap_27, Right, 1.0
+R, m_9, \}_10, Right, 1.0
+R, y_13, m_14, Right, 1.0

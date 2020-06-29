@@ -1,0 +1,3 @@
+\begin{equation}
+	{ p _ { i } } { m } - \frac { \varepsilon _ { i j } E _ { j } } { B _ { c } } \leqq 0
+\end{equation}

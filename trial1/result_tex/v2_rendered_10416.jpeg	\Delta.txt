@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { \Omega } F _ { \mu \Omega } ( x ) = 0
+\end{equation}

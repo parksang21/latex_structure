@@ -1,0 +1,51 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">34_em_243_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mfrac xml:id="_2"><mn xml:id="1_3">1</mn><msqrt xml:id="_4"><mi xml:id="\pi_5">π</mi></msqrt></mfrac><msqrt xml:id="_6"><mi xml:id="\pi_7">π</mi></msqrt><mo xml:id="=_8">=</mo><mn xml:id="1_9">1</mn></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">1</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="1_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\pi</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\pi_5"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\pi</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\pi_7"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="=_8"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">1</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="1_9"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="_2"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="_4"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="_6"/>
+	</traceGroup>
+</traceGroup>
+</ink>

@@ -1,0 +1,3 @@
+\begin{equation}
+	( p _ { a m } D _ { a } \sqrt { \beta } \gamma ^ { m } ) _ { \alpha } = 0
+\end{equation}

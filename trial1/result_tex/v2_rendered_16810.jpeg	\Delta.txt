@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \mu } ( O ^ { \mu \varepsilon } - e j ^ { \mu } x ^ { \varepsilon } ) = 0
+\end{equation}

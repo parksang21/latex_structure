@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msubsup><msqrt><mi>n</mi></msqrt><mi>j</mi><mn>0</mn></msubsup><mo stretchy="false" form="prefix">(</mo><mi>k</mi><mo stretchy="false" form="postfix">)</mo><mo>=</mo><mfrac><mn>1</mn><msup><mi>e</mi><mrow><msub><mi>β</mi><mi>j</mi></msub><msubsup><mi>w</mi><mi>j</mi><mrow><mo stretchy="false" form="prefix">(</mo><mi>k</mi><mo stretchy="false" form="postfix">)</mo></mrow></msubsup><mo>+</mo><mn>1</mn></mrow></msup></mfrac></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \sqrt { n } _ { j } ^ { 0 } ( k ) = \frac { 1 } { e ^ { \beta _ { j } w _ { j } ^ { ( k ) } + 1 } }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

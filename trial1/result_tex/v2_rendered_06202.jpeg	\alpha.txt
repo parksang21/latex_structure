@@ -1,0 +1,3 @@
+\begin{equation}
+	= \alpha _ { 0 } + \alpha _ { 1 } + \cdots + \alpha _ { k } , a n t i g h ( \alpha _ { i } ) = i
+\end{equation}

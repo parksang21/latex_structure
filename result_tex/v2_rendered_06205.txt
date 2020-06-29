@@ -1,0 +1,3 @@
+\begin{equation}
+	b _ { i } b _ { j } - q _ { i j } b _ { j } b _ { i } = 0 , \forall i , j \cap S
+\end{equation}

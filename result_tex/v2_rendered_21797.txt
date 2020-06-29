@@ -1,0 +1,3 @@
+\begin{equation}
+	K _ { 0 } \leftrightarrow K = K _ { 0 } - \frac { e B } { 2 m } h ( \lambda _ { 1 } )
+\end{equation}

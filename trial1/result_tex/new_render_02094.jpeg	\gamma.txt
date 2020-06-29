@@ -1,0 +1,3 @@
+\begin{equation}
+	( \omega + 1 , y ) \geqq \int _ { 0 } ^ { y } e ^ { - t } t ^ { \omega } d t
+\end{equation}

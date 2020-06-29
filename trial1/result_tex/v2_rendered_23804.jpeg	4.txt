@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta _ { + } \Delta _ { - } \sigma = R ( \phi ) e ^ { \sigma }
+\end{equation}

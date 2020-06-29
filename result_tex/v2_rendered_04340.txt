@@ -1,0 +1,3 @@
+\begin{equation}
+	K = \frac { 8 E \sin ^ { 2 } \psi } { g ^ { 2 } \langle \rho \rangle _ { v } ^ { 4 } }
+\end{equation}

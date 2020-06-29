@@ -1,0 +1,3 @@
+\begin{equation}
+	S _ { 0 } B _ { n } = - \sum _ { s = 0 } ^ { n - 1 } s _ { n - s }
+\end{equation}

@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>a</mi><mo stretchy="false" form="prefix">(</mo><msub><mi>t</mi><mi>ε</mi></msub><mo>,</mo><mo>±</mo><mo stretchy="false" form="postfix">)</mo><mo>=</mo><mo stretchy="false" form="postfix">|</mo><msqrt><mi>k</mi></msqrt><mo stretchy="false" form="postfix">⟩</mo><mo stretchy="false" form="prefix">⟨</mo><msqrt><mi>k</mi></msqrt><mo stretchy="false" form="postfix">|</mo><mo>⊗</mo><msub><mi>a</mi><mi>t</mi></msub></mrow><annotation encoding="application/x-tex">\begin{equation}
+    a ( t _ { \varepsilon } , \pm ) = \vert \sqrt { k } \rangle \langle \sqrt { k } \vert \otimes a _ { t }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

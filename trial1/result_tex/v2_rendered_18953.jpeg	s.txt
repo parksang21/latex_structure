@@ -1,0 +1,3 @@
+\begin{equation}
+	p ^ { \mu } \approx \psi ^ { \alpha } e _ { \alpha } ^ { \mu } ( P _ { 0 } )
+\end{equation}

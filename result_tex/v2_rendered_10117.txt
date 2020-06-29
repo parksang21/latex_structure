@@ -1,0 +1,3 @@
+\begin{equation}
+	\beta _ { 1 } = L , \beta _ { 2 } = X , I = u T , J = u
+\end{equation}

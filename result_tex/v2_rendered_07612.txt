@@ -1,0 +1,3 @@
+\begin{equation}
+	\triangle E = \ln \{ \vert \sqrt { E } _ { S } - \sqrt { E } _ { n } \vert \}
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\dot { P } _ { 5 } ( t ) + \dot { \rho } _ { B } ( t ) - 3 \dot { P } _ { B } ( t ) = 0
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { s } ( q ) = 0 ( s = 1 , 2 , \cdots , M M \notin N )
+\end{equation}

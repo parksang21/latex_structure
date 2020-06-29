@@ -1,0 +1,37 @@
+# IUD, 958
+# Objects(17):
+O, ω_9, ω, 1.0, OR
+O, )_14, ), 1.0, ORSupRR
+O, 2_19, 2, 1.0, ORRRBelowInside
+O, \rightarrow_6, \rightarrow, 1.0, OBelowR
+O, (_12, (, 1.0, ORSup
+O, 0_24, 0, 1.0, ORRRRSubR
+O, _16, -, 1.0, ORRR
+O, 1_17, 1, 1.0, ORRRAbove
+O, =_15, =, 1.0, ORR
+O, \lim_3, \lim, 1.0, O
+O, t_13, t, 1.0, ORSupR
+O, \infty_7, \infty, 1.0, OBelowRR
+O, n_10, n, 1.0, ORSub
+O, _18, \sqrt, 1.0, ORRRBelow
+O, n_23, n, 1.0, ORRRRSub
+O, \delta_21, \delta, 1.0, ORRRR
+O, t_5, t, 1.0, OBelow
+
+# Relations from SRT:
+R, (_12, t_13, Right, 1.0
+R, =_15, _16, Right, 1.0
+R, \delta_21, n_23, Sub, 1.0
+R, \lim_3, t_5, Below, 1.0
+R, \lim_3, ω_9, Right, 1.0
+R, \rightarrow_6, \infty_7, Right, 1.0
+R, _16, 1_17, Above, 1.0
+R, _16, \delta_21, Right, 1.0
+R, _16, _18, Below, 1.0
+R, _18, 2_19, Inside, 1.0
+R, n_23, 0_24, Right, 1.0
+R, t_13, )_14, Right, 1.0
+R, t_5, \rightarrow_6, Right, 1.0
+R, ω_9, (_12, Sup, 1.0
+R, ω_9, =_15, Right, 1.0
+R, ω_9, n_10, Sub, 1.0

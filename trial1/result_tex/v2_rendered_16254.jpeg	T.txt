@@ -1,0 +1,3 @@
+\begin{equation}
+	= \gamma ( R _ { 0 } ) \frac { d - 3 } { 4 \pi R _ { 0 } R _ { T } \sin \alpha }
+\end{equation}

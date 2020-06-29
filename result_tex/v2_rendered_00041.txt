@@ -1,0 +1,3 @@
+\begin{equation}
+	1 \Leftrightarrow \sqrt { B } _ { n } ( \phi _ { q } ) \Leftrightarrow M _ { g , n } \Leftrightarrow M _ { g , 0 } \Leftrightarrow 1
+\end{equation}

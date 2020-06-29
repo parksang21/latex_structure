@@ -1,0 +1,3 @@
+\begin{equation}
+	S _ { M } = - \cos \int d ^ { 4 } x g ^ { \mu \rho } \sqrt { - g } T _ { \mu \rho }
+\end{equation}

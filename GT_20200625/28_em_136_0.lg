@@ -1,0 +1,11 @@
+# IUD, 28_em_136_0
+# Objects(4):
+O, \pi_2, \pi, 1.0, O
+O, 1_6, 1, 1.0, OSubRR
+O, t_4, t, 1.0, OSub
+O, +_5, +, 1.0, OSubR
+
+# Relations from SRT:
+R, +_5, 1_6, Right, 1.0
+R, \pi_2, t_4, Sub, 1.0
+R, t_4, +_5, Right, 1.0

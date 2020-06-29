@@ -1,0 +1,33 @@
+# IUD, v2_rendered_04340
+# Objects(15):
+O, 8_6, 8, 1.0, ORRAbove
+O, =_3, =, 1.0, OR
+O, E_7, E, 1.0, ORRAboveR
+O, v_20, v, 1.0, ORRBelowRRRSub
+O, K_2, K, 1.0, O
+O, \rho_17, \rho, 1.0, ORRBelowRR
+O, \psi_11, \psi, 1.0, ORRAboveRRR
+O, \sin_9, \sin, 1.0, ORRAboveRR
+O, 2_15, 2, 1.0, ORRBelowSup
+O, 2_10, 2, 1.0, ORRAboveRRSup
+O, \rangle_19, \rangle, 1.0, ORRBelowRRR
+O, \langle_16, \langle, 1.0, ORRBelowR
+O, 4_21, 4, 1.0, ORRBelowRRRSup
+O, _4, -, 1.0, ORR
+O, g_14, g, 1.0, ORRBelow
+
+# Relations from SRT:
+R, 8_6, E_7, Right, 1.0
+R, =_3, _4, Right, 1.0
+R, E_7, \sin_9, Right, 1.0
+R, K_2, =_3, Right, 1.0
+R, \langle_16, \rho_17, Right, 1.0
+R, \rangle_19, 4_21, Sup, 1.0
+R, \rangle_19, v_20, Sub, 1.0
+R, \rho_17, \rangle_19, Right, 1.0
+R, \sin_9, 2_10, Sup, 1.0
+R, \sin_9, \psi_11, Right, 1.0
+R, _4, 8_6, Above, 1.0
+R, _4, g_14, Below, 1.0
+R, g_14, 2_15, Sup, 1.0
+R, g_14, \langle_16, Right, 1.0

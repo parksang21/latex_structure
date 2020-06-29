@@ -1,0 +1,3 @@
+\begin{equation}
+	q ^ { g } \angle o _ { g } = \frac { \Omega } { 3 } , g = 2 , 3 , 3
+\end{equation}

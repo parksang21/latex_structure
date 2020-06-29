@@ -1,0 +1,3 @@
+\begin{equation}
+	\leftrightarrow H _ { 0 } ^ { ( 1 ) } = y \overrightarrow p ^ { 2 } + G p _ { 4 } ^ { 2 } .
+\end{equation}

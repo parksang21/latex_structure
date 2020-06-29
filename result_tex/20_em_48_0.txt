@@ -1,0 +1,3 @@
+\begin{equation}
+	f ( 1 \csqrt 9 9 ) = 3 \csqrt 9 9 2 1 9 2 0 1
+\end{equation}

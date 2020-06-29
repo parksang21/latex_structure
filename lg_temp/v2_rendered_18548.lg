@@ -1,0 +1,54 @@
+# IUD, v2_rendered_18548
+# Objects(25):
+O, _3, \sqrt, 1.0, 20
+O, \lambda_15, \lambda, 1.0, 9
+O, COMMA_13, COMMA, 1.0, 7
+O, \alpha_4, \alpha, 1.0, 1
+O, _26, \sqrt, 1.0, 24
+O, C_17, C, 1.0, 11
+O, COMMA_22, COMMA, 1.0, 16
+O, \exists_14, \exists, 1.0, 8
+O, _6, \sqrt, 1.0, 21
+O, COMMA_18, COMMA, 1.0, 12
+O, \alpha_24, \alpha, 1.0, 17
+O, (_8, (, 1.0, 3
+O, _23, \sqrt, 1.0, 23
+O, \alpha_19, \alpha, 1.0, 13
+O, \cap_25, \cap, 1.0, 18
+O, =_5, =, 1.0, 2
+O, \lambda_2, \lambda, 1.0, 0
+O, \lambda_10, \lambda, 1.0, 4
+O, \cap_20, \cap, 1.0, 14
+O, \cap_16, \cap, 1.0, 10
+O, )_12, ), 1.0, 6
+O, _9, \sqrt, 1.0, 22
+O, E_27, E, 1.0, 19
+O, E_21, E, 1.0, 15
+O, \alpha_11, \alpha, 1.0, 5
+
+# Relations from SRT:
+R, (_8, _9, Right, 1.0
+R, =_5, _6, Right, 1.0
+R, COMMA_13, \exists_14, Right, 1.0
+R, COMMA_18, \alpha_19, Right, 1.0
+R, COMMA_22, _23, Right, 1.0
+R, C_17, COMMA_18, Right, 1.0
+R, E_21, COMMA_22, Right, 1.0
+R, \alpha_11, )_12, Right, 1.0
+R, \alpha_19, \cap_20, Right, 1.0
+R, \cap_16, C_17, Right, 1.0
+R, \cap_20, E_21, Right, 1.0
+R, \cap_25, _26, Right, 1.0
+R, \exists_14, \lambda_15, Right, 1.0
+R, \lambda_15, \cap_16, Right, 1.0
+R, \lambda_2, _3, Right, 1.0
+R, _23, \alpha_24, Inside, 1.0
+R, _23, \cap_25, Right, 1.0
+R, _26, E_27, Inside, 1.0
+R, _3, =_5, Right, 1.0
+R, _3, \alpha_4, Inside, 1.0
+R, _6, (_8, Inside, 1.0
+R, _6, COMMA_13, Right, 1.0
+R, _6, _9, Inside, 1.0
+R, _9, \alpha_11, Right, 1.0
+R, _9, \lambda_10, Inside, 1.0

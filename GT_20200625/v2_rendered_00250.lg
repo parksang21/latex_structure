@@ -1,0 +1,35 @@
+# IUD, v2_rendered_00250
+# Objects(16):
+O, \Delta_2, \Delta, 1.0, O
+O, \Delta_17, \Delta, 1.0, ORRRRRRRRRRRRRRR
+O, (_10, (, 1.0, ORRRRRRRR
+O, d_12, d, 1.0, ORRRRRRRRRR
+O, 1_8, 1, 1.0, ORRRRRR
+O, \oplus_7, \oplus, 1.0, ORRRRR
+O, L_6, L, 1.0, ORRRR
+O, L_14, L, 1.0, ORRRRRRRRRRRR
+O, i_11, i, 1.0, ORRRRRRRRR
+O, \circle_16, \circle, 1.0, ORRRRRRRRRRRRRR
+O, L_4, L, 1.0, ORR
+O, =_5, =, 1.0, ORRR
+O, \circle_3, \circle, 1.0, OR
+O, \oplus_13, \oplus, 1.0, ORRRRRRRRRRR
+O, )_15, ), 1.0, ORRRRRRRRRRRRR
+O, +_9, +, 1.0, ORRRRRRR
+
+# Relations from SRT:
+R, (_10, i_11, Right, 1.0
+R, )_15, \circle_16, Right, 1.0
+R, +_9, (_10, Right, 1.0
+R, 1_8, +_9, Right, 1.0
+R, =_5, L_6, Right, 1.0
+R, L_14, )_15, Right, 1.0
+R, L_4, =_5, Right, 1.0
+R, L_6, \oplus_7, Right, 1.0
+R, \Delta_2, \circle_3, Right, 1.0
+R, \circle_16, \Delta_17, Right, 1.0
+R, \circle_3, L_4, Right, 1.0
+R, \oplus_13, L_14, Right, 1.0
+R, \oplus_7, 1_8, Right, 1.0
+R, d_12, \oplus_13, Right, 1.0
+R, i_11, d_12, Right, 1.0

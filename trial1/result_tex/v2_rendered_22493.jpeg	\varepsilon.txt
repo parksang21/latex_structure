@@ -1,0 +1,3 @@
+\begin{equation}
+	= \varepsilon ^ { \div } \div \varepsilon ^ { - }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	n ( 0 ) = 0 , n Y 0 ) = 0 , n ^ { \prime \prime } ( 0 ) = \theta \pi
+\end{equation}

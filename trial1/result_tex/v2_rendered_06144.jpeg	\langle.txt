@@ -1,0 +1,3 @@
+\begin{equation}
+	0 \vert u ( x _ { \in } ) \vert 0 \rangle \neq 0 , L < L _ { c }
+\end{equation}

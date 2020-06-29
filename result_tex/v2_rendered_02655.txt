@@ -1,0 +1,3 @@
+\begin{equation}
+	\in ^ { a _ { 1 } \csqrts a _ { d } } ] ^ { \mu _ { 1 } \csqrts \mu _ { D - d } } ( \frac { \phi } { x }
+\end{equation}

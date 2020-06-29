@@ -1,0 +1,3 @@
+\begin{equation}
+	u = t _ { 0 } + \sum _ { k = 1 } ^ { \infty } t _ { k } u ^ { k }
+\end{equation}

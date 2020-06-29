@@ -1,0 +1,3 @@
+\begin{equation}
+	\sqrt { p } ^ { \mu } = p ^ { \mu } + \lambda ^ { \mu } \int V ( x ) \delta ( \lambda x - \tau ) _ { x } ^ { 4 }
+\end{equation}

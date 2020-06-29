@@ -1,0 +1,21 @@
+# IUD, new_render_01581
+# Objects(9):
+O, \lt_6, \lt, 1.0, 4
+O, q_5, q, 1.0, 3
+O, -_7, -, 1.0, 5
+O, _8, -, 1.0, 8
+O, 3_10, 3, 1.0, 7
+O, 1_3, 1, 1.0, 1
+O, -_2, -, 1.0, 0
+O, 1_9, 1, 1.0, 6
+O, \leqq_4, \leqq, 1.0, 2
+
+# Relations from SRT:
+R, -_2, 1_3, Right, 1.0
+R, -_7, _8, Right, 1.0
+R, 1_3, \leqq_4, Right, 1.0
+R, \leqq_4, q_5, Right, 1.0
+R, \lt_6, -_7, Right, 1.0
+R, _8, 1_9, Above, 1.0
+R, _8, 3_10, Below, 1.0
+R, q_5, \lt_6, Right, 1.0

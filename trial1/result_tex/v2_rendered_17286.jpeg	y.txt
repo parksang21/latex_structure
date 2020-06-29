@@ -1,0 +1,3 @@
+\begin{equation}
+	\sqrt { c } \cos \alpha = \sin \alpha - \sin ( x \sqrt { c } - \alpha ) , \tan \alpha \equiv 2 \sqrt { c }
+\end{equation}

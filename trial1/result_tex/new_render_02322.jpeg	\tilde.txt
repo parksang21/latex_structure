@@ -1,0 +1,3 @@
+\begin{equation}
+	{ K } ( t ) \leqq \tilde { K } ^ { 3 } ( t ) \frac { \sigma ^ { 3 } } { 2 }
+\end{equation}

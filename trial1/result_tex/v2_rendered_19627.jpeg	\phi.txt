@@ -1,0 +1,3 @@
+\begin{equation}
+	= \frac { 1 } { \sqrt { a + 1 } } ( \sqrt { a } \rho - \sigma )
+\end{equation}

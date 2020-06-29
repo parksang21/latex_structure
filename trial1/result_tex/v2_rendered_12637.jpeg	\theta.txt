@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { R S } ^ { \cup } = \frac { 3 m _ { 4 } ^ { 3 } } { - 2 \lambda _ { 3 } }
+\end{equation}

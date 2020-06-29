@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta _ { + } ( m ) \sigma _ { + } ( n ) \lsqrts \sigma _ { + } ( \gamma ) \vert 0 \subset
+\end{equation}

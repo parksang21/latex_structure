@@ -1,0 +1,3 @@
+\begin{equation}
+	H = \frac { B } { 2 m } - \frac { 1 } { 2 m } D _ { z } D _ { \sqrt { z } }
+\end{equation}

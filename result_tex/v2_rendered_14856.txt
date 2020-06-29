@@ -1,0 +1,3 @@
+\begin{equation}
+	\phi = \alpha \notin \beta \notin \gamma = - d z \notin d v \notin d u
+\end{equation}

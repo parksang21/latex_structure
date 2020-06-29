@@ -1,0 +1,91 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_05341</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mi xml:id="\Delta_2">Δ</mi><mi xml:id="a_3">a</mi><mo xml:id="=_4">=</mo><mi xml:id="\Delta_5">Δ</mi><msup><mi xml:id="a_7">a</mi><mi xml:id="\prime_8">′</mi></msup><mo xml:id="+_9">+</mo><mfrac xml:id="_10"><msup><mi xml:id="\pi_12">π</mi><mn xml:id="2_13">2</mn></msup><mrow><mn xml:id="9_15">9</mn><mn xml:id="6_16">6</mn></mrow></mfrac><munder><mo xml:id="\prod_18">∏</mo><mrow><mi xml:id="V_20">V</mi><mo xml:id="\rightarrow_21">→</mo><mi xml:id="\infty_22">∞</mi></mrow></munder></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\Delta</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\Delta_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">a</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="a_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="=_4"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\Delta</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\Delta_5"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">a</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="a_7"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\prime</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\prime_8"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">+</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="+_9"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\pi</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\pi_12"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">2</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="2_13"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">9</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="9_15"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">6</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="6_16"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">\prod</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="\prod_18"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">V</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="V_20"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">\rightarrow</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="\rightarrow_21"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">\infty</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="\infty_22"/>
+	</traceGroup>
+ <traceGroup xml:id="16">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="15"/>
+    <annotationXML href="_10"/>
+	</traceGroup>
+</traceGroup>
+</ink>

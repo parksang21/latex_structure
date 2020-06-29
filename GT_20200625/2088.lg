@@ -1,0 +1,25 @@
+# IUD, 2088
+# Objects(11):
+O, =_10, =, 1.0, ORRBelowR
+O, 1_11, 1, 1.0, ORRBelowRR
+O, 1_4, 1, 1.0, OSub
+O, N_3, N, 1.0, O
+O, i_17, i, 1.0, ORRRSub
+O, \sum_7, \sum, 1.0, ORR
+O, n_16, n, 1.0, ORRR
+O, N_13, N, 1.0, ORRAbove
+O, =_5, =, 1.0, OR
+O, i_9, i, 1.0, ORRBelow
+O, p_14, p, 1.0, ORRAboveSub
+
+# Relations from SRT:
+R, =_10, 1_11, Right, 1.0
+R, =_5, \sum_7, Right, 1.0
+R, N_13, p_14, Sub, 1.0
+R, N_3, 1_4, Sub, 1.0
+R, N_3, =_5, Right, 1.0
+R, \sum_7, N_13, Above, 1.0
+R, \sum_7, i_9, Below, 1.0
+R, \sum_7, n_16, Right, 1.0
+R, i_9, =_10, Right, 1.0
+R, n_16, i_17, Sub, 1.0

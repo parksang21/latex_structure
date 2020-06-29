@@ -1,0 +1,3 @@
+\begin{equation}
+	\beta _ { n } = 0 , f o r n = 1 , 2 , \csqrts , 5
+\end{equation}

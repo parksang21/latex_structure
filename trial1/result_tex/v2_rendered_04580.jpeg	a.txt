@@ -1,0 +1,3 @@
+\begin{equation}
+	( t ) = a _ { 0 } t ^ { p } , p \cup R ^ { + }
+\end{equation}

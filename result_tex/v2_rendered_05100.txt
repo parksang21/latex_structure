@@ -1,0 +1,3 @@
+\begin{equation}
+	\beta x = \frac { \beta \beta } { 5 }
+\end{equation}

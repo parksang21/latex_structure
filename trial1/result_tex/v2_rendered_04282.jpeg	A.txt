@@ -1,0 +1,3 @@
+\begin{equation}
+	( x ) \mu O _ { \pm } , i f \pm t r ( W ( x _ { \subset } ) ) = 0
+\end{equation}

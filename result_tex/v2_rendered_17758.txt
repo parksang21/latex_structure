@@ -1,0 +1,3 @@
+\begin{equation}
+	D = - s ^ { 6 } \vee ( y _ { 1 } , y _ { 2 } , y _ { 3 } , X _ { 4 } ) ^ { 2 }
+\end{equation}

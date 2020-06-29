@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { ( h ) } < r , \therefore h \leq 4 , . . . , T
+\end{equation}

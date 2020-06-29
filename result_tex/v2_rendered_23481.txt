@@ -1,0 +1,3 @@
+\begin{equation}
+	M ^ { \prime } = \{ y \in L ( H ) \vert [ x , y ] = 0 , \exists x \in M ]
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\delta \alpha ^ { a } = \Delta ^ { k } m _ { k } ^ { a }
+\end{equation}

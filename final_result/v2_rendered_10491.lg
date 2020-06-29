@@ -1,0 +1,41 @@
+# IUD, v2_rendered_10491
+# Objects(19):
+O, c_16, c, 1.0, ORRRRRRR
+O, (_6, (, 1.0, ORR
+O, 1_27, 1, 1.0, ORRRRRRRRRRRSupR
+O, =_22, =, 1.0, ORRRRRRRRRR
+O, \delta_20, \delta, 1.0, ORRRRRRRRR
+O, )_14, ), 1.0, ORRRRRR
+O, \infty_17, \infty, 1.0, ORRRRRRRSub
+O, 2_13, 2, 1.0, ORRRRRSupR
+O, L_4, L, 1.0, OSub
+O, COMMA_18, COMMA, 1.0, ORRRRRRRR
+O, \times_12, \times, 1.0, ORRRRRSup
+O, L_10, L, 1.0, ORRRRR
+O, \gamma_3, \gamma, 1.0, O
+O, L_24, L, 1.0, ORRRRRRRRRRR
+O, L_21, L, 1.0, ORRRRRRRRRSub
+O, 1_7, 1, 1.0, ORRR
+O, \times_8, \times, 1.0, ORRRR
+O, =_5, =, 1.0, OR
+O, \times_26, \times, 1.0, ORRRRRRRRRRRSup
+
+# Relations from SRT:
+R, (_6, 1_7, Right, 1.0
+R, )_14, c_16, Right, 1.0
+R, 1_7, \times_8, Right, 1.0
+R, =_22, L_24, Right, 1.0
+R, =_5, (_6, Right, 1.0
+R, COMMA_18, \delta_20, Right, 1.0
+R, L_10, )_14, Right, 1.0
+R, L_10, \times_12, Sup, 1.0
+R, L_24, \times_26, Sup, 1.0
+R, \delta_20, =_22, Right, 1.0
+R, \delta_20, L_21, Sub, 1.0
+R, \gamma_3, =_5, Right, 1.0
+R, \gamma_3, L_4, Sub, 1.0
+R, \times_12, 2_13, Right, 1.0
+R, \times_26, 1_27, Right, 1.0
+R, \times_8, L_10, Right, 1.0
+R, c_16, COMMA_18, Right, 1.0
+R, c_16, \infty_17, Sub, 1.0

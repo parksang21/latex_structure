@@ -1,0 +1,3 @@
+\begin{equation}
+	z ^ { \mu } ( x , \beta \Leftrightarrow - \infty ) = \infty ( s p a t i a l )
+\end{equation}

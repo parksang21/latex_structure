@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \omega } = \{ \phi \not\subset H \vert ( \phi , A \phi ) = \omega ( A ) \vert \phi \vert ^ { 2 } \}
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\lambda = \lambda ( \lambda _ { g r v v } ) , \mu = \mu ( \lambda _ { g n v v } )
+\end{equation}

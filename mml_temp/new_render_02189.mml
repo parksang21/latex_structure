@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="false" form="prefix">[</mo><msubsup><mi>α</mi><mi>n</mi><mi>μ</mi></msubsup><mo>,</mo><msubsup><mi>α</mi><mi>n</mi><mi>θ</mi></msubsup><mo stretchy="false" form="postfix">]</mo><mo>≦</mo><mi>m</mi><msub><mi>δ</mi><mrow><mi>m</mi><mo>+</mo><mi>n</mi></mrow></msub><msup><mi>γ</mi><mrow><mi>μ</mi><mi>θ</mi></mrow></msup></mrow><annotation encoding="application/x-tex">\begin{equation}
+    [ \alpha _ { n } ^ { \mu } , \alpha _ { n } ^ { \theta } ] \leqq m \delta _ { m + n } \gamma ^ { \mu \theta }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

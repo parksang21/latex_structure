@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \rho } \dot { Y } ^ { 1 } = \Delta _ { \sigma } \dot { Y } ^ { 2 }
+\end{equation}

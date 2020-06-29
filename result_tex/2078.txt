@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { 1 } { 2 } \sum _ { k } g _ { k } ( 2 k k ) r ( t ) ^ { k } = t
+\end{equation}

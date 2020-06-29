@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { 1 } ^ { k } \phi _ { \alpha } - \phi = - \phi \prod _ { 1 } ^ { k } ( 1 - \psi _ { \alpha } ) = 0
+\end{equation}

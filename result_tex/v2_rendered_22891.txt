@@ -1,0 +1,3 @@
+\begin{equation}
+	\alpha _ { s } ^ { m } = s - m = c _ { m s } , \forall m , \forall s
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	{ \sigma } = - \frac { 3 } { 4 \pi G _ { 5 } \psi } \tan ( r _ { 1 } / \psi ) \not\subset 0
+\end{equation}

@@ -1,0 +1,49 @@
+# IUD, v2_rendered_03411
+# Objects(23):
+O, y_9, y, 1.0, ORBelow
+O, x_5, x, 1.0, ORAbove
+O, y_21, y, 1.0, ORRRRRRRRR
+O, -_6, -, 1.0, ORAboveR
+O, a_7, a, 1.0, ORAboveRR
+O, 0_25, 0, 1.0, ORRRRRRRRRRRRR
+O, \gt_24, \gt, 1.0, ORRRRRRRRRRRR
+O, a_11, a, 1.0, ORBelowRR
+O, x_19, x, 1.0, ORRRRRRR
+O, _14, -, 1.0, ORRRR
+O, )_26, ), 1.0, ORRRRRRRRRRRRRR
+O, \gt_12, \gt, 1.0, ORR
+O, y_16, y, 1.0, ORRRRBelow
+O, \log_13, \log, 1.0, ORRR
+O, -_10, -, 1.0, ORBelowR
+O, (_18, (, 1.0, ORRRRRR
+O, \gt_20, \gt, 1.0, ORRRRRRRR
+O, x_15, x, 1.0, ORRRRAbove
+O, a_23, a, 1.0, ORRRRRRRRRRR
+O, \gt_22, \gt, 1.0, ORRRRRRRRRR
+O, \log_2, \log, 1.0, O
+O, COMMA_17, COMMA, 1.0, ORRRRR
+O, _3, -, 1.0, OR
+
+# Relations from SRT:
+R, (_18, x_19, Right, 1.0
+R, -_10, a_11, Right, 1.0
+R, -_6, a_7, Right, 1.0
+R, 0_25, )_26, Right, 1.0
+R, COMMA_17, (_18, Right, 1.0
+R, \gt_12, \log_13, Right, 1.0
+R, \gt_20, y_21, Right, 1.0
+R, \gt_22, a_23, Right, 1.0
+R, \gt_24, 0_25, Right, 1.0
+R, \log_13, _14, Right, 1.0
+R, \log_2, _3, Right, 1.0
+R, _14, COMMA_17, Right, 1.0
+R, _14, x_15, Above, 1.0
+R, _14, y_16, Below, 1.0
+R, _3, \gt_12, Right, 1.0
+R, _3, x_5, Above, 1.0
+R, _3, y_9, Below, 1.0
+R, a_23, \gt_24, Right, 1.0
+R, x_19, \gt_20, Right, 1.0
+R, x_5, -_6, Right, 1.0
+R, y_21, \gt_22, Right, 1.0
+R, y_9, -_10, Right, 1.0

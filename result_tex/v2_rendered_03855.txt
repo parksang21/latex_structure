@@ -1,0 +1,3 @@
+\begin{equation}
+	\varepsilon \sim \lambda _ { T } ^ { - \tau } f o r \lambda _ { \Omega } = 0
+\end{equation}

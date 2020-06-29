@@ -1,0 +1,3 @@
+\begin{equation}
+	L ] _ { i } \delta ^ { L } q ^ { i } + \frac { d ^ { L } G ^ { L } } { d t } = 0
+\end{equation}

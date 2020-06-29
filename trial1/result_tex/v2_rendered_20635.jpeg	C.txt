@@ -1,0 +1,3 @@
+\begin{equation}
+	\equiv \tan ( \frac { K _ { R } s } { M } ) S \equiv \sin ( \frac { K _ { R } s } { M } )
+\end{equation}

@@ -1,0 +1,45 @@
+# IUD, 941
+# Objects(21):
+O, =_11, =, 1.0, ORRRRRRRRR
+O, \phi_24, \phi, 1.0, ORRRRRRRRRRRRRRRRR
+O, +_18, +, 1.0, ORRRRRRRRRRRRRR
+O, d_4, d, 1.0, ORR
+O, ω_5, ω, 1.0, ORRR
+O, m_20, m, 1.0, ORRRRRRRRRRRRRRR
+O, \phi_17, \phi, 1.0, ORRRRRRRRRRRRR
+O, D_15, D, 1.0, ORRRRRRRRRRRR
+O, i_7, i, 1.0, ORRRRR
+O, ω_8, ω, 1.0, ORRRRRR
+O, \Omega_2, \Omega, 1.0, O
+O, -_22, -, 1.0, ORRRRRRRRRRRRRRRR
+O, =_3, =, 1.0, OR
+O, F_12, F, 1.0, ORRRRRRRRRR
+O, 2_25, 2, 1.0, ORRRRRRRRRRRRRRRRRSup
+O, +_13, +, 1.0, ORRRRRRRRRRR
+O, ω_10, ω, 1.0, ORRRRRRRR
+O, \wedge_9, \wedge, 1.0, ORRRRRRR
+O, H_16, H, 1.0, ORRRRRRRRRRRRSub
+O, =_6, =, 1.0, ORRRR
+O, 2_21, 2, 1.0, ORRRRRRRRRRRRRRRSup
+
+# Relations from SRT:
+R, +_13, D_15, Right, 1.0
+R, +_18, m_20, Right, 1.0
+R, -_22, \phi_24, Right, 1.0
+R, =_11, F_12, Right, 1.0
+R, =_3, d_4, Right, 1.0
+R, =_6, i_7, Right, 1.0
+R, D_15, H_16, Sub, 1.0
+R, D_15, \phi_17, Right, 1.0
+R, F_12, +_13, Right, 1.0
+R, \Omega_2, =_3, Right, 1.0
+R, \phi_17, +_18, Right, 1.0
+R, \phi_24, 2_25, Sup, 1.0
+R, \wedge_9, ω_10, Right, 1.0
+R, d_4, ω_5, Right, 1.0
+R, i_7, ω_8, Right, 1.0
+R, m_20, -_22, Right, 1.0
+R, m_20, 2_21, Sup, 1.0
+R, ω_10, =_11, Right, 1.0
+R, ω_5, =_6, Right, 1.0
+R, ω_8, \wedge_9, Right, 1.0

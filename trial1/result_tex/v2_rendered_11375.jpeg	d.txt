@@ -1,0 +1,3 @@
+\begin{equation}
+	x ^ { i } = e ^ { i } _ { \mu } ( q ) d q ^ { \mu }
+\end{equation}

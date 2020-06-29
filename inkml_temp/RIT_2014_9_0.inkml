@@ -1,0 +1,16 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">RIT_2014_9_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mo xml:id="\log_1">log</mo>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\log</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\log_1"/>
+	</traceGroup>
+</traceGroup>
+</ink>

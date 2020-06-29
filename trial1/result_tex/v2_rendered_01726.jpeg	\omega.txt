@@ -1,0 +1,3 @@
+\begin{equation}
+	( t ) \cap e ^ { - \mu t / 2 }
+\end{equation}

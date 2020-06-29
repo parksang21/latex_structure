@@ -1,0 +1,3 @@
+\begin{equation}
+	S = 1 + \frac { Q _ { 6 } g _ { s + r } } { 4 \pi r }
+\end{equation}

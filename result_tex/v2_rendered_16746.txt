@@ -1,0 +1,3 @@
+\begin{equation}
+	\gamma _ { a b } = \Delta _ { a } X ^ { \mu } \Delta _ { b } X ^ { \beta } \gamma _ { \mu B }
+\end{equation}

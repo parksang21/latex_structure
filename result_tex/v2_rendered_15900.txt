@@ -1,0 +1,3 @@
+\begin{equation}
+	u ^ { 2 } = ( \frac { v + 1 } { 2 \cos ( \frac { \Omega \pi } { 2 } ) } ) ^ { 2 } - v
+\end{equation}

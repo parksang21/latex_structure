@@ -1,0 +1,3 @@
+\begin{equation}
+	y \rightarrow y / y _ { 4 4 } v
+\end{equation}

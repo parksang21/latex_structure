@@ -1,0 +1,3 @@
+\begin{equation}
+	( t + T ) = H ( t ) , \exists t \in [ 0 , T ]
+\end{equation}

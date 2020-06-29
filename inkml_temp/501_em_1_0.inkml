@@ -1,0 +1,26 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">501_em_1_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <msqrt xml:id="_1"><mrow><mn xml:id="5_3">5</mn><mn xml:id="0_4">0</mn></mrow></msqrt>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">5</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="5_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">0</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="0_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="_1"/>
+	</traceGroup>
+</traceGroup>
+</ink>

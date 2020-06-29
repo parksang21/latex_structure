@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mi>Δ</mi><mn>1</mn></msup><msub><mi>Y</mi><mrow><mi>i</mi><mo>,</mo><mi>k</mi><mo>+</mo><mi>m</mi><mo>−</mo><mn>1</mn></mrow></msub><mo>=</mo><msup><mi>Δ</mi><mn>2</mn></msup><msub><mi>Y</mi><mrow><mn>0</mn><mo>,</mo><mi>k</mi><mo>+</mo><mi>m</mi></mrow></msub></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \Delta ^ { 1 } Y _ { i , k + m - 1 } = \Delta ^ { 2 } Y _ { 0 , k + m }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

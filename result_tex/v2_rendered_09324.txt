@@ -1,0 +1,3 @@
+\begin{equation}
+	l _ { q } \equiv d e t q K = \alpha \delta - q ^ { 2 } \gamma B , l _ { q } \in M _ { q }
+\end{equation}

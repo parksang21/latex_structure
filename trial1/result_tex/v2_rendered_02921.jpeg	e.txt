@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { j } - e _ { k } , ( j \vee k ) , e _ { j } + e _ { k } , e _ { j }
+\end{equation}

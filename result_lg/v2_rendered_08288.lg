@@ -1,0 +1,47 @@
+# IUD, v2_rendered_08288
+# Objects(22):
+O, 2_16, 2, 1.0, ORRRRRRSup
+O, \}_27, \}, 1.0, ORRRRRRRRRRRRRRR
+O, \{_11, \{, 1.0, ORRR
+O, k_12, k, 1.0, ORRRR
+O, \leq_25, \leq, 1.0, ORRRRRRRRRRRRR
+O, k_23, k, 1.0, ORRRRRRRRRRRR
+O, s_3, s, 1.0, O
+O, 0_18, 0, 1.0, ORRRRRRRR
+O, a_19, a, 1.0, ORRRRRRRRR
+O, k_15, k, 1.0, ORRRRRR
+O, p_6, p, 1.0, OSubR
+O, d_21, d, 1.0, ORRRRRRRRRRR
+O, n_20, n, 1.0, ORRRRRRRRRR
+O, \vert_13, \vert, 1.0, ORRRRR
+O, ⊄_10, ⊄, 1.0, ORR
+O, _8, \sqrt, 1.0, OR
+O, p_7, p, 1.0, OSubRR
+O, \geq_17, \geq, 1.0, ORRRRRRR
+O, 0_24, 0, 1.0, ORRRRRRRRRRRRSup
+O, u_5, u, 1.0, OSub
+O, 0_26, 0, 1.0, ORRRRRRRRRRRRRR
+O, Q_9, Q, 1.0, ORInside
+
+# Relations from SRT:
+R, 0_18, a_19, Right, 1.0
+R, 0_26, \}_27, Right, 1.0
+R, \geq_17, 0_18, Right, 1.0
+R, \leq_25, 0_26, Right, 1.0
+R, \vert_13, k_15, Right, 1.0
+R, \{_11, k_12, Right, 1.0
+R, _8, Q_9, Inside, 1.0
+R, _8, ⊄_10, Right, 1.0
+R, a_19, n_20, Right, 1.0
+R, d_21, k_23, Right, 1.0
+R, k_12, \vert_13, Right, 1.0
+R, k_15, 2_16, Sup, 1.0
+R, k_15, \geq_17, Right, 1.0
+R, k_23, 0_24, Sup, 1.0
+R, k_23, \leq_25, Right, 1.0
+R, n_20, d_21, Right, 1.0
+R, p_6, p_7, Right, 1.0
+R, s_3, _8, Right, 1.0
+R, s_3, u_5, Sub, 1.0
+R, u_5, p_6, Right, 1.0
+R, ⊄_10, \{_11, Right, 1.0

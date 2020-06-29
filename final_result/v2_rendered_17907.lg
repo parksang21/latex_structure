@@ -1,0 +1,45 @@
+# IUD, v2_rendered_17907
+# Objects(20):
+O, _20, \sqrt, 1.0, ORRRRRRRRRRRInsideRRR
+O, -_12, -, 1.0, ORRRRRRRR
+O, 4_22, 4, 1.0, ORRRRRRRRRRRInsideRRRInside
+O, r_4, r, 1.0, ORR
+O, (_3, (, 1.0, OR
+O, \propto_6, \propto, 1.0, ORRRR
+O, G_2, G, 1.0, O
+O, =_11, =, 1.0, ORRRRRRR
+O, \beta_10, \beta, 1.0, ORRRRRR
+O, +_23, +, 1.0, ORRRRRRRRRRRInsideRRRInsideR
+O, )_5, ), 1.0, ORRR
+O, r_8, r, 1.0, ORRRRR
+O, \beta_9, \beta, 1.0, ORRRRRSup
+O, +_18, +, 1.0, ORRRRRRRRRRRInsideR
+O, -_14, -, 1.0, ORRRRRRRRRR
+O, a_24, a, 1.0, ORRRRRRRRRRRInsideRRRInsideRR
+O, _15, \sqrt, 1.0, ORRRRRRRRRRR
+O, 1_13, 1, 1.0, ORRRRRRRRR
+O, 5_17, 5, 1.0, ORRRRRRRRRRRInside
+O, 2_19, 2, 1.0, ORRRRRRRRRRRInsideRR
+
+# Relations from SRT:
+R, (_3, r_4, Right, 1.0
+R, )_5, \propto_6, Right, 1.0
+R, +_18, 2_19, Right, 1.0
+R, +_23, a_24, Right, 1.0
+R, -_12, 1_13, Right, 1.0
+R, -_14, _15, Right, 1.0
+R, 1_13, -_14, Right, 1.0
+R, 2_19, _20, Right, 1.0
+R, 4_22, +_23, Right, 1.0
+R, 5_17, +_18, Right, 1.0
+R, =_11, -_12, Right, 1.0
+R, G_2, (_3, Right, 1.0
+R, \beta_10, =_11, Right, 1.0
+R, \propto_6, r_8, Right, 1.0
+R, _15, +_18, Inside, 1.0
+R, _15, 5_17, Inside, 1.0
+R, _20, +_23, Inside, 1.0
+R, _20, 4_22, Inside, 1.0
+R, r_4, )_5, Right, 1.0
+R, r_8, \beta_10, Right, 1.0
+R, r_8, \beta_9, Sup, 1.0

@@ -1,0 +1,19 @@
+# IUD, v2_rendered_17528
+# Objects(8):
+O, 8_12, 8, 1.0, 7
+O, z_3, z, 1.0, 0
+O, \leq_11, \leq, 1.0, 6
+O, \psi_6, \psi, 1.0, 2
+O, x_8, x, 1.0, 3
+O, \gt_9, \gt, 1.0, 4
+O, m_10, m, 1.0, 5
+O, m_4, m, 1.0, 1
+
+# Relations from SRT:
+R, \leq_11, 8_12, Right, 1.0
+R, \psi_6, \leq_11, Right, 1.0
+R, \psi_6, m_10, Sup, 1.0
+R, \psi_6, x_8, Sub, 1.0
+R, x_8, \gt_9, Right, 1.0
+R, z_3, \psi_6, Right, 1.0
+R, z_3, m_4, Sup, 1.0

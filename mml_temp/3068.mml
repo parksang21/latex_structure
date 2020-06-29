@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>m</mi><mrow><mi>B</mi><mi>P</mi><mi>S</mi></mrow></msub><mo>=</mo><msup><mo>ln</mo><mi>I</mi></msup><msub><mi>a</mi><mi>I</mi></msub><mo>+</mo><msup><mi>m</mi><mi>I</mi></msup><msub><mi>a</mi><mrow><mi>D</mi><mi>I</mi></mrow></msub><mo stretchy="false" form="postfix">|</mo></mrow><annotation encoding="application/x-tex">\begin{equation}
+    m _ { B P S } = \ln ^ { I } a _ { I } + m ^ { I } a _ { D I } \vert
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

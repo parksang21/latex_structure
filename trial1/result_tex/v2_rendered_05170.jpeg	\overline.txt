@@ -1,0 +1,3 @@
+\begin{equation}
+	{ G } = \lim _ { \Omega \rightarrow 0 } \Omega ^ { - 2 } G ( \Omega )
+\end{equation}

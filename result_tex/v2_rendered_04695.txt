@@ -1,0 +1,3 @@
+\begin{equation}
+	\mu _ { \div } ^ { - 1 } \mu _ { - } = \theta _ { - } \omega \theta _ { \div } ^ { - 1 }
+\end{equation}

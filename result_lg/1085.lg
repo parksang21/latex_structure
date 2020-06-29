@@ -1,0 +1,39 @@
+# IUD, 1085
+# Objects(18):
+O, d_22, d, 1.0, ORRRR
+O, d_19, d, 1.0, OR
+O, e_3, e, 1.0, O
+O, E_25, E, 1.0, ORRRRRSub
+O, +_7, +, 1.0, OSupRR
+O, 2_18, 2, 1.0, OSupRRRBelow
+O, \sigma_16, \sigma, 1.0, OSupRRRAboveRRR
+O, 2_17, 2, 1.0, OSupRRRAboveRRRSub
+O, -_5, -, 1.0, OSup
+O, 5_14, 5, 1.0, OSupRRRAboveRR
+O, \sigma_11, \sigma, 1.0, OSupRRRAbove
+O, +_13, +, 1.0, OSupRRRAboveR
+O, =_21, =, 1.0, ORRR
+O, 1_12, 1, 1.0, OSupRRRAboveSub
+O, t_20, t, 1.0, ORR
+O, t_24, t, 1.0, ORRRRR
+O, _8, -, 1.0, OSupRRR
+O, \varepsilon_6, \varepsilon, 1.0, OSupR
+
+# Relations from SRT:
+R, +_13, 5_14, Right, 1.0
+R, +_7, _8, Right, 1.0
+R, -_5, \varepsilon_6, Right, 1.0
+R, 5_14, \sigma_16, Right, 1.0
+R, =_21, d_22, Right, 1.0
+R, \sigma_11, +_13, Right, 1.0
+R, \sigma_11, 1_12, Sub, 1.0
+R, \sigma_16, 2_17, Sub, 1.0
+R, \varepsilon_6, +_7, Right, 1.0
+R, _8, 2_18, Below, 1.0
+R, _8, \sigma_11, Above, 1.0
+R, d_19, t_20, Right, 1.0
+R, d_22, t_24, Right, 1.0
+R, e_3, -_5, Sup, 1.0
+R, e_3, d_19, Right, 1.0
+R, t_20, =_21, Right, 1.0
+R, t_24, E_25, Sub, 1.0

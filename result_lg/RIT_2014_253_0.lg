@@ -1,0 +1,35 @@
+# IUD, RIT_2014_253_0
+# Objects(16):
+O, x_16, x, 1.0, ORRRR
+O, b_11, b, 1.0, ORSupR
+O, b_22, b, 1.0, ORRRRRRSup
+O, y_4, y, 1.0, OR
+O, b_19, b, 1.0, ORRRRRBelow
+O, b_13, b, 1.0, ORSupRSup
+O, _17, -, 1.0, ORRRRR
+O, ^_9, ^, 1.0, ORSupBelow
+O, \leq_14, \leq, 1.0, ORR
+O, 1_8, 1, 1.0, ORSupAbove
+O, (_15, (, 1.0, ORRR
+O, b_18, b, 1.0, ORRRRRAbove
+O, _7, -, 1.0, ORSup
+O, b_12, b, 1.0, ORSupRSup
+O, (_2, (, 1.0, O
+O, )_21, ), 1.0, ORRRRRR
+
+# Relations from SRT:
+R, (_15, x_16, Right, 1.0
+R, (_2, y_4, Right, 1.0
+R, )_21, b_22, Sup, 1.0
+R, \leq_14, (_15, Right, 1.0
+R, _17, )_21, Right, 1.0
+R, _17, b_18, Above, 1.0
+R, _17, b_19, Below, 1.0
+R, _7, 1_8, Above, 1.0
+R, _7, ^_9, Below, 1.0
+R, _7, b_11, Right, 1.0
+R, b_11, b_12, Sup, 1.0
+R, b_11, b_13, Sup, 1.0
+R, x_16, _17, Right, 1.0
+R, y_4, \leq_14, Right, 1.0
+R, y_4, _7, Sup, 1.0

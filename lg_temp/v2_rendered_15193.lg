@@ -1,0 +1,39 @@
+# IUD, v2_rendered_15193
+# Objects(18):
+O, (_3, (, 1.0, 1
+O, t_18, t, 1.0, 13
+O, \infty_10, \infty, 1.0, 7
+O, -_16, -, 1.0, 11
+O, )_22, ), 1.0, 17
+O, t_4, t, 1.0, 2
+O, \lambda_17, \lambda, 1.0, 12
+O, \lambda_21, \lambda, 1.0, 16
+O, d_11, d, 1.0, 8
+O, e_14, e, 1.0, 10
+O, \beta_19, \beta, 1.0, 14
+O, \int_8, \int, 1.0, 5
+O, 0_9, 0, 1.0, 6
+O, =_6, =, 1.0, 4
+O, )_5, ), 1.0, 3
+O, (_20, (, 1.0, 15
+O, K_2, K, 1.0, 0
+O, \lambda_12, \lambda, 1.0, 9
+
+# Relations from SRT:
+R, (_20, \lambda_21, Right, 1.0
+R, (_3, t_4, Right, 1.0
+R, )_5, =_6, Right, 1.0
+R, -_16, \lambda_17, Right, 1.0
+R, =_6, \int_8, Right, 1.0
+R, K_2, (_3, Right, 1.0
+R, \beta_19, (_20, Right, 1.0
+R, \int_8, 0_9, Sub, 1.0
+R, \int_8, \infty_10, Sup, 1.0
+R, \int_8, d_11, Right, 1.0
+R, \lambda_12, e_14, Right, 1.0
+R, \lambda_17, t_18, Right, 1.0
+R, \lambda_21, )_22, Right, 1.0
+R, d_11, \lambda_12, Right, 1.0
+R, e_14, -_16, Sup, 1.0
+R, e_14, \beta_19, Right, 1.0
+R, t_4, )_5, Right, 1.0

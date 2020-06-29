@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta _ { X } ( a e ) = a \Delta _ { X } e + ( \delta _ { X } a ) e
+\end{equation}

@@ -1,0 +1,39 @@
+# IUD, v2_rendered_07620
+# Objects(18):
+O, ω_8, ω, 1.0, ORRR
+O, r_4, r, 1.0, OSub
+O, \approx_22, \approx, 1.0, ORRRRRRRRRR
+O, +_6, +, 1.0, ORR
+O, \Omega_5, \Omega, 1.0, OR
+O, _13, -, 1.0, ORRRRRRR
+O, r_18, r, 1.0, ORRRRRRRBelow
+O, \Omega_21, \Omega, 1.0, ORRRRRRRRR
+O, 1_11, 1, 1.0, ORRRRR
+O, \triangle_3, \triangle, 1.0, O
+O, [_10, [, 1.0, ORRRR
+O, 9_19, 9, 1.0, ORRRRRRRBelowSup
+O, ]_20, ], 1.0, ORRRRRRRR
+O, 8_16, 8, 1.0, ORRRRRRRAboveSup
+O, e_15, e, 1.0, ORRRRRRRAbove
+O, +_12, +, 1.0, ORRRRRR
+O, 8_9, 8, 1.0, ORRRSup
+O, 0_23, 0, 1.0, ORRRRRRRRRRR
+
+# Relations from SRT:
+R, +_12, _13, Right, 1.0
+R, +_6, ω_8, Right, 1.0
+R, 1_11, +_12, Right, 1.0
+R, [_10, 1_11, Right, 1.0
+R, \Omega_21, \approx_22, Right, 1.0
+R, \Omega_5, +_6, Right, 1.0
+R, \approx_22, 0_23, Right, 1.0
+R, \triangle_3, \Omega_5, Right, 1.0
+R, \triangle_3, r_4, Sub, 1.0
+R, ]_20, \Omega_21, Right, 1.0
+R, _13, ]_20, Right, 1.0
+R, _13, e_15, Above, 1.0
+R, _13, r_18, Below, 1.0
+R, e_15, 8_16, Sup, 1.0
+R, r_18, 9_19, Sup, 1.0
+R, ω_8, 8_9, Sup, 1.0
+R, ω_8, [_10, Right, 1.0

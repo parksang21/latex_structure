@@ -1,0 +1,3 @@
+\begin{equation}
+	y = c , y _ { 1 } + c _ { 2 } y _ { 2 } + \csqrts + c _ { n } y _ { n }
+\end{equation}

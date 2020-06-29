@@ -1,0 +1,3 @@
+\begin{equation}
+	\sim H _ { b u l k } \odot H _ { b d y }
+\end{equation}

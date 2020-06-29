@@ -1,0 +1,35 @@
+# IUD, v2_rendered_04335
+# Objects(16):
+O, \alpha_19, \alpha, 1.0, ORRRRRRSup
+O, A_10, A, 1.0, ORRR
+O, \mu_18, \mu, 1.0, ORRRRRRSubR
+O, W_4, W, 1.0, OR
+O, \mu_11, \mu, 1.0, ORRRSub
+O, \alpha_23, \alpha, 1.0, ORRRRRRRSup
+O, K_21, K, 1.0, ORRRRRRR
+O, +_13, +, 1.0, ORRRRR
+O, P_6, P, 1.0, ORSub
+O, P_17, P, 1.0, ORRRRRRSub
+O, \mu_7, \mu, 1.0, ORSubR
+O, \approx_8, \approx, 1.0, ORR
+O, B_15, B, 1.0, ORRRRRR
+O, P_22, P, 1.0, ORRRRRRRSub
+O, \delta_2, \delta, 1.0, O
+O, \varepsilon_12, \varepsilon, 1.0, ORRRR
+
+# Relations from SRT:
+R, +_13, B_15, Right, 1.0
+R, A_10, \mu_11, Sub, 1.0
+R, A_10, \varepsilon_12, Right, 1.0
+R, B_15, K_21, Right, 1.0
+R, B_15, P_17, Sub, 1.0
+R, B_15, \alpha_19, Sup, 1.0
+R, K_21, P_22, Sub, 1.0
+R, K_21, \alpha_23, Sup, 1.0
+R, P_17, \mu_18, Right, 1.0
+R, P_6, \mu_7, Right, 1.0
+R, W_4, P_6, Sub, 1.0
+R, W_4, \approx_8, Right, 1.0
+R, \approx_8, A_10, Right, 1.0
+R, \delta_2, W_4, Right, 1.0
+R, \varepsilon_12, +_13, Right, 1.0

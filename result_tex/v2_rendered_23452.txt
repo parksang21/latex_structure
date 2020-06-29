@@ -1,0 +1,3 @@
+\begin{equation}
+	\vert 0 \rangle _ { E ^ { \prime } } \Leftrightarrow e ^ { B } \vert 0 \rangle _ { E }
+\end{equation}

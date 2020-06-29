@@ -1,0 +1,39 @@
+# IUD, v2_rendered_07416
+# Objects(18):
+O, \gt_3, \gt, 1.0, OR
+O, _4, -, 1.0, ORR
+O, 2_9, 2, 1.0, ORRAboveRSup
+O, 4_6, 4, 1.0, ORRAbove
+O, 5_16, 5, 1.0, ORRRRRR
+O, \approx_14, \approx, 1.0, ORRRR
+O, 9_18, 9, 1.0, ORRRRRRRR
+O, \pi_8, \pi, 1.0, ORRAboveR
+O, L_2, L, 1.0, O
+O, R_22, R, 1.0, ORRRRRRRRRRRR
+O, \ln_11, \ln, 1.0, ORRBelow
+O, 3_19, 3, 1.0, ORRRRRRRRR
+O, ._17, ., 1.0, ORRRRRRR
+O, 4_20, 4, 1.0, ORRRRRRRRRR
+O, 3_15, 3, 1.0, ORRRRR
+O, 3_12, 3, 1.0, ORRBelowR
+O, 8_21, 8, 1.0, ORRRRRRRRRRR
+O, R_13, R, 1.0, ORRR
+
+# Relations from SRT:
+R, ._17, 9_18, Right, 1.0
+R, 3_15, 5_16, Right, 1.0
+R, 3_19, 4_20, Right, 1.0
+R, 4_20, 8_21, Right, 1.0
+R, 4_6, \pi_8, Right, 1.0
+R, 5_16, ._17, Right, 1.0
+R, 8_21, R_22, Right, 1.0
+R, 9_18, 3_19, Right, 1.0
+R, L_2, \gt_3, Right, 1.0
+R, R_13, \approx_14, Right, 1.0
+R, \approx_14, 3_15, Right, 1.0
+R, \gt_3, _4, Right, 1.0
+R, \ln_11, 3_12, Right, 1.0
+R, \pi_8, 2_9, Sup, 1.0
+R, _4, 4_6, Above, 1.0
+R, _4, R_13, Right, 1.0
+R, _4, \ln_11, Below, 1.0

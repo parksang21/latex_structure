@@ -1,0 +1,3 @@
+\begin{equation}
+	\gamma _ { \phi } = \frac { 1 } { 2 } \frac { \mu } { Z _ { \phi } } \frac { d Z _ { \phi } } { d \mu }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\cdot \vert L \vert \cdot \rangle \langle \cdot \vert \gamma _ { P } \rangle + \langle \cdot \vert L Q \vert \gamma _ { Q } \rangle = 0
+\end{equation}

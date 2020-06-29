@@ -1,0 +1,3 @@
+\begin{equation}
+	( D _ { 1 } \times i D _ { 2 } ) \psi _ { \times } ( \sqrt { x } ) = 0
+\end{equation}

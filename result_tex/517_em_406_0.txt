@@ -1,0 +1,3 @@
+\begin{equation}
+	\varepsilon _ { b _ { n } }
+\end{equation}

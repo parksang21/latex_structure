@@ -1,0 +1,41 @@
+# IUD, v2_rendered_07711
+# Objects(19):
+O, (_2, (, 1.0, O
+O, V_5, V, 1.0, ORSub
+O, \beta_15, \beta, 1.0, ORRRRRRRRRRR
+O, \phi_21, \phi, 1.0, ORRRRRRRRRRRRRRRR
+O, )_9, ), 1.0, ORRRRR
+O, )_16, ), 1.0, ORRRRRRRRRRRR
+O, i_12, i, 1.0, ORRRRRRRR
+O, \otimes_6, \otimes, 1.0, ORR
+O, =_17, =, 1.0, ORRRRRRRRRRRRR
+O, \circle_19, \circle, 1.0, ORRRRRRRRRRRRRRR
+O, \otimes_14, \otimes, 1.0, ORRRRRRRRRR
+O, \phi_4, \phi, 1.0, OR
+O, \Delta_18, \Delta, 1.0, ORRRRRRRRRRRRRR
+O, V_22, V, 1.0, ORRRRRRRRRRRRRRRRSub
+O, d_13, d, 1.0, ORRRRRRRRR
+O, d_8, d, 1.0, ORRRR
+O, i_7, i, 1.0, ORRR
+O, \circle_10, \circle, 1.0, ORRRRRR
+O, (_11, (, 1.0, ORRRRRRR
+
+# Relations from SRT:
+R, (_11, i_12, Right, 1.0
+R, (_2, \phi_4, Right, 1.0
+R, )_16, =_17, Right, 1.0
+R, )_9, \circle_10, Right, 1.0
+R, =_17, \Delta_18, Right, 1.0
+R, \Delta_18, \circle_19, Right, 1.0
+R, \beta_15, )_16, Right, 1.0
+R, \circle_10, (_11, Right, 1.0
+R, \circle_19, \phi_21, Right, 1.0
+R, \otimes_14, \beta_15, Right, 1.0
+R, \otimes_6, i_7, Right, 1.0
+R, \phi_21, V_22, Sub, 1.0
+R, \phi_4, V_5, Sub, 1.0
+R, \phi_4, \otimes_6, Right, 1.0
+R, d_13, \otimes_14, Right, 1.0
+R, d_8, )_9, Right, 1.0
+R, i_12, d_13, Right, 1.0
+R, i_7, d_8, Right, 1.0

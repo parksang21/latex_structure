@@ -1,0 +1,41 @@
+# IUD, v2_rendered_17842
+# Objects(19):
+O, d_4, d, 1.0, OR
+O, -_10, -, 1.0, ORRRSup
+O, )_18, ), 1.0, ORRRSupRRRRRR
+O, )_26, ), 1.0, ORRRR
+O, \theta_6, \theta, 1.0, ORR
+O, \phi_22, \phi, 1.0, ORRRSupRRRRRRRRR
+O, D_15, D, 1.0, ORRRSupRRRR
+O, (_11, (, 1.0, ORRRSupR
+O, \int_2, \int, 1.0, O
+O, V_12, V, 1.0, ORRRSupRR
+O, D_24, D, 1.0, ORRRSupRRRRRRRRRSub
+O, i_20, i, 1.0, ORRRSupRRRRRRRR
+O, (_13, (, 1.0, ORRRSupRRR
+O, )_17, ), 1.0, ORRRSupRRRRR
+O, i_25, i, 1.0, ORRRSupRRRRRRRRRSubSub
+O, e_8, e, 1.0, ORRR
+O, +_19, +, 1.0, ORRRSupRRRRRRR
+O, 2_5, 2, 1.0, ORSup
+O, i_16, i, 1.0, ORRRSupRRRRSub
+
+# Relations from SRT:
+R, (_11, V_12, Right, 1.0
+R, (_13, D_15, Right, 1.0
+R, )_17, )_18, Right, 1.0
+R, )_18, +_19, Right, 1.0
+R, +_19, i_20, Right, 1.0
+R, -_10, (_11, Right, 1.0
+R, D_15, )_17, Right, 1.0
+R, D_15, i_16, Sub, 1.0
+R, D_24, i_25, Sub, 1.0
+R, V_12, (_13, Right, 1.0
+R, \int_2, d_4, Right, 1.0
+R, \phi_22, D_24, Sub, 1.0
+R, \theta_6, e_8, Right, 1.0
+R, d_4, 2_5, Sup, 1.0
+R, d_4, \theta_6, Right, 1.0
+R, e_8, )_26, Right, 1.0
+R, e_8, -_10, Sup, 1.0
+R, i_20, \phi_22, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	P _ { i } = 2 \pi \gamma \phi _ { i j } \sum _ { s = 1 } ^ { N } x _ { j } ^ { s }
+\end{equation}

@@ -1,0 +1,57 @@
+# IUD, v2_rendered_08813
+# Objects(27):
+O, \rho_2, \rho, 1.0, O
+O, ⊄_23, ⊄, 1.0, ORRRRRRRRRRRRRRRRRRRRR
+O, 1_26, 1, 1.0, ORRRRRRRRRRRRRRRRRRRRRRSup
+O, \Omega_25, \Omega, 1.0, ORRRRRRRRRRRRRRRRRRRRRR
+O, =_8, =, 1.0, ORRRRRR
+O, (_3, (, 1.0, OR
+O, ⊄_19, ⊄, 1.0, ORRRRRRRRRRRRRRRRR
+O, f_4, f, 1.0, ORR
+O, g_14, g, 1.0, ORRRRRRRRRRRR
+O, g_18, g, 1.0, ORRRRRRRRRRRRRRRR
+O, )_7, ), 1.0, ORRRRR
+O, \varepsilon_12, \varepsilon, 1.0, ORRRRRRRRRR
+O, \varepsilon_5, \varepsilon, 1.0, ORRR
+O, f_9, f, 1.0, ORRRRRRR
+O, 1_30, 1, 1.0, ORRRRRRRRRRRRRRRRRRRRRRRRSup
+O, f_16, f, 1.0, ORRRRRRRRRRRRRR
+O, g_6, g, 1.0, ORRRR
+O, )_13, ), 1.0, ORRRRRRRRRRR
+O, \varepsilon_22, \varepsilon, 1.0, ORRRRRRRRRRRRRRRRRRRR
+O, \otimes_27, \otimes, 1.0, ORRRRRRRRRRRRRRRRRRRRRRR
+O, \Omega_29, \Omega, 1.0, ORRRRRRRRRRRRRRRRRRRRRRRR
+O, A_20, A, 1.0, ORRRRRRRRRRRRRRRRRR
+O, COMMA_15, COMMA, 1.0, ORRRRRRRRRRRRR
+O, COMMA_21, COMMA, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, COMMA_17, COMMA, 1.0, ORRRRRRRRRRRRRRR
+O, (_11, (, 1.0, ORRRRRRRRR
+O, \rho_10, \rho, 1.0, ORRRRRRRR
+
+# Relations from SRT:
+R, (_11, \varepsilon_12, Right, 1.0
+R, (_3, f_4, Right, 1.0
+R, )_13, g_14, Right, 1.0
+R, )_7, =_8, Right, 1.0
+R, =_8, f_9, Right, 1.0
+R, A_20, COMMA_21, Right, 1.0
+R, COMMA_15, f_16, Right, 1.0
+R, COMMA_17, g_18, Right, 1.0
+R, COMMA_21, \varepsilon_22, Right, 1.0
+R, \Omega_25, 1_26, Sup, 1.0
+R, \Omega_25, \otimes_27, Right, 1.0
+R, \Omega_29, 1_30, Sup, 1.0
+R, \otimes_27, \Omega_29, Right, 1.0
+R, \rho_10, (_11, Right, 1.0
+R, \rho_2, (_3, Right, 1.0
+R, \varepsilon_12, )_13, Right, 1.0
+R, \varepsilon_22, ⊄_23, Right, 1.0
+R, \varepsilon_5, g_6, Right, 1.0
+R, f_16, COMMA_17, Right, 1.0
+R, f_4, \varepsilon_5, Right, 1.0
+R, f_9, \rho_10, Right, 1.0
+R, g_14, COMMA_15, Right, 1.0
+R, g_18, ⊄_19, Right, 1.0
+R, g_6, )_7, Right, 1.0
+R, ⊄_19, A_20, Right, 1.0
+R, ⊄_23, \Omega_25, Right, 1.0

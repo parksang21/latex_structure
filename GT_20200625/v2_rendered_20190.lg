@@ -1,0 +1,39 @@
+# IUD, v2_rendered_20190
+# Objects(18):
+O, I_13, I, 1.0, ORRRRBelow
+O, )_24, ), 1.0, ORRRRRRR
+O, a_20, a, 1.0, ORRRRRRInside
+O, 1_15, 1, 1.0, ORRRRBelowRR
+O, c_21, c, 1.0, ORRRRRRSub
+O, _19, \sqrt, 1.0, ORRRRRR
+O, q_4, q, 1.0, OR
+O, =_14, =, 1.0, ORRRRBelowR
+O, 5_16, 5, 1.0, ORRRRAbove
+O, 2_25, 2, 1.0, ORRRRRRRSup
+O, (_17, (, 1.0, ORRRRR
+O, c_5, c, 1.0, ORSub
+O, 2_8, 2, 1.0, ORRSup
+O, (_2, (, 1.0, O
+O, \lt_9, \lt, 1.0, ORRR
+O, I_22, I, 1.0, ORRRRRRSup
+O, \sum_11, \sum, 1.0, ORRRR
+O, )_7, ), 1.0, ORR
+
+# Relations from SRT:
+R, (_17, _19, Right, 1.0
+R, (_2, q_4, Right, 1.0
+R, )_24, 2_25, Sup, 1.0
+R, )_7, 2_8, Sup, 1.0
+R, )_7, \lt_9, Right, 1.0
+R, =_14, 1_15, Right, 1.0
+R, I_13, =_14, Right, 1.0
+R, \lt_9, \sum_11, Right, 1.0
+R, \sum_11, (_17, Right, 1.0
+R, \sum_11, 5_16, Above, 1.0
+R, \sum_11, I_13, Below, 1.0
+R, _19, )_24, Right, 1.0
+R, _19, I_22, Sup, 1.0
+R, _19, a_20, Inside, 1.0
+R, _19, c_21, Sub, 1.0
+R, q_4, )_7, Right, 1.0
+R, q_4, c_5, Sub, 1.0

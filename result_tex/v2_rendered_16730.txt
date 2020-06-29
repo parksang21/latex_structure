@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { i } { \Delta _ { - } } \rightarrow \frac { 1 } { 2 p + } = \frac { 1 } { \alpha }
+\end{equation}

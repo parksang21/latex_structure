@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { d } { \phi d \phi } ) h ^ { ( 0 ) } = 2 f _ { 1 } ^ { ( 2 ) }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { - \tau ^ { 2 } \vert t _ { i } - t _ { j } \vert ^ { 2 } }
+\end{equation}

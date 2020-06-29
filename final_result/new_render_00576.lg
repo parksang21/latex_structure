@@ -1,0 +1,37 @@
+# IUD, new_render_00576
+# Objects(17):
+O, 0_17, 0, 1.0, ORRRRRRRRR
+O, \prime_11, \prime, 1.0, ORRRSubSup
+O, )_14, ), 1.0, ORRRRRR
+O, =_16, =, 1.0, ORRRRRRRR
+O, G_21, G, 1.0, ORRRRRRRRRRRRR
+O, \prime_5, \prime, 1.0, ORSup
+O, COMMA_6, COMMA, 1.0, ORR
+O, \therefore_18, \therefore, 1.0, ORRRRRRRRRR
+O, \beta_8, \beta, 1.0, ORRR
+O, [_2, [, 1.0, O
+O, (_12, (, 1.0, ORRRR
+O, \in_20, \in, 1.0, ORRRRRRRRRRRR
+O, g_13, g, 1.0, ORRRRR
+O, H_4, H, 1.0, OR
+O, ]_15, ], 1.0, ORRRRRRR
+O, g_19, g, 1.0, ORRRRRRRRRRR
+O, H_10, H, 1.0, ORRRSub
+
+# Relations from SRT:
+R, (_12, g_13, Right, 1.0
+R, )_14, ]_15, Right, 1.0
+R, 0_17, \therefore_18, Right, 1.0
+R, =_16, 0_17, Right, 1.0
+R, COMMA_6, \beta_8, Right, 1.0
+R, H_10, \prime_11, Sup, 1.0
+R, H_4, COMMA_6, Right, 1.0
+R, H_4, \prime_5, Sup, 1.0
+R, [_2, H_4, Right, 1.0
+R, \beta_8, (_12, Right, 1.0
+R, \beta_8, H_10, Sub, 1.0
+R, \in_20, G_21, Right, 1.0
+R, \therefore_18, g_19, Right, 1.0
+R, ]_15, =_16, Right, 1.0
+R, g_13, )_14, Right, 1.0
+R, g_19, \in_20, Right, 1.0

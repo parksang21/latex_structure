@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msqrt><mi>c</mi></msqrt><mo>+</mo><mo stretchy="false" form="prefix">(</mo><mn>3</mn><mi>H</mi><mo>+</mo><mfrac><msqrt><mi>f</mi></msqrt><mi>f</mi></mfrac><mo stretchy="false" form="postfix">)</mo><msqrt><mi>C</mi></msqrt><mo>=</mo><mo>−</mo><msubsup><mi>V</mi><mi>C</mi><mi>′</mi></msubsup><mo stretchy="false" form="prefix">(</mo><mi>C</mi><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \sqrt { c } + ( 3 H + \frac { \sqrt { f } } { f } ) \sqrt { C } = - V _ { C } ^ { \prime } ( C )
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

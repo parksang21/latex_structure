@@ -1,0 +1,3 @@
+\begin{equation}
+	= \prod _ { a = 1 } ^ { 3 } e _ { a } \phi _ { a } \omega _ { a }
+\end{equation}

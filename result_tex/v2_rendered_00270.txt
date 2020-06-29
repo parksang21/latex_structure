@@ -1,0 +1,3 @@
+\begin{equation}
+	W _ { \pm } = L _ { H } \pm R _ { H } = i \beta V _ { H } ^ { \pm }
+\end{equation}

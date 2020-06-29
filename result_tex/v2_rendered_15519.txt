@@ -1,0 +1,3 @@
+\begin{equation}
+	L ^ { \pm } \Leftrightarrow \frac { \tan r } { r } , M _ { \pm } \Leftrightarrow 1
+\end{equation}

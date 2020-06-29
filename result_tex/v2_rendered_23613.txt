@@ -1,0 +1,3 @@
+\begin{equation}
+	f _ { s } ( q ) = 0 ( s = 1 , 2 , \csqrts , M M ( N )
+\end{equation}

@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>d</mi><msup><mi>s</mi><mn>2</mn></msup><mo>=</mo><msup><mi>l</mi><mn>2</mn></msup><mo stretchy="false" form="prefix">(</mo><mi>d</mi><msup><mi>γ</mi><mn>2</mn></msup><mo>+</mo><msup><mo>cos</mo><mn>2</mn></msup><mi>x</mi><mi>d</mi><msup><mi>ω</mi><mi>a</mi></msup><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">\begin{equation}
+    d s ^ { 2 } = l ^ { 2 } ( d \gamma ^ { 2 } + \cos ^ { 2 } x d \omega ^ { a } )
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { n } \leftrightarrow a _ { n } , b _ { n } \leftrightarrow b _ { n }
+\end{equation}

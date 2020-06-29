@@ -1,0 +1,3 @@
+\begin{equation}
+	W = \beta + i t , \sqrt { \omega } = \beta - i t
+\end{equation}

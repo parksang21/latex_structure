@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { - } ( a , b , c ) = c \otimes b \otimes a + a \otimes c \otimes b + b \otimes a \otimes c
+\end{equation}

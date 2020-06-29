@@ -1,0 +1,35 @@
+# IUD, 951
+# Objects(16):
+O, \sigma_15, \sigma, 1.0, 9
+O, _6, -, 1.0, 15
+O, =_5, =, 1.0, 2
+O, \varepsilon_10, \varepsilon, 1.0, 5
+O, \beta_18, \beta, 1.0, 11
+O, P_17, P, 1.0, 10
+O, 2_8, 2, 1.0, 4
+O, \sigma_23, \sigma, 1.0, 14
+O, 1_7, 1, 1.0, 3
+O, \rho_14, \rho, 1.0, 8
+O, \mu_4, \mu, 1.0, 1
+O, ω_3, ω, 1.0, 0
+O, \beta_13, \beta, 1.0, 7
+O, J_20, J, 1.0, 12
+O, \mu_12, \mu, 1.0, 6
+O, \rho_22, \rho, 1.0, 13
+
+# Relations from SRT:
+R, =_5, _6, Right, 1.0
+R, J_20, \rho_22, Sup, 1.0
+R, P_17, J_20, Right, 1.0
+R, P_17, \beta_18, Sup, 1.0
+R, \beta_13, \rho_14, Right, 1.0
+R, \mu_12, \beta_13, Right, 1.0
+R, \rho_14, \sigma_15, Right, 1.0
+R, \rho_22, \sigma_23, Right, 1.0
+R, \varepsilon_10, P_17, Right, 1.0
+R, \varepsilon_10, \mu_12, Sub, 1.0
+R, _6, 1_7, Above, 1.0
+R, _6, 2_8, Below, 1.0
+R, _6, \varepsilon_10, Right, 1.0
+R, ω_3, =_5, Right, 1.0
+R, ω_3, \mu_4, Sub, 1.0

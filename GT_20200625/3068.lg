@@ -1,0 +1,37 @@
+# IUD, 3068
+# Objects(17):
+O, m_18, m, 1.0, ORRRRRR
+O, P_6, P, 1.0, OSubR
+O, m_3, m, 1.0, O
+O, +_16, +, 1.0, ORRRRR
+O, I_15, I, 1.0, ORRRRSub
+O, I_19, I, 1.0, ORRRRRRSup
+O, \vert_25, \vert, 1.0, ORRRRRRRR
+O, \vert_9, \vert, 1.0, ORR
+O, D_23, D, 1.0, ORRRRRRRSub
+O, I_24, I, 1.0, ORRRRRRRSubSub
+O, S_7, S, 1.0, OSubRR
+O, I_12, I, 1.0, ORRRSup
+O, a_21, a, 1.0, ORRRRRRR
+O, =_8, =, 1.0, OR
+O, n_11, n, 1.0, ORRR
+O, a_14, a, 1.0, ORRRR
+O, B_5, B, 1.0, OSub
+
+# Relations from SRT:
+R, +_16, m_18, Right, 1.0
+R, =_8, \vert_9, Right, 1.0
+R, B_5, P_6, Right, 1.0
+R, D_23, I_24, Sub, 1.0
+R, P_6, S_7, Right, 1.0
+R, \vert_9, n_11, Right, 1.0
+R, a_14, +_16, Right, 1.0
+R, a_14, I_15, Sub, 1.0
+R, a_21, D_23, Sub, 1.0
+R, a_21, \vert_25, Right, 1.0
+R, m_18, I_19, Sup, 1.0
+R, m_18, a_21, Right, 1.0
+R, m_3, =_8, Right, 1.0
+R, m_3, B_5, Sub, 1.0
+R, n_11, I_12, Sup, 1.0
+R, n_11, a_14, Right, 1.0

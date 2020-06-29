@@ -1,0 +1,3 @@
+\begin{equation}
+	\omega = \Omega _ { n } ( \omega , \mu )
+\end{equation}

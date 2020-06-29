@@ -1,0 +1,3 @@
+\begin{equation}
+	( V ) = \frac { B _ { 7 } ^ { 6 } ( V ) } { \triangle ( V ) }
+\end{equation}

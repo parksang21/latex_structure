@@ -1,0 +1,3 @@
+\begin{equation}
+	D _ { S } \oplus D _ { S } = \sum _ { j = 0 } ^ { 2 S } D _ { j }
+\end{equation}

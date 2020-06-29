@@ -1,0 +1,3 @@
+\begin{equation}
+	\pi ( d y ) = [ D , g ] , \forall g \in A
+\end{equation}

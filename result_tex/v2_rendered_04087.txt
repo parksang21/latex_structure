@@ -1,0 +1,3 @@
+\begin{equation}
+	P ^ { 0 } ( \tau ) = \delta \sqrt { \sqrt { P } ^ { 2 } ( \tau ) + m ^ { 2 } } , \delta = \pm 1
+\end{equation}

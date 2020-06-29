@@ -1,0 +1,3 @@
+\begin{equation}
+	P _ { n } = ( 3 n - 1 - 2 ) Z _ { n } - 2 F _ { n - 1 } \exists n
+\end{equation}

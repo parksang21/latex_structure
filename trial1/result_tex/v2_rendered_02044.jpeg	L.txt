@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { W Z } = \alpha f ^ { \mu } \Delta _ { \mu } \theta + \frac { \beta } { 2 } \Delta _ { \mu } \theta \Delta ^ { \mu } \theta
+\end{equation}

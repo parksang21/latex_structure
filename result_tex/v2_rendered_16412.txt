@@ -1,0 +1,3 @@
+\begin{equation}
+	< 6 ( \phi ) 1 6 s V \rightarrow 6 a s V \rightarrow \infty , \forall \phi
+\end{equation}

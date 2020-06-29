@@ -1,0 +1,3 @@
+\begin{equation}
+	G _ { e q }
+\end{equation}

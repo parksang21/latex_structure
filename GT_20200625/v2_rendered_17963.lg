@@ -1,0 +1,33 @@
+# IUD, v2_rendered_17963
+# Objects(15):
+O, q_14, q, 1.0, ORRRRRR
+O, \langle_2, \langle, 1.0, O
+O, COMMA_6, COMMA, 1.0, ORR
+O, \prime_22, \prime, 1.0, ORRRRRRRRSubRSup
+O, \delta_17, \delta, 1.0, ORRRRRRRR
+O, \rangle_12, \rangle, 1.0, ORRRR
+O, \Omega_4, \Omega, 1.0, OR
+O, H_19, H, 1.0, ORRRRRRRRSub
+O, H_10, H, 1.0, ORRRSub
+O, H_21, H, 1.0, ORRRRRRRRSubR
+O, H_5, H, 1.0, ORSub
+O, \Omega_8, \Omega, 1.0, ORRR
+O, \prime_11, \prime, 1.0, ORRRSubSup
+O, !_15, !, 1.0, ORRRRRRR
+O, \equiv_13, \equiv, 1.0, ORRRRR
+
+# Relations from SRT:
+R, !_15, \delta_17, Right, 1.0
+R, COMMA_6, \Omega_8, Right, 1.0
+R, H_10, \prime_11, Sup, 1.0
+R, H_19, H_21, Right, 1.0
+R, H_21, \prime_22, Sup, 1.0
+R, \Omega_4, COMMA_6, Right, 1.0
+R, \Omega_4, H_5, Sub, 1.0
+R, \Omega_8, H_10, Sub, 1.0
+R, \Omega_8, \rangle_12, Right, 1.0
+R, \delta_17, H_19, Sub, 1.0
+R, \equiv_13, q_14, Right, 1.0
+R, \langle_2, \Omega_4, Right, 1.0
+R, \rangle_12, \equiv_13, Right, 1.0
+R, q_14, !_15, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { \lambda ^ { \prime } } = - 3 g g ^ { \lambda \varepsilon } \Delta _ { \varepsilon } W
+\end{equation}

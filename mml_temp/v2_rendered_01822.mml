@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>Q</mi><mo stretchy="false" form="prefix">(</mo><mi>θ</mi><mo>=</mo><mfrac><mi>π</mi><mn>2</mn></mfrac><mo stretchy="false" form="postfix">)</mo><mo>=</mo><mo>−</mo><mfrac><mrow><mi>q</mi><mi>e</mi></mrow><mn>2</mn></mfrac><mo>tan</mo><mo stretchy="false" form="prefix">(</mo><mfrac><mrow><mi>m</mi><mi>β</mi></mrow><mn>2</mn></mfrac><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">\begin{equation}
+    Q ( \theta = \frac { \pi } { 2 } ) = - \frac { q e } { 2 } \tan ( \frac { m \beta } { 2 } )
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

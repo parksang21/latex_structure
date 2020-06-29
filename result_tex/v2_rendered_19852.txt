@@ -1,0 +1,3 @@
+\begin{equation}
+	\psi = \frac { \Omega } { \frac { 4 } { N } - 1 }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	d ^ { 3 } y \frac { 1 } { 2 } ( \frac { d \phi } { d \tau } ) ^ { 2 } - V [ \phi ] = 0
+\end{equation}

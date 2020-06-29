@@ -1,0 +1,13 @@
+# IUD, v2_rendered_06325
+# Objects(5):
+O, \delta_2, \delta, 1.0, O
+O, ⊄_4, ⊄, 1.0, ORR
+O, \tau_3, \tau, 1.0, OR
+O, \tau_6, \tau, 1.0, ORRRR
+O, \Delta_5, \Delta, 1.0, ORRR
+
+# Relations from SRT:
+R, \Delta_5, \tau_6, Right, 1.0
+R, \delta_2, \tau_3, Right, 1.0
+R, \tau_3, ⊄_4, Right, 1.0
+R, ⊄_4, \Delta_5, Right, 1.0

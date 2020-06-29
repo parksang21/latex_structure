@@ -1,0 +1,41 @@
+# IUD, v2_rendered_17109
+# Objects(19):
+O, COMMA_7, COMMA, 1.0, ORRRRR
+O, Z_26, Z, 1.0, ORRRRRRRRRSupRRRR
+O, Z_25, Z, 1.0, ORRRRRRRRRSupRRRSub
+O, g_22, g, 1.0, ORRRRRRRRRSupRR
+O, Z_14, Z, 1.0, ORRRRRRRSub
+O, e_18, e, 1.0, ORRRRRRRRR
+O, d_3, d, 1.0, OR
+O, Z_10, Z, 1.0, ORRRRRRSub
+O, -_20, -, 1.0, ORRRRRRRRRSup
+O, ω_4, ω, 1.0, ORR
+O, \sim_16, \sim, 1.0, ORRRRRRRR
+O, L_9, L, 1.0, ORRRRRR
+O, \rangle_12, \rangle, 1.0, ORRRRRRR
+O, 0_6, 0, 1.0, ORRRR
+O, ω_15, ω, 1.0, ORRRRRRRSubR
+O, i_21, i, 1.0, ORRRRRRRRRSupR
+O, \vert_5, \vert, 1.0, ORRR
+O, \int_2, \int, 1.0, O
+O, L_24, L, 1.0, ORRRRRRRRRSupRRR
+
+# Relations from SRT:
+R, -_20, i_21, Right, 1.0
+R, 0_6, COMMA_7, Right, 1.0
+R, COMMA_7, L_9, Right, 1.0
+R, L_24, Z_25, Sub, 1.0
+R, L_24, Z_26, Right, 1.0
+R, L_9, Z_10, Sub, 1.0
+R, L_9, \rangle_12, Right, 1.0
+R, Z_14, ω_15, Right, 1.0
+R, \int_2, d_3, Right, 1.0
+R, \rangle_12, Z_14, Sub, 1.0
+R, \rangle_12, \sim_16, Right, 1.0
+R, \sim_16, e_18, Right, 1.0
+R, \vert_5, 0_6, Right, 1.0
+R, d_3, ω_4, Right, 1.0
+R, e_18, -_20, Sup, 1.0
+R, g_22, L_24, Right, 1.0
+R, i_21, g_22, Right, 1.0
+R, ω_4, \vert_5, Right, 1.0

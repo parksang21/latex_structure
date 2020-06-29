@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { 0 } ^ { \infty } i _ { j } ^ { \div f } f ^ { y } r _ { j } f \leq [ y ] !
+\end{equation}

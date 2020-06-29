@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { \mu } ( x ) = e _ { a } ^ { \mu } ( x ) \gamma ^ { a }
+\end{equation}

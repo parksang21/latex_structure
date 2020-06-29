@@ -1,0 +1,35 @@
+# IUD, v2_rendered_09805
+# Objects(16):
+O, )_17, ), 1.0, ORRRRRRRRRR
+O, B_21, B, 1.0, ORRRRRRRRRRR
+O, COMMA_9, COMMA, 1.0, ORRRRR
+O, 1_20, 1, 1.0, ORRRRRRRRRRSupR
+O, T_15, T, 1.0, ORRRRRRRRRSup
+O, -_19, -, 1.0, ORRRRRRRRRRSup
+O, B_10, B, 1.0, ORRRRRR
+O, \beta_14, \beta, 1.0, ORRRRRRRRR
+O, (_12, (, 1.0, ORRRRRRRR
+O, \beta_4, \beta, 1.0, ORR
+O, \beta_7, \beta, 1.0, ORRRR
+O, M_2, M, 1.0, O
+O, M_5, M, 1.0, ORRR
+O, \Leftrifhtarrow_3, \Leftrifhtarrow, 1.0, OR
+O, T_8, T, 1.0, ORRRRSup
+O, \Leftrifhtarrow_11, \Leftrifhtarrow, 1.0, ORRRRRRR
+
+# Relations from SRT:
+R, (_12, \beta_14, Right, 1.0
+R, )_17, -_19, Sup, 1.0
+R, )_17, B_21, Right, 1.0
+R, -_19, 1_20, Right, 1.0
+R, B_10, \Leftrifhtarrow_11, Right, 1.0
+R, COMMA_9, B_10, Right, 1.0
+R, M_2, \Leftrifhtarrow_3, Right, 1.0
+R, M_5, \beta_7, Right, 1.0
+R, \Leftrifhtarrow_11, (_12, Right, 1.0
+R, \Leftrifhtarrow_3, \beta_4, Right, 1.0
+R, \beta_14, )_17, Right, 1.0
+R, \beta_14, T_15, Sup, 1.0
+R, \beta_4, M_5, Right, 1.0
+R, \beta_7, COMMA_9, Right, 1.0
+R, \beta_7, T_8, Sup, 1.0

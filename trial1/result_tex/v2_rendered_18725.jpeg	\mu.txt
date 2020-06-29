@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { U N R \ldots } = \mu _ { [ U } \dot { \mu } _ { N } \mu _ { R } \cdots
+\end{equation}

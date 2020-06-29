@@ -1,0 +1,39 @@
+# IUD, v2_rendered_04023
+# Objects(18):
+O, n_20, n, 1.0, ORRRRRRRRRRRR
+O, -_9, -, 1.0, ORRRRR
+O, +_19, +, 1.0, ORRRRRRRRRRR
+O, 2_13, 2, 1.0, ORRRRRRRSup
+O, t_14, t, 1.0, ORRRRRRRR
+O, 4_23, 4, 1.0, ORRRRRRRRRRRRRSup
+O, H_7, H, 1.0, ORRRR
+O, 2_10, 2, 1.0, ORRRRRR
+O, r_15, r, 1.0, ORRRRRRRRR
+O, H_17, H, 1.0, ORRRRRRRRRR
+O, 2_18, 2, 1.0, ORRRRRRRRRRSup
+O, \mu_22, \mu, 1.0, ORRRRRRRRRRRRR
+O, t_4, t, 1.0, ORR
+O, r_5, r, 1.0, ORRR
+O, S_2, S, 1.0, O
+O, \leq_3, \leq, 1.0, OR
+O, 4_8, 4, 1.0, ORRRRSup
+O, \mu_12, \mu, 1.0, ORRRRRRR
+
+# Relations from SRT:
+R, +_19, n_20, Right, 1.0
+R, -_9, 2_10, Right, 1.0
+R, 2_10, \mu_12, Right, 1.0
+R, H_17, +_19, Right, 1.0
+R, H_17, 2_18, Sup, 1.0
+R, H_7, -_9, Right, 1.0
+R, H_7, 4_8, Sup, 1.0
+R, S_2, \leq_3, Right, 1.0
+R, \leq_3, t_4, Right, 1.0
+R, \mu_12, 2_13, Sup, 1.0
+R, \mu_12, t_14, Right, 1.0
+R, \mu_22, 4_23, Sup, 1.0
+R, n_20, \mu_22, Right, 1.0
+R, r_15, H_17, Right, 1.0
+R, r_5, H_7, Right, 1.0
+R, t_14, r_15, Right, 1.0
+R, t_4, r_5, Right, 1.0

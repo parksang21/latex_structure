@@ -1,0 +1,25 @@
+# IUD, v2_rendered_02391
+# Objects(11):
+O, \leftrightarrow_7, \leftrightarrow, 1.0, OSupR
+O, \varepsilon_3, \varepsilon, 1.0, O
+O, A_10, A, 1.0, ORR
+O, +_13, +, 1.0, ORRRRR
+O, +_11, +, 1.0, ORRR
+O, \beta_6, \beta, 1.0, OSup
+O, 0_8, 0, 1.0, OSupRR
+O, =_9, =, 1.0, OR
+O, B_12, B, 1.0, ORRRR
+O, 0_4, 0, 1.0, OSub
+O, C_14, C, 1.0, ORRRRRR
+
+# Relations from SRT:
+R, +_11, B_12, Right, 1.0
+R, +_13, C_14, Right, 1.0
+R, =_9, A_10, Right, 1.0
+R, A_10, +_11, Right, 1.0
+R, B_12, +_13, Right, 1.0
+R, \beta_6, \leftrightarrow_7, Right, 1.0
+R, \leftrightarrow_7, 0_8, Right, 1.0
+R, \varepsilon_3, 0_4, Sub, 1.0
+R, \varepsilon_3, =_9, Right, 1.0
+R, \varepsilon_3, \beta_6, Sup, 1.0

@@ -1,0 +1,33 @@
+# IUD, 1010
+# Objects(15):
+O, \infty_6, \infty, 1.0, 3
+O, s_10, s, 1.0, 7
+O, \theta_15, \theta, 1.0, 12
+O, f_3, f, 1.0, 1
+O, )_16, ), 1.0, 13
+O, (_14, (, 1.0, 11
+O, \vert_5, \vert, 1.0, 2
+O, \vert_12, \vert, 1.0, 9
+O, s_9, s, 1.0, 6
+O, e_8, e, 1.0, 5
+O, =_7, =, 1.0, 4
+O, \vert_17, \vert, 1.0, 14
+O, f_13, f, 1.0, 10
+O, \prod_11, \prod, 1.0, 8
+O, \vert_2, \vert, 1.0, 0
+
+# Relations from SRT:
+R, (_14, \theta_15, Right, 1.0
+R, )_16, \vert_17, Right, 1.0
+R, =_7, e_8, Right, 1.0
+R, \prod_11, \vert_12, Right, 1.0
+R, \theta_15, )_16, Right, 1.0
+R, \vert_12, f_13, Right, 1.0
+R, \vert_2, f_3, Right, 1.0
+R, \vert_5, =_7, Right, 1.0
+R, \vert_5, \infty_6, Sub, 1.0
+R, e_8, s_9, Right, 1.0
+R, f_13, (_14, Right, 1.0
+R, f_3, \vert_5, Right, 1.0
+R, s_10, \prod_11, Right, 1.0
+R, s_9, s_10, Right, 1.0

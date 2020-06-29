@@ -1,0 +1,55 @@
+# IUD, 1024
+# Objects(26):
+O, \theta_30, \theta, 1.0, ORRRRRRRRRRRRRRRRRRRR
+O, \mu_10, \mu, 1.0, ORRRRR
+O, \cos_21, \cos, 1.0, ORRRRRRRRRRRRR
+O, \theta_15, \theta, 1.0, ORRRRRRRRR
+O, \cos_6, \cos, 1.0, ORR
+O, \theta_7, \theta, 1.0, ORRR
+O, =_12, =, 1.0, ORRRRRR
+O, =_5, =, 1.0, OR
+O, -_28, -, 1.0, ORRRRRRRRRRRRRRRRRR
+O, Q_23, Q, 1.0, ORRRRRRRRRRRRRRR
+O, \mu_3, \mu, 1.0, O
+O, Q_18, Q, 1.0, ORRRRRRRRRRR
+O, Q_25, Q, 1.0, ORRRRRRRRRRRRRRRR
+O, \mu_8, \mu, 1.0, ORRRR
+O, 2_26, 2, 1.0, ORRRRRRRRRRRRRRRRSub
+O, 5_19, 5, 1.0, ORRRRRRRRRRRSub
+O, 5_4, 5, 1.0, OSub
+O, \mu_16, \mu, 1.0, ORRRRRRRRRR
+O, =_27, =, 1.0, ORRRRRRRRRRRRRRRRR
+O, =_20, =, 1.0, ORRRRRRRRRRRR
+O, \sin_14, \sin, 1.0, ORRRRRRRR
+O, -_13, -, 1.0, ORRRRRRR
+O, Q_31, Q, 1.0, ORRRRRRRRRRRRRRRRRRRRR
+O, \sin_29, \sin, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, 2_11, 2, 1.0, ORRRRRSub
+O, \theta_22, \theta, 1.0, ORRRRRRRRRRRRRR
+
+# Relations from SRT:
+R, -_13, \sin_14, Right, 1.0
+R, -_28, \sin_29, Right, 1.0
+R, =_12, -_13, Right, 1.0
+R, =_20, \cos_21, Right, 1.0
+R, =_27, -_28, Right, 1.0
+R, =_5, \cos_6, Right, 1.0
+R, Q_18, 5_19, Sub, 1.0
+R, Q_18, =_20, Right, 1.0
+R, Q_23, Q_25, Right, 1.0
+R, Q_25, 2_26, Sub, 1.0
+R, Q_25, =_27, Right, 1.0
+R, \cos_21, \theta_22, Right, 1.0
+R, \cos_6, \theta_7, Right, 1.0
+R, \mu_10, 2_11, Sub, 1.0
+R, \mu_10, =_12, Right, 1.0
+R, \mu_16, Q_18, Right, 1.0
+R, \mu_3, 5_4, Sub, 1.0
+R, \mu_3, =_5, Right, 1.0
+R, \mu_8, \mu_10, Right, 1.0
+R, \sin_14, \theta_15, Right, 1.0
+R, \sin_29, \theta_30, Right, 1.0
+R, \theta_15, \mu_16, Right, 1.0
+R, \theta_22, Q_23, Right, 1.0
+R, \theta_30, Q_31, Right, 1.0
+R, \theta_7, \mu_8, Right, 1.0

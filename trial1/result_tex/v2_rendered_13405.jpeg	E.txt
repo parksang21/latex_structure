@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { \pm \pm } \equiv \theta ^ { m } u _ { m } ^ { \pm \pm }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	{ \omega } _ { t } ( A ) = \omega ( \alpha _ { t } [ A \otimes 1 _ { E } ] ) , A \in A _ { S A }
+\end{equation}

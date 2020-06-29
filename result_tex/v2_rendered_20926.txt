@@ -1,0 +1,3 @@
+\begin{equation}
+	d i m ( X ) + d i m ( Y ) = d i m ( M )
+\end{equation}

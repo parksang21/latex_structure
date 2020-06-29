@@ -1,0 +1,3 @@
+\begin{equation}
+	\sqrt { Z } ( M _ { n } ) = ( \prod _ { x } [ g ( x ) ] ^ { - k } ) Z ( M _ { n } )
+\end{equation}

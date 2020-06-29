@@ -1,0 +1,27 @@
+# IUD, 986
+# Objects(12):
+O, n_18, n, 1.0, ORRRRR
+O, \mu_16, \mu, 1.0, ORRRRSub
+O, \gamma_7, \gamma, 1.0, ORR
+O, \mu_4, \mu, 1.0, OSub
+O, B_19, B, 1.0, ORRRRRSup
+O, =_5, =, 1.0, OR
+O, \Delta_15, \Delta, 1.0, ORRRR
+O, A_3, A, 1.0, O
+O, A_9, A, 1.0, ORRSub
+O, A_13, A, 1.0, ORRRSup
+O, B_10, B, 1.0, ORRSubR
+O, n_12, n, 1.0, ORRR
+
+# Relations from SRT:
+R, =_5, \gamma_7, Right, 1.0
+R, A_3, =_5, Right, 1.0
+R, A_3, \mu_4, Sub, 1.0
+R, A_9, B_10, Right, 1.0
+R, \Delta_15, \mu_16, Sub, 1.0
+R, \Delta_15, n_18, Right, 1.0
+R, \gamma_7, A_9, Sub, 1.0
+R, \gamma_7, n_12, Right, 1.0
+R, n_12, A_13, Sup, 1.0
+R, n_12, \Delta_15, Right, 1.0
+R, n_18, B_19, Sup, 1.0

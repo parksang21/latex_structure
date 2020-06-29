@@ -1,0 +1,3 @@
+\begin{equation}
+	\sin \theta \rightarrow \frac { c u n s t . } { \gamma }
+\end{equation}

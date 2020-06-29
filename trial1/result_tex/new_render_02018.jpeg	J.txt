@@ -1,0 +1,3 @@
+\begin{equation}
+	( n , \bar { n } ) \geqq 2 , \therefore n \in J
+\end{equation}

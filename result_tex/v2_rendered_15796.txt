@@ -1,0 +1,3 @@
+\begin{equation}
+	S _ { B H } = S _ { B H } - \frac { 1 } { 2 } \ln S _ { B H } + \lsqrts
+\end{equation}

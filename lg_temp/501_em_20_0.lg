@@ -1,0 +1,33 @@
+# IUD, 501_em_20_0
+# Objects(15):
+O, (_4, (, 1.0, 2
+O, =_3, =, 1.0, 1
+O, q_2, q, 1.0, 0
+O, \rho_16, \rho, 1.0, 10
+O, y_10, y, 1.0, 6
+O, q_20, q, 1.0, 13
+O, y_12, y, 1.0, 7
+O, )_21, ), 1.0, 14
+O, ω_19, ω, 1.0, 12
+O, \beta_15, \beta, 1.0, 9
+O, COMMA_8, COMMA, 1.0, 5
+O, 9_7, 9, 1.0, 4
+O, COMMA_17, COMMA, 1.0, 11
+O, x_6, x, 1.0, 3
+O, COMMA_13, COMMA, 1.0, 8
+
+# Relations from SRT:
+R, (_4, x_6, Right, 1.0
+R, =_3, (_4, Right, 1.0
+R, COMMA_13, \beta_15, Right, 1.0
+R, COMMA_17, ω_19, Right, 1.0
+R, COMMA_8, y_10, Right, 1.0
+R, \beta_15, COMMA_17, Right, 1.0
+R, \beta_15, \rho_16, Sub, 1.0
+R, q_2, =_3, Right, 1.0
+R, x_6, 9_7, Sub, 1.0
+R, x_6, COMMA_8, Right, 1.0
+R, y_10, y_12, Sub, 1.0
+R, y_12, COMMA_13, Right, 1.0
+R, ω_19, )_21, Right, 1.0
+R, ω_19, q_20, Sub, 1.0

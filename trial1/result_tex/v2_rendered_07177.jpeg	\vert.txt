@@ -1,0 +1,3 @@
+\begin{equation}
+	\pi _ { b } \vert \sim \vert \pi _ { \bar { b } } \vert \sim \gamma _ { T } ^ { N _ { c } }
+\end{equation}

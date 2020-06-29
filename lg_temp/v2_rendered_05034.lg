@@ -1,0 +1,37 @@
+# IUD, v2_rendered_05034
+# Objects(17):
+O, 1_13, 1, 1.0, 8
+O, =_12, =, 1.0, 7
+O, \rangle_22, \rangle, 1.0, 15
+O, n_11, n, 1.0, 6
+O, \rangle_6, \rangle, 1.0, 3
+O, r_4, r, 1.0, 1
+O, \sim_7, \sim, 1.0, 4
+O, \infty_14, \infty, 1.0, 9
+O, \sum_9, \sum, 1.0, 5
+O, N_20, N, 1.0, 13
+O, 1_16, 1, 1.0, 10
+O, \langle_2, \langle, 1.0, 0
+O, _15, -, 1.0, 16
+O, \langle_18, \langle, 1.0, 12
+O, n_17, n, 1.0, 11
+O, \notin_5, \notin, 1.0, 2
+O, n_21, n, 1.0, 14
+
+# Relations from SRT:
+R, =_12, 1_13, Right, 1.0
+R, N_20, \rangle_22, Right, 1.0
+R, N_20, n_21, Sub, 1.0
+R, \langle_18, N_20, Right, 1.0
+R, \langle_2, r_4, Right, 1.0
+R, \rangle_6, \sim_7, Right, 1.0
+R, \sim_7, \sum_9, Right, 1.0
+R, \sum_9, \infty_14, Above, 1.0
+R, \sum_9, _15, Right, 1.0
+R, \sum_9, n_11, Below, 1.0
+R, _15, 1_16, Above, 1.0
+R, _15, \langle_18, Right, 1.0
+R, _15, n_17, Below, 1.0
+R, n_11, =_12, Right, 1.0
+R, r_4, \notin_5, Sub, 1.0
+R, r_4, \rangle_6, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	Y _ { ( - 1 ) } = Y _ { c u b x c } + Y _ { q u a n t i c }
+\end{equation}

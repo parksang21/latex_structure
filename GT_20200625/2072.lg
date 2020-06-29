@@ -1,0 +1,39 @@
+# IUD, 2072
+# Objects(18):
+O, \prime_5, \prime, 1.0, OSup
+O, _16, -, 1.0, ORRRRRR
+O, -_15, -, 1.0, ORRRRR
+O, \Delta_9, \Delta, 1.0, ORR
+O, \prime_6, \prime, 1.0, OSupR
+O, =_24, =, 1.0, ORRRRRRRR
+O, \mu_14, \mu, 1.0, ORRRR
+O, 0_25, 0, 1.0, ORRRRRRRRR
+O, \mu_3, \mu, 1.0, O
+O, \mu_23, \mu, 1.0, ORRRRRRR
+O, s_18, s, 1.0, ORRRRRRAbove
+O, -_7, -, 1.0, OR
+O, \prime_21, \prime, 1.0, ORRRRRRAboveSupR
+O, \prime_20, \prime, 1.0, ORRRRRRAboveSup
+O, \alpha_13, \alpha, 1.0, ORRRSup
+O, \alpha_10, \alpha, 1.0, ORRSub
+O, \Delta_12, \Delta, 1.0, ORRR
+O, s_22, s, 1.0, ORRRRRRBelow
+
+# Relations from SRT:
+R, -_15, _16, Right, 1.0
+R, -_7, \Delta_9, Right, 1.0
+R, =_24, 0_25, Right, 1.0
+R, \Delta_12, \alpha_13, Sup, 1.0
+R, \Delta_12, \mu_14, Right, 1.0
+R, \Delta_9, \Delta_12, Right, 1.0
+R, \Delta_9, \alpha_10, Sub, 1.0
+R, \mu_14, -_15, Right, 1.0
+R, \mu_23, =_24, Right, 1.0
+R, \mu_3, -_7, Right, 1.0
+R, \mu_3, \prime_5, Sup, 1.0
+R, \prime_20, \prime_21, Right, 1.0
+R, \prime_5, \prime_6, Right, 1.0
+R, _16, \mu_23, Right, 1.0
+R, _16, s_18, Above, 1.0
+R, _16, s_22, Below, 1.0
+R, s_18, \prime_20, Sup, 1.0

@@ -1,0 +1,49 @@
+# IUD, v2_rendered_04341
+# Objects(23):
+O, COMMA_17, COMMA, 1.0, ORRRRRRR
+O, =_19, =, 1.0, ORRRRRRRRR
+O, 2_8, 2, 1.0, ORRSup
+O, 2_4, 2, 1.0, OSup
+O, \cos_14, \cos, 1.0, ORRRRR
+O, 2_15, 2, 1.0, ORRRRRSup
+O, \rho_3, \rho, 1.0, O
+O, +_9, +, 1.0, ORRR
+O, \theta_16, \theta, 1.0, ORRRRRR
+O, r_26, r, 1.0, ORRRRRRRRRRRRRR
+O, 2_12, 2, 1.0, ORRRRSup
+O, =_5, =, 1.0, OR
+O, 2_30, 2, 1.0, ORRRRRRRRRRRRRRRRSup
+O, r_7, r, 1.0, ORR
+O, 2_24, 2, 1.0, ORRRRRRRRRRRR
+O, \Delta_18, \Delta, 1.0, ORRRRRRRR
+O, m_25, m, 1.0, ORRRRRRRRRRRRR
+O, 2_22, 2, 1.0, ORRRRRRRRRRSup
+O, a_29, a, 1.0, ORRRRRRRRRRRRRRRR
+O, -_23, -, 1.0, ORRRRRRRRRRR
+O, +_27, +, 1.0, ORRRRRRRRRRRRRRR
+O, r_21, r, 1.0, ORRRRRRRRRR
+O, a_11, a, 1.0, ORRRR
+
+# Relations from SRT:
+R, +_27, a_29, Right, 1.0
+R, +_9, a_11, Right, 1.0
+R, -_23, 2_24, Right, 1.0
+R, 2_24, m_25, Right, 1.0
+R, =_19, r_21, Right, 1.0
+R, =_5, r_7, Right, 1.0
+R, COMMA_17, \Delta_18, Right, 1.0
+R, \Delta_18, =_19, Right, 1.0
+R, \cos_14, 2_15, Sup, 1.0
+R, \cos_14, \theta_16, Right, 1.0
+R, \rho_3, 2_4, Sup, 1.0
+R, \rho_3, =_5, Right, 1.0
+R, \theta_16, COMMA_17, Right, 1.0
+R, a_11, 2_12, Sup, 1.0
+R, a_11, \cos_14, Right, 1.0
+R, a_29, 2_30, Sup, 1.0
+R, m_25, r_26, Right, 1.0
+R, r_21, -_23, Right, 1.0
+R, r_21, 2_22, Sup, 1.0
+R, r_26, +_27, Right, 1.0
+R, r_7, +_9, Right, 1.0
+R, r_7, 2_8, Sup, 1.0

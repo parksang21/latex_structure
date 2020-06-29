@@ -1,0 +1,3 @@
+\begin{equation}
+	( \theta ) = - i \frac { \Delta } { \Delta \theta } \log S ( \theta )
+\end{equation}

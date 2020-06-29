@@ -1,0 +1,3 @@
+\begin{equation}
+	U ( n ) \equiv \langle 1 \approx m \approx n U ( n , m )
+\end{equation}

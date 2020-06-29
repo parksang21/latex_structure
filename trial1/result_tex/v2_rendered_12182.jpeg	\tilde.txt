@@ -1,0 +1,3 @@
+\begin{equation}
+	{ \varepsilon } = \sigma _ { 3 } \otimes 1 + \sigma \cdot 1 \otimes \sigma _ { 3 } + \alpha
+\end{equation}

@@ -1,0 +1,17 @@
+# IUD, new_render_01650
+# Objects(7):
+O, h_8, h, 1.0, ORRRSub
+O, \leqq_4, \leqq, 1.0, OR
+O, _2, \sqrt, 1.0, O
+O, -_5, -, 1.0, ORR
+O, h_3, h, 1.0, OInside
+O, \beta_9, \beta, 1.0, ORRRR
+O, \Delta_7, \Delta, 1.0, ORRR
+
+# Relations from SRT:
+R, -_5, \Delta_7, Right, 1.0
+R, \Delta_7, \beta_9, Right, 1.0
+R, \Delta_7, h_8, Sub, 1.0
+R, \leqq_4, -_5, Right, 1.0
+R, _2, \leqq_4, Right, 1.0
+R, _2, h_3, Inside, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	\rightarrow L + \frac { \theta } { 2 \alpha } \overline { c } D _ { \mu } ( A ) Q _ { \mu }
+\end{equation}

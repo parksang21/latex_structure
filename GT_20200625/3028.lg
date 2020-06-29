@@ -1,0 +1,37 @@
+# IUD, 3028
+# Objects(17):
+O, \lambda_21, \lambda, 1.0, ORRRRRRRR
+O, =_11, =, 1.0, ORRRRR
+O, B_19, B, 1.0, ORRRRRRRBelowR
+O, j_9, j, 1.0, ORRRSub
+O, j_24, j, 1.0, ORRRRRRRRSubR
+O, e_18, e, 1.0, ORRRRRRRBelow
+O, [_2, [, 1.0, O
+O, i_12, i, 1.0, ORRRRRR
+O, _13, -, 1.0, ORRRRRRR
+O, c_16, c, 1.0, ORRRRRRRAboveR
+O, C_4, C, 1.0, OR
+O, i_23, i, 1.0, ORRRRRRRRSub
+O, \beta_15, \beta, 1.0, ORRRRRRRAbove
+O, COMMA_6, COMMA, 1.0, ORR
+O, ]_10, ], 1.0, ORRRR
+O, i_5, i, 1.0, ORSub
+O, C_8, C, 1.0, ORRR
+
+# Relations from SRT:
+R, =_11, i_12, Right, 1.0
+R, COMMA_6, C_8, Right, 1.0
+R, C_4, COMMA_6, Right, 1.0
+R, C_4, i_5, Sub, 1.0
+R, C_8, ]_10, Right, 1.0
+R, C_8, j_9, Sub, 1.0
+R, [_2, C_4, Right, 1.0
+R, \beta_15, c_16, Right, 1.0
+R, \lambda_21, i_23, Sub, 1.0
+R, ]_10, =_11, Right, 1.0
+R, _13, \beta_15, Above, 1.0
+R, _13, \lambda_21, Right, 1.0
+R, _13, e_18, Below, 1.0
+R, e_18, B_19, Right, 1.0
+R, i_12, _13, Right, 1.0
+R, i_23, j_24, Right, 1.0

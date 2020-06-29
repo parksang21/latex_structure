@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \mu } = \Delta _ { \mu } + i g G _ { \mu }
+\end{equation}

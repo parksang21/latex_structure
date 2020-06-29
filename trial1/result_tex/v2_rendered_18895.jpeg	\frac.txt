@@ -1,0 +1,3 @@
+\begin{equation}
+	{ \Delta } { \Delta t } \frac { w } { ^ { } } 2 2 + \Delta \cdot ( l \vee w ) = l \cdot \Delta \vee w
+\end{equation}

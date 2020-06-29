@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { 1 b c } = 0 , \exists b , c
+\end{equation}

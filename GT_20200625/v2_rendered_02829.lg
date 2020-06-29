@@ -1,0 +1,39 @@
+# IUD, v2_rendered_02829
+# Objects(18):
+O, \phi_9, \phi, 1.0, ORRRR
+O, q_17, q, 1.0, ORRRRRRRR
+O, =_11, =, 1.0, ORRRRR
+O, i_23, i, 1.0, ORRRRRRRRRRRSub
+O, y_22, y, 1.0, ORRRRRRRRRRR
+O, i_18, i, 1.0, ORRRRRRRRSub
+O, (_20, (, 1.0, ORRRRRRRRRR
+O, 2_10, 2, 1.0, ORRRRSup
+O, \int_5, \int, 1.0, ORR
+O, =_3, =, 1.0, OR
+O, E_2, E, 1.0, O
+O, )_24, ), 1.0, ORRRRRRRRRRRR
+O, -_12, -, 1.0, ORRRRRR
+O, i_15, i, 1.0, ORRRRRRRBelow
+O, M_6, M, 1.0, ORRSub
+O, \phi_19, \phi, 1.0, ORRRRRRRRR
+O, \Delta_7, \Delta, 1.0, ORRR
+O, \sum_14, \sum, 1.0, ORRRRRRR
+
+# Relations from SRT:
+R, (_20, y_22, Right, 1.0
+R, -_12, \sum_14, Right, 1.0
+R, =_11, -_12, Right, 1.0
+R, =_3, \int_5, Right, 1.0
+R, E_2, =_3, Right, 1.0
+R, \Delta_7, \phi_9, Right, 1.0
+R, \int_5, M_6, Sub, 1.0
+R, \int_5, \Delta_7, Right, 1.0
+R, \phi_19, (_20, Right, 1.0
+R, \phi_9, 2_10, Sup, 1.0
+R, \phi_9, =_11, Right, 1.0
+R, \sum_14, i_15, Below, 1.0
+R, \sum_14, q_17, Right, 1.0
+R, q_17, \phi_19, Right, 1.0
+R, q_17, i_18, Sub, 1.0
+R, y_22, )_24, Right, 1.0
+R, y_22, i_23, Sub, 1.0

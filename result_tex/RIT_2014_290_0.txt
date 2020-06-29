@@ -1,0 +1,3 @@
+\begin{equation}
+	\sum _ { k = 1 } ^ { N } a _ { n } \leq \sum _ { k = 1 } ^ { N } b _ { n = 1 } \leq \sum _ { n = 1 } ^ { \infty } b _ { n }
+\end{equation}

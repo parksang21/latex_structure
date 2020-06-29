@@ -1,0 +1,3 @@
+\begin{equation}
+	L _ { T h , G } = L _ { A , \psi } + L _ { \theta } + L _ { g h }
+\end{equation}

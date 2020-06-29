@@ -1,0 +1,25 @@
+# IUD, v2_rendered_02275
+# Objects(11):
+O, \Omega_5, \Omega, 1.0, OSub
+O, \forall_10, \forall, 1.0, ORRRRR
+O, COMMA_9, COMMA, 1.0, ORRRR
+O, W_6, W, 1.0, OR
+O, W_8, W, 1.0, ORRR
+O, =_7, =, 1.0, ORR
+O, _3, \sqrt, 1.0, O
+O, \Omega_11, \Omega, 1.0, ORRRRRR
+O, \in_12, \in, 1.0, ORRRRRRR
+O, \Delta_13, \Delta, 1.0, ORRRRRRRR
+O, m_4, m, 1.0, OInside
+
+# Relations from SRT:
+R, =_7, W_8, Right, 1.0
+R, COMMA_9, \forall_10, Right, 1.0
+R, W_6, =_7, Right, 1.0
+R, W_8, COMMA_9, Right, 1.0
+R, \Omega_11, \in_12, Right, 1.0
+R, \forall_10, \Omega_11, Right, 1.0
+R, \in_12, \Delta_13, Right, 1.0
+R, _3, W_6, Right, 1.0
+R, _3, \Omega_5, Sub, 1.0
+R, _3, m_4, Inside, 1.0

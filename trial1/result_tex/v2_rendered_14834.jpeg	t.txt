@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { 1 } = t _ { 2 } = - 0 . 2 \sin \psi , t _ { 3 } = 0 . 4 \sin \psi
+\end{equation}

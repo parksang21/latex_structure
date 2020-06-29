@@ -1,0 +1,23 @@
+# IUD, v2_rendered_10483
+# Objects(10):
+O, T_10, T, 1.0, ORRRRRRRR
+O, T_4, T, 1.0, ORR
+O, I_5, I, 1.0, ORRR
+O, \leq_7, \leq, 1.0, ORRRRR
+O, I_9, I, 1.0, ORRRRRRR
+O, \angle_3, \angle, 1.0, OR
+O, \angle_8, \angle, 1.0, ORRRRRR
+O, \exists_2, \exists, 1.0, O
+O, P_11, P, 1.0, ORRRRRRRRR
+O, P_6, P, 1.0, ORRRR
+
+# Relations from SRT:
+R, I_5, P_6, Right, 1.0
+R, I_9, T_10, Right, 1.0
+R, P_6, \leq_7, Right, 1.0
+R, T_10, P_11, Right, 1.0
+R, T_4, I_5, Right, 1.0
+R, \angle_3, T_4, Right, 1.0
+R, \angle_8, I_9, Right, 1.0
+R, \exists_2, \angle_3, Right, 1.0
+R, \leq_7, \angle_8, Right, 1.0

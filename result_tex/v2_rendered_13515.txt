@@ -1,0 +1,3 @@
+\begin{equation}
+	\sum _ { i = 9 } ^ { N } Q _ { i } ^ { ( l ) } = 0 , \forall l
+\end{equation}

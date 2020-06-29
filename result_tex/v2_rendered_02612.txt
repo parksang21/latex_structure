@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { 1 } { 2 } \{ \frac { g } { N _ { n , m } } \sum _ { n } \lambda _ { m } \}
+\end{equation}

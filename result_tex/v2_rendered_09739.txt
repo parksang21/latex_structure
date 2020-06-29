@@ -1,0 +1,3 @@
+\begin{equation}
+	K _ { \mu } = \csqrt K ^ { ( \tau ) } l _ { \mu } ^ { ( n ) } \csqrt K _ { \sqrt { \mu } }
+\end{equation}

@@ -1,0 +1,33 @@
+# IUD, v2_rendered_07476
+# Objects(15):
+O, \Delta_17, \Delta, 1.0, ORRRRRRRRRR
+O, \mu_18, \mu, 1.0, ORRRRRRRRRRSub
+O, =_6, =, 1.0, ORR
+O, )_12, ), 1.0, ORRRRRR
+O, \phi_13, \phi, 1.0, ORRRRRRR
+O, D_9, D, 1.0, ORRRR
+O, =_14, =, 1.0, ORRRRRRRR
+O, \Omega_11, \Omega, 1.0, ORRRRR
+O, \mu_10, \mu, 1.0, ORRRRSub
+O, P_3, P, 1.0, O
+O, (_15, (, 1.0, ORRRRRRRRR
+O, \mu_4, \mu, 1.0, OSub
+O, (_7, (, 1.0, ORRR
+O, \Omega_19, \Omega, 1.0, ORRRRRRRRRRR
+O, \Omega_5, \Omega, 1.0, OR
+
+# Relations from SRT:
+R, (_15, \Delta_17, Right, 1.0
+R, (_7, D_9, Right, 1.0
+R, )_12, \phi_13, Right, 1.0
+R, =_14, (_15, Right, 1.0
+R, =_6, (_7, Right, 1.0
+R, D_9, \Omega_11, Right, 1.0
+R, D_9, \mu_10, Sub, 1.0
+R, P_3, \Omega_5, Right, 1.0
+R, P_3, \mu_4, Sub, 1.0
+R, \Delta_17, \Omega_19, Right, 1.0
+R, \Delta_17, \mu_18, Sub, 1.0
+R, \Omega_11, )_12, Right, 1.0
+R, \Omega_5, =_6, Right, 1.0
+R, \phi_13, =_14, Right, 1.0

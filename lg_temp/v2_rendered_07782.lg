@@ -1,0 +1,45 @@
+# IUD, v2_rendered_07782
+# Objects(21):
+O, t_19, t, 1.0, 15
+O, \forall_23, \forall, 1.0, 19
+O, (_6, (, 1.0, 3
+O, V_17, V, 1.0, 13
+O, COMMA_8, COMMA, 1.0, 5
+O, =_11, =, 1.0, 8
+O, t_9, t, 1.0, 6
+O, \Delta_13, \Delta, 1.0, 9
+O, \Delta_3, \Delta, 1.0, 0
+O, )_10, ), 1.0, 7
+O, x_4, x, 1.0, 1
+O, (_16, (, 1.0, 12
+O, =_21, =, 1.0, 17
+O, t_24, t, 1.0, 20
+O, \tau_15, \tau, 1.0, 11
+O, 0_7, 0, 1.0, 4
+O, x_14, x, 1.0, 10
+O, )_20, ), 1.0, 16
+O, \tau_5, \tau, 1.0, 2
+O, 0_22, 0, 1.0, 18
+O, COMMA_18, COMMA, 1.0, 14
+
+# Relations from SRT:
+R, (_16, V_17, Right, 1.0
+R, (_6, 0_7, Right, 1.0
+R, )_10, =_11, Right, 1.0
+R, )_20, =_21, Right, 1.0
+R, 0_22, \forall_23, Right, 1.0
+R, 0_7, COMMA_8, Right, 1.0
+R, =_11, \Delta_13, Right, 1.0
+R, =_21, 0_22, Right, 1.0
+R, COMMA_18, t_19, Right, 1.0
+R, COMMA_8, t_9, Right, 1.0
+R, V_17, COMMA_18, Right, 1.0
+R, \Delta_13, \tau_15, Right, 1.0
+R, \Delta_13, x_14, Sub, 1.0
+R, \Delta_3, \tau_5, Right, 1.0
+R, \Delta_3, x_4, Sub, 1.0
+R, \forall_23, t_24, Right, 1.0
+R, \tau_15, (_16, Right, 1.0
+R, \tau_5, (_6, Right, 1.0
+R, t_19, )_20, Right, 1.0
+R, t_9, )_10, Right, 1.0

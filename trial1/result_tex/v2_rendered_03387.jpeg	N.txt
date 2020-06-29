@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { c l i q u e s } \approx r _ { 0 } / 2 \cdot \langle Z _ { r ^ { \prime } } \rangle
+\end{equation}

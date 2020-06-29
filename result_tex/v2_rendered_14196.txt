@@ -1,0 +1,3 @@
+\begin{equation}
+	\alpha _ { p } ^ { m } \leq p / m \leq a _ { m p } , \forall m , \forall p
+\end{equation}

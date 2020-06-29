@@ -1,0 +1,37 @@
+# IUD, v2_rendered_19203
+# Objects(17):
+O, )_17, ), 1.0, ORRRRRRRRRR
+O, A_3, A, 1.0, O
+O, \leq_9, \leq, 1.0, ORRRR
+O, (_13, (, 1.0, ORRRRRR
+O, !_20, !, 1.0, ORRRRRRRRRRRRR
+O, )_8, ), 1.0, ORRR
+O, \times_18, \times, 1.0, ORRRRRRRRRRR
+O, A_19, A, 1.0, ORRRRRRRRRRRR
+O, \alpha_16, \alpha, 1.0, ORRRRRRRRR
+O, x_14, x, 1.0, ORRRRRRR
+O, A_4, A, 1.0, OSub
+O, \alpha_5, \alpha, 1.0, OSup
+O, ._15, ., 1.0, ORRRRRRRR
+O, x_7, x, 1.0, ORR
+O, A_12, A, 1.0, ORRRRRSub
+O, X_11, X, 1.0, ORRRRR
+O, (_6, (, 1.0, OR
+
+# Relations from SRT:
+R, (_13, x_14, Right, 1.0
+R, (_6, x_7, Right, 1.0
+R, )_17, \times_18, Right, 1.0
+R, )_8, \leq_9, Right, 1.0
+R, ._15, \alpha_16, Right, 1.0
+R, A_19, !_20, Right, 1.0
+R, A_3, (_6, Right, 1.0
+R, A_3, A_4, Sub, 1.0
+R, A_3, \alpha_5, Sup, 1.0
+R, X_11, (_13, Right, 1.0
+R, X_11, A_12, Sub, 1.0
+R, \alpha_16, )_17, Right, 1.0
+R, \leq_9, X_11, Right, 1.0
+R, \times_18, A_19, Right, 1.0
+R, x_14, ._15, Right, 1.0
+R, x_7, )_8, Right, 1.0

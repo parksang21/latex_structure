@@ -1,0 +1,3 @@
+\begin{equation}
+	\int \pm o H
+\end{equation}

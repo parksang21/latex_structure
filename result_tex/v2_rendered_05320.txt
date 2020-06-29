@@ -1,0 +1,3 @@
+\begin{equation}
+	g _ { i j } \vert _ { + } = g _ { i j } \vert _ { - }
+\end{equation}

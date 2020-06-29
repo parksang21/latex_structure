@@ -1,0 +1,3 @@
+\begin{equation}
+	E _ { r a n g e } ( \ln a i v e v a c U ) = ( - \infty , \infty )
+\end{equation}

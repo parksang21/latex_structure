@@ -1,0 +1,3 @@
+\begin{equation}
+	- \triangle - k ^ { 2 } ) H _ { k } ( r - t ) \leqq \omega ( r - t )
+\end{equation}

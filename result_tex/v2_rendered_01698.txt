@@ -1,0 +1,3 @@
+\begin{equation}
+	\gamma = U ^ { - 1 } * Q U + U ^ { - 1 } * \gamma ^ { \prime } * U
+\end{equation}

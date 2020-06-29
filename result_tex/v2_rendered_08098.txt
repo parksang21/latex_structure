@@ -1,0 +1,3 @@
+\begin{equation}
+	( \sqrt { \phi } , \sqrt { \beta } ) \leftrightarrow ( \sqrt { \phi } + \frac { 2 \pi } { N } , \sqrt { \beta } - \frac { 2 \pi } { N } )
+\end{equation}

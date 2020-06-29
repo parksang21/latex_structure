@@ -1,0 +1,41 @@
+# IUD, v2_rendered_22915
+# Objects(19):
+O, \pi_11, \pi, 1.0, ORRSupRAbove
+O, G_3, G, 1.0, OInside
+O, e_6, e, 1.0, ORR
+O, (_13, (, 1.0, ORRSupRAboveRR
+O, p_16, p, 1.0, ORRSupRAboveRRRRR
+O, _2, \sqrt, 1.0, O
+O, \sim_4, \sim, 1.0, OR
+O, COMMA_15, COMMA, 1.0, ORRSupRAboveRRRR
+O, \vert_24, \vert, 1.0, ORRSupRRRR
+O, \vert_22, \vert, 1.0, ORRSupRR
+O, )_17, ), 1.0, ORRSupRAboveRRRRRR
+O, \sum_12, \sum, 1.0, ORRSupRAboveR
+O, +_20, +, 1.0, ORRSupRBelowR
+O, 1_21, 1, 1.0, ORRSupRBelowRR
+O, p_19, p, 1.0, ORRSupRBelow
+O, _9, -, 1.0, ORRSupR
+O, 1_14, 1, 1.0, ORRSupRAboveRRR
+O, k_23, k, 1.0, ORRSupRRR
+O, -_8, -, 1.0, ORRSup
+
+# Relations from SRT:
+R, (_13, 1_14, Right, 1.0
+R, +_20, 1_21, Right, 1.0
+R, -_8, _9, Right, 1.0
+R, 1_14, COMMA_15, Right, 1.0
+R, COMMA_15, p_16, Right, 1.0
+R, \pi_11, \sum_12, Right, 1.0
+R, \sim_4, e_6, Right, 1.0
+R, \sum_12, (_13, Right, 1.0
+R, \vert_22, k_23, Right, 1.0
+R, _2, G_3, Inside, 1.0
+R, _2, \sim_4, Right, 1.0
+R, _9, \pi_11, Above, 1.0
+R, _9, \vert_22, Right, 1.0
+R, _9, p_19, Below, 1.0
+R, e_6, -_8, Sup, 1.0
+R, k_23, \vert_24, Right, 1.0
+R, p_16, )_17, Right, 1.0
+R, p_19, +_20, Right, 1.0

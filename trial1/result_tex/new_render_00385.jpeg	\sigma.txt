@@ -1,0 +1,3 @@
+\begin{equation}
+	= \{ n \not\subset R ^ { N + 1 } \vert b \cdot n \geq 0 , \therefore b \not\subset \dot { \sigma } \}
+\end{equation}

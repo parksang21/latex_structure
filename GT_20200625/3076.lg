@@ -1,0 +1,43 @@
+# IUD, 3076
+# Objects(20):
+O, x_21, x, 1.0, ORRRRRRRRInside
+O, +_9, +, 1.0, ORRR
+O, d_17, d, 1.0, ORRRRRR
+O, \tau_18, \tau, 1.0, ORRRRRRR
+O, 0_15, 0, 1.0, ORRRRRSub
+O, S_5, S, 1.0, ORR
+O, =_3, =, 1.0, OR
+O, _10, -, 1.0, ORRRR
+O, c_7, c, 1.0, ORRSub
+O, 2_22, 2, 1.0, ORRRRRRRRSup
+O, 1_11, 1, 1.0, ORRRRAbove
+O, T_16, T, 1.0, ORRRRRSup
+O, l_8, l, 1.0, ORRSubR
+O, \int_14, \int, 1.0, ORRRRR
+O, )_25, ), 1.0, ORRRRRRRRRRR
+O, \tau_24, \tau, 1.0, ORRRRRRRRRR
+O, (_23, (, 1.0, ORRRRRRRRR
+O, S_2, S, 1.0, O
+O, 4_12, 4, 1.0, ORRRRBelow
+O, _20, \sqrt, 1.0, ORRRRRRRR
+
+# Relations from SRT:
+R, (_23, \tau_24, Right, 1.0
+R, +_9, _10, Right, 1.0
+R, =_3, S_5, Right, 1.0
+R, S_2, =_3, Right, 1.0
+R, S_5, +_9, Right, 1.0
+R, S_5, c_7, Sub, 1.0
+R, \int_14, 0_15, Sub, 1.0
+R, \int_14, T_16, Sup, 1.0
+R, \int_14, d_17, Right, 1.0
+R, \tau_18, _20, Right, 1.0
+R, \tau_24, )_25, Right, 1.0
+R, _10, 1_11, Above, 1.0
+R, _10, 4_12, Below, 1.0
+R, _10, \int_14, Right, 1.0
+R, _20, (_23, Right, 1.0
+R, _20, 2_22, Sup, 1.0
+R, _20, x_21, Inside, 1.0
+R, c_7, l_8, Right, 1.0
+R, d_17, \tau_18, Right, 1.0

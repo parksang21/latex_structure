@@ -1,0 +1,3 @@
+\begin{equation}
+	b \approx b _ { 0 } ( \sigma _ { f } - \sigma ) \frac { 2 } { \alpha ^ { 2 } }
+\end{equation}

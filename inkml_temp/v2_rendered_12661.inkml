@@ -1,0 +1,111 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_12661</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msup><mi xml:id="J_3">J</mi><mi xml:id="i_4">i</mi></msup><mo form="prefix" stretchy="false" xml:id="(_5">(</mo><mn xml:id="0_6">0</mn><mo form="postfix" stretchy="false" xml:id=")_7">)</mo><mo xml:id="=_8">=</mo><msup><mi xml:id="J_10">J</mi><mi xml:id="i_11">i</mi></msup><mo form="prefix" stretchy="false" xml:id="(_12">(</mo><mi xml:id="\pi_13">π</mi><mo form="postfix" stretchy="false" xml:id=")_14">)</mo><mo xml:id="=_15">=</mo><mn xml:id="0_16">0</mn><mi xml:id="f_17">f</mi><mi xml:id="o_18">o</mi><mi xml:id="r_19">r</mi><msup><mi xml:id="J_21">J</mi><mi xml:id="i_22">i</mi></msup><mo xml:id="\cap_23">∩</mo><mi xml:id="K_24">K</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">J</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="J_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">i</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="i_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="(_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">0</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="0_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href=")_7"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="=_8"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">J</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="J_10"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">i</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="i_11"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="(_12"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">\pi</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="\pi_13"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href=")_14"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="=_15"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">0</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="0_16"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">f</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="f_17"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">o</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="o_18"/>
+	</traceGroup>
+ <traceGroup xml:id="16">
+    <annotation type="truth">r</annotation>
+	<traceView traceDataRef="15"/>
+    <annotationXML href="r_19"/>
+	</traceGroup>
+ <traceGroup xml:id="17">
+    <annotation type="truth">J</annotation>
+	<traceView traceDataRef="16"/>
+    <annotationXML href="J_21"/>
+	</traceGroup>
+ <traceGroup xml:id="18">
+    <annotation type="truth">i</annotation>
+	<traceView traceDataRef="17"/>
+    <annotationXML href="i_22"/>
+	</traceGroup>
+ <traceGroup xml:id="19">
+    <annotation type="truth">\cap</annotation>
+	<traceView traceDataRef="18"/>
+    <annotationXML href="\cap_23"/>
+	</traceGroup>
+ <traceGroup xml:id="20">
+    <annotation type="truth">K</annotation>
+	<traceView traceDataRef="19"/>
+    <annotationXML href="K_24"/>
+	</traceGroup>
+</traceGroup>
+</ink>

@@ -1,0 +1,35 @@
+# IUD, 2090
+# Objects(16):
+O, K_7, K, 1.0, OSubRR
+O, J_11, J, 1.0, ORSup
+O, H_18, H, 1.0, ORRRR
+O, _13, \sqrt, 1.0, ORR
+O, J_6, J, 1.0, OSubR
+O, y_21, y, 1.0, ORRRRRR
+O, C_3, C, 1.0, O
+O, h_10, h, 1.0, ORInside
+O, I_5, I, 1.0, OSub
+O, K_15, K, 1.0, ORRSup
+O, (_20, (, 1.0, ORRRRR
+O, )_22, ), 1.0, ORRRRRRR
+O, h_14, h, 1.0, ORRInside
+O, _9, \sqrt, 1.0, OR
+O, =_16, =, 1.0, ORRR
+O, I_19, I, 1.0, ORRRRSub
+
+# Relations from SRT:
+R, (_20, y_21, Right, 1.0
+R, =_16, H_18, Right, 1.0
+R, C_3, I_5, Sub, 1.0
+R, C_3, _9, Right, 1.0
+R, H_18, (_20, Right, 1.0
+R, H_18, I_19, Sub, 1.0
+R, I_5, J_6, Right, 1.0
+R, J_6, K_7, Right, 1.0
+R, _13, =_16, Right, 1.0
+R, _13, K_15, Sup, 1.0
+R, _13, h_14, Inside, 1.0
+R, _9, J_11, Sup, 1.0
+R, _9, _13, Right, 1.0
+R, _9, h_10, Inside, 1.0
+R, y_21, )_22, Right, 1.0

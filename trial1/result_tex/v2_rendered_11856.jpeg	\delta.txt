@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \alpha } A _ { \mu } = 0 , \alpha = \alpha ^ { a } t ^ { a } = c o n s t
+\end{equation}

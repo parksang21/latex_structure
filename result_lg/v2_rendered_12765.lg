@@ -1,0 +1,45 @@
+# IUD, v2_rendered_12765
+# Objects(21):
+O, f_10, f, 1.0, ORRR
+O, 2_7, 2, 1.0, ORSup
+O, \gamma_6, \gamma, 1.0, OR
+O, \gamma_21, \gamma, 1.0, ORRRRRRRR
+O, 2_28, 2, 1.0, ORRRRRRRRRRRRSup
+O, f_3, f, 1.0, O
+O, -_23, -, 1.0, ORRRRRRRRRR
+O, 2_24, 2, 1.0, ORRRRRRRRRRR
+O, \gamma_17, \gamma, 1.0, ORRRRR
+O, 2_20, 2, 1.0, ORRRRRRR
+O, \infty_27, \infty, 1.0, ORRRRRRRRRRRRSub
+O, n_13, n, 1.0, ORRRR
+O, \infty_11, \infty, 1.0, ORRRSub
+O, 2_18, 2, 1.0, ORRRRRSup
+O, 0_4, 0, 1.0, OSub
+O, =_22, =, 1.0, ORRRRRRRRR
+O, f_26, f, 1.0, ORRRRRRRRRRRR
+O, =_8, =, 1.0, ORR
+O, \pm_19, \pm, 1.0, ORRRRRR
+O, 2_15, 2, 1.0, ORRRRSup
+O, 0_14, 0, 1.0, ORRRRSub
+
+# Relations from SRT:
+R, -_23, 2_24, Right, 1.0
+R, 2_20, \gamma_21, Right, 1.0
+R, 2_24, f_26, Right, 1.0
+R, =_22, -_23, Right, 1.0
+R, =_8, f_10, Right, 1.0
+R, \gamma_17, 2_18, Sup, 1.0
+R, \gamma_17, \pm_19, Right, 1.0
+R, \gamma_21, =_22, Right, 1.0
+R, \gamma_6, 2_7, Sup, 1.0
+R, \gamma_6, =_8, Right, 1.0
+R, \pm_19, 2_20, Right, 1.0
+R, f_10, \infty_11, Sub, 1.0
+R, f_10, n_13, Right, 1.0
+R, f_26, 2_28, Sup, 1.0
+R, f_26, \infty_27, Sub, 1.0
+R, f_3, 0_4, Sub, 1.0
+R, f_3, \gamma_6, Right, 1.0
+R, n_13, 0_14, Sub, 1.0
+R, n_13, 2_15, Sup, 1.0
+R, n_13, \gamma_17, Right, 1.0

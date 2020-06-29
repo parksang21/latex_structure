@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta \tau M ^ { m } \geqq 9 , m \geqq 9 , \lsqrts , u
+\end{equation}

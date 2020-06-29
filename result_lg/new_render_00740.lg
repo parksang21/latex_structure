@@ -1,0 +1,15 @@
+# IUD, new_render_00740
+# Objects(6):
+O, l_5, l, 1.0, ORR
+O, \varepsilon_8, \varepsilon, 1.0, ORRRR
+O, t_6, t, 1.0, ORRSub
+O, -_7, -, 1.0, ORRR
+O, \square_2, \square, 1.0, O
+O, \approx_3, \approx, 1.0, OR
+
+# Relations from SRT:
+R, -_7, \varepsilon_8, Right, 1.0
+R, \approx_3, l_5, Right, 1.0
+R, \square_2, \approx_3, Right, 1.0
+R, l_5, -_7, Right, 1.0
+R, l_5, t_6, Sub, 1.0

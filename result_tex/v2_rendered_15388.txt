@@ -1,0 +1,3 @@
+\begin{equation}
+	\langle \sqrt { \phi } , \sqrt { \psi } > = \int _ { - \infty } ^ { \infty } \sqrt { \sqrt { \phi } } ( x ) \sqrt { \psi } ( x )
+\end{equation}

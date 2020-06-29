@@ -1,0 +1,3 @@
+\begin{equation}
+	{ P } ( p ) = \phi ( p ) f ( p )
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\langle r _ { \notin } \rangle \sim \sum _ { n = 1 } ^ { \infty } \frac { 1 } { n } \langle N _ { n } \rangle
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\gamma g = \gamma g \delta ^ { T }
+\end{equation}

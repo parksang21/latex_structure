@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>A</mi><mi>μ</mi></msub><mo>=</mo><mfrac><mn>1</mn><mrow><mi>m</mi><mo>sin</mo><mi>μ</mi><mo>cos</mo><mi>μ</mi></mrow></mfrac><msub><mi>Δ</mi><mrow><mo stretchy="false" form="prefix">[</mo><mo>+</mo></mrow></msub><msub><mi>A</mi><mo>−</mo></msub><mo stretchy="false" form="postfix">]</mo></mrow><annotation encoding="application/x-tex">\begin{equation}
+    A _ { \mu } = \frac { 1 } { m \sin \mu \cos \mu } \Delta _ { [ + } A _ { - } ]
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

@@ -1,0 +1,37 @@
+# IUD, v2_rendered_12823
+# Objects(17):
+O, COMMA_13, COMMA, 1.0, ORRRRRRR
+O, [_2, [, 1.0, O
+O, \forall_14, \forall, 1.0, ORRRRRRRR
+O, 0_12, 0, 1.0, ORRRRRR
+O, b_17, b, 1.0, ORRRRRRRRRRR
+O, j_15, j, 1.0, ORRRRRRRRR
+O, F_8, F, 1.0, ORRR
+O, \in_18, \in, 1.0, ORRRRRRRRRRRR
+O, b_9, b, 1.0, ORRRSub
+O, +_21, +, 1.0, ORRRRRRRRRRRRRSub
+O, ]_10, ], 1.0, ORRRR
+O, j_5, j, 1.0, ORSub
+O, F_4, F, 1.0, OR
+O, Z_20, Z, 1.0, ORRRRRRRRRRRRR
+O, =_11, =, 1.0, ORRRRR
+O, COMMA_16, COMMA, 1.0, ORRRRRRRRRR
+O, COMMA_6, COMMA, 1.0, ORR
+
+# Relations from SRT:
+R, 0_12, COMMA_13, Right, 1.0
+R, =_11, 0_12, Right, 1.0
+R, COMMA_13, \forall_14, Right, 1.0
+R, COMMA_16, b_17, Right, 1.0
+R, COMMA_6, F_8, Right, 1.0
+R, F_4, COMMA_6, Right, 1.0
+R, F_4, j_5, Sub, 1.0
+R, F_8, ]_10, Right, 1.0
+R, F_8, b_9, Sub, 1.0
+R, Z_20, +_21, Sub, 1.0
+R, [_2, F_4, Right, 1.0
+R, \forall_14, j_15, Right, 1.0
+R, \in_18, Z_20, Right, 1.0
+R, ]_10, =_11, Right, 1.0
+R, b_17, \in_18, Right, 1.0
+R, j_15, COMMA_16, Right, 1.0

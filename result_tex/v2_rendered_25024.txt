@@ -1,0 +1,3 @@
+\begin{equation}
+	\beta = p q \int 2 g ^ { \prime } s i n g t a n g \not\subset \Omega
+\end{equation}

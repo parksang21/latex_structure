@@ -1,0 +1,25 @@
+# IUD, v2_rendered_06907
+# Objects(11):
+O, \gt_12, \gt, 1.0, 10
+O, \theta_3, \theta, 1.0, 1
+O, \vert_4, \vert, 1.0, 2
+O, \phi_5, \phi, 1.0, 3
+O, \circle_10, \circle, 1.0, 8
+O, \rangle_6, \rangle, 1.0, 4
+O, \langle_2, \langle, 1.0, 0
+O, \langle_8, \langle, 1.0, 6
+O, \phi_11, \phi, 1.0, 9
+O, f_9, f, 1.0, 7
+O, \approx_7, \approx, 1.0, 5
+
+# Relations from SRT:
+R, \approx_7, \langle_8, Right, 1.0
+R, \circle_10, \phi_11, Right, 1.0
+R, \langle_2, \theta_3, Right, 1.0
+R, \langle_8, f_9, Right, 1.0
+R, \phi_11, \gt_12, Right, 1.0
+R, \phi_5, \rangle_6, Right, 1.0
+R, \rangle_6, \approx_7, Right, 1.0
+R, \theta_3, \vert_4, Right, 1.0
+R, \vert_4, \phi_5, Right, 1.0
+R, f_9, \circle_10, Right, 1.0

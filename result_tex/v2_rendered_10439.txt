@@ -1,0 +1,3 @@
+\begin{equation}
+	\phi _ { \pm } ^ { ( 0 ) } ( s , u ^ { a } ) = \pm \cos ( s - b ( u ^ { a } ) )
+\end{equation}

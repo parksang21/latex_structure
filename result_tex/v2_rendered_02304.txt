@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { q ^ { 2 } ( 5 ) } { 2 } = \frac { T _ { ( 2 ) } } { 2 }
+\end{equation}

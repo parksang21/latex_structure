@@ -1,0 +1,3 @@
+\begin{equation}
+	\beta A = \beta \Delta \omega - \frac { 1 } { 2 } \beta \Delta \times \log \rho
+\end{equation}

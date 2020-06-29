@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>Q</mi><mo>≦</mo><mfrac><mn>1</mn><mrow><mn>2</mn><mi>π</mi><mi>R</mi></mrow></mfrac><msubsup><mo>∫</mo><mn>0</mn><mi>L</mi></msubsup><msub><mi>Δ</mi><mi>x</mi></msub><mi>β</mi><mo stretchy="false" form="prefix">(</mo><mi>x</mi><mo>,</mo><mi>t</mi><mo stretchy="false" form="postfix">)</mo><mi>d</mi><mi>x</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+    Q \leqq \frac { 1 } { 2 \pi R } \int _ { 0 } ^ { L } \Delta _ { x } \beta ( x , t ) d x
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

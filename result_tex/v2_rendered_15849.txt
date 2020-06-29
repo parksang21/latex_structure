@@ -1,0 +1,3 @@
+\begin{equation}
+	C \equiv \int d ^ { 3 } x < 2 \vert T _ { \infty } \vert 0 \rangle r ^ { 2 }
+\end{equation}

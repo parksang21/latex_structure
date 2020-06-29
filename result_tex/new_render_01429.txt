@@ -1,0 +1,3 @@
+\begin{equation}
+	\tan \psi \geqq \frac { 2 d } { 3 } \sqrt { 2 \vert \lambda } \phi
+\end{equation}

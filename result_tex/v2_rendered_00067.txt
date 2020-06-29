@@ -1,0 +1,3 @@
+\begin{equation}
+	\varepsilon _ { 1 } \csqrts \varepsilon _ { n } ( T ) \prod _ { i } ( \varepsilon _ { i } , \beta _ { i } )
+\end{equation}

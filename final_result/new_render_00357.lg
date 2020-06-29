@@ -1,0 +1,21 @@
+# IUD, new_render_00357
+# Objects(9):
+O, d_8, d, 1.0, ORRRR
+O, \neq_7, \neq, 1.0, ORRR
+O, \vert_6, \vert, 1.0, ORR
+O, R_5, R, 1.0, ORSub
+O, COMMA_9, COMMA, 1.0, ORRRRR
+O, \vert_2, \vert, 1.0, O
+O, R_11, R, 1.0, ORRRRRRR
+O, m_4, m, 1.0, OR
+O, \therefore_10, \therefore, 1.0, ORRRRRR
+
+# Relations from SRT:
+R, COMMA_9, \therefore_10, Right, 1.0
+R, \neq_7, d_8, Right, 1.0
+R, \therefore_10, R_11, Right, 1.0
+R, \vert_2, m_4, Right, 1.0
+R, \vert_6, \neq_7, Right, 1.0
+R, d_8, COMMA_9, Right, 1.0
+R, m_4, R_5, Sub, 1.0
+R, m_4, \vert_6, Right, 1.0

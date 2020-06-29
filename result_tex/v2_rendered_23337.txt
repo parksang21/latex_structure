@@ -1,0 +1,3 @@
+\begin{equation}
+	T \subset - \frac { m _ { \omega } \lambda } { \ln ( \frac { e } { - \gamma 2 C ) } }
+\end{equation}

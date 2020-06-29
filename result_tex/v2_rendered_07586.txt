@@ -1,0 +1,3 @@
+\begin{equation}
+	\psi \Delta = \psi \Delta _ { p } ^ { \omega } \csqrt i D ^ { \delta } ( \tau ) \subset 1
+\end{equation}

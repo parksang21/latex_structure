@@ -1,0 +1,3 @@
+\begin{equation}
+	\sqrt { D } ^ { L } \psi \geq 0 \exists \sqrt { D } ^ { L } \propto P
+\end{equation}

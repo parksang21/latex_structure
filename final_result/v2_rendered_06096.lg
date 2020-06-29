@@ -1,0 +1,33 @@
+# IUD, v2_rendered_06096
+# Objects(15):
+O, \div_4, \div, 1.0, ORR
+O, \Delta_2, \Delta, 1.0, O
+O, \varepsilon_21, \varepsilon, 1.0, ORRRRRRRSubR
+O, i_10, i, 1.0, ORRRRRAbove
+O, \div_8, \div, 1.0, ORRRR
+O, \sigma_13, \sigma, 1.0, ORRRRRR
+O, =_3, =, 1.0, OR
+O, D_6, D, 1.0, ORRR
+O, 2_11, 2, 1.0, ORRRRRBelow
+O, 2_7, 2, 1.0, ORRRSup
+O, \mu_15, \mu, 1.0, ORRRRRRSub
+O, _9, -, 1.0, ORRRRR
+O, \mu_20, \mu, 1.0, ORRRRRRRSub
+O, F_18, F, 1.0, ORRRRRRR
+O, \varepsilon_16, \varepsilon, 1.0, ORRRRRRSubR
+
+# Relations from SRT:
+R, =_3, \div_4, Right, 1.0
+R, D_6, 2_7, Sup, 1.0
+R, D_6, \div_8, Right, 1.0
+R, F_18, \mu_20, Sub, 1.0
+R, \Delta_2, =_3, Right, 1.0
+R, \div_4, D_6, Right, 1.0
+R, \div_8, _9, Right, 1.0
+R, \mu_15, \varepsilon_16, Right, 1.0
+R, \mu_20, \varepsilon_21, Right, 1.0
+R, \sigma_13, F_18, Right, 1.0
+R, \sigma_13, \mu_15, Sub, 1.0
+R, _9, 2_11, Below, 1.0
+R, _9, \sigma_13, Right, 1.0
+R, _9, i_10, Above, 1.0

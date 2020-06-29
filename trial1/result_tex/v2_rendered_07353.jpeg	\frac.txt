@@ -1,0 +1,3 @@
+\begin{equation}
+	{ r ^ { 9 } } { l _ { p } ^ { 9 } } \sim p _ { 1 1 } R
+\end{equation}

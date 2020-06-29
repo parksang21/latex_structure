@@ -1,0 +1,39 @@
+# IUD, 514_em_343_0
+# Objects(18):
+O, x_20, x, 1.0, ORRRRRRRRRRRRRR
+O, \cos_6, \cos, 1.0, ORR
+O, (_7, (, 1.0, ORRR
+O, x_8, x, 1.0, ORRRR
+O, x_21, x, 1.0, ORRRRRRRRRRRRRRR
+O, +_10, +, 1.0, ORRRRRR
+O, \int_11, \int, 1.0, ORRRRRRR
+O, x_14, x, 1.0, ORRRRRRRRSup
+O, x_5, x, 1.0, ORSup
+O, -_2, -, 1.0, O
+O, x_17, x, 1.0, ORRRRRRRRRRR
+O, d_19, d, 1.0, ORRRRRRRRRRRRR
+O, \cos_15, \cos, 1.0, ORRRRRRRRR
+O, )_18, ), 1.0, ORRRRRRRRRRRR
+O, e_4, e, 1.0, OR
+O, (_16, (, 1.0, ORRRRRRRRRR
+O, e_13, e, 1.0, ORRRRRRRR
+O, )_9, ), 1.0, ORRRRR
+
+# Relations from SRT:
+R, (_16, x_17, Right, 1.0
+R, (_7, x_8, Right, 1.0
+R, )_18, d_19, Right, 1.0
+R, )_9, +_10, Right, 1.0
+R, +_10, \int_11, Right, 1.0
+R, -_2, e_4, Right, 1.0
+R, \cos_15, (_16, Right, 1.0
+R, \cos_6, (_7, Right, 1.0
+R, \int_11, e_13, Right, 1.0
+R, d_19, x_20, Right, 1.0
+R, e_13, \cos_15, Right, 1.0
+R, e_13, x_14, Sup, 1.0
+R, e_4, \cos_6, Right, 1.0
+R, e_4, x_5, Sup, 1.0
+R, x_17, )_18, Right, 1.0
+R, x_20, x_21, Right, 1.0
+R, x_8, )_9, Right, 1.0

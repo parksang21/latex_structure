@@ -1,0 +1,43 @@
+# IUD, v2_rendered_09224
+# Objects(20):
+O, S_19, S, 1.0, ORRRRRRRRRAboveRRRR
+O, 0_9, 0, 1.0, ORRRRRSub
+O, \beta_15, \beta, 1.0, ORRRRRRRRRAbove
+O, i_6, i, 1.0, ORRRR
+O, -_12, -, 1.0, ORRRRRRRR
+O, 0_23, 0, 1.0, ORRRRRRRRRBelowSub
+O, P_22, P, 1.0, ORRRRRRRRRBelow
+O, \beta_10, \beta, 1.0, ORRRRRR
+O, \Delta_11, \Delta, 1.0, ORRRRRRR
+O, =_4, =, 1.0, ORR
+O, K_3, K, 1.0, OR
+O, \times_17, \times, 1.0, ORRRRRRRRRAboveRR
+O, _13, -, 1.0, ORRRRRRRRR
+O, -_5, -, 1.0, ORRR
+O, \beta_2, \beta, 1.0, O
+O, P_8, P, 1.0, ORRRRR
+O, P_16, P, 1.0, ORRRRRRRRRAboveR
+O, m_25, m, 1.0, ORRRRRRRRRBelowRR
+O, \beta_18, \beta, 1.0, ORRRRRRRRRAboveRRR
+O, +_24, +, 1.0, ORRRRRRRRRBelowR
+
+# Relations from SRT:
+R, +_24, m_25, Right, 1.0
+R, -_12, _13, Right, 1.0
+R, -_5, i_6, Right, 1.0
+R, =_4, -_5, Right, 1.0
+R, K_3, =_4, Right, 1.0
+R, P_16, \times_17, Right, 1.0
+R, P_22, +_24, Right, 1.0
+R, P_22, 0_23, Sub, 1.0
+R, P_8, 0_9, Sub, 1.0
+R, P_8, \beta_10, Right, 1.0
+R, \Delta_11, -_12, Right, 1.0
+R, \beta_10, \Delta_11, Right, 1.0
+R, \beta_15, P_16, Right, 1.0
+R, \beta_18, S_19, Right, 1.0
+R, \beta_2, K_3, Right, 1.0
+R, \times_17, \beta_18, Right, 1.0
+R, _13, P_22, Below, 1.0
+R, _13, \beta_15, Above, 1.0
+R, i_6, P_8, Right, 1.0

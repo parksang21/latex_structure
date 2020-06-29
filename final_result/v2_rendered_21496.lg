@@ -1,0 +1,41 @@
+# IUD, v2_rendered_21496
+# Objects(19):
+O, +_23, +, 1.0, ORRRRRRRRRRRRR
+O, y_6, y, 1.0, ORRSub
+O, ._24, ., 1.0, ORRRRRRRRRRRRRR
+O, z_13, z, 1.0, ORRRRRSub
+O, A_15, A, 1.0, ORRRRRR
+O, A_8, A, 1.0, ORRR
+O, d_21, d, 1.0, ORRRRRRRRRRR
+O, )_17, ), 1.0, ORRRRRRR
+O, 3_9, 3, 1.0, ORRRSub
+O, d_18, d, 1.0, ORRRRRRRR
+O, -_10, -, 1.0, ORRRR
+O, \Delta_12, \Delta, 1.0, ORRRRR
+O, \wedge_20, \wedge, 1.0, ORRRRRRRRRR
+O, z_22, z, 1.0, ORRRRRRRRRRRR
+O, =_2, =, 1.0, O
+O, \Delta_5, \Delta, 1.0, ORR
+O, y_19, y, 1.0, ORRRRRRRRR
+O, (_3, (, 1.0, OR
+O, 2_16, 2, 1.0, ORRRRRRSub
+
+# Relations from SRT:
+R, (_3, \Delta_5, Right, 1.0
+R, )_17, d_18, Right, 1.0
+R, +_23, ._24, Right, 1.0
+R, -_10, \Delta_12, Right, 1.0
+R, =_2, (_3, Right, 1.0
+R, A_15, )_17, Right, 1.0
+R, A_15, 2_16, Sub, 1.0
+R, A_8, -_10, Right, 1.0
+R, A_8, 3_9, Sub, 1.0
+R, \Delta_12, A_15, Right, 1.0
+R, \Delta_12, z_13, Sub, 1.0
+R, \Delta_5, A_8, Right, 1.0
+R, \Delta_5, y_6, Sub, 1.0
+R, \wedge_20, d_21, Right, 1.0
+R, d_18, y_19, Right, 1.0
+R, d_21, z_22, Right, 1.0
+R, y_19, \wedge_20, Right, 1.0
+R, z_22, +_23, Right, 1.0

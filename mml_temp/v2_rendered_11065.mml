@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="false" form="prefix">(</mo><msubsup><mi>θ</mi><mn>1</mn><mi>i</mi></msubsup><mo>,</mo><msup><mi>ϕ</mi><mi>a</mi></msup><mo stretchy="false" form="postfix">)</mo><mo>→</mo><mo stretchy="false" form="prefix">(</mo><msub><mi>π</mi><mi>a</mi></msub><mo>=</mo><msub><mi>σ</mi><mi>a</mi></msub><mo>,</mo><msup><mi>y</mi><mi>a</mi></msup><mo>,</mo><msup><mi>μ</mi><mi>α</mi></msup><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">\begin{equation}
+    ( \theta _ { 1 } ^ { i } , \phi ^ { a } ) \rightarrow ( \pi _ { a } = \sigma _ { a } , y ^ { a } , \mu ^ { \alpha } )
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

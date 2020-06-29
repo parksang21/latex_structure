@@ -1,0 +1,3 @@
+\begin{equation}
+	e ( \varepsilon ) \Delta ^ { 2 } \varepsilon = \Delta \varepsilon \cdot \Delta \varepsilon
+\end{equation}

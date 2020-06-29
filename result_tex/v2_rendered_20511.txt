@@ -1,0 +1,3 @@
+\begin{equation}
+	A = ( \pm e _ { a } \pm e b \pm e _ { c } \pm e _ { d } ) / 2 \not\subset \beta _ { 2 }
+\end{equation}

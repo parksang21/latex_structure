@@ -1,0 +1,3 @@
+\begin{equation}
+	x _ { \alpha } ^ { 6 } = ( k _ { \alpha } - k _ { \alpha - 1 } ) \log \vert v \vert
+\end{equation}

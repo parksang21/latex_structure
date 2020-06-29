@@ -1,0 +1,3 @@
+\begin{equation}
+	A _ { c } \subset S U ( m ) \oplus U ( 1 ) , A _ { 1 } \subset S U N - m )
+\end{equation}

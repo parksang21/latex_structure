@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { \Delta V e f f } { \Delta \sigma } \vert \sigma = \sigma _ { 0 } = 0
+\end{equation}

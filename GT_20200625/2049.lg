@@ -1,0 +1,41 @@
+# IUD, 2049
+# Objects(19):
+O, N_24, N, 1.0, ORRRRRRRRRR
+O, N_8, N, 1.0, ORRInside
+O, q_16, q, 1.0, ORRRRRR
+O, \gamma_3, \gamma, 1.0, O
+O, _7, \sqrt, 1.0, ORR
+O, a_25, a, 1.0, ORRRRRRRRRRSup
+O, (_14, (, 1.0, ORRRRR
+O, COMMA_22, COMMA, 1.0, ORRRRRRRRR
+O, a_9, a, 1.0, ORRSup
+O, a_13, a, 1.0, ORRRRSup
+O, i_21, i, 1.0, ORRRRRRRRSub
+O, =_5, =, 1.0, OR
+O, )_26, ), 1.0, ORRRRRRRRRRR
+O, a_4, a, 1.0, OSup
+O, +_10, +, 1.0, ORRR
+O, p_20, p, 1.0, ORRRRRRRR
+O, \Omega_12, \Omega, 1.0, ORRRR
+O, i_17, i, 1.0, ORRRRRRSup
+O, COMMA_18, COMMA, 1.0, ORRRRRRR
+
+# Relations from SRT:
+R, (_14, q_16, Right, 1.0
+R, +_10, \Omega_12, Right, 1.0
+R, =_5, _7, Right, 1.0
+R, COMMA_18, p_20, Right, 1.0
+R, COMMA_22, N_24, Right, 1.0
+R, N_24, )_26, Right, 1.0
+R, N_24, a_25, Sup, 1.0
+R, \Omega_12, (_14, Right, 1.0
+R, \Omega_12, a_13, Sup, 1.0
+R, \gamma_3, =_5, Right, 1.0
+R, \gamma_3, a_4, Sup, 1.0
+R, _7, +_10, Right, 1.0
+R, _7, N_8, Inside, 1.0
+R, _7, a_9, Sup, 1.0
+R, p_20, COMMA_22, Right, 1.0
+R, p_20, i_21, Sub, 1.0
+R, q_16, COMMA_18, Right, 1.0
+R, q_16, i_17, Sup, 1.0

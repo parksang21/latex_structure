@@ -1,0 +1,37 @@
+# IUD, v2_rendered_01871
+# Objects(17):
+O, \beta_18, \beta, 1.0, 15
+O, B_4, B, 1.0, 2
+O, =_8, =, 1.0, 5
+O, \langle_9, \langle, 1.0, 6
+O, i_7, i, 1.0, 4
+O, \langle_14, \langle, 1.0, 11
+O, )_16, ), 1.0, 13
+O, -_13, -, 1.0, 10
+O, \langle_2, \langle, 1.0, 0
+O, \rangle_6, \rangle, 1.0, 3
+O, \rangle_12, \rangle, 1.0, 9
+O, \rangle_19, \rangle, 1.0, 16
+O, A_3, A, 1.0, 1
+O, B_11, B, 1.0, 8
+O, A_10, A, 1.0, 7
+O, A_15, A, 1.0, 12
+O, (_17, (, 1.0, 14
+
+# Relations from SRT:
+R, (_17, \beta_18, Right, 1.0
+R, )_16, (_17, Right, 1.0
+R, -_13, \langle_14, Right, 1.0
+R, =_8, \langle_9, Right, 1.0
+R, A_10, B_11, Right, 1.0
+R, A_15, )_16, Right, 1.0
+R, A_3, B_4, Right, 1.0
+R, B_11, \rangle_12, Right, 1.0
+R, B_4, \rangle_6, Right, 1.0
+R, \beta_18, \rangle_19, Right, 1.0
+R, \langle_14, A_15, Right, 1.0
+R, \langle_2, A_3, Right, 1.0
+R, \langle_9, A_10, Right, 1.0
+R, \rangle_12, -_13, Right, 1.0
+R, \rangle_6, =_8, Right, 1.0
+R, \rangle_6, i_7, Sub, 1.0

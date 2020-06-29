@@ -1,0 +1,15 @@
+# IUD, new_render_00126
+# Objects(6):
+O, \Delta_3, \Delta, 1.0, OAbove
+O, q_8, q, 1.0, OBelowRSub
+O, Q_9, Q, 1.0, OR
+O, \square_7, \square, 1.0, OBelowR
+O, _2, -, 1.0, O
+O, \Delta_5, \Delta, 1.0, OBelow
+
+# Relations from SRT:
+R, \Delta_5, \square_7, Right, 1.0
+R, \square_7, q_8, Sub, 1.0
+R, _2, Q_9, Right, 1.0
+R, _2, \Delta_3, Above, 1.0
+R, _2, \Delta_5, Below, 1.0

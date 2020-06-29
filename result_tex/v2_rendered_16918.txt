@@ -1,0 +1,3 @@
+\begin{equation}
+	f ( \psi , \phi ) = \psi ^ { a } \subset \phi ^ { b } \otimes f ( e _ { a } , k _ { b } )
+\end{equation}

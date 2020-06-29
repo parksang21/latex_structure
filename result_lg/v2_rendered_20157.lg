@@ -1,0 +1,43 @@
+# IUD, v2_rendered_20157
+# Objects(20):
+O, \tau_16, \tau, 1.0, ORRRRRSub
+O, \sigma_3, \sigma, 1.0, O
+O, 1_9, 1, 1.0, ORRRRAbove
+O, \sigma_19, \sigma, 1.0, ORRRRRR
+O, 5_28, 5, 1.0, ORRRRRRRRRRSup
+O, 6_4, 6, 1.0, OSub
+O, _8, -, 1.0, ORRRR
+O, +_24, +, 1.0, ORRRRRRRR
+O, \varepsilon_17, \varepsilon, 1.0, ORRRRRSubR
+O, 0_11, 0, 1.0, ORRRRBelow
+O, =_5, =, 1.0, OR
+O, \sigma_27, \sigma, 1.0, ORRRRRRRRRR
+O, !_12, !, 1.0, ORRRRBelowR
+O, h_6, h, 1.0, ORR
+O, p_25, p, 1.0, ORRRRRRRRR
+O, +_7, +, 1.0, ORRR
+O, b_14, b, 1.0, ORRRRR
+O, \varepsilon_23, \varepsilon, 1.0, ORRRRRRRSup
+O, \sigma_22, \sigma, 1.0, ORRRRRRR
+O, \tau_20, \tau, 1.0, ORRRRRRSup
+
+# Relations from SRT:
+R, +_24, p_25, Right, 1.0
+R, +_7, _8, Right, 1.0
+R, 0_11, !_12, Right, 1.0
+R, =_5, h_6, Right, 1.0
+R, \sigma_19, \sigma_22, Right, 1.0
+R, \sigma_19, \tau_20, Sup, 1.0
+R, \sigma_22, +_24, Right, 1.0
+R, \sigma_22, \varepsilon_23, Sup, 1.0
+R, \sigma_27, 5_28, Sup, 1.0
+R, \sigma_3, 6_4, Sub, 1.0
+R, \sigma_3, =_5, Right, 1.0
+R, \tau_16, \varepsilon_17, Right, 1.0
+R, _8, 0_11, Below, 1.0
+R, _8, 1_9, Above, 1.0
+R, _8, b_14, Right, 1.0
+R, b_14, \sigma_19, Right, 1.0
+R, b_14, \tau_16, Sub, 1.0
+R, h_6, +_7, Right, 1.0
+R, p_25, \sigma_27, Right, 1.0

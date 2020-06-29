@@ -1,0 +1,3 @@
+\begin{equation}
+	0 \vert [ Q _ { 5 } ^ { L F } , \bar { \lambda } i \gamma _ { 5 } \lambda ] \vert 0 ) = 0
+\end{equation}

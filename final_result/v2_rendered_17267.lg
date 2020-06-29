@@ -1,0 +1,41 @@
+# IUD, v2_rendered_17267
+# Objects(19):
+O, \div_4, \div, 1.0, ORR
+O, 2_8, 2, 1.0, ORRRRRR
+O, =_7, =, 1.0, ORRRRR
+O, (_3, (, 1.0, OR
+O, -_14, -, 1.0, ORRRRRRRRRRRR
+O, n_9, n, 1.0, ORRRRRRR
+O, \pi_20, \pi, 1.0, ORRRRRRRRRRRRRRRRRR
+O, \infty_15, \infty, 1.0, ORRRRRRRRRRRRR
+O, \phi_2, \phi, 1.0, O
+O, COMMA_11, COMMA, 1.0, ORRRRRRRRR
+O, =_17, =, 1.0, ORRRRRRRRRRRRRRR
+O, \phi_12, \phi, 1.0, ORRRRRRRRRR
+O, )_16, ), 1.0, ORRRRRRRRRRRRRR
+O, (_13, (, 1.0, ORRRRRRRRRRR
+O, )_6, ), 1.0, ORRRR
+O, m_19, m, 1.0, ORRRRRRRRRRRRRRRRR
+O, \infty_5, \infty, 1.0, ORRR
+O, 2_18, 2, 1.0, ORRRRRRRRRRRRRRRR
+O, \pi_10, \pi, 1.0, ORRRRRRRR
+
+# Relations from SRT:
+R, (_13, -_14, Right, 1.0
+R, (_3, \div_4, Right, 1.0
+R, )_16, =_17, Right, 1.0
+R, )_6, =_7, Right, 1.0
+R, -_14, \infty_15, Right, 1.0
+R, 2_18, m_19, Right, 1.0
+R, 2_8, n_9, Right, 1.0
+R, =_17, 2_18, Right, 1.0
+R, =_7, 2_8, Right, 1.0
+R, COMMA_11, \phi_12, Right, 1.0
+R, \div_4, \infty_5, Right, 1.0
+R, \infty_15, )_16, Right, 1.0
+R, \infty_5, )_6, Right, 1.0
+R, \phi_12, (_13, Right, 1.0
+R, \phi_2, (_3, Right, 1.0
+R, \pi_10, COMMA_11, Right, 1.0
+R, m_19, \pi_20, Right, 1.0
+R, n_9, \pi_10, Right, 1.0

@@ -1,0 +1,37 @@
+# IUD, v2_rendered_21249
+# Objects(17):
+O, \beta_7, \beta, 1.0, OAboveR
+O, z_22, z, 1.0, ORRRRBelowR
+O, \beta_19, \beta, 1.0, ORRRRAboveR
+O, 2_6, 2, 1.0, OAboveSup
+O, +_13, +, 1.0, OR
+O, d_5, d, 1.0, OAbove
+O, 0_24, 0, 1.0, ORRRRRR
+O, d_21, d, 1.0, ORRRRBelow
+O, \sin_14, \sin, 1.0, ORR
+O, d_18, d, 1.0, ORRRRAbove
+O, _2, -, 1.0, O
+O, d_9, d, 1.0, OBelow
+O, =_23, =, 1.0, ORRRRR
+O, z_15, z, 1.0, ORRR
+O, _16, -, 1.0, ORRRR
+O, 2_12, 2, 1.0, OBelowRSup
+O, z_11, z, 1.0, OBelowR
+
+# Relations from SRT:
+R, +_13, \sin_14, Right, 1.0
+R, =_23, 0_24, Right, 1.0
+R, \sin_14, z_15, Right, 1.0
+R, _16, =_23, Right, 1.0
+R, _16, d_18, Above, 1.0
+R, _16, d_21, Below, 1.0
+R, _2, +_13, Right, 1.0
+R, _2, d_5, Above, 1.0
+R, _2, d_9, Below, 1.0
+R, d_18, \beta_19, Right, 1.0
+R, d_21, z_22, Right, 1.0
+R, d_5, 2_6, Sup, 1.0
+R, d_5, \beta_7, Right, 1.0
+R, d_9, z_11, Right, 1.0
+R, z_11, 2_12, Sup, 1.0
+R, z_15, _16, Right, 1.0

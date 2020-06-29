@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>d</mi><mi>i</mi></msub><mo stretchy="false" form="postfix">|</mo><msub><mn>0</mn><mi>H</mi></msub><mo>∝</mo><mo>≤</mo><msub><msqrt><mi>d</mi></msqrt><mi>i</mi></msub><mo stretchy="false" form="postfix">|</mo><msub><mn>0</mn><mi>H</mi></msub><mo>∝</mo><mo>≤</mo><mn>0</mn><mo>,</mo><mo>∃</mo><mi>i</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+    d _ { i } \vert 0 _ { H } \propto \leq \sqrt { d } _ { i } \vert 0 _ { H } \propto \leq 0 , \exists i
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

@@ -1,0 +1,3 @@
+\begin{equation}
+	\gamma _ { i j k l \lsqrts } = \gamma _ { i } \gamma _ { j } \gamma _ { k } \gamma _ { 2 } \lsqrts
+\end{equation}

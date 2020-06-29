@@ -1,0 +1,3 @@
+\begin{equation}
+	0 \cap R c ( \frac { \phi _ { l } } { \phi _ { l } - \phi _ { k } } ) \cap 1
+\end{equation}

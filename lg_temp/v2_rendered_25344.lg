@@ -1,0 +1,49 @@
+# IUD, v2_rendered_25344
+# Objects(23):
+O, )_9, ), 1.0, 7
+O, \div_4, \div, 1.0, 2
+O, (_17, (, 1.0, 15
+O, ⊄_22, ⊄, 1.0, 20
+O, )_19, ), 1.0, 17
+O, )_14, ), 1.0, 12
+O, \div_15, \div, 1.0, 13
+O, (_7, (, 1.0, 5
+O, t_21, t, 1.0, 19
+O, \delta_25, \delta, 1.0, 22
+O, t_8, t, 1.0, 6
+O, f_11, f, 1.0, 9
+O, t_13, t, 1.0, 11
+O, D_24, D, 1.0, 21
+O, \neq_10, \neq, 1.0, 8
+O, g_5, g, 1.0, 3
+O, (_12, (, 1.0, 10
+O, \theta_20, \theta, 1.0, 18
+O, (_2, (, 1.0, 0
+O, f_3, f, 1.0, 1
+O, t_18, t, 1.0, 16
+O, )_6, ), 1.0, 4
+O, g_16, g, 1.0, 14
+
+# Relations from SRT:
+R, (_12, t_13, Right, 1.0
+R, (_17, t_18, Right, 1.0
+R, (_2, f_3, Right, 1.0
+R, (_7, t_8, Right, 1.0
+R, )_14, \div_15, Right, 1.0
+R, )_19, \theta_20, Right, 1.0
+R, )_6, (_7, Right, 1.0
+R, )_9, \neq_10, Right, 1.0
+R, D_24, \delta_25, Sup, 1.0
+R, \div_15, g_16, Right, 1.0
+R, \div_4, g_5, Right, 1.0
+R, \neq_10, f_11, Right, 1.0
+R, \theta_20, t_21, Right, 1.0
+R, f_11, (_12, Right, 1.0
+R, f_3, \div_4, Right, 1.0
+R, g_16, (_17, Right, 1.0
+R, g_5, )_6, Right, 1.0
+R, t_13, )_14, Right, 1.0
+R, t_18, )_19, Right, 1.0
+R, t_21, ⊄_22, Right, 1.0
+R, t_8, )_9, Right, 1.0
+R, ⊄_22, D_24, Right, 1.0

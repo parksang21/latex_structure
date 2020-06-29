@@ -1,0 +1,66 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_03925</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msub><mi xml:id="E_3">E</mi><mn xml:id="8_4">8</mn></msub><mo xml:id="\cup_5">∪</mo><msub><mi xml:id="E_7">E</mi><mn xml:id="8_8">8</mn></msub><mo xml:id="\cup_9">∪</mo><mi xml:id="U_10">U</mi><mo xml:id="\cup_11">∪</mo><mi xml:id="U_12">U</mi><mo xml:id="\cup_13">∪</mo><mi xml:id="U_14">U</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">E</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="E_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">8</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="8_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\cup</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\cup_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">E</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="E_7"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">8</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="8_8"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\cup</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\cup_9"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">U</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="U_10"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\cup</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\cup_11"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">U</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="U_12"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">\cup</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="\cup_13"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">U</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="U_14"/>
+	</traceGroup>
+</traceGroup>
+</ink>

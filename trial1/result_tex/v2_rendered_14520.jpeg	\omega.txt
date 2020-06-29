@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { u } = \frac { 1 } { 2 } \omega _ { i j } ^ { u } d \varphi ^ { i } \wedge d \varphi ^ { j }
+\end{equation}

@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="false" form="prefix">[</mo><msub><mi>A</mi><mrow><mi>α</mi><mi>β</mi></mrow></msub><mo>,</mo><msup><mi>A</mi><mrow><mi>μ</mi><mi>ε</mi></mrow></msup><mo stretchy="false" form="postfix">]</mo><mo>=</mo><mi>i</mi><msubsup><mi>δ</mi><mi>α</mi><mi>μ</mi></msubsup><msubsup><mi>δ</mi><mi>β</mi><mo>∈</mo></msubsup></mrow><annotation encoding="application/x-tex">\begin{equation}
+    [ A _ { \alpha \beta } , A ^ { \mu \varepsilon } ] = i \delta _ { \alpha } ^ { \mu } \delta _ { \beta } ^ { \in }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

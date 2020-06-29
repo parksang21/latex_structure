@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>2</mn><mi>d</mi><mo stretchy="false" form="prefix">(</mo><msup><mi>e</mi><mrow><mo>−</mo><mn>2</mn><mi>ρ</mi></mrow></msup><mo>*</mo><msub><mi>H</mi><mn>3</mn></msub><mo stretchy="false" form="postfix">)</mo><mo>=</mo><msub><mi>F</mi><mo>+</mo></msub><mo>∨</mo><msub><mi>F</mi><mn>4</mn></msub></mrow><annotation encoding="application/x-tex">\begin{equation}
+    2 d ( e ^ { - 2 \rho } * H _ { 3 } ) = F _ { + } \vee F _ { 4 }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

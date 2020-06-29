@@ -1,0 +1,3 @@
+\begin{equation}
+	\sqrt { X } ^ { ( 2 D } = \alpha \sqrt { X } ^ { ( 1 2 ) } \propto \Delta ^ { - 1 }
+\end{equation}

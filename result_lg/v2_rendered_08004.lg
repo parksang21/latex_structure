@@ -1,0 +1,37 @@
+# IUD, v2_rendered_08004
+# Objects(17):
+O, \langle_7, \langle, 1.0, ORRRRR
+O, 1_8, 1, 1.0, ORRRRRR
+O, \approx_9, \approx, 1.0, ORRRRRRR
+O, U_13, U, 1.0, ORRRRRRRRRRR
+O, (_14, (, 1.0, ORRRRRRRRRRRR
+O, n_4, n, 1.0, ORR
+O, m_10, m, 1.0, ORRRRRRRR
+O, n_15, n, 1.0, ORRRRRRRRRRRRR
+O, m_17, m, 1.0, ORRRRRRRRRRRRRRR
+O, \equiv_6, \equiv, 1.0, ORRRR
+O, U_2, U, 1.0, O
+O, n_12, n, 1.0, ORRRRRRRRRR
+O, COMMA_16, COMMA, 1.0, ORRRRRRRRRRRRRR
+O, )_18, ), 1.0, ORRRRRRRRRRRRRRRR
+O, \approx_11, \approx, 1.0, ORRRRRRRRR
+O, )_5, ), 1.0, ORRR
+O, (_3, (, 1.0, OR
+
+# Relations from SRT:
+R, (_14, n_15, Right, 1.0
+R, (_3, n_4, Right, 1.0
+R, )_5, \equiv_6, Right, 1.0
+R, 1_8, \approx_9, Right, 1.0
+R, COMMA_16, m_17, Right, 1.0
+R, U_13, (_14, Right, 1.0
+R, U_2, (_3, Right, 1.0
+R, \approx_11, n_12, Right, 1.0
+R, \approx_9, m_10, Right, 1.0
+R, \equiv_6, \langle_7, Right, 1.0
+R, \langle_7, 1_8, Right, 1.0
+R, m_10, \approx_11, Right, 1.0
+R, m_17, )_18, Right, 1.0
+R, n_12, U_13, Right, 1.0
+R, n_15, COMMA_16, Right, 1.0
+R, n_4, )_5, Right, 1.0

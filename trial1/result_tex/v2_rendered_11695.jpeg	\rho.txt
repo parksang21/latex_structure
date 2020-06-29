@@ -1,0 +1,3 @@
+\begin{equation}
+	( x ) = \frac { a } { \tan ^ { 2 } ( b x ) } ( a \cap 0 )
+\end{equation}

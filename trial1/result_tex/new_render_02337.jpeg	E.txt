@@ -1,0 +1,3 @@
+\begin{equation}
+	( g ) \leqq \frac { d } { d x } E ( q ) \exists x
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	R \sim R ^ { \prime } i f f R \approx R ^ { \prime } + s T , R , R ^ { \prime } , T \in F
+\end{equation}

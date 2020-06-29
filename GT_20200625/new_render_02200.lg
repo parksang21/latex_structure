@@ -1,0 +1,39 @@
+# IUD, new_render_02200
+# Objects(18):
+O, 2_11, 2, 1.0, ORRRRSup
+O, \sin_18, \sin, 1.0, ORRRRRRRR
+O, \rho_4, \rho, 1.0, ORInside
+O, 2_16, 2, 1.0, ORRRRRRRSup
+O, \cos_10, \cos, 1.0, ORRRR
+O, \geqq_23, \geqq, 1.0, ORRRRRRRRRR
+O, (_2, (, 1.0, O
+O, 2_21, 2, 1.0, ORRRRRRRRSupR
+O, _3, \sqrt, 1.0, OR
+O, -_13, -, 1.0, ORRRRRR
+O, 2_7, 2, 1.0, ORRSup
+O, \rho_22, \rho, 1.0, ORRRRRRRRR
+O, \rho_12, \rho, 1.0, ORRRRR
+O, -_20, -, 1.0, ORRRRRRRRSup
+O, 0_24, 0, 1.0, ORRRRRRRRRRR
+O, )_6, ), 1.0, ORR
+O, e_15, e, 1.0, ORRRRRRR
+O, +_8, +, 1.0, ORRR
+
+# Relations from SRT:
+R, (_2, _3, Right, 1.0
+R, )_6, +_8, Right, 1.0
+R, )_6, 2_7, Sup, 1.0
+R, +_8, \cos_10, Right, 1.0
+R, -_13, e_15, Right, 1.0
+R, -_20, 2_21, Right, 1.0
+R, \cos_10, 2_11, Sup, 1.0
+R, \cos_10, \rho_12, Right, 1.0
+R, \geqq_23, 0_24, Right, 1.0
+R, \rho_12, -_13, Right, 1.0
+R, \rho_22, \geqq_23, Right, 1.0
+R, \sin_18, -_20, Sup, 1.0
+R, \sin_18, \rho_22, Right, 1.0
+R, _3, )_6, Right, 1.0
+R, _3, \rho_4, Inside, 1.0
+R, e_15, 2_16, Sup, 1.0
+R, e_15, \sin_18, Right, 1.0

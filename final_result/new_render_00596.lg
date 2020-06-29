@@ -1,0 +1,41 @@
+# IUD, new_render_00596
+# Objects(19):
+O, b_2, b, 1.0, O
+O, c_11, c, 1.0, ORRRRRR
+O, b_21, b, 1.0, ORRRRRRRRRRRR
+O, 8_5, 8, 1.0, ORSub
+O, ]_8, ], 1.0, ORRRR
+O, b_7, b, 1.0, ORRR
+O, 0_19, 0, 1.0, ORRRRRRRRRR
+O, \lt_20, \lt, 1.0, ORRRRRRRRRRR
+O, b_16, b, 1.0, ORRRRRRRR
+O, [_6, [, 1.0, ORR
+O, \lt_22, \lt, 1.0, ORRRRRRRRRRRRR
+O, \therefore_18, \therefore, 1.0, ORRRRRRRRR
+O, \leq_9, \leq, 1.0, ORRRRR
+O, r_12, r, 1.0, ORRRRRRSub
+O, \infty_23, \infty, 1.0, ORRRRRRRRRRRRRR
+O, K_4, K, 1.0, OR
+O, r_17, r, 1.0, ORRRRRRRRSup
+O, 8_13, 8, 1.0, ORRRRRRSup
+O, /_14, /, 1.0, ORRRRRRR
+
+# Relations from SRT:
+R, /_14, b_16, Right, 1.0
+R, 0_19, \lt_20, Right, 1.0
+R, K_4, 8_5, Sub, 1.0
+R, K_4, [_6, Right, 1.0
+R, [_6, b_7, Right, 1.0
+R, \leq_9, c_11, Right, 1.0
+R, \lt_20, b_21, Right, 1.0
+R, \lt_22, \infty_23, Right, 1.0
+R, \therefore_18, 0_19, Right, 1.0
+R, ]_8, \leq_9, Right, 1.0
+R, b_16, \therefore_18, Right, 1.0
+R, b_16, r_17, Sup, 1.0
+R, b_21, \lt_22, Right, 1.0
+R, b_2, K_4, Right, 1.0
+R, b_7, ]_8, Right, 1.0
+R, c_11, /_14, Right, 1.0
+R, c_11, 8_13, Sup, 1.0
+R, c_11, r_12, Sub, 1.0

@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>β</mi><msub><mi>F</mi><mrow><mi>b</mi><mi>o</mi><mi>s</mi><mi>e</mi></mrow></msub><mo>≦</mo><mn>9</mn><msup><mi>N</mi><mn>2</mn></msup><mo>log</mo><mo stretchy="false" form="prefix">[</mo><mn>2</mn><mo>sin</mo><mo stretchy="false" form="prefix">(</mo><mn>2</mn><mi>β</mi><msub><mi>R</mi><mrow><mi>r</mi><mi>m</mi><mi>s</mi></mrow></msub><mo stretchy="false" form="postfix">)</mo><mo stretchy="false" form="postfix">]</mo></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \beta F _ { b o s e } \leqq 9 N ^ { 2 } \log [ 2 \sin ( 2 \beta R _ { r m s } ) ]
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

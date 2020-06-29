@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { k i n } = i \bar { \lambda } \gamma ^ { \mu } \Delta _ { \mu } \lambda = i \bar { \psi } \gamma ^ { \mu } \Delta _ { \mu } \psi
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\omega ( s _ { \sigma } ) \rightarrow L ^ { 2 s _ { 0 } } \omega ( s _ { 0 } )
+\end{equation}

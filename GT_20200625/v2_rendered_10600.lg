@@ -1,0 +1,41 @@
+# IUD, v2_rendered_10600
+# Objects(19):
+O, e_26, e, 1.0, ORRRRRRSubRRRR
+O, \beta_17, \beta, 1.0, ORRRRSub
+O, I_10, I, 1.0, ORR
+O, t_25, t, 1.0, ORRRRRRSubRRR
+O, E_12, E, 1.0, ORRSub
+O, +_18, +, 1.0, ORRRRR
+O, o_6, o, 1.0, OSubR
+O, t_24, t, 1.0, ORRRRRRSubRR
+O, H_13, H, 1.0, ORRSubR
+O, m_22, m, 1.0, ORRRRRRSub
+O, I_16, I, 1.0, ORRRR
+O, t_7, t, 1.0, OSubRR
+O, r_27, r, 1.0, ORRRRRRSubRRRRR
+O, I_3, I, 1.0, O
+O, I_20, I, 1.0, ORRRRRR
+O, +_14, +, 1.0, ORRR
+O, =_8, =, 1.0, OR
+O, t_5, t, 1.0, OSub
+O, a_23, a, 1.0, ORRRRRRSubR
+
+# Relations from SRT:
+R, +_14, I_16, Right, 1.0
+R, +_18, I_20, Right, 1.0
+R, =_8, I_10, Right, 1.0
+R, E_12, H_13, Right, 1.0
+R, I_10, +_14, Right, 1.0
+R, I_10, E_12, Sub, 1.0
+R, I_16, +_18, Right, 1.0
+R, I_16, \beta_17, Sub, 1.0
+R, I_20, m_22, Sub, 1.0
+R, I_3, =_8, Right, 1.0
+R, I_3, t_5, Sub, 1.0
+R, a_23, t_24, Right, 1.0
+R, e_26, r_27, Right, 1.0
+R, m_22, a_23, Right, 1.0
+R, o_6, t_7, Right, 1.0
+R, t_24, t_25, Right, 1.0
+R, t_25, e_26, Right, 1.0
+R, t_5, o_6, Right, 1.0

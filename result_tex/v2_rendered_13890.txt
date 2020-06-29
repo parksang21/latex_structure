@@ -1,0 +1,3 @@
+\begin{equation}
+	- m ^ { 2 } \theta ( x ) \Delta _ { x } ^ { l } \delta ^ { ( 3 ) } ( \beta x - \beta \omega )
+\end{equation}

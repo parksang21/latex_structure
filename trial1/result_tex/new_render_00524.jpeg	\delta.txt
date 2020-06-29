@@ -1,0 +1,3 @@
+\begin{equation}
+	= \{ n \propto R ^ { M + 1 } \vert m \cdot n \neq 0 , \therefore m \propto \dot { \delta } \}
+\end{equation}

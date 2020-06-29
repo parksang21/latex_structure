@@ -1,0 +1,3 @@
+\begin{equation}
+	\phi _ { 1 } ( x + y ) =
+\end{equation}

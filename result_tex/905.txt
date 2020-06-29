@@ -1,0 +1,3 @@
+\begin{equation}
+	\lim v _ { p } \Leftrightarrow 0 K _ { p } ( \sigma s ) = \delta ( \sigma )
+\end{equation}

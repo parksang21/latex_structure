@@ -1,0 +1,43 @@
+# IUD, v2_rendered_21078
+# Objects(20):
+O, (_15, (, 1.0, ORRRRRRRRRRR
+O, \cos_18, \cos, 1.0, ORRRRRRRRRRRRRR
+O, x_19, x, 1.0, ORRRRRRRRRRRRRRR
+O, =_8, =, 1.0, ORRRRRR
+O, x_10, x, 1.0, ORRRRRRRR
+O, -_17, -, 1.0, ORRRRRRRRRRRRR
+O, 1_16, 1, 1.0, ORRRRRRRRRRRR
+O, (_3, (, 1.0, OR
+O, COMMA_5, COMMA, 1.0, ORRR
+O, 3_13, 3, 1.0, ORRRRRRRRRSub
+O, \sigma_22, \sigma, 1.0, ORRRRRRRRRRRRRRRRR
+O, \sigma_12, \sigma, 1.0, ORRRRRRRRR
+O, F_2, F, 1.0, O
+O, )_7, ), 1.0, ORRRRR
+O, x_6, x, 1.0, ORRRR
+O, )_20, ), 1.0, ORRRRRRRRRRRRRRRR
+O, +_14, +, 1.0, ORRRRRRRRRR
+O, \tau_4, \tau, 1.0, ORR
+O, \sin_9, \sin, 1.0, ORRRRRRR
+O, 2_23, 2, 1.0, ORRRRRRRRRRRRRRRRRSub
+
+# Relations from SRT:
+R, (_15, 1_16, Right, 1.0
+R, (_3, \tau_4, Right, 1.0
+R, )_20, \sigma_22, Right, 1.0
+R, )_7, =_8, Right, 1.0
+R, +_14, (_15, Right, 1.0
+R, -_17, \cos_18, Right, 1.0
+R, 1_16, -_17, Right, 1.0
+R, =_8, \sin_9, Right, 1.0
+R, COMMA_5, x_6, Right, 1.0
+R, F_2, (_3, Right, 1.0
+R, \cos_18, x_19, Right, 1.0
+R, \sigma_12, +_14, Right, 1.0
+R, \sigma_12, 3_13, Sub, 1.0
+R, \sigma_22, 2_23, Sub, 1.0
+R, \sin_9, x_10, Right, 1.0
+R, \tau_4, COMMA_5, Right, 1.0
+R, x_10, \sigma_12, Right, 1.0
+R, x_19, )_20, Right, 1.0
+R, x_6, )_7, Right, 1.0

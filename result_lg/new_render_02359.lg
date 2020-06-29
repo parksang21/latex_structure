@@ -1,0 +1,41 @@
+# IUD, new_render_02359
+# Objects(19):
+O, !_11, !, 1.0, ORRRBelowR
+O, \langle_23, \langle, 1.0, ORRRRRRRR
+O, \vert_20, \vert, 1.0, ORRRRR
+O, \mu_21, \mu, 1.0, ORRRRRR
+O, _7, -, 1.0, ORRR
+O, \geqq_3, \geqq, 1.0, OR
+O, \lim_5, \lim, 1.0, ORR
+O, \mu_24, \mu, 1.0, ORRRRRRRRR
+O, S_18, S, 1.0, ORRRRBelowRR
+O, \mu_15, \mu, 1.0, ORRRRBelow
+O, \in_16, \in, 1.0, ORRRRBelowR
+O, i_8, i, 1.0, ORRRAbove
+O, \vert_25, \vert, 1.0, ORRRRRRRRRR
+O, n_19, n, 1.0, ORRRRBelowRRSub
+O, n_6, n, 1.0, ORRBelow
+O, \lim_13, \lim, 1.0, ORRRR
+O, \rangle_22, \rangle, 1.0, ORRRRRRR
+O, n_10, n, 1.0, ORRRBelow
+O, 6_2, 6, 1.0, O
+
+# Relations from SRT:
+R, 6_2, \geqq_3, Right, 1.0
+R, S_18, n_19, Sub, 1.0
+R, \geqq_3, \lim_5, Right, 1.0
+R, \in_16, S_18, Right, 1.0
+R, \langle_23, \mu_24, Right, 1.0
+R, \lim_13, \mu_15, Below, 1.0
+R, \lim_13, \vert_20, Right, 1.0
+R, \lim_5, _7, Right, 1.0
+R, \lim_5, n_6, Below, 1.0
+R, \mu_15, \in_16, Right, 1.0
+R, \mu_21, \rangle_22, Right, 1.0
+R, \mu_24, \vert_25, Right, 1.0
+R, \rangle_22, \langle_23, Right, 1.0
+R, \vert_20, \mu_21, Right, 1.0
+R, _7, \lim_13, Right, 1.0
+R, _7, i_8, Above, 1.0
+R, _7, n_10, Below, 1.0
+R, n_10, !_11, Right, 1.0

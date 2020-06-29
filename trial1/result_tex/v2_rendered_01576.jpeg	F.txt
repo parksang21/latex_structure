@@ -1,0 +1,3 @@
+\begin{equation}
+	( a , \bar { a } ) = \frac { \beta ^ { 1 / 2 } } { \beta ^ { ( a ) } }
+\end{equation}

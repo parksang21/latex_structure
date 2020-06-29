@@ -1,0 +1,3 @@
+\begin{equation}
+	T = \frac { 1 + \gamma ^ { 0 } \gamma \csqrt D } { 1 } - \gamma ^ { 0 } \gamma \csqrt D
+\end{equation}

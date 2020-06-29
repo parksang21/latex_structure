@@ -1,0 +1,3 @@
+\begin{equation}
+	\cos x + \cos \frac { 1 } { x } = \frac { \pi } { 2 } f o r x = 0
+\end{equation}

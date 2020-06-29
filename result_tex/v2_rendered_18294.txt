@@ -1,0 +1,3 @@
+\begin{equation}
+	n _ { i } = \sum _ { a \propto G } n _ { i 1 } ^ { a } \sqrt { N } a
+\end{equation}

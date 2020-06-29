@@ -1,0 +1,37 @@
+# IUD, v2_rendered_06724
+# Objects(17):
+O, \gamma_17, \gamma, 1.0, ORRRRR
+O, (_5, (, 1.0, OSup
+O, 7_15, 7, 1.0, ORRRRSup
+O, 1_25, 1, 1.0, ORRRRRRRSup
+O, 9_21, 9, 1.0, ORRRRRRSup
+O, \gamma_23, \gamma, 1.0, ORRRRRRR
+O, 6_12, 6, 1.0, ORRRSup
+O, \gamma_11, \gamma, 1.0, ORRR
+O, )_7, ), 1.0, OSupRR
+O, 1_6, 1, 1.0, OSupR
+O, 8_18, 8, 1.0, ORRRRRSup
+O, 1_26, 1, 1.0, ORRRRRRRSupR
+O, M_3, M, 1.0, O
+O, \gamma_14, \gamma, 1.0, ORRRR
+O, =_8, =, 1.0, OR
+O, \gamma_20, \gamma, 1.0, ORRRRRR
+O, \prod_9, \prod, 1.0, ORR
+
+# Relations from SRT:
+R, (_5, 1_6, Right, 1.0
+R, 1_25, 1_26, Right, 1.0
+R, 1_6, )_7, Right, 1.0
+R, =_8, \prod_9, Right, 1.0
+R, M_3, (_5, Sup, 1.0
+R, M_3, =_8, Right, 1.0
+R, \gamma_11, 6_12, Sup, 1.0
+R, \gamma_11, \gamma_14, Right, 1.0
+R, \gamma_14, 7_15, Sup, 1.0
+R, \gamma_14, \gamma_17, Right, 1.0
+R, \gamma_17, 8_18, Sup, 1.0
+R, \gamma_17, \gamma_20, Right, 1.0
+R, \gamma_20, 9_21, Sup, 1.0
+R, \gamma_20, \gamma_23, Right, 1.0
+R, \gamma_23, 1_25, Sup, 1.0
+R, \prod_9, \gamma_11, Right, 1.0

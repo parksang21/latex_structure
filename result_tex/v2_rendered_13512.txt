@@ -1,0 +1,3 @@
+\begin{equation}
+	( W ( C ) ) \leftrightarrow e ^ { - c o n s t \csqrt L ( C ) }
+\end{equation}

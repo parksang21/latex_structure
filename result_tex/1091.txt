@@ -1,0 +1,3 @@
+\begin{equation}
+	A _ { h } = 2 \pi \sum _ { i } ^ { g } ( u _ { i } \alpha _ { i } - v _ { i } \beta _ { i } )
+\end{equation}

@@ -1,0 +1,39 @@
+# IUD, v2_rendered_13285
+# Objects(18):
+O, W_9, W, 1.0, 6
+O, \mu_13, \mu, 1.0, 10
+O, \lt_2, \lt, 1.0, 0
+O, \in_17, \in, 1.0, 13
+O, )_10, ), 1.0, 7
+O, COMMA_8, COMMA, 1.0, 5
+O, (_6, (, 1.0, 3
+O, \Delta_14, \Delta, 1.0, 11
+O, W_7, W, 1.0, 4
+O, -_11, -, 1.0, 8
+O, _3, -, 1.0, 17
+O, i_12, i, 1.0, 9
+O, 2_5, 2, 1.0, 2
+O, 0_20, 0, 1.0, 16
+O, 1_4, 1, 1.0, 1
+O, \sigma_18, \sigma, 1.0, 14
+O, W_15, W, 1.0, 12
+O, =_19, =, 1.0, 15
+
+# Relations from SRT:
+R, (_6, W_7, Right, 1.0
+R, )_10, -_11, Right, 1.0
+R, -_11, i_12, Right, 1.0
+R, =_19, 0_20, Right, 1.0
+R, COMMA_8, W_9, Right, 1.0
+R, W_15, \in_17, Right, 1.0
+R, W_7, COMMA_8, Right, 1.0
+R, W_9, )_10, Right, 1.0
+R, \Delta_14, W_15, Right, 1.0
+R, \in_17, =_19, Right, 1.0
+R, \in_17, \sigma_18, Below, 1.0
+R, \lt_2, _3, Right, 1.0
+R, \mu_13, \Delta_14, Right, 1.0
+R, _3, (_6, Right, 1.0
+R, _3, 1_4, Above, 1.0
+R, _3, 2_5, Below, 1.0
+R, i_12, \mu_13, Right, 1.0

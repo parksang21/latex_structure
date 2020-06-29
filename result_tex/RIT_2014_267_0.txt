@@ -1,0 +1,3 @@
+\begin{equation}
+	\int _ { a } ^ { c } f + \int _ { c } ^ { b } f = \int _ { a } ^ { b } f
+\end{equation}

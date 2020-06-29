@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { g } \Leftrightarrow \dot { \rho } _ { g } = \omega ( x ^ { k } , t ) \rho _ { g }
+\end{equation}

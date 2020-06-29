@@ -1,0 +1,3 @@
+\begin{equation}
+	N ^ { 2 } = 1 \osqrt 3 \osqrt \csqrts \osqrt ( 2 N - 1 )
+\end{equation}

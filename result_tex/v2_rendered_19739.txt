@@ -1,0 +1,3 @@
+\begin{equation}
+	h ( x ^ { 0 } , x ^ { 1 } ) \leftrightarrow \alpha _ { + } h ( x ^ { 0 } , x ^ { 1 } ) \alpha _ { - }
+\end{equation}

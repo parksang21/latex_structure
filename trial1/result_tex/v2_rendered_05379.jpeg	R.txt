@@ -1,0 +1,3 @@
+\begin{equation}
+	( r _ { \div } ) = r _ { \div } \varphi ^ { a ^ { 2 } / ( 1 \div a ^ { 2 } ) } \propto 1
+\end{equation}

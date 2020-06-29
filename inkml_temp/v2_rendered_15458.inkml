@@ -1,0 +1,66 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_15458</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mi xml:id="e_2">e</mi><mo xml:id="\int_3">∫</mo><mi xml:id="s_4">s</mi><mo xml:id="\wedge_5">∧</mo><mi xml:id="A_6">A</mi><mo xml:id="\equiv_7">≡</mo><mi xml:id="e_8">e</mi><msub><mo xml:id="\int_10">∫</mo><mi xml:id="C_11">C</mi></msub><mi xml:id="Q_12">Q</mi><mi xml:id="A_13">A</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">e</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="e_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\int</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\int_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">s</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="s_4"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\wedge</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\wedge_5"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">A</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="A_6"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\equiv</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\equiv_7"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">e</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="e_8"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\int</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\int_10"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">C</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="C_11"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">Q</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="Q_12"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">A</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="A_13"/>
+	</traceGroup>
+</traceGroup>
+</ink>

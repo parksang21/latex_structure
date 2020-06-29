@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta ( i \omega _ { r } , l ) \leqq \Delta _ { E } ( i \omega _ { r } , l ) \because r \geq 0
+\end{equation}

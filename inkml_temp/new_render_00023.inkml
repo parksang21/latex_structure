@@ -1,0 +1,56 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">new_render_00023</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mo form="postfix" stretchy="false" xml:id="\vert_2">|</mo><msub><mi xml:id="h_4">h</mi><mi xml:id="z_5">z</mi></msub><mo form="postfix" stretchy="false" xml:id="\vert_6">|</mo><mo xml:id="\leqq_7">≦</mo><mi xml:id="r_8">r</mi><mo xml:id=",_9">,</mo><mo xml:id="\therefore_10">∴</mo><mi xml:id="z_11">z</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\vert</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\vert_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">h</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="h_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">z</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="z_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\vert</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\vert_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">\leqq</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="\leqq_7"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">r</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="r_8"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">,</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href=",_9"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\therefore</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\therefore_10"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">z</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="z_11"/>
+	</traceGroup>
+</traceGroup>
+</ink>

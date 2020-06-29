@@ -1,0 +1,3 @@
+\begin{equation}
+	P = \int d x ( \pi ^ { c l } + \sqrt { \pi } ) \times \sqrt { \phi }
+\end{equation}

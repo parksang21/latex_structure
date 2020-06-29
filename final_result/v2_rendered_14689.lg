@@ -1,0 +1,53 @@
+# IUD, v2_rendered_14689
+# Objects(25):
+O, =_15, =, 1.0, ORRRRRR
+O, COMMA_19, COMMA, 1.0, ORRRRRRRRRR
+O, m_9, m, 1.0, OSubRRRR
+O, COMMA_17, COMMA, 1.0, ORRRRRRRR
+O, -_27, -, 1.0, ORRRRRRRRRRRRRRRRRR
+O, \alpha_25, \alpha, 1.0, ORRRRRRRRRRRRRRRR
+O, m_14, m, 1.0, ORRRRR
+O, ._22, ., 1.0, ORRRRRRRRRRRRR
+O, m_7, m, 1.0, OSubRR
+O, 1_28, 1, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, ._23, ., 1.0, ORRRRRRRRRRRRRR
+O, COMMA_24, COMMA, 1.0, ORRRRRRRRRRRRRRR
+O, ._21, ., 1.0, ORRRRRRRRRRRR
+O, )_12, ), 1.0, ORRR
+O, 2_20, 2, 1.0, ORRRRRRRRRRR
+O, COMMA_8, COMMA, 1.0, OSubRRR
+O, 0_16, 0, 1.0, ORRRRRRR
+O, +_6, +, 1.0, OSubR
+O, 1_18, 1, 1.0, ORRRRRRRRR
+O, \notin_26, \notin, 1.0, ORRRRRRRRRRRRRRRRR
+O, I_3, I, 1.0, O
+O, (_10, (, 1.0, OR
+O, \alpha_5, \alpha, 1.0, OSub
+O, COMMA_13, COMMA, 1.0, ORRRR
+O, x_11, x, 1.0, ORR
+
+# Relations from SRT:
+R, (_10, x_11, Right, 1.0
+R, )_12, COMMA_13, Right, 1.0
+R, +_6, m_7, Right, 1.0
+R, -_27, 1_28, Right, 1.0
+R, ._21, ._22, Right, 1.0
+R, ._22, ._23, Right, 1.0
+R, ._23, COMMA_24, Right, 1.0
+R, 0_16, COMMA_17, Right, 1.0
+R, 1_18, COMMA_19, Right, 1.0
+R, 2_20, ._21, Right, 1.0
+R, =_15, 0_16, Right, 1.0
+R, COMMA_13, m_14, Right, 1.0
+R, COMMA_17, 1_18, Right, 1.0
+R, COMMA_19, 2_20, Right, 1.0
+R, COMMA_24, \alpha_25, Right, 1.0
+R, COMMA_8, m_9, Right, 1.0
+R, I_3, (_10, Right, 1.0
+R, I_3, \alpha_5, Sub, 1.0
+R, \alpha_25, \notin_26, Right, 1.0
+R, \alpha_5, +_6, Right, 1.0
+R, \notin_26, -_27, Right, 1.0
+R, m_14, =_15, Right, 1.0
+R, m_7, COMMA_8, Right, 1.0
+R, x_11, )_12, Right, 1.0

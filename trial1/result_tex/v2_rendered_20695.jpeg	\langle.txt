@@ -1,0 +1,3 @@
+\begin{equation}
+	P _ { \tilde { e } } ( \overrightarrow x ) \rangle = c o n s t a n t
+\end{equation}

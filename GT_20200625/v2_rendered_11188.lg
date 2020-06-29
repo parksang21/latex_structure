@@ -1,0 +1,37 @@
+# IUD, v2_rendered_11188
+# Objects(17):
+O, h_6, h, 1.0, OSubR
+O, \theta_19, \theta, 1.0, ORRRRSub
+O, COMMA_14, COMMA, 1.0, ORRSubR
+O, G_8, G, 1.0, OSubRRR
+O, COMMA_7, COMMA, 1.0, OSubRR
+O, L_3, L, 1.0, O
+O, +_16, +, 1.0, ORRR
+O, T_5, T, 1.0, OSub
+O, A_13, A, 1.0, ORRSub
+O, L_22, L, 1.0, ORRRRRR
+O, h_25, h, 1.0, ORRRRRRSubR
+O, +_20, +, 1.0, ORRRRR
+O, g_24, g, 1.0, ORRRRRRSub
+O, \psi_15, \psi, 1.0, ORRSubRR
+O, L_11, L, 1.0, ORR
+O, =_9, =, 1.0, OR
+O, L_18, L, 1.0, ORRRR
+
+# Relations from SRT:
+R, +_16, L_18, Right, 1.0
+R, +_20, L_22, Right, 1.0
+R, =_9, L_11, Right, 1.0
+R, A_13, COMMA_14, Right, 1.0
+R, COMMA_14, \psi_15, Right, 1.0
+R, COMMA_7, G_8, Right, 1.0
+R, L_11, +_16, Right, 1.0
+R, L_11, A_13, Sub, 1.0
+R, L_18, +_20, Right, 1.0
+R, L_18, \theta_19, Sub, 1.0
+R, L_22, g_24, Sub, 1.0
+R, L_3, =_9, Right, 1.0
+R, L_3, T_5, Sub, 1.0
+R, T_5, h_6, Right, 1.0
+R, g_24, h_25, Right, 1.0
+R, h_6, COMMA_7, Right, 1.0

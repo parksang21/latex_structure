@@ -1,0 +1,3 @@
+\begin{equation}
+	R _ { \mu \rho } = - \frac { 1 } { 2 } ( \Delta _ { \mu } \overrightarrow \Omega _ { \rho } - \Delta _ { \rho } \overrightarrow \Omega _ { \mu } )
+\end{equation}

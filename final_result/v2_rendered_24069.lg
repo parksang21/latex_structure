@@ -1,0 +1,45 @@
+# IUD, v2_rendered_24069
+# Objects(21):
+O, COMMA_23, COMMA, 1.0, ORRRRRRRRRRRRRRR
+O, 2_4, 2, 1.0, OSub
+O, (_20, (, 1.0, ORRRRRRRRRRRR
+O, \delta_18, \delta, 1.0, ORRRRRRRRRRR
+O, C_3, C, 1.0, O
+O, \alpha_10, \alpha, 1.0, ORRRR
+O, )_25, ), 1.0, ORRRRRRRRRRRRRRRRR
+O, p_9, p, 1.0, ORRR
+O, =_14, =, 1.0, ORRRRRRRR
+O, p_21, p, 1.0, ORRRRRRRRRRRRR
+O, COMMA_11, COMMA, 1.0, ORRRRR
+O, (_8, (, 1.0, ORR
+O, \lambda_19, \lambda, 1.0, ORRRRRRRRRRRSub
+O, \alpha_15, \alpha, 1.0, ORRRRRRRRR
+O, n_12, n, 1.0, ORRRRRR
+O, \delta_6, \delta, 1.0, OR
+O, \lambda_16, \lambda, 1.0, ORRRRRRRRRR
+O, n_24, n, 1.0, ORRRRRRRRRRRRRRRR
+O, \lambda_7, \lambda, 1.0, ORSub
+O, \alpha_22, \alpha, 1.0, ORRRRRRRRRRRRRR
+O, )_13, ), 1.0, ORRRRRRR
+
+# Relations from SRT:
+R, (_20, p_21, Right, 1.0
+R, (_8, p_9, Right, 1.0
+R, )_13, =_14, Right, 1.0
+R, =_14, \alpha_15, Right, 1.0
+R, COMMA_11, n_12, Right, 1.0
+R, COMMA_23, n_24, Right, 1.0
+R, C_3, 2_4, Sub, 1.0
+R, C_3, \delta_6, Right, 1.0
+R, \alpha_10, COMMA_11, Right, 1.0
+R, \alpha_15, \lambda_16, Right, 1.0
+R, \alpha_22, COMMA_23, Right, 1.0
+R, \delta_18, (_20, Right, 1.0
+R, \delta_18, \lambda_19, Sub, 1.0
+R, \delta_6, (_8, Right, 1.0
+R, \delta_6, \lambda_7, Sub, 1.0
+R, \lambda_16, \delta_18, Right, 1.0
+R, n_12, )_13, Right, 1.0
+R, n_24, )_25, Right, 1.0
+R, p_21, \alpha_22, Right, 1.0
+R, p_9, \alpha_10, Right, 1.0

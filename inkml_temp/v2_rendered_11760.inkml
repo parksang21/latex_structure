@@ -1,0 +1,106 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_11760</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mo form="prefix" stretchy="false" xml:id="\langle_2">⟨</mo><msub><mi xml:id="E_4">E</mi><mi xml:id="d_5">d</mi></msub><mo form="postfix" stretchy="false" xml:id="\vert_6">|</mo><mi xml:id="\beta_7">β</mi><msub><mi xml:id="E_9">E</mi><mi xml:id="d_10">d</mi></msub><mo form="postfix" stretchy="false" xml:id="\rangle_11">⟩</mo><mo xml:id="=_12">=</mo><mo form="prefix" stretchy="false" xml:id="\langle_13">⟨</mo><mi xml:id="\beta_14">β</mi><msub><mi xml:id="E_16">E</mi><mi xml:id="d_17">d</mi></msub><mo form="postfix" stretchy="false" xml:id="\vert_18">|</mo><msub><mi xml:id="E_20">E</mi><mi xml:id="d_21">d</mi></msub><mo form="postfix" stretchy="false" xml:id="\rangle_22">⟩</mo><mo xml:id="=_23">=</mo><mn xml:id="1_24">1</mn></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\langle</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\langle_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">E</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="E_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">d</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="d_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\vert</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\vert_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">\beta</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="\beta_7"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">E</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="E_9"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">d</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="d_10"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\rangle</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\rangle_11"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="=_12"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">\langle</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="\langle_13"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">\beta</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="\beta_14"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">E</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="E_16"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">d</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="d_17"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">\vert</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="\vert_18"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">E</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="E_20"/>
+	</traceGroup>
+ <traceGroup xml:id="16">
+    <annotation type="truth">d</annotation>
+	<traceView traceDataRef="15"/>
+    <annotationXML href="d_21"/>
+	</traceGroup>
+ <traceGroup xml:id="17">
+    <annotation type="truth">\rangle</annotation>
+	<traceView traceDataRef="16"/>
+    <annotationXML href="\rangle_22"/>
+	</traceGroup>
+ <traceGroup xml:id="18">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="17"/>
+    <annotationXML href="=_23"/>
+	</traceGroup>
+ <traceGroup xml:id="19">
+    <annotation type="truth">1</annotation>
+	<traceView traceDataRef="18"/>
+    <annotationXML href="1_24"/>
+	</traceGroup>
+</traceGroup>
+</ink>

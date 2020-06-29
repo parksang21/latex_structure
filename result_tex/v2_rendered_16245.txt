@@ -1,0 +1,3 @@
+\begin{equation}
+	P _ { L } Q _ { \lambda } P _ { L } = - Q _ { \lambda }
+\end{equation}

@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><munder><mo>∑</mo><mi>k</mi></munder><msub><mi>g</mi><mi>k</mi></msub><mo stretchy="false" form="prefix">(</mo><mn>2</mn><mi>k</mi><mi>k</mi><mo stretchy="false" form="postfix">)</mo><mi>r</mi><mo stretchy="false" form="prefix">(</mo><mi>t</mi><msup><mo stretchy="false" form="postfix">)</mo><mi>k</mi></msup><mo>=</mo><mi>t</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \frac { 1 } { 2 } \sum _ { k } g _ { k } ( 2 k k ) r ( t ) ^ { k } = t
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

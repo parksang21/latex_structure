@@ -1,0 +1,3 @@
+\begin{equation}
+	( y , \alpha ) = A ( \alpha ) u _ { 1 } ( y ) i f y \in ] 0 , \alpha [
+\end{equation}

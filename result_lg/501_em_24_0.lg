@@ -1,0 +1,15 @@
+# IUD, 501_em_24_0
+# Objects(6):
+O, 2_7, 2, 1.0, ORRRRR
+O, \theta_3, \theta, 1.0, OR
+O, =_4, =, 1.0, ORR
+O, \log_2, \log, 1.0, O
+O, \log_6, \log, 1.0, ORRRR
+O, b_5, b, 1.0, ORRR
+
+# Relations from SRT:
+R, =_4, b_5, Right, 1.0
+R, \log_2, \theta_3, Right, 1.0
+R, \log_6, 2_7, Right, 1.0
+R, \theta_3, =_4, Right, 1.0
+R, b_5, \log_6, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { w } \gamma _ { l \circ } ^ { w } \leq 9
+\end{equation}

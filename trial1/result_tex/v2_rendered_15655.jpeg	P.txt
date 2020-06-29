@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { + } \lambda = 0 , P _ { - } \theta \equiv \theta ^ { - } = 0
+\end{equation}

@@ -1,0 +1,37 @@
+# IUD, new_render_01048
+# Objects(17):
+O, d_4, d, 1.0, ORR
+O, t_3, t, 1.0, OR
+O, +_10, +, 1.0, ORRRRRR
+O, (_5, (, 1.0, ORRR
+O, J_7, J, 1.0, ORRRR
+O, J_15, J, 1.0, ORRRRRRRRRR
+O, )_9, ), 1.0, ORRRRR
+O, \therefore_2, \therefore, 1.0, O
+O, 2_19, 2, 1.0, ORRRRRRRRRRRRR
+O, (_12, (, 1.0, ORRRRRRRR
+O, =_18, =, 1.0, ORRRRRRRRRRRR
+O, t_8, t, 1.0, ORRRRSub
+O, )_17, ), 1.0, ORRRRRRRRRRR
+O, d_11, d, 1.0, ORRRRRRR
+O, R_13, R, 1.0, ORRRRRRRRR
+O, d_20, d, 1.0, ORRRRRRRRRRRRRR
+O, t_16, t, 1.0, ORRRRRRRRRRSub
+
+# Relations from SRT:
+R, (_12, R_13, Right, 1.0
+R, (_5, J_7, Right, 1.0
+R, )_17, =_18, Right, 1.0
+R, )_9, +_10, Right, 1.0
+R, +_10, d_11, Right, 1.0
+R, 2_19, d_20, Right, 1.0
+R, =_18, 2_19, Right, 1.0
+R, J_15, )_17, Right, 1.0
+R, J_15, t_16, Sub, 1.0
+R, J_7, )_9, Right, 1.0
+R, J_7, t_8, Sub, 1.0
+R, R_13, J_15, Right, 1.0
+R, \therefore_2, t_3, Right, 1.0
+R, d_11, (_12, Right, 1.0
+R, d_4, (_5, Right, 1.0
+R, t_3, d_4, Right, 1.0

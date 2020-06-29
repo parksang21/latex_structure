@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msqrt><mi>S</mi></msqrt><mo>=</mo><mfrac><mn>1</mn><mrow><mn>2</mn><msup><msqrt><mi>β</mi></msqrt><mn>2</mn></msup></mrow></mfrac><mo>∫</mo><msup><mi>d</mi><mn>5</mn></msup><msqrt><mi>x</mi></msqrt><msqrt><mrow><mo>−</mo><msqrt><mi>g</mi></msqrt></mrow></msqrt><msqrt><mi>R</mi></msqrt></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \sqrt { S } = \frac { 1 } { 2 \sqrt { \beta } ^ { 2 } } \int d ^ { 5 } \sqrt { x } \sqrt { - \sqrt { g } } \sqrt { R }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

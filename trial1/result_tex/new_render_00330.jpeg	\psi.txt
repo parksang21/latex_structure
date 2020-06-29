@@ -1,0 +1,3 @@
+\begin{equation}
+	\square = \psi \Delta _ { p } ^ { Q } \cdot i H ^ { F } ( x ) \vee 3
+\end{equation}

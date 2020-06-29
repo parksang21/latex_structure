@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { * i } _ { j } \alpha ^ { j } _ { k } = \delta ^ { i } _ { k }
+\end{equation}

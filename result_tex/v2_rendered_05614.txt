@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta ^ { 2 } ( \beta ) = \prod _ { \alpha \propto 0 } ( \beta \csqrt \alpha ) ^ { 2 }
+\end{equation}

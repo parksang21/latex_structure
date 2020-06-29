@@ -1,0 +1,111 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_05849</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msup><mi xml:id="J_3">J</mi><mn xml:id="2_4">2</mn></msup><mo xml:id="\approx_5">≈</mo><mfrac xml:id="_6"><mn xml:id="1_7">1</mn><mi xml:id="\lambda_8">λ</mi></mfrac><msup><mi xml:id="m_10">m</mi><mn xml:id="2_11">2</mn></msup><msup><mi xml:id="\alpha_13">α</mi><mi xml:id="\prime_14">′</mi></msup><mo xml:id=",_15">,</mo><mi xml:id="f_16">f</mi><mi xml:id="o_17">o</mi><mi xml:id="r_18">r</mi><mi xml:id="N_19">N</mi><mo xml:id="\notin_20">∉</mo><mo xml:id="\notin_21">∉</mo><msup><mi xml:id="\lambda_23">λ</mi><mrow><mo xml:id="-_25">−</mo><mn xml:id="1_26">1</mn></mrow></msup></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">J</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="J_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">2</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="2_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\approx</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\approx_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">1</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="1_7"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">\lambda</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="\lambda_8"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">m</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="m_10"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">2</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="2_11"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\alpha</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\alpha_13"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">\prime</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="\prime_14"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">,</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href=",_15"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">f</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="f_16"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">o</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="o_17"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">r</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="r_18"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">N</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="N_19"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">\notin</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="\notin_20"/>
+	</traceGroup>
+ <traceGroup xml:id="16">
+    <annotation type="truth">\notin</annotation>
+	<traceView traceDataRef="15"/>
+    <annotationXML href="\notin_21"/>
+	</traceGroup>
+ <traceGroup xml:id="17">
+    <annotation type="truth">\lambda</annotation>
+	<traceView traceDataRef="16"/>
+    <annotationXML href="\lambda_23"/>
+	</traceGroup>
+ <traceGroup xml:id="18">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="17"/>
+    <annotationXML href="-_25"/>
+	</traceGroup>
+ <traceGroup xml:id="19">
+    <annotation type="truth">1</annotation>
+	<traceView traceDataRef="18"/>
+    <annotationXML href="1_26"/>
+	</traceGroup>
+ <traceGroup xml:id="20">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="19"/>
+    <annotationXML href="_6"/>
+	</traceGroup>
+</traceGroup>
+</ink>

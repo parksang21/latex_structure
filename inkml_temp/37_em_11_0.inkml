@@ -1,0 +1,26 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">37_em_11_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <msup><mi xml:id="ω_2">ω</mi><mrow><mo xml:id="-_4">−</mo><mn xml:id="2_5">2</mn></mrow></msup>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">ω</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="ω_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="-_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">2</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="2_5"/>
+	</traceGroup>
+</traceGroup>
+</ink>

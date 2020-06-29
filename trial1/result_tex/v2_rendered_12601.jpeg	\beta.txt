@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta f ( y ) \equiv \frac { \Delta f ( y ) } { \Omega } \notin 1
+\end{equation}

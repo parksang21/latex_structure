@@ -1,0 +1,3 @@
+\begin{equation}
+	( \phi \odot \omega ) = d _ { 1 } \phi \odot \omega + ( - 1 ) ^ { \Delta \phi } \phi \odot d _ { 2 } \omega
+\end{equation}

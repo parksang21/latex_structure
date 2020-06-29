@@ -1,0 +1,3 @@
+\begin{equation}
+	\{ T ( x ) \osqrt , T ( x ) \} = [ r _ { \pm } , T ( x ) \osqrt T ( x ) ]
+\end{equation}

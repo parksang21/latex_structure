@@ -1,0 +1,3 @@
+\begin{equation}
+	{ \alpha } ( x , y \alpha ) = \bar { \alpha } ( \frac { x } { t } , \frac { y } { t } \bar { \alpha } ( t , y \alpha ) )
+\end{equation}

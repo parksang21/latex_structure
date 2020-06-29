@@ -1,0 +1,3 @@
+\begin{equation}
+	\phi ( \theta ) = Q _ { \alpha } ^ { k } \theta _ { k } ^ { \alpha }
+\end{equation}

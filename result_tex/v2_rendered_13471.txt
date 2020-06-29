@@ -1,0 +1,3 @@
+\begin{equation}
+	S _ { i n t - o c } = \int \mu ( \psi + \psi ^ { 2 } + \psi ^ { 3 } + \csqrts )
+\end{equation}

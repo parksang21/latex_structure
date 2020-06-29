@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \theta } = \frac { 1 } { \lambda } \sum _ { p \in \theta ^ { * } } \tau _ { x } ( p )
+\end{equation}

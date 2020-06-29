@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \mu \mu } = ( \varepsilon + p ) u _ { \mu } u _ { \mu } - p g _ { \mu \mu }
+\end{equation}

@@ -1,0 +1,41 @@
+# IUD, v2_rendered_03868
+# Objects(19):
+O, E_2, E, 1.0, O
+O, \rangle_18, \rangle, 1.0, ORRRRAboveRRRRRR
+O, \vert_16, \vert, 1.0, ORRRRAboveRRRR
+O, -_3, -, 1.0, OR
+O, \Omega_23, \Omega, 1.0, ORRRRBelowRRR
+O, \vert_12, \vert, 1.0, ORRRRAboveRR
+O, \langle_20, \langle, 1.0, ORRRRBelow
+O, _8, -, 1.0, ORRRR
+O, I_15, I, 1.0, ORRRRAboveRRRSub
+O, 0_21, 0, 1.0, ORRRRBelowR
+O, \langle_10, \langle, 1.0, ORRRRAbove
+O, =_7, =, 1.0, ORRR
+O, 0_11, 0, 1.0, ORRRRAboveR
+O, 0_6, 0, 1.0, ORRSub
+O, E_5, E, 1.0, ORR
+O, \vert_22, \vert, 1.0, ORRRRBelowRR
+O, \Omega_17, \Omega, 1.0, ORRRRAboveRRRRR
+O, H_14, H, 1.0, ORRRRAboveRRR
+O, \rangle_24, \rangle, 1.0, ORRRRBelowRRRR
+
+# Relations from SRT:
+R, -_3, E_5, Right, 1.0
+R, 0_11, \vert_12, Right, 1.0
+R, 0_21, \vert_22, Right, 1.0
+R, =_7, _8, Right, 1.0
+R, E_2, -_3, Right, 1.0
+R, E_5, 0_6, Sub, 1.0
+R, E_5, =_7, Right, 1.0
+R, H_14, I_15, Sub, 1.0
+R, H_14, \vert_16, Right, 1.0
+R, \Omega_17, \rangle_18, Right, 1.0
+R, \Omega_23, \rangle_24, Right, 1.0
+R, \langle_10, 0_11, Right, 1.0
+R, \langle_20, 0_21, Right, 1.0
+R, \vert_12, H_14, Right, 1.0
+R, \vert_16, \Omega_17, Right, 1.0
+R, \vert_22, \Omega_23, Right, 1.0
+R, _8, \langle_10, Above, 1.0
+R, _8, \langle_20, Below, 1.0

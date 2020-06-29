@@ -1,0 +1,37 @@
+# IUD, 34_em_236_0
+# Objects(17):
+O, 1_18, 1, 1.0, ORRRRRRRRRR
+O, ]_20, ], 1.0, ORRRRRRRRRRRR
+O, 6_19, 6, 1.0, ORRRRRRRRRRR
+O, 1_3, 1, 1.0, OAbove
+O, 6_16, 6, 1.0, ORRRRRRRR
+O, [_7, [, 1.0, OR
+O, -_17, -, 1.0, ORRRRRRRRR
+O, +_14, +, 1.0, ORRRRRR
+O, 2_5, 2, 1.0, OBelow
+O, _2, -, 1.0, O
+O, v_10, v, 1.0, ORRSup
+O, y_13, y, 1.0, ORRRRR
+O, y_9, y, 1.0, ORR
+O, 3_6, 3, 1.0, OBelowR
+O, 8_12, 8, 1.0, ORRRR
+O, 1_15, 1, 1.0, ORRRRRRR
+O, -_11, -, 1.0, ORRR
+
+# Relations from SRT:
+R, +_14, 1_15, Right, 1.0
+R, -_11, 8_12, Right, 1.0
+R, -_17, 1_18, Right, 1.0
+R, 1_15, 6_16, Right, 1.0
+R, 1_18, 6_19, Right, 1.0
+R, 2_5, 3_6, Right, 1.0
+R, 6_16, -_17, Right, 1.0
+R, 6_19, ]_20, Right, 1.0
+R, 8_12, y_13, Right, 1.0
+R, [_7, y_9, Right, 1.0
+R, _2, 1_3, Above, 1.0
+R, _2, 2_5, Below, 1.0
+R, _2, [_7, Right, 1.0
+R, y_13, +_14, Right, 1.0
+R, y_9, -_11, Right, 1.0
+R, y_9, v_10, Sup, 1.0

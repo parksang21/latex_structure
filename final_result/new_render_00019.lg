@@ -1,0 +1,41 @@
+# IUD, new_render_00019
+# Objects(19):
+O, COMMA_15, COMMA, 1.0, ORRRR
+O, \beta_21, \beta, 1.0, ORRRRRRRRRR
+O, \phi_5, \phi, 1.0, OBelow
+O, (_22, (, 1.0, ORRRRRRRRRRR
+O, )_19, ), 1.0, ORRRRRRRR
+O, \lim_3, \lim, 1.0, O
+O, i_23, i, 1.0, ORRRRRRRRRRRR
+O, )_24, ), 1.0, ORRRRRRRRRRRRR
+O, \rightarrow_6, \rightarrow, 1.0, OBelowR
+O, COMMA_17, COMMA, 1.0, ORRRRRR
+O, \phi_16, \phi, 1.0, ORRRRR
+O, 0_7, 0, 1.0, OBelowRR
+O, u_14, u, 1.0, ORRR
+O, (_13, (, 1.0, ORR
+O, ω_12, ω, 1.0, ORSubR
+O, \square_11, \square, 1.0, ORSub
+O, \leq_20, \leq, 1.0, ORRRRRRRRR
+O, \beta_9, \beta, 1.0, OR
+O, i_18, i, 1.0, ORRRRRRR
+
+# Relations from SRT:
+R, (_13, u_14, Right, 1.0
+R, (_22, i_23, Right, 1.0
+R, )_19, \leq_20, Right, 1.0
+R, COMMA_15, \phi_16, Right, 1.0
+R, COMMA_17, i_18, Right, 1.0
+R, \beta_21, (_22, Right, 1.0
+R, \beta_9, (_13, Right, 1.0
+R, \beta_9, \square_11, Sub, 1.0
+R, \leq_20, \beta_21, Right, 1.0
+R, \lim_3, \beta_9, Right, 1.0
+R, \lim_3, \phi_5, Below, 1.0
+R, \phi_16, COMMA_17, Right, 1.0
+R, \phi_5, \rightarrow_6, Right, 1.0
+R, \rightarrow_6, 0_7, Right, 1.0
+R, \square_11, ω_12, Right, 1.0
+R, i_18, )_19, Right, 1.0
+R, i_23, )_24, Right, 1.0
+R, u_14, COMMA_15, Right, 1.0

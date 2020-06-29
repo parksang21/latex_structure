@@ -1,0 +1,111 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">new_render_01770</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msubsup><mi xml:id="m_3">m</mi><mi xml:id="q_4">q</mi><mi xml:id="\prime_5">′</mi></msubsup><mo xml:id="\geqq_6">≧</mo><msub><mi xml:id="M_8">M</mi><mi xml:id="q_9">q</mi></msub><mo xml:id=",_10">,</mo><msubsup><mi xml:id="m_12">m</mi><mi xml:id="D_13">D</mi><mi xml:id="\prime_14">′</mi></msubsup><mo xml:id="=_15">=</mo><msub><mi xml:id="M_17">M</mi><mi xml:id="D_18">D</mi></msub><mo xml:id="+_19">+</mo><msub><mi xml:id="M_21">M</mi><mi xml:id="q_22">q</mi></msub><mo xml:id="\geqq_23">≧</mo><mn xml:id="3_24">3</mn><msub><mi xml:id="M_26">M</mi><mi xml:id="q_27">q</mi></msub></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">m</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="m_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">q</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="q_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\prime</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\prime_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\geqq</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\geqq_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">M</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="M_8"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">q</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="q_9"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">,</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href=",_10"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">m</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="m_12"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">D</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="D_13"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">\prime</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="\prime_14"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="=_15"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">M</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="M_17"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">D</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="D_18"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">+</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="+_19"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">M</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="M_21"/>
+	</traceGroup>
+ <traceGroup xml:id="16">
+    <annotation type="truth">q</annotation>
+	<traceView traceDataRef="15"/>
+    <annotationXML href="q_22"/>
+	</traceGroup>
+ <traceGroup xml:id="17">
+    <annotation type="truth">\geqq</annotation>
+	<traceView traceDataRef="16"/>
+    <annotationXML href="\geqq_23"/>
+	</traceGroup>
+ <traceGroup xml:id="18">
+    <annotation type="truth">3</annotation>
+	<traceView traceDataRef="17"/>
+    <annotationXML href="3_24"/>
+	</traceGroup>
+ <traceGroup xml:id="19">
+    <annotation type="truth">M</annotation>
+	<traceView traceDataRef="18"/>
+    <annotationXML href="M_26"/>
+	</traceGroup>
+ <traceGroup xml:id="20">
+    <annotation type="truth">q</annotation>
+	<traceView traceDataRef="19"/>
+    <annotationXML href="q_27"/>
+	</traceGroup>
+</traceGroup>
+</ink>

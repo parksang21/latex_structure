@@ -1,0 +1,3 @@
+\begin{equation}
+	S _ { \alpha m } ( \Delta ) = i ( \delta _ { \alpha } \Delta _ { m } - \delta _ { m } \Delta _ { \alpha } )
+\end{equation}

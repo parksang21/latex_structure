@@ -1,0 +1,21 @@
+# IUD, 34_em_231_0
+# Objects(9):
+O, q_6, q, 1.0, OSubR
+O, =_7, =, 1.0, OR
+O, q_14, q, 1.0, ORRRRSubR
+O, q_3, q, 1.0, O
+O, e_5, e, 1.0, OSub
+O, 1_8, 1, 1.0, ORR
+O, p_11, p, 1.0, ORRRR
+O, -_9, -, 1.0, ORRR
+O, e_13, e, 1.0, ORRRRSub
+
+# Relations from SRT:
+R, -_9, p_11, Right, 1.0
+R, 1_8, -_9, Right, 1.0
+R, =_7, 1_8, Right, 1.0
+R, e_13, q_14, Right, 1.0
+R, e_5, q_6, Right, 1.0
+R, p_11, e_13, Sub, 1.0
+R, q_3, =_7, Right, 1.0
+R, q_3, e_5, Sub, 1.0

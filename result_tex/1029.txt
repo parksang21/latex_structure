@@ -1,0 +1,3 @@
+\begin{equation}
+	w ^ { \sqrt { \alpha } } \Delta _ { \sqrt { \alpha } t } \beta ( z , w ) = 0
+\end{equation}

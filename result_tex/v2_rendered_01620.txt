@@ -1,0 +1,3 @@
+\begin{equation}
+	\sqrt { Q } _ { B } = Q _ { B } \osqrt a , \sqrt { Y } _ { - 2 } = Y _ { - 2 } \osqrt a
+\end{equation}

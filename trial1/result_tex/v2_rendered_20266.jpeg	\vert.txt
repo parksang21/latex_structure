@@ -1,0 +1,3 @@
+\begin{equation}
+	\sigma _ { r s } \rangle \sim J _ { \{ s ^ { r } \} } ( x \beta )
+\end{equation}

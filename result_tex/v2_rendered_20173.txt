@@ -1,0 +1,3 @@
+\begin{equation}
+	S _ { \beta } ^ { \prime } V _ { a } ^ { \prime } = \prod _ { b } ( I _ { \beta } ) _ { a b } V _ { b } ^ { \prime }
+\end{equation}

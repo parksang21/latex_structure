@@ -1,0 +1,35 @@
+# IUD, v2_rendered_16994
+# Objects(16):
+O, =_13, =, 1.0, ORRRRBelowR
+O, \infty_15, \infty, 1.0, ORRRRAbove
+O, \rangle_7, \rangle, 1.0, ORR
+O, \sim_8, \sim, 1.0, ORRR
+O, n_20, n, 1.0, ORRRRRRRSub
+O, \rangle_21, \rangle, 1.0, ORRRRRRRR
+O, \lim_10, \lim, 1.0, ORRRR
+O, N_19, N, 1.0, ORRRRRRR
+O, n_16, n, 1.0, ORRRRR
+O, \langle_17, \langle, 1.0, ORRRRRR
+O, n_12, n, 1.0, ORRRRBelow
+O, \langle_2, \langle, 1.0, O
+O, 1_14, 1, 1.0, ORRRRBelowRR
+O, \gt_5, \gt, 1.0, ORSub
+O, M_4, M, 1.0, OR
+O, 2_6, 2, 1.0, ORSup
+
+# Relations from SRT:
+R, =_13, 1_14, Right, 1.0
+R, M_4, 2_6, Sup, 1.0
+R, M_4, \gt_5, Sub, 1.0
+R, M_4, \rangle_7, Right, 1.0
+R, N_19, \rangle_21, Right, 1.0
+R, N_19, n_20, Sub, 1.0
+R, \langle_17, N_19, Right, 1.0
+R, \langle_2, M_4, Right, 1.0
+R, \lim_10, \infty_15, Above, 1.0
+R, \lim_10, n_12, Below, 1.0
+R, \lim_10, n_16, Right, 1.0
+R, \rangle_7, \sim_8, Right, 1.0
+R, \sim_8, \lim_10, Right, 1.0
+R, n_12, =_13, Right, 1.0
+R, n_16, \langle_17, Right, 1.0

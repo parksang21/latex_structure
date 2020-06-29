@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msubsup><mi>j</mi><mrow><mo stretchy="false" form="prefix">[</mo><mi>m</mi><mo stretchy="false" form="postfix">]</mo></mrow><mi>δ</mi></msubsup><mo>=</mo><mfrac><msqrt><mi>γ</mi></msqrt><msup><mi>c</mi><mn>2</mn></msup></mfrac><msub><mi>u</mi><mi>μ</mi></msub><msup><mi>T</mi><mrow><mi>μ</mi><mi>δ</mi></mrow></msup></mrow><annotation encoding="application/x-tex">\begin{equation}
+    j _ { [ m ] } ^ { \delta } = \frac { \sqrt { \gamma } } { c ^ { 2 } } u _ { \mu } T ^ { \mu \delta }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

@@ -1,0 +1,53 @@
+# IUD, RIT_2014_66_0
+# Objects(25):
+O, n_33, n, 1.0, ORRRRRRAbove
+O, \sum_14, \sum, 1.0, ORRR
+O, k_11, k, 1.0, ORSub
+O, a_35, a, 1.0, ORRRRRRR
+O, \sum_28, \sum, 1.0, ORRRRRR
+O, \sum_3, \sum, 1.0, O
+O, 1_32, 1, 1.0, ORRRRRRBelowRR
+O, =_26, =, 1.0, ORRRRR
+O, 1_7, 1, 1.0, OBelowRR
+O, j_30, j, 1.0, ORRRRRRBelow
+O, n_8, n, 1.0, OAbove
+O, a_10, a, 1.0, OR
+O, n_19, n, 1.0, ORRRAbove
+O, a_21, a, 1.0, ORRRR
+O, =_12, =, 1.0, ORR
+O, 1_25, 1, 1.0, ORRRRSubRR
+O, =_31, =, 1.0, ORRRRRRBelowR
+O, k_5, k, 1.0, OBelow
+O, j_36, j, 1.0, ORRRRRRRSub
+O, 1_18, 1, 1.0, ORRRBelowRR
+O, =_24, =, 1.0, ORRRRSubR
+O, =_17, =, 1.0, ORRRBelowR
+O, i_16, i, 1.0, ORRRBelow
+O, i_23, i, 1.0, ORRRRSub
+O, =_6, =, 1.0, OBelowR
+
+# Relations from SRT:
+R, =_12, \sum_14, Right, 1.0
+R, =_17, 1_18, Right, 1.0
+R, =_24, 1_25, Right, 1.0
+R, =_26, \sum_28, Right, 1.0
+R, =_31, 1_32, Right, 1.0
+R, =_6, 1_7, Right, 1.0
+R, \sum_14, a_21, Right, 1.0
+R, \sum_14, i_16, Below, 1.0
+R, \sum_14, n_19, Above, 1.0
+R, \sum_28, a_35, Right, 1.0
+R, \sum_28, j_30, Below, 1.0
+R, \sum_28, n_33, Above, 1.0
+R, \sum_3, a_10, Right, 1.0
+R, \sum_3, k_5, Below, 1.0
+R, \sum_3, n_8, Above, 1.0
+R, a_10, =_12, Right, 1.0
+R, a_10, k_11, Sub, 1.0
+R, a_21, =_26, Right, 1.0
+R, a_21, i_23, Sub, 1.0
+R, a_35, j_36, Sub, 1.0
+R, i_16, =_17, Right, 1.0
+R, i_23, =_24, Right, 1.0
+R, j_30, =_31, Right, 1.0
+R, k_5, =_6, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	e T _ { \mu \omega } = e _ { \mu A } \frac { \delta S ^ { - } } { \delta E _ { A } ^ { \omega } }
+\end{equation}

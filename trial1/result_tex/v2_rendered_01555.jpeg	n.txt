@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { a } ^ { \pm } = \omega _ { \pm } ( 0 , - \dot { Z } ( \tau ) , \dot { t } _ { \pm } ( \tau ) )
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { i m } { z \rightarrow z _ { 0 } } f ( z ) = k
+\end{equation}

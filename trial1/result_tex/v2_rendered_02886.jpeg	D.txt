@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { i j } = \psi \gamma ^ { i j } \psi
+\end{equation}

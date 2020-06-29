@@ -1,0 +1,31 @@
+# IUD, 2027
+# Objects(14):
+O, 3_10, 3, 1.0, ORRRRBelow
+O, 5_16, 5, 1.0, ORRRRRRBelowR
+O, 1_15, 1, 1.0, ORRRRRRBelow
+O, \equiv_7, \equiv, 1.0, ORRR
+O, 5_6, 5, 1.0, ORRBelow
+O, 1_9, 1, 1.0, ORRRRAbove
+O, 2_5, 2, 1.0, ORRAbove
+O, =_3, =, 1.0, OR
+O, _8, -, 1.0, ORRRR
+O, +_11, +, 1.0, ORRRRR
+O, _4, -, 1.0, ORR
+O, _12, -, 1.0, ORRRRRR
+O, 1_13, 1, 1.0, ORRRRRRAbove
+O, \beta_2, \beta, 1.0, O
+
+# Relations from SRT:
+R, +_11, _12, Right, 1.0
+R, 1_15, 5_16, Right, 1.0
+R, =_3, _4, Right, 1.0
+R, \beta_2, =_3, Right, 1.0
+R, \equiv_7, _8, Right, 1.0
+R, _12, 1_13, Above, 1.0
+R, _12, 1_15, Below, 1.0
+R, _4, 2_5, Above, 1.0
+R, _4, 5_6, Below, 1.0
+R, _4, \equiv_7, Right, 1.0
+R, _8, +_11, Right, 1.0
+R, _8, 1_9, Above, 1.0
+R, _8, 3_10, Below, 1.0

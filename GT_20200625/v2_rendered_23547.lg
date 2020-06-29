@@ -1,0 +1,23 @@
+# IUD, v2_rendered_23547
+# Objects(10):
+O, Q_3, Q, 1.0, OR
+O, \subset_6, \subset, 1.0, ORRRR
+O, \rho_5, \rho, 1.0, ORRR
+O, \in_4, \in, 1.0, ORR
+O, Q_8, Q, 1.0, ORRRRRR
+O, \forall_2, \forall, 1.0, O
+O, 9_10, 9, 1.0, ORRRRRRRR
+O, )_11, ), 1.0, ORRRRRRRRR
+O, M_7, M, 1.0, ORRRRR
+O, (_9, (, 1.0, ORRRRRRR
+
+# Relations from SRT:
+R, (_9, 9_10, Right, 1.0
+R, 9_10, )_11, Right, 1.0
+R, M_7, Q_8, Right, 1.0
+R, Q_3, \in_4, Right, 1.0
+R, Q_8, (_9, Right, 1.0
+R, \forall_2, Q_3, Right, 1.0
+R, \in_4, \rho_5, Right, 1.0
+R, \rho_5, \subset_6, Right, 1.0
+R, \subset_6, M_7, Right, 1.0

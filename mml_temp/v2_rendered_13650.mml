@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mi>T</mi><mi>a</mi></msup><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msubsup><mi>T</mi><mrow><mi>N</mi><mi>ϕ</mi></mrow><mi>a</mi></msubsup><mi>d</mi><msup><mi>x</mi><mi>u</mi></msup><mo>∧</mo><mi>d</mi><msup><mi>x</mi><mi>ϕ</mi></msup></mrow><annotation encoding="application/x-tex">\begin{equation}
+    T ^ { a } = \frac { 1 } { 2 } T _ { N \phi } ^ { a } d x ^ { u } \wedge d x ^ { \phi }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

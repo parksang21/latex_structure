@@ -1,0 +1,3 @@
+\begin{equation}
+	S = \int \beta ^ { n } ( h ) n ^ { n } ( n ) \Delta _ { \bot } o d n
+\end{equation}

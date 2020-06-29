@@ -1,0 +1,3 @@
+\begin{equation}
+	\sum _ { \Delta X \propto \omega } e ^ { i \rho \csqrt \Delta X }
+\end{equation}

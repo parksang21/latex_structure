@@ -1,0 +1,47 @@
+# IUD, v2_rendered_03422
+# Objects(22):
+O, \rangle_25, \rangle, 1.0, ORRRRRRRRRRRRR
+O, a_21, a, 1.0, ORRRRRRRRRSup
+O, 2_9, 2, 1.0, ORRSup
+O, x_23, x, 1.0, ORRRRRRRRRRR
+O, =_6, =, 1.0, OR
+O, g_8, g, 1.0, ORR
+O, A_4, A, 1.0, OSub
+O, x_17, x, 1.0, ORRRRRRR
+O, 0_27, 0, 1.0, ORRRRRRRRRRRRRRR
+O, (_16, (, 1.0, ORRRRRR
+O, C_20, C, 1.0, ORRRRRRRRR
+O, (_22, (, 1.0, ORRRRRRRRRR
+O, m_3, m, 1.0, O
+O, )_24, ), 1.0, ORRRRRRRRRRRR
+O, C_14, C, 1.0, ORRRRRInside
+O, _13, \sqrt, 1.0, ORRRRR
+O, 2_5, 2, 1.0, OSup
+O, \langle_10, \langle, 1.0, ORRR
+O, ⊄_26, ⊄, 1.0, ORRRRRRRRRRRRRR
+O, i_11, i, 1.0, ORRRR
+O, a_15, a, 1.0, ORRRRRSup
+O, )_18, ), 1.0, ORRRRRRRR
+
+# Relations from SRT:
+R, (_16, x_17, Right, 1.0
+R, (_22, x_23, Right, 1.0
+R, )_18, C_20, Right, 1.0
+R, )_24, \rangle_25, Right, 1.0
+R, =_6, g_8, Right, 1.0
+R, C_20, (_22, Right, 1.0
+R, C_20, a_21, Sup, 1.0
+R, \langle_10, i_11, Right, 1.0
+R, \rangle_25, ⊄_26, Right, 1.0
+R, _13, (_16, Right, 1.0
+R, _13, C_14, Inside, 1.0
+R, _13, a_15, Sup, 1.0
+R, g_8, 2_9, Sup, 1.0
+R, g_8, \langle_10, Right, 1.0
+R, i_11, _13, Right, 1.0
+R, m_3, 2_5, Sup, 1.0
+R, m_3, =_6, Right, 1.0
+R, m_3, A_4, Sub, 1.0
+R, x_17, )_18, Right, 1.0
+R, x_23, )_24, Right, 1.0
+R, ⊄_26, 0_27, Right, 1.0

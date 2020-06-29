@@ -1,0 +1,3 @@
+\begin{equation}
+	\alpha ^ { a _ { 1 } } = \Omega ^ { a _ { 1 } }
+\end{equation}

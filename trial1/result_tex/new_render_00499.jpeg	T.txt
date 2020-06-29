@@ -1,0 +1,3 @@
+\begin{equation}
+	y [ ( \square _ { N } \square _ { H } ) ^ { 1 } \square _ { 2 } ^ { \prime } ]
+\end{equation}

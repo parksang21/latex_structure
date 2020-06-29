@@ -1,0 +1,45 @@
+# IUD, 3045
+# Objects(21):
+O, -_4, -, 1.0, OSup
+O, COMMA_16, COMMA, 1.0, ORRRRRR
+O, +_7, +, 1.0, ORSup
+O, 2_12, 2, 1.0, ORRRR
+O, f_14, f, 1.0, ORRRRR
+O, f_21, f, 1.0, ORRRRRRRR
+O, f_9, f, 1.0, ORR
+O, f_18, f, 1.0, ORRRRRRR
+O, f_6, f, 1.0, OR
+O, f_29, f, 1.0, ORRRRRRRRRRRR
+O, f_3, f, 1.0, O
+O, =_26, =, 1.0, ORRRRRRRRRR
+O, 2_27, 2, 1.0, ORRRRRRRRRRR
+O, -_22, -, 1.0, ORRRRRRRRSup
+O, -_15, -, 1.0, ORRRRRSup
+O, +_19, +, 1.0, ORRRRRRRSup
+O, +_25, +, 1.0, ORRRRRRRRRSup
+O, +_30, +, 1.0, ORRRRRRRRRRRRSup
+O, =_11, =, 1.0, ORRR
+O, -_10, -, 1.0, ORRSup
+O, f_24, f, 1.0, ORRRRRRRRR
+
+# Relations from SRT:
+R, 2_12, f_14, Right, 1.0
+R, 2_27, f_29, Right, 1.0
+R, =_11, 2_12, Right, 1.0
+R, =_26, 2_27, Right, 1.0
+R, COMMA_16, f_18, Right, 1.0
+R, f_14, -_15, Sup, 1.0
+R, f_14, COMMA_16, Right, 1.0
+R, f_18, +_19, Sup, 1.0
+R, f_18, f_21, Right, 1.0
+R, f_21, -_22, Sup, 1.0
+R, f_21, f_24, Right, 1.0
+R, f_24, +_25, Sup, 1.0
+R, f_24, =_26, Right, 1.0
+R, f_29, +_30, Sup, 1.0
+R, f_3, -_4, Sup, 1.0
+R, f_3, f_6, Right, 1.0
+R, f_6, +_7, Sup, 1.0
+R, f_6, f_9, Right, 1.0
+R, f_9, -_10, Sup, 1.0
+R, f_9, =_11, Right, 1.0

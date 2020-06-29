@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \Omega } = \bar { e } _ { \Omega } / e _ { \Omega } ^ { \circ }
+\end{equation}

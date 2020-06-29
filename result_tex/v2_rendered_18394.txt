@@ -1,0 +1,3 @@
+\begin{equation}
+	b _ { 5 W } \leq \times \frac { Y ^ { ( w ) } ( j ) } { ( w / 5 ) ! }
+\end{equation}

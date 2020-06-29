@@ -1,0 +1,15 @@
+# IUD, v2_rendered_24654
+# Objects(6):
+O, p_6, p, 1.0, OR
+O, =_8, =, 1.0, ORR
+O, m_4, m, 1.0, OSup
+O, m_7, m, 1.0, ORSub
+O, p_3, p, 1.0, O
+O, 0_9, 0, 1.0, ORRR
+
+# Relations from SRT:
+R, =_8, 0_9, Right, 1.0
+R, p_3, m_4, Sup, 1.0
+R, p_3, p_6, Right, 1.0
+R, p_6, =_8, Right, 1.0
+R, p_6, m_7, Sub, 1.0

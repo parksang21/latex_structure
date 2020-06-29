@@ -1,0 +1,3 @@
+\begin{equation}
+	= - 1 - \beta \gamma - \gamma \alpha - \alpha \beta
+\end{equation}

@@ -1,0 +1,42 @@
+# IUD, v2_rendered_11641
+# Objects(19):
+O, \theta_6, \theta, 1.0, ORR
+O, W_7, W, 1.0, ORRR
+O, d_4, d, 1.0, OR
+O, \int_12, \int, 1.0, ORRRRRRRR
+O, 2_5, 2, 1.0, ORSup
+O, \int_2, \int, 1.0, O
+O, )_23, ), 1.0, ORRRRRRRRRRRInsideRRR
+O, _18, \sqrt, 1.0, ORRRRRRRRRRR
+O, \theta_17, \theta, 1.0, ORRRRRRRRRRInside
+O, W_20, W, 1.0, ORRRRRRRRRRRInside
+O, \mu_22, \mu, 1.0, ORRRRRRRRRRRInsideRR
+O, \mu_9, \mu, 1.0, ORRRRR
+O, (_8, (, 1.0, ORRRR
+O, )_10, ), 1.0, ORRRRRR
+O, _16, \sqrt, 1.0, ORRRRRRRRRR
+O, (_21, (, 1.0, ORRRRRRRRRRRInsideR
+O, d_14, d, 1.0, ORRRRRRRRR
+O, +_11, +, 1.0, ORRRRRRR
+O, 2_15, 2, 1.0, ORRRRRRRRRSup
+
+# Relations from SRT:
+R, (_21, \mu_22, Right, 1.0
+R, (_8, \mu_9, Right, 1.0
+R, )_10, +_11, Right, 1.0
+R, +_11, \int_12, Right, 1.0
+R, W_20, (_21, Right, 1.0
+R, W_7, (_8, Right, 1.0
+R, \int_12, d_14, Right, 1.0
+R, \int_2, d_4, Right, 1.0
+R, \mu_22, )_23, Right, 1.0
+R, \mu_9, )_10, Right, 1.0
+R, \theta_6, W_7, Right, 1.0
+R, _16, \theta_17, Inside, 1.0
+R, _16, _18, Right, 1.0
+R, _18, (_21, Inside, 1.0
+R, _18, W_20, Inside, 1.0
+R, d_14, 2_15, Sup, 1.0
+R, d_14, _16, Right, 1.0
+R, d_4, 2_5, Sup, 1.0
+R, d_4, \theta_6, Right, 1.0

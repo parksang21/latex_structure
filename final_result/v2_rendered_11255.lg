@@ -1,0 +1,27 @@
+# IUD, v2_rendered_11255
+# Objects(12):
+O, R_15, R, 1.0, ORRRRRRR
+O, 6_8, 6, 1.0, ORRR
+O, \psi_6, \psi, 1.0, OR
+O, N_4, N, 1.0, OInside
+O, N_12, N, 1.0, ORRRRRInside
+O, \forall_9, \forall, 1.0, ORRRR
+O, P_5, P, 1.0, OSup
+O, P_13, P, 1.0, ORRRRRSup
+O, \wedge_14, \wedge, 1.0, ORRRRRR
+O, _3, \sqrt, 1.0, O
+O, \leq_7, \leq, 1.0, ORR
+O, _11, \sqrt, 1.0, ORRRRR
+
+# Relations from SRT:
+R, 6_8, \forall_9, Right, 1.0
+R, \forall_9, _11, Right, 1.0
+R, \leq_7, 6_8, Right, 1.0
+R, \psi_6, \leq_7, Right, 1.0
+R, \wedge_14, R_15, Right, 1.0
+R, _11, N_12, Inside, 1.0
+R, _11, P_13, Sup, 1.0
+R, _11, \wedge_14, Right, 1.0
+R, _3, N_4, Inside, 1.0
+R, _3, P_5, Sup, 1.0
+R, _3, \psi_6, Right, 1.0

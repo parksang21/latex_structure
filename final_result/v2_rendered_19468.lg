@@ -1,0 +1,35 @@
+# IUD, v2_rendered_19468
+# Objects(16):
+O, q_8, q, 1.0, ORRRR
+O, 2_20, 2, 1.0, ORRRRRRRRRRSup
+O, \rangle_10, \rangle, 1.0, ORRRRRR
+O, =_11, =, 1.0, ORRRRRRR
+O, \langle_6, \langle, 1.0, ORR
+O, 2_16, 2, 1.0, ORRRRRRRRRSup
+O, -_12, -, 1.0, ORRRRRRRR
+O, 2_2, 2, 1.0, O
+O, q_9, q, 1.0, ORRRRR
+O, \pi_15, \pi, 1.0, ORRRRRRRRRSub
+O, m_4, m, 1.0, OR
+O, f_14, f, 1.0, ORRRRRRRRR
+O, \beta_7, \beta, 1.0, ORRR
+O, q_5, q, 1.0, ORSub
+O, m_18, m, 1.0, ORRRRRRRRRR
+O, \pi_19, \pi, 1.0, ORRRRRRRRRRSub
+
+# Relations from SRT:
+R, -_12, f_14, Right, 1.0
+R, 2_2, m_4, Right, 1.0
+R, =_11, -_12, Right, 1.0
+R, \beta_7, q_8, Right, 1.0
+R, \langle_6, \beta_7, Right, 1.0
+R, \rangle_10, =_11, Right, 1.0
+R, f_14, 2_16, Sup, 1.0
+R, f_14, \pi_15, Sub, 1.0
+R, f_14, m_18, Right, 1.0
+R, m_18, 2_20, Sup, 1.0
+R, m_18, \pi_19, Sub, 1.0
+R, m_4, \langle_6, Right, 1.0
+R, m_4, q_5, Sub, 1.0
+R, q_8, q_9, Right, 1.0
+R, q_9, \rangle_10, Right, 1.0

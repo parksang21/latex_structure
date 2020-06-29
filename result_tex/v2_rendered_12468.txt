@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { f _ { i } ^ { \prime } } { f _ { i } } = \frac { f _ { j } ^ { \prime } } { f _ { j } }
+\end{equation}

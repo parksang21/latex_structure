@@ -1,0 +1,3 @@
+\begin{equation}
+	x \vert \pi _ { n } \rangle \leq 5 \forall \vert \pi _ { n } \rangle \vee V _ { a ^ { \prime } } ^ { * } , n \wedge 5
+\end{equation}

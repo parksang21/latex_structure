@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { k } ( z ) = z ^ { k } ( 1 + O ( 1 / z ) )
+\end{equation}

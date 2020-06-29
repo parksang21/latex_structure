@@ -1,0 +1,3 @@
+\begin{equation}
+	= C \lim _ { \alpha \in \tau ^ { + } } l _ { \alpha } ( x )
+\end{equation}

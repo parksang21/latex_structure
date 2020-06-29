@@ -1,0 +1,37 @@
+# IUD, v2_rendered_04643
+# Objects(17):
+O, 2_20, 2, 1.0, ORRBelowSup
+O, 2_25, 2, 1.0, ORRBelowRRSup
+O, -_24, -, 1.0, ORRBelowRRSub
+O, r_23, r, 1.0, ORRBelowRR
+O, +_12, +, 1.0, ORRAboveRRSub
+O, r_18, r, 1.0, ORRBelow
+O, \pi_9, \pi, 1.0, ORRAboveR
+O, =_5, =, 1.0, OR
+O, r_11, r, 1.0, ORRAboveRR
+O, _6, -, 1.0, ORR
+O, 2_8, 2, 1.0, ORRAbove
+O, H_4, H, 1.0, OSub
+O, \beta_3, \beta, 1.0, O
+O, 2_15, 2, 1.0, ORRAboveRRRSup
+O, +_19, +, 1.0, ORRBelowSub
+O, l_14, l, 1.0, ORRAboveRRR
+O, -_21, -, 1.0, ORRBelowR
+
+# Relations from SRT:
+R, -_21, r_23, Right, 1.0
+R, 2_8, \pi_9, Right, 1.0
+R, =_5, _6, Right, 1.0
+R, \beta_3, =_5, Right, 1.0
+R, \beta_3, H_4, Sub, 1.0
+R, \pi_9, r_11, Right, 1.0
+R, _6, 2_8, Above, 1.0
+R, _6, r_18, Below, 1.0
+R, l_14, 2_15, Sup, 1.0
+R, r_11, +_12, Sub, 1.0
+R, r_11, l_14, Right, 1.0
+R, r_18, +_19, Sub, 1.0
+R, r_18, -_21, Right, 1.0
+R, r_18, 2_20, Sup, 1.0
+R, r_23, -_24, Sub, 1.0
+R, r_23, 2_25, Sup, 1.0

@@ -1,0 +1,55 @@
+# IUD, 962
+# Objects(26):
+O, \vert_2, \vert, 1.0, 0
+O, COMMA_18, COMMA, 1.0, 14
+O, r_15, r, 1.0, 11
+O, \rangle_29, \rangle, 1.0, 25
+O, COMMA_12, COMMA, 1.0, 8
+O, \vert_27, \vert, 1.0, 23
+O, \phi_17, \phi, 1.0, 13
+O, \phi_24, \phi, 1.0, 20
+O, \vert_14, \vert, 1.0, 10
+O, =_5, =, 1.0, 3
+O, \langle_21, \langle, 1.0, 17
+O, l_19, l, 1.0, 15
+O, \sum_7, \sum, 1.0, 4
+O, \phi_11, \phi, 1.0, 7
+O, COMMA_10, COMMA, 1.0, 6
+O, \rangle_20, \rangle, 1.0, 16
+O, r_22, r, 1.0, 18
+O, \psi_28, \psi, 1.0, 24
+O, l_26, l, 1.0, 22
+O, COMMA_23, COMMA, 1.0, 19
+O, \rangle_4, \rangle, 1.0, 2
+O, p_13, p, 1.0, 9
+O, COMMA_16, COMMA, 1.0, 12
+O, \psi_3, \psi, 1.0, 1
+O, \gamma_9, \gamma, 1.0, 5
+O, COMMA_25, COMMA, 1.0, 21
+
+# Relations from SRT:
+R, =_5, \sum_7, Right, 1.0
+R, COMMA_10, \phi_11, Right, 1.0
+R, COMMA_12, p_13, Right, 1.0
+R, COMMA_16, \phi_17, Right, 1.0
+R, COMMA_18, l_19, Right, 1.0
+R, COMMA_23, \phi_24, Right, 1.0
+R, COMMA_25, l_26, Right, 1.0
+R, \gamma_9, COMMA_10, Right, 1.0
+R, \langle_21, r_22, Right, 1.0
+R, \phi_11, COMMA_12, Right, 1.0
+R, \phi_17, COMMA_18, Right, 1.0
+R, \phi_24, COMMA_25, Right, 1.0
+R, \psi_28, \rangle_29, Right, 1.0
+R, \psi_3, \rangle_4, Right, 1.0
+R, \rangle_20, \langle_21, Right, 1.0
+R, \rangle_4, =_5, Right, 1.0
+R, \sum_7, \gamma_9, Below, 1.0
+R, \sum_7, \vert_14, Right, 1.0
+R, \vert_14, r_15, Right, 1.0
+R, \vert_27, \psi_28, Right, 1.0
+R, \vert_2, \psi_3, Right, 1.0
+R, l_19, \rangle_20, Right, 1.0
+R, l_26, \vert_27, Right, 1.0
+R, r_15, COMMA_16, Right, 1.0
+R, r_22, COMMA_23, Right, 1.0

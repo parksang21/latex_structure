@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>G</mi><mo>=</mo><munder><mo>lim</mo><mrow><mi>L</mi><mo>↔</mo><mi>∞</mi></mrow></munder><msub><mo>∫</mo><mrow><mo stretchy="false" form="postfix">|</mo><mi>x</mi><mi>n</mi><mi>c</mi></mrow></msub><msup><mi>d</mi><mn>2</mn></msup><mi>x</mi><mi>ρ</mi><mo stretchy="false" form="prefix">(</mo><mi>x</mi><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">\begin{equation}
+    G = \lim _ { L \leftrightarrow \infty } \int _ { \vert x n c } d ^ { 2 } x \rho ( x )
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

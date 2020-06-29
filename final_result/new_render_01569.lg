@@ -1,0 +1,42 @@
+# IUD, new_render_01569
+# Objects(19):
+O, -_10, -, 1.0, ORRRRRSup
+O, )_5, ), 1.0, ORRR
+O, 1_20, 1, 1.0, ORRRRRRRInsideRSub
+O, )_23, ), 1.0, ORRRRRRRRR
+O, 2_13, 2, 1.0, ORRRRRSupRBelow
+O, 2_17, 2, 1.0, ORRRRRRRInside
+O, _11, -, 1.0, ORRRRRSupR
+O, \geqq_6, \geqq, 1.0, ORRRR
+O, \lambda_21, \lambda, 1.0, ORRRRRRRR
+O, _15, \sqrt, 1.0, ORRRRRRR
+O, \mu_26, \mu, 1.0, ORRRRRRRRRSupR
+O, 2_8, 2, 1.0, ORRRRR
+O, \mu_12, \mu, 1.0, ORRRRRSupRAbove
+O, \lambda_4, \lambda, 1.0, ORR
+O, A_2, A, 1.0, O
+O, 2_25, 2, 1.0, ORRRRRRRRRSup
+O, \theta_19, \theta, 1.0, ORRRRRRRInsideR
+O, (_14, (, 1.0, ORRRRRR
+O, (_3, (, 1.0, OR
+
+# Relations from SRT:
+R, (_14, _15, Right, 1.0
+R, (_3, \lambda_4, Right, 1.0
+R, )_23, 2_25, Sup, 1.0
+R, )_5, \geqq_6, Right, 1.0
+R, -_10, _11, Right, 1.0
+R, 2_17, \theta_19, Right, 1.0
+R, 2_25, \mu_26, Right, 1.0
+R, 2_8, (_14, Right, 1.0
+R, 2_8, -_10, Sup, 1.0
+R, A_2, (_3, Right, 1.0
+R, \geqq_6, 2_8, Right, 1.0
+R, \lambda_21, )_23, Right, 1.0
+R, \lambda_4, )_5, Right, 1.0
+R, \theta_19, 1_20, Sub, 1.0
+R, _11, 2_13, Below, 1.0
+R, _11, \mu_12, Above, 1.0
+R, _15, 2_17, Inside, 1.0
+R, _15, \lambda_21, Right, 1.0
+R, _15, \theta_19, Inside, 1.0

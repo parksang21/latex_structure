@@ -1,0 +1,3 @@
+\begin{equation}
+	\rho _ { i } ^ { l } \geqq \rho _ { i } ^ { l i } \geqq i d e n t i t y
+\end{equation}

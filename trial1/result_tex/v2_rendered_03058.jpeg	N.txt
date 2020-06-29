@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \lambda \tau } ( \phi ) \rightarrow N _ { \lambda \tau } ^ { \prime } ( t ( \phi ) )
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	J _ { B } ^ { \alpha } ( z ) = J ^ { \mu } ( z ) ( \gamma _ { \mu } ) ^ { \alpha } B
+\end{equation}

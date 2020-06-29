@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>&lt;</mo><mn>0</mn><mo stretchy="false" form="postfix">|</mo><mi>T</mi><mo stretchy="false" form="prefix">(</mo><mi>ϕ</mi><mo stretchy="false" form="prefix">(</mo><mi>τ</mi><mo stretchy="false" form="postfix">)</mo><mi>ϕ</mi><mo stretchy="false" form="prefix">(</mo><mi>y</mi><mo stretchy="false" form="postfix">)</mo><mo stretchy="false" form="postfix">|</mo><mn>0</mn><mo stretchy="false" form="postfix">⟩</mo><mo>=</mo><mi>i</mi><mi>δ</mi><msub><mi>▫</mi><mi>F</mi></msub><mo stretchy="false" form="prefix">(</mo><mi>x</mi><mo>×</mo><mi>y</mi><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">\begin{equation}
+    &lt; 0 \vert T ( \phi ( \tau ) \phi ( y ) \vert 0 \rangle = i \delta \square _ { F } ( x \times y )
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

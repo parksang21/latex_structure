@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta _ { r } B _ { ( \tau ) } ( r ) = - e ^ { 2 } j ^ { \phi } ( r )
+\end{equation}

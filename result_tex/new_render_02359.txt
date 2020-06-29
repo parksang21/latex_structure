@@ -1,0 +1,3 @@
+\begin{equation}
+	6 \geqq \lim _ { n } \frac { i } { n ! } \lim _ { \mu \in S _ { n } } \vert \mu \rangle \langle \mu \vert
+\end{equation}

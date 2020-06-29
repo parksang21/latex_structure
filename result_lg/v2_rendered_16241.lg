@@ -1,0 +1,47 @@
+# IUD, v2_rendered_16241
+# Objects(22):
+O, \sigma_2, \sigma, 1.0, O
+O, ω_7, ω, 1.0, ORRR
+O, 2_14, 2, 1.0, ORRRRRRRR
+O, R_24, R, 1.0, ORRRRRRRRRRRRRRRR
+O, [_11, [, 1.0, ORRRRR
+O, \pi_5, \pi, 1.0, ORR
+O, =_3, =, 1.0, OR
+O, R_9, R, 1.0, ORRRR
+O, 3_6, 3, 1.0, ORRSup
+O, Q_17, Q, 1.0, ORRRRRRRRRRR
+O, ]_26, ], 1.0, ORRRRRRRRRRRRRRRRRR
+O, (_22, (, 1.0, ORRRRRRRRRRRRRR
+O, 4_10, 4, 1.0, ORRRRSup
+O, )_19, ), 1.0, ORRRRRRRRRRRR
+O, ω_16, ω, 1.0, ORRRRRRRRRR
+O, (_15, (, 1.0, ORRRRRRRRR
+O, \ln_21, \ln, 1.0, ORRRRRRRRRRRRR
+O, 1_12, 1, 1.0, ORRRRRR
+O, +_13, +, 1.0, ORRRRRRR
+O, 2_20, 2, 1.0, ORRRRRRRRRRRRSup
+O, )_25, ), 1.0, ORRRRRRRRRRRRRRRRR
+O, ω_23, ω, 1.0, ORRRRRRRRRRRRRRR
+
+# Relations from SRT:
+R, (_15, ω_16, Right, 1.0
+R, (_22, ω_23, Right, 1.0
+R, )_19, 2_20, Sup, 1.0
+R, )_19, \ln_21, Right, 1.0
+R, )_25, ]_26, Right, 1.0
+R, +_13, 2_14, Right, 1.0
+R, 1_12, +_13, Right, 1.0
+R, 2_14, (_15, Right, 1.0
+R, =_3, \pi_5, Right, 1.0
+R, Q_17, )_19, Right, 1.0
+R, R_24, )_25, Right, 1.0
+R, R_9, 4_10, Sup, 1.0
+R, R_9, [_11, Right, 1.0
+R, [_11, 1_12, Right, 1.0
+R, \ln_21, (_22, Right, 1.0
+R, \pi_5, 3_6, Sup, 1.0
+R, \pi_5, ω_7, Right, 1.0
+R, \sigma_2, =_3, Right, 1.0
+R, ω_16, Q_17, Right, 1.0
+R, ω_23, R_24, Right, 1.0
+R, ω_7, R_9, Right, 1.0

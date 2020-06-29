@@ -1,0 +1,3 @@
+\begin{equation}
+	\vert h , u \cup = h \vert h , u \cup , H \vert \tilde { h } , d \cup = \tilde { h } \vert \tilde { h } , d \cup
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { d } { d b } \psi ( b + b ^ { \prime } ) \neq 0 !
+\end{equation}

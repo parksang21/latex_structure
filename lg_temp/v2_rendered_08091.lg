@@ -1,0 +1,51 @@
+# IUD, v2_rendered_08091
+# Objects(24):
+O, _17, \sqrt, 1.0, 23
+O, \langle_16, \langle, 1.0, 11
+O, \psi_28, \psi, 1.0, 20
+O, e_26, e, 1.0, 18
+O, x_8, x, 1.0, 4
+O, =_15, =, 1.0, 10
+O, e_22, e, 1.0, 15
+O, p_12, p, 1.0, 7
+O, \rangle_29, \rangle, 1.0, 21
+O, p_25, p, 1.0, 17
+O, x_18, x, 1.0, 12
+O, _4, \sqrt, 1.0, 22
+O, \vert_27, \vert, 1.0, 19
+O, COMMA_23, COMMA, 1.0, 16
+O, e_13, e, 1.0, 8
+O, )_14, ), 1.0, 9
+O, x_5, x, 1.0, 2
+O, z_21, z, 1.0, 14
+O, COMMA_19, COMMA, 1.0, 13
+O, (_3, (, 1.0, 1
+O, COMMA_10, COMMA, 1.0, 6
+O, COMMA_6, COMMA, 1.0, 3
+O, A_2, A, 1.0, 0
+O, e_9, e, 1.0, 5
+
+# Relations from SRT:
+R, (_3, _4, Right, 1.0
+R, )_14, =_15, Right, 1.0
+R, =_15, \langle_16, Right, 1.0
+R, A_2, (_3, Right, 1.0
+R, COMMA_10, p_12, Right, 1.0
+R, COMMA_19, z_21, Right, 1.0
+R, COMMA_23, p_25, Right, 1.0
+R, COMMA_6, x_8, Right, 1.0
+R, \langle_16, _17, Right, 1.0
+R, \psi_28, \rangle_29, Right, 1.0
+R, \vert_27, \psi_28, Right, 1.0
+R, _17, COMMA_19, Right, 1.0
+R, _17, x_18, Inside, 1.0
+R, _4, COMMA_6, Right, 1.0
+R, _4, x_5, Inside, 1.0
+R, p_12, )_14, Right, 1.0
+R, p_12, e_13, Sub, 1.0
+R, p_25, \vert_27, Right, 1.0
+R, p_25, e_26, Sub, 1.0
+R, x_8, COMMA_10, Right, 1.0
+R, x_8, e_9, Sub, 1.0
+R, z_21, COMMA_23, Right, 1.0
+R, z_21, e_22, Sub, 1.0

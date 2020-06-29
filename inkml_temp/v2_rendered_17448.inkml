@@ -1,0 +1,86 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_17448</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mi xml:id="Z_2">Z</mi><mo xml:id="\Leftrifhtarrow_3">⇔</mo><mi xml:id="n_4">n</mi><mi xml:id="Z_5">Z</mi><msqrt xml:id="_6"><mi xml:id="n_7">n</mi></msqrt><mo xml:id=",_8">,</mo><msup><mi xml:id="Z_10">Z</mi><mi xml:id="\prime_11">′</mi></msup><mo xml:id="\Leftrifhtarrow_12">⇔</mo><mi xml:id="n_13">n</mi><msup><mi xml:id="Z_15">Z</mi><mi xml:id="\prime_16">′</mi></msup><msqrt xml:id="_17"><mi xml:id="n_18">n</mi></msqrt></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">Z</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="Z_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\Leftrifhtarrow</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\Leftrifhtarrow_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">n</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="n_4"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">Z</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="Z_5"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">n</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="n_7"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">,</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href=",_8"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">Z</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="Z_10"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\prime</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\prime_11"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">\Leftrifhtarrow</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="\Leftrifhtarrow_12"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">n</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="n_13"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">Z</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="Z_15"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">\prime</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="\prime_16"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">n</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="n_18"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="_6"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="_17"/>
+	</traceGroup>
+</traceGroup>
+</ink>

@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { 2 } \sigma ( l ) = \phi ^ { 2 1 - p } ( l _ { \bot } )
+\end{equation}

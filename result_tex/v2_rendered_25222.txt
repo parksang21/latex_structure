@@ -1,0 +1,3 @@
+\begin{equation}
+	W _ { A _ { 1 } \div 1 } \equiv \langle d e c ( x \vert \div \beta ) \rangle
+\end{equation}

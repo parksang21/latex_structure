@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \Omega } \neq \bar { q } _ { \Omega } \times q _ { \Omega } ^ { \circ }
+\end{equation}

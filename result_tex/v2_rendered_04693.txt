@@ -1,0 +1,3 @@
+\begin{equation}
+	I _ { n } = T r ( \lambda ^ { n } ) , ( n = 1 , . . . )
+\end{equation}

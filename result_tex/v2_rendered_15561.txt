@@ -1,0 +1,3 @@
+\begin{equation}
+	C _ { 3 } \geq \frac { 8 } { 5 } e ^ { i \phi } c _ { 8 } \forall \phi
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	< \beta _ { n } , \beta _ { k } ^ { * } \not\subset = h _ { n } \delta _ { n k }
+\end{equation}

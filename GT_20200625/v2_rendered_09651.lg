@@ -1,0 +1,45 @@
+# IUD, v2_rendered_09651
+# Objects(21):
+O, (_8, (, 1.0, ORRRRR
+O, \approx_17, \approx, 1.0, ORRRRRRRRRR
+O, -_11, -, 1.0, ORRRRRRR
+O, U_6, U, 1.0, ORRR
+O, 2_20, 2, 1.0, ORRRRRRRRRRRRR
+O, U_3, U, 1.0, OInside
+O, \Omega_21, \Omega, 1.0, ORRRRRRRRRRRRRR
+O, -_5, -, 1.0, ORR
+O, U_19, U, 1.0, ORRRRRRRRRRRR
+O, t_10, t, 1.0, ORRRRRRInside
+O, _13, \sqrt, 1.0, ORRRRRRRR
+O, _22, \sqrt, 1.0, ORRRRRRRRRRRRRRR
+O, _9, \sqrt, 1.0, ORRRRRR
+O, *_15, *, 1.0, ORRRRRRRRSub
+O, )_16, ), 1.0, ORRRRRRRRR
+O, r_14, r, 1.0, ORRRRRRRRInside
+O, -_18, -, 1.0, ORRRRRRRRRRR
+O, \Omega_7, \Omega, 1.0, ORRRR
+O, _2, \sqrt, 1.0, O
+O, t_23, t, 1.0, ORRRRRRRRRRRRRRRInside
+O, =_4, =, 1.0, OR
+
+# Relations from SRT:
+R, (_8, _9, Right, 1.0
+R, )_16, \approx_17, Right, 1.0
+R, -_11, _13, Right, 1.0
+R, -_18, U_19, Right, 1.0
+R, -_5, U_6, Right, 1.0
+R, 2_20, \Omega_21, Right, 1.0
+R, =_4, -_5, Right, 1.0
+R, U_19, 2_20, Right, 1.0
+R, U_6, \Omega_7, Right, 1.0
+R, \Omega_21, _22, Right, 1.0
+R, \Omega_7, (_8, Right, 1.0
+R, \approx_17, -_18, Right, 1.0
+R, _13, )_16, Right, 1.0
+R, _13, *_15, Sub, 1.0
+R, _13, r_14, Inside, 1.0
+R, _22, t_23, Inside, 1.0
+R, _2, =_4, Right, 1.0
+R, _2, U_3, Inside, 1.0
+R, _9, -_11, Right, 1.0
+R, _9, t_10, Inside, 1.0

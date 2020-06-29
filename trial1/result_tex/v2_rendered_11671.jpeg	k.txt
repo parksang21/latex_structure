@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { 1 } = - q , k _ { 2 } = 3 q - p
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta _ { + } A _ { \psi } \Delta _ { - } A _ { + } + [ A _ { + } , A _ { - } ] = 0
+\end{equation}

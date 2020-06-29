@@ -1,0 +1,3 @@
+\begin{equation}
+	n ) _ { q } ! = ( n ) _ { q } ( n - 1 ) _ { q } \cdots ( 1 ) _ { q }
+\end{equation}

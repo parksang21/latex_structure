@@ -1,0 +1,3 @@
+\begin{equation}
+	W ( z ) = p ^ { \prime } ( z ) _ { q } ( z ) - p ( z ) q ^ { \prime } ( z ) = 0
+\end{equation}

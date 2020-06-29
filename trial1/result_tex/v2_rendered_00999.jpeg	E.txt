@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { f l u c } ( J ) = - L _ { f l u c } ( \bar { \omega } ( J ) )
+\end{equation}

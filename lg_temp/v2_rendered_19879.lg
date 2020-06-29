@@ -1,0 +1,37 @@
+# IUD, v2_rendered_19879
+# Objects(17):
+O, \rangle_11, \rangle, 1.0, 9
+O, \vert_9, \vert, 1.0, 7
+O, \rangle_19, \rangle, 1.0, 16
+O, j_14, j, 1.0, 12
+O, 3_18, 3, 1.0, 15
+O, \otimes_8, \otimes, 1.0, 6
+O, \vert_2, \vert, 1.0, 0
+O, \vert_13, \vert, 1.0, 11
+O, e_5, e, 1.0, 3
+O, COMMA_15, COMMA, 1.0, 13
+O, \rangle_7, \rangle, 1.0, 5
+O, r_4, r, 1.0, 2
+O, e_6, e, 1.0, 4
+O, \beta_10, \beta, 1.0, 8
+O, \otimes_12, \otimes, 1.0, 10
+O, f_3, f, 1.0, 1
+O, j_17, j, 1.0, 14
+
+# Relations from SRT:
+R, COMMA_15, j_17, Right, 1.0
+R, \beta_10, \rangle_11, Right, 1.0
+R, \otimes_12, \vert_13, Right, 1.0
+R, \otimes_8, \vert_9, Right, 1.0
+R, \rangle_11, \otimes_12, Right, 1.0
+R, \rangle_7, \otimes_8, Right, 1.0
+R, \vert_13, j_14, Right, 1.0
+R, \vert_2, f_3, Right, 1.0
+R, \vert_9, \beta_10, Right, 1.0
+R, e_5, e_6, Right, 1.0
+R, e_6, \rangle_7, Right, 1.0
+R, f_3, r_4, Right, 1.0
+R, j_14, COMMA_15, Right, 1.0
+R, j_17, 3_18, Sup, 1.0
+R, j_17, \rangle_19, Right, 1.0
+R, r_4, e_5, Right, 1.0

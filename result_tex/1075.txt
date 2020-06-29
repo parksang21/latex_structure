@@ -1,0 +1,3 @@
+\begin{equation}
+	E _ { b } = \sqrt { \gamma 2 + 1 6 } - 4
+\end{equation}

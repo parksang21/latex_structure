@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta S \geqq \int \rho ^ { k } ( x ) j ^ { k } ( s ) \Delta _ { > } y d s
+\end{equation}

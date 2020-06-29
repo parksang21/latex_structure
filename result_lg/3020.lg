@@ -1,0 +1,31 @@
+# IUD, 3020
+# Objects(14):
+O, \int_6, \int, 1.0, ORRR
+O, h_15, h, 1.0, ORRRRRR
+O, d_12, d, 1.0, ORRRR
+O, p_10, p, 1.0, ORRRSubBelow
+O, _7, -, 1.0, ORRRSub
+O, 1_2, 1, 1.0, O
+O, 1_8, 1, 1.0, ORRRSubAbove
+O, \pi_19, \pi, 1.0, ORRRRRRSubRR
+O, s_13, s, 1.0, ORRRRR
+O, 2_11, 2, 1.0, ORRRSubBelowSup
+O, f_17, f, 1.0, ORRRRRRSub
+O, b_18, b, 1.0, ORRRRRRSubR
+O, G_4, G, 1.0, ORR
+O, =_3, =, 1.0, OR
+
+# Relations from SRT:
+R, 1_2, =_3, Right, 1.0
+R, =_3, G_4, Right, 1.0
+R, G_4, \int_6, Right, 1.0
+R, \int_6, _7, Sub, 1.0
+R, \int_6, d_12, Right, 1.0
+R, _7, 1_8, Above, 1.0
+R, _7, p_10, Below, 1.0
+R, b_18, \pi_19, Right, 1.0
+R, d_12, s_13, Right, 1.0
+R, f_17, b_18, Right, 1.0
+R, h_15, f_17, Sub, 1.0
+R, p_10, 2_11, Sup, 1.0
+R, s_13, h_15, Right, 1.0

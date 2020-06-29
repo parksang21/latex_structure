@@ -1,0 +1,51 @@
+# IUD, v2_rendered_09595
+# Objects(24):
+O, \tan_7, \tan, 1.0, ORRR
+O, )_11, ), 1.0, ORRRRRRR
+O, r_4, r, 1.0, OSup
+O, 0_28, 0, 1.0, ORRRRRRRRRRRRRRRRRRRR
+O, =_27, =, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, \psi_17, \psi, 1.0, ORRRRRRRRRRR
+O, (_20, (, 1.0, ORRRRRRRRRRRRRR
+O, )_22, ), 1.0, ORRRRRRRRRRRRRRRR
+O, \theta_10, \theta, 1.0, ORRRRRR
+O, \varepsilon_14, \varepsilon, 1.0, ORRRRRRRRR
+O, \psi_6, \psi, 1.0, ORR
+O, =_5, =, 1.0, OR
+O, COMMA_23, COMMA, 1.0, ORRRRRRRRRRRRRRRRR
+O, f_8, f, 1.0, ORRRR
+O, \varepsilon_3, \varepsilon, 1.0, O
+O, \theta_21, \theta, 1.0, ORRRRRRRRRRRRRRR
+O, COMMA_12, COMMA, 1.0, ORRRRRRRR
+O, =_16, =, 1.0, ORRRRRRRRRR
+O, \sin_18, \sin, 1.0, ORRRRRRRRRRRR
+O, \beta_26, \beta, 1.0, ORRRRRRRRRRRRRRRRRRSup
+O, (_9, (, 1.0, ORRRRR
+O, \theta_15, \theta, 1.0, ORRRRRRRRRSup
+O, \varepsilon_25, \varepsilon, 1.0, ORRRRRRRRRRRRRRRRRR
+O, f_19, f, 1.0, ORRRRRRRRRRRRR
+
+# Relations from SRT:
+R, (_20, \theta_21, Right, 1.0
+R, (_9, \theta_10, Right, 1.0
+R, )_11, COMMA_12, Right, 1.0
+R, )_22, COMMA_23, Right, 1.0
+R, =_16, \psi_17, Right, 1.0
+R, =_27, 0_28, Right, 1.0
+R, =_5, \psi_6, Right, 1.0
+R, COMMA_12, \varepsilon_14, Right, 1.0
+R, COMMA_23, \varepsilon_25, Right, 1.0
+R, \psi_17, \sin_18, Right, 1.0
+R, \psi_6, \tan_7, Right, 1.0
+R, \sin_18, f_19, Right, 1.0
+R, \tan_7, f_8, Right, 1.0
+R, \theta_10, )_11, Right, 1.0
+R, \theta_21, )_22, Right, 1.0
+R, \varepsilon_14, =_16, Right, 1.0
+R, \varepsilon_14, \theta_15, Sup, 1.0
+R, \varepsilon_25, =_27, Right, 1.0
+R, \varepsilon_25, \beta_26, Sup, 1.0
+R, \varepsilon_3, =_5, Right, 1.0
+R, \varepsilon_3, r_4, Sup, 1.0
+R, f_19, (_20, Right, 1.0
+R, f_8, (_9, Right, 1.0

@@ -1,0 +1,45 @@
+# IUD, v2_rendered_07487
+# Objects(21):
+O, R_6, R, 1.0, OR
+O, R_20, R, 1.0, ORRRRRRRR
+O, M_17, M, 1.0, ORRRRRRR
+O, COMMA_15, COMMA, 1.0, ORRRRRR
+O, M_3, M, 1.0, O
+O, m_12, m, 1.0, ORRRRR
+O, 2_14, 2, 1.0, ORRRRRSup
+O, s_4, s, 1.0, OSub
+O, 2_28, 2, 1.0, ORRRRRRRRRRRRSup
+O, s_18, s, 1.0, ORRRRRRRSub
+O, 1_13, 1, 1.0, ORRRRRSub
+O, \theta_23, \theta, 1.0, ORRRRRRRRRR
+O, \cos_22, \cos, 1.0, ORRRRRRRRR
+O, \gt_24, \gt, 1.0, ORRRRRRRRRRR
+O, \theta_9, \theta, 1.0, ORRR
+O, \gt_10, \gt, 1.0, ORRRR
+O, 1_7, 1, 1.0, ORSub
+O, m_26, m, 1.0, ORRRRRRRRRRRR
+O, 2_21, 2, 1.0, ORRRRRRRRSub
+O, \cos_8, \cos, 1.0, ORR
+O, 2_27, 2, 1.0, ORRRRRRRRRRRRSub
+
+# Relations from SRT:
+R, COMMA_15, M_17, Right, 1.0
+R, M_17, R_20, Right, 1.0
+R, M_17, s_18, Sub, 1.0
+R, M_3, R_6, Right, 1.0
+R, M_3, s_4, Sub, 1.0
+R, R_20, 2_21, Sub, 1.0
+R, R_20, \cos_22, Right, 1.0
+R, R_6, 1_7, Sub, 1.0
+R, R_6, \cos_8, Right, 1.0
+R, \cos_22, \theta_23, Right, 1.0
+R, \cos_8, \theta_9, Right, 1.0
+R, \gt_10, m_12, Right, 1.0
+R, \gt_24, m_26, Right, 1.0
+R, \theta_23, \gt_24, Right, 1.0
+R, \theta_9, \gt_10, Right, 1.0
+R, m_12, 1_13, Sub, 1.0
+R, m_12, 2_14, Sup, 1.0
+R, m_12, COMMA_15, Right, 1.0
+R, m_26, 2_27, Sub, 1.0
+R, m_26, 2_28, Sup, 1.0

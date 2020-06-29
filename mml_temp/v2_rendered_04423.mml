@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msubsup><mi>Y</mi><mn>4</mn><mrow><mo stretchy="false" form="prefix">(</mo><mn>1</mn><mo stretchy="false" form="postfix">)</mo></mrow></msubsup><mo>=</mo><mi>t</mi><mi>r</mi><msup><mi>R</mi><mn>2</mn></msup><mo>−</mo><mi>S</mi><mi>t</mi><mi>r</mi><msubsup><mi>F</mi><mn>9</mn><mn>2</mn></msubsup></mrow><annotation encoding="application/x-tex">\begin{equation}
+    Y _ { 4 } ^ { ( 1 ) } = t r R ^ { 2 } - S t r F _ { 9 } ^ { 2 }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

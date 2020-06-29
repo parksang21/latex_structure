@@ -1,0 +1,41 @@
+# IUD, v2_rendered_00984
+# Objects(19):
+O, [_19, [, 1.0, ORRRRRRRRRRR
+O, \lambda_18, \lambda, 1.0, ORRRRRRRRRR
+O, H_21, H, 1.0, ORRRRRRRRRRRR
+O, 2_10, 2, 1.0, ORRRRRSup
+O, e_3, e, 1.0, OR
+O, q_17, q, 1.0, ORRRRRRRRR
+O, q_8, q, 1.0, ORRRRR
+O, H_12, H, 1.0, ORRRRRSupR
+O, =_14, =, 1.0, ORRRRRR
+O, 1_15, 1, 1.0, ORRRRRRR
+O, +_16, +, 1.0, ORRRRRRRR
+O, q_25, q, 1.0, ORRRRRRRRRRRRRSub
+O, \equiv_6, \equiv, 1.0, ORRRR
+O, Y_5, Y, 1.0, ORRR
+O, 0_22, 0, 1.0, ORRRRRRRRRRRRSub
+O, ]_24, ], 1.0, ORRRRRRRRRRRRR
+O, 0_13, 0, 1.0, ORRRRRSupRSub
+O, D_2, D, 1.0, O
+O, t_4, t, 1.0, ORR
+
+# Relations from SRT:
+R, +_16, q_17, Right, 1.0
+R, 1_15, +_16, Right, 1.0
+R, 2_10, H_12, Right, 1.0
+R, =_14, 1_15, Right, 1.0
+R, D_2, e_3, Right, 1.0
+R, H_12, 0_13, Sub, 1.0
+R, H_21, 0_22, Sub, 1.0
+R, H_21, ]_24, Right, 1.0
+R, Y_5, \equiv_6, Right, 1.0
+R, [_19, H_21, Right, 1.0
+R, \equiv_6, q_8, Right, 1.0
+R, \lambda_18, [_19, Right, 1.0
+R, ]_24, q_25, Sub, 1.0
+R, e_3, t_4, Right, 1.0
+R, q_17, \lambda_18, Right, 1.0
+R, q_8, 2_10, Sup, 1.0
+R, q_8, =_14, Right, 1.0
+R, t_4, Y_5, Right, 1.0

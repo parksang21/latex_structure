@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { 0 x } = \alpha \lim _ { I } g _ { I i } ^ { 1 } X ^ { I } \alpha _ { \alpha } ( X ^ { I } )
+\end{equation}

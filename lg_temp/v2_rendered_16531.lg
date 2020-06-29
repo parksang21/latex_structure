@@ -1,0 +1,35 @@
+# IUD, v2_rendered_16531
+# Objects(16):
+O, ω_3, ω, 1.0, 0
+O, -_16, -, 1.0, 12
+O, 3_15, 3, 1.0, 11
+O, \sin_9, \sin, 1.0, 6
+O, \phi_12, \phi, 1.0, 9
+O, \sin_11, \sin, 1.0, 8
+O, 2_4, 2, 1.0, 1
+O, =_5, =, 1.0, 2
+O, \beta_8, \beta, 1.0, 5
+O, \cos_18, \cos, 1.0, 14
+O, \sin_7, \sin, 1.0, 4
+O, \rho_6, \rho, 1.0, 3
+O, ω_14, ω, 1.0, 10
+O, \rho_17, \rho, 1.0, 13
+O, \theta_10, \theta, 1.0, 7
+O, \theta_19, \theta, 1.0, 15
+
+# Relations from SRT:
+R, -_16, \rho_17, Right, 1.0
+R, =_5, \rho_6, Right, 1.0
+R, \beta_8, \sin_9, Right, 1.0
+R, \cos_18, \theta_19, Right, 1.0
+R, \phi_12, ω_14, Right, 1.0
+R, \rho_17, \cos_18, Right, 1.0
+R, \rho_6, \sin_7, Right, 1.0
+R, \sin_11, \phi_12, Right, 1.0
+R, \sin_7, \beta_8, Right, 1.0
+R, \sin_9, \theta_10, Right, 1.0
+R, \theta_10, \sin_11, Right, 1.0
+R, ω_14, -_16, Right, 1.0
+R, ω_14, 3_15, Sup, 1.0
+R, ω_3, 2_4, Sup, 1.0
+R, ω_3, =_5, Right, 1.0

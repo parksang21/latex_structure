@@ -1,0 +1,3 @@
+\begin{equation}
+	g , z ) \sim ( g t , \lambda ( t ^ { \cdot 1 } ) z ) \therefore t \in T
+\end{equation}

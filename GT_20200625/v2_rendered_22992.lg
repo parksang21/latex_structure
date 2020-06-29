@@ -1,0 +1,39 @@
+# IUD, v2_rendered_22992
+# Objects(18):
+O, \lim_10, \lim, 1.0, ORRRRRRR
+O, x_5, x, 1.0, ORRR
+O, (_13, (, 1.0, ORRRRRRRRR
+O, -_15, -, 1.0, ORRRRRRRRRRR
+O, )_19, ), 1.0, ORRRRRRRRRRRRR
+O, \phi_2, \phi, 1.0, O
+O, \lambda_17, \lambda, 1.0, ORRRRRRRRRRRR
+O, \sigma_3, \sigma, 1.0, OR
+O, x_14, x, 1.0, ORRRRRRRRRR
+O, =_7, =, 1.0, ORRRRR
+O, -_8, -, 1.0, ORRRRRR
+O, )_6, ), 1.0, ORRRR
+O, (_4, (, 1.0, ORR
+O, i_18, i, 1.0, ORRRRRRRRRRRRSub
+O, \delta_12, \delta, 1.0, ORRRRRRRR
+O, p_21, p, 1.0, ORRRRRRRRRRRRRR
+O, i_11, i, 1.0, ORRRRRRRBelow
+O, i_22, i, 1.0, ORRRRRRRRRRRRRRSub
+
+# Relations from SRT:
+R, (_13, x_14, Right, 1.0
+R, (_4, x_5, Right, 1.0
+R, )_19, p_21, Right, 1.0
+R, )_6, =_7, Right, 1.0
+R, -_15, \lambda_17, Right, 1.0
+R, -_8, \lim_10, Right, 1.0
+R, =_7, -_8, Right, 1.0
+R, \delta_12, (_13, Right, 1.0
+R, \lambda_17, )_19, Right, 1.0
+R, \lambda_17, i_18, Sub, 1.0
+R, \lim_10, \delta_12, Right, 1.0
+R, \lim_10, i_11, Below, 1.0
+R, \phi_2, \sigma_3, Right, 1.0
+R, \sigma_3, (_4, Right, 1.0
+R, p_21, i_22, Sub, 1.0
+R, x_14, -_15, Right, 1.0
+R, x_5, )_6, Right, 1.0

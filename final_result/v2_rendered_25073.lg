@@ -1,0 +1,43 @@
+# IUD, v2_rendered_25073
+# Objects(20):
+O, (_23, (, 1.0, ORRRRRRRRRRR
+O, +_13, +, 1.0, ORRRRRRR
+O, n_10, n, 1.0, ORRRRR
+O, (_5, (, 1.0, OR
+O, 0_22, 0, 1.0, ORRRRRRRRRRSub
+O, \pi_15, \pi, 1.0, ORRRRRRRRAbove
+O, =_8, =, 1.0, ORRRR
+O, 2_16, 2, 1.0, ORRRRRRRRBelow
+O, )_7, ), 1.0, ORRR
+O, \sin_18, \sin, 1.0, ORRRRRRRRR
+O, \pi_12, \pi, 1.0, ORRRRRR
+O, _14, -, 1.0, ORRRRRRRR
+O, 0_11, 0, 1.0, ORRRRRSub
+O, )_25, ), 1.0, ORRRRRRRRRRRRR
+O, 0_24, 0, 1.0, ORRRRRRRRRRRR
+O, \varepsilon_21, \varepsilon, 1.0, ORRRRRRRRRR
+O, 0_4, 0, 1.0, OSub
+O, \varepsilon_3, \varepsilon, 1.0, O
+O, 0_6, 0, 1.0, ORR
+O, 2_19, 2, 1.0, ORRRRRRRRRSup
+
+# Relations from SRT:
+R, (_23, 0_24, Right, 1.0
+R, (_5, 0_6, Right, 1.0
+R, )_7, =_8, Right, 1.0
+R, +_13, _14, Right, 1.0
+R, 0_24, )_25, Right, 1.0
+R, 0_6, )_7, Right, 1.0
+R, =_8, n_10, Right, 1.0
+R, \pi_12, +_13, Right, 1.0
+R, \sin_18, 2_19, Sup, 1.0
+R, \sin_18, \varepsilon_21, Right, 1.0
+R, \varepsilon_21, (_23, Right, 1.0
+R, \varepsilon_21, 0_22, Sub, 1.0
+R, \varepsilon_3, (_5, Right, 1.0
+R, \varepsilon_3, 0_4, Sub, 1.0
+R, _14, 2_16, Below, 1.0
+R, _14, \pi_15, Above, 1.0
+R, _14, \sin_18, Right, 1.0
+R, n_10, 0_11, Sub, 1.0
+R, n_10, \pi_12, Right, 1.0

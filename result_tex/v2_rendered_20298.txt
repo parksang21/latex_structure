@@ -1,0 +1,3 @@
+\begin{equation}
+	v _ { 0 } l ( U ( 1 , 1 ) ) \subset \int d \mu \subset < 0 \vert 0 > = 0
+\end{equation}

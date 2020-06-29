@@ -1,0 +1,3 @@
+\begin{equation}
+	\langle x _ { 1 } \csqrts x _ { N } ) \leq \frac { ( 2 3 / 2 5 3 ) ^ { N } } { N ! }
+\end{equation}

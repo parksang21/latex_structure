@@ -1,0 +1,27 @@
+# IUD, v2_rendered_02121
+# Objects(12):
+O, j_11, j, 1.0, ORRRRRRR
+O, \exists_10, \exists, 1.0, ORRRRRR
+O, \beta_2, \beta, 1.0, O
+O, j_6, j, 1.0, ORRSub
+O, \circle_3, \circle, 1.0, OR
+O, \gamma_15, \gamma, 1.0, ORRRRRRRRRSup
+O, A_14, A, 1.0, ORRRRRRRRR
+O, \gamma_5, \gamma, 1.0, ORR
+O, \in_12, \in, 1.0, ORRRRRRRR
+O, COMMA_9, COMMA, 1.0, ORRRRR
+O, =_7, =, 1.0, ORRR
+O, \beta_8, \beta, 1.0, ORRRR
+
+# Relations from SRT:
+R, =_7, \beta_8, Right, 1.0
+R, A_14, \gamma_15, Sup, 1.0
+R, COMMA_9, \exists_10, Right, 1.0
+R, \beta_2, \circle_3, Right, 1.0
+R, \beta_8, COMMA_9, Right, 1.0
+R, \circle_3, \gamma_5, Right, 1.0
+R, \exists_10, j_11, Right, 1.0
+R, \gamma_5, =_7, Right, 1.0
+R, \gamma_5, j_6, Sub, 1.0
+R, \in_12, A_14, Right, 1.0
+R, j_11, \in_12, Right, 1.0

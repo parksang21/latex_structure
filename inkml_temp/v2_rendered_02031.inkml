@@ -1,0 +1,71 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_02031</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msqrt xml:id="_2"><mi xml:id="\theta_3">θ</mi></msqrt><mo xml:id="=_4">=</mo><mo xml:id="-_5">−</mo><mi xml:id="\beta_6">β</mi><mo xml:id="\sin_7">sin</mo><mi xml:id="\theta_8">θ</mi><mo xml:id="-_9">−</mo><mo xml:id="\tan_10">tan</mo><mi xml:id="\theta_11">θ</mi><mo xml:id="+_12">+</mo><mi xml:id="\varepsilon_13">ε</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\theta</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\theta_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="=_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="-_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\beta</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\beta_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">\sin</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="\sin_7"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\theta</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\theta_8"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="-_9"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\tan</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\tan_10"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">\theta</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="\theta_11"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">+</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="+_12"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">\varepsilon</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="\varepsilon_13"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="_2"/>
+	</traceGroup>
+</traceGroup>
+</ink>

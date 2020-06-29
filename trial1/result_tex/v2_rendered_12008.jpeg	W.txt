@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { b } ^ { \prime } = \lim _ { a } \phi ^ { a } W _ { a b }
+\end{equation}

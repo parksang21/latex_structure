@@ -1,0 +1,39 @@
+# IUD, v2_rendered_10991
+# Objects(18):
+O, T_3, T, 1.0, O
+O, [_5, [, 1.0, OR
+O, r_11, r, 1.0, ORRRRRSub
+O, \leq_8, \leq, 1.0, ORRRR
+O, -_13, -, 1.0, ORRRRRR
+O, \infty_22, \infty, 1.0, ORRRRRRRRRRRRR
+O, c_10, c, 1.0, ORRRRR
+O, ]_7, ], 1.0, ORRR
+O, \forall_17, \forall, 1.0, ORRRRRRRR
+O, \lt_19, \lt, 1.0, ORRRRRRRRRR
+O, c_6, c, 1.0, ORR
+O, c_15, c, 1.0, ORRRRRRR
+O, 8_4, 8, 1.0, OSub
+O, 8_12, 8, 1.0, ORRRRRSup
+O, r_16, r, 1.0, ORRRRRRRSup
+O, c_20, c, 1.0, ORRRRRRRRRRR
+O, 8_18, 8, 1.0, ORRRRRRRRR
+O, \lt_21, \lt, 1.0, ORRRRRRRRRRRR
+
+# Relations from SRT:
+R, -_13, c_15, Right, 1.0
+R, 8_18, \lt_19, Right, 1.0
+R, T_3, 8_4, Sub, 1.0
+R, T_3, [_5, Right, 1.0
+R, [_5, c_6, Right, 1.0
+R, \forall_17, 8_18, Right, 1.0
+R, \leq_8, c_10, Right, 1.0
+R, \lt_19, c_20, Right, 1.0
+R, \lt_21, \infty_22, Right, 1.0
+R, ]_7, \leq_8, Right, 1.0
+R, c_10, -_13, Right, 1.0
+R, c_10, 8_12, Sup, 1.0
+R, c_10, r_11, Sub, 1.0
+R, c_15, \forall_17, Right, 1.0
+R, c_15, r_16, Sup, 1.0
+R, c_20, \lt_21, Right, 1.0
+R, c_6, ]_7, Right, 1.0

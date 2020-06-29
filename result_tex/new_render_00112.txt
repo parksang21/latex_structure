@@ -1,0 +1,3 @@
+\begin{equation}
+	[ \delta , \pi ( t ) ] = 0 , \therefore t \not\subset F
+\end{equation}

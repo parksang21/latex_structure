@@ -1,0 +1,71 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_03486</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mi xml:id="F_2">F</mi><mo xml:id="\equiv_3">≡</mo><mfrac xml:id="_4"><mn xml:id="1_5">1</mn><mn xml:id="4_6">4</mn></mfrac><msup><mi xml:id="F_8">F</mi><mrow><mi xml:id="a_10">a</mi><mi xml:id="b_11">b</mi></mrow></msup><msub><mi xml:id="F_13">F</mi><mrow><mi xml:id="a_15">a</mi><mi xml:id="b_16">b</mi></mrow></msub><mo xml:id="\neq_17">≠</mo></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">F</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="F_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\equiv</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\equiv_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">1</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="1_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">4</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="4_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">F</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="F_8"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">a</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="a_10"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">b</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="b_11"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">F</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="F_13"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">a</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="a_15"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">b</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="b_16"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">\neq</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="\neq_17"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="_4"/>
+	</traceGroup>
+</traceGroup>
+</ink>

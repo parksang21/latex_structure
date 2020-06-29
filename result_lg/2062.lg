@@ -1,0 +1,43 @@
+# IUD, 2062
+# Objects(20):
+O, 0_22, 0, 1.0, ORRRRRRRRRRRR
+O, l_3, l, 1.0, OInside
+O, B_9, B, 1.0, ORRRRInside
+O, [_6, [, 1.0, ORRR
+O, \sigma_18, \sigma, 1.0, ORRRRRRRRRInside
+O, _11, \sqrt, 1.0, ORRRRR
+O, _19, \sqrt, 1.0, ORRRRRRRRRR
+O, 0_14, 0, 1.0, ORRRRRRR
+O, _17, \sqrt, 1.0, ORRRRRRRRR
+O, =_13, =, 1.0, ORRRRRR
+O, 0_5, 0, 1.0, ORR
+O, _8, \sqrt, 1.0, ORRRR
+O, i_10, i, 1.0, ORRRRSub
+O, =_21, =, 1.0, ORRRRRRRRRRR
+O, j_12, j, 1.0, ORRRRRInside
+O, _2, \sqrt, 1.0, O
+O, _15, \sqrt, 1.0, ORRRRRRRR
+O, \sigma_20, \sigma, 1.0, ORRRRRRRRRRInside
+O, ω_16, ω, 1.0, ORRRRRRRRInside
+O, =_4, =, 1.0, OR
+
+# Relations from SRT:
+R, 0_14, _15, Right, 1.0
+R, 0_5, [_6, Right, 1.0
+R, =_13, 0_14, Right, 1.0
+R, =_21, 0_22, Right, 1.0
+R, =_4, 0_5, Right, 1.0
+R, [_6, _8, Right, 1.0
+R, _11, =_13, Right, 1.0
+R, _11, j_12, Inside, 1.0
+R, _15, _17, Right, 1.0
+R, _15, ω_16, Inside, 1.0
+R, _17, \sigma_18, Inside, 1.0
+R, _17, _19, Right, 1.0
+R, _19, =_21, Right, 1.0
+R, _19, \sigma_20, Inside, 1.0
+R, _2, =_4, Right, 1.0
+R, _2, l_3, Inside, 1.0
+R, _8, B_9, Inside, 1.0
+R, _8, _11, Right, 1.0
+R, _8, i_10, Sub, 1.0

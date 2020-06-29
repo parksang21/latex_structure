@@ -1,0 +1,56 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">513_em_323_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mo xml:id="\sum_2">∑</mo><mi xml:id="\pi_3">π</mi><msup><mi xml:id="r_5">r</mi><mn xml:id="2_6">2</mn></msup><mo xml:id="=_7">=</mo><mi xml:id="\pi_8">π</mi><mo xml:id="\sum_9">∑</mo><msup><mi xml:id="r_11">r</mi><mn xml:id="2_12">2</mn></msup></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\sum</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\sum_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\pi</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\pi_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">r</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="r_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">2</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="2_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="=_7"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\pi</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\pi_8"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">\sum</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="\sum_9"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">r</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="r_11"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">2</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="2_12"/>
+	</traceGroup>
+</traceGroup>
+</ink>

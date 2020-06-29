@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { i j \cdots k } = - \sqrt { h } \delta _ { i j \cdots k }
+\end{equation}

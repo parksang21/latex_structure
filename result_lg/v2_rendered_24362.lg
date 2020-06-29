@@ -1,0 +1,41 @@
+# IUD, v2_rendered_24362
+# Objects(19):
+O, N_24, N, 1.0, ORRRRRRRSub
+O, \rangle_4, \rangle, 1.0, ORR
+O, \infty_12, \infty, 1.0, ORRRRBelowRRR
+O, \theta_20, \theta, 1.0, ORRRRRSupRRR
+O, \rangle_25, \rangle, 1.0, ORRRRRRRR
+O, \theta_3, \theta, 1.0, OR
+O, \sum_7, \sum, 1.0, ORRRR
+O, -_11, -, 1.0, ORRRRBelowRR
+O, \vert_2, \vert, 1.0, O
+O, =_10, =, 1.0, ORRRRBelowR
+O, N_19, N, 1.0, ORRRRRSupRR
+O, \vert_21, \vert, 1.0, ORRRRRR
+O, V_23, V, 1.0, ORRRRRRR
+O, =_5, =, 1.0, ORRR
+O, -_17, -, 1.0, ORRRRRSup
+O, N_9, N, 1.0, ORRRRBelow
+O, \infty_13, \infty, 1.0, ORRRRAbove
+O, e_15, e, 1.0, ORRRRR
+O, \lambda_18, \lambda, 1.0, ORRRRRSupR
+
+# Relations from SRT:
+R, -_11, \infty_12, Right, 1.0
+R, -_17, \lambda_18, Right, 1.0
+R, =_10, -_11, Right, 1.0
+R, =_5, \sum_7, Right, 1.0
+R, N_19, \theta_20, Right, 1.0
+R, N_9, =_10, Right, 1.0
+R, V_23, N_24, Sub, 1.0
+R, V_23, \rangle_25, Right, 1.0
+R, \lambda_18, N_19, Right, 1.0
+R, \rangle_4, =_5, Right, 1.0
+R, \sum_7, N_9, Below, 1.0
+R, \sum_7, \infty_13, Above, 1.0
+R, \sum_7, e_15, Right, 1.0
+R, \theta_3, \rangle_4, Right, 1.0
+R, \vert_21, V_23, Right, 1.0
+R, \vert_2, \theta_3, Right, 1.0
+R, e_15, -_17, Sup, 1.0
+R, e_15, \vert_21, Right, 1.0

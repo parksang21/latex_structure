@@ -1,0 +1,47 @@
+# IUD, v2_rendered_17603
+# Objects(22):
+O, (_13, (, 1.0, ORRRRRRRR
+O, )_22, ), 1.0, ORRRRRRRRRSubRRR
+O, \sigma_11, \sigma, 1.0, ORRRRRRRSub
+O, \pm_12, \pm, 1.0, ORRRRRRRSup
+O, g_15, g, 1.0, ORRRRRRRRR
+O, =_8, =, 1.0, ORRRRRR
+O, 0_27, 0, 1.0, ORRRRRRRRRRRRSub
+O, COMMA_4, COMMA, 1.0, ORR
+O, \vert_2, \vert, 1.0, O
+O, \rangle_7, \rangle, 1.0, ORRRRR
+O, )_23, ), 1.0, ORRRRRRRRRR
+O, x_3, x, 1.0, OR
+O, \sigma_6, \sigma, 1.0, ORRRR
+O, \pm_19, \pm, 1.0, ORRRRRRRRRSubSub
+O, \psi_26, \psi, 1.0, ORRRRRRRRRRRR
+O, \pm_5, \pm, 1.0, ORRR
+O, (_20, (, 1.0, ORRRRRRRRRSubR
+O, x_21, x, 1.0, ORRRRRRRRRSubRR
+O, \vert_24, \vert, 1.0, ORRRRRRRRRRR
+O, y_18, y, 1.0, ORRRRRRRRRSub
+O, \rangle_28, \rangle, 1.0, ORRRRRRRRRRRRR
+O, T_10, T, 1.0, ORRRRRRR
+
+# Relations from SRT:
+R, (_13, g_15, Right, 1.0
+R, (_20, x_21, Right, 1.0
+R, )_23, \vert_24, Right, 1.0
+R, =_8, T_10, Right, 1.0
+R, COMMA_4, \pm_5, Right, 1.0
+R, T_10, (_13, Right, 1.0
+R, T_10, \pm_12, Sup, 1.0
+R, T_10, \sigma_11, Sub, 1.0
+R, \pm_5, \sigma_6, Right, 1.0
+R, \psi_26, 0_27, Sub, 1.0
+R, \psi_26, \rangle_28, Right, 1.0
+R, \rangle_7, =_8, Right, 1.0
+R, \sigma_6, \rangle_7, Right, 1.0
+R, \vert_24, \psi_26, Right, 1.0
+R, \vert_2, x_3, Right, 1.0
+R, g_15, )_23, Right, 1.0
+R, g_15, y_18, Sub, 1.0
+R, x_21, )_22, Right, 1.0
+R, x_3, COMMA_4, Right, 1.0
+R, y_18, (_20, Right, 1.0
+R, y_18, \pm_19, Sub, 1.0

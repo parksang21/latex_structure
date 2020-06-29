@@ -1,0 +1,3 @@
+\begin{equation}
+	= - \phi _ { K } ( x + a ) \phi _ { \bar { K } } ( x ) \phi _ { K } ( x - a )
+\end{equation}

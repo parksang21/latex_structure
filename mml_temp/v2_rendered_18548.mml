@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>λ</mi><msqrt><mi>α</mi></msqrt><mo>=</mo><msqrt><mrow><mo stretchy="false" form="prefix">(</mo><msqrt><mi>λ</mi></msqrt><mi>α</mi><mo stretchy="false" form="postfix">)</mo></mrow></msqrt><mo>,</mo><mo>∃</mo><mi>λ</mi><mo>∩</mo><mi>C</mi><mo>,</mo><mi>α</mi><mo>∩</mo><mi>E</mi><mo>,</mo><msqrt><mi>α</mi></msqrt><mo>∩</mo><msqrt><mi>E</mi></msqrt></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \lambda \sqrt { \alpha } = \sqrt { ( \sqrt { \lambda } \alpha ) } , \exists \lambda \cap C , \alpha \cap E , \sqrt { \alpha } \cap \sqrt { E }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

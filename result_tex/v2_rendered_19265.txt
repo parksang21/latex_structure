@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta ( a \circ b ) = \Delta a \circ b + ( - 1 ) ^ { w } a \circ \Delta b
+\end{equation}

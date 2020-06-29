@@ -1,0 +1,3 @@
+\begin{equation}
+	C = \frac { w } { 2 } - \frac { w ^ { 2 } } { 4 }
+\end{equation}

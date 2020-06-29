@@ -1,0 +1,45 @@
+# IUD, v2_rendered_11205
+# Objects(21):
+O, 5_15, 5, 1.0, ORRRRRRRSub
+O, G_5, G, 1.0, OR
+O, \Delta_8, \Delta, 1.0, ORRR
+O, 5_29, 5, 1.0, ORRRRRRRRRRRRRSub
+O, \beta_10, \beta, 1.0, ORRRR
+O, \mu_9, \mu, 1.0, ORRRSub
+O, \Delta_19, \Delta, 1.0, ORRRRRRRRRR
+O, \mu_20, \mu, 1.0, ORRRRRRRRRRSub
+O, )_16, ), 1.0, ORRRRRRRR
+O, \gamma_14, \gamma, 1.0, ORRRRRRR
+O, \mu_4, \mu, 1.0, OSub
+O, \Delta_3, \Delta, 1.0, O
+O, \gamma_25, \gamma, 1.0, ORRRRRRRRRRRR
+O, i_12, i, 1.0, ORRRRRR
+O, \gamma_28, \gamma, 1.0, ORRRRRRRRRRRRR
+O, (_11, (, 1.0, ORRRRR
+O, v_22, v, 1.0, ORRRRRRRRRRR
+O, -_17, -, 1.0, ORRRRRRRRR
+O, a_23, a, 1.0, ORRRRRRRRRRRSup
+O, a_26, a, 1.0, ORRRRRRRRRRRRSub
+O, =_6, =, 1.0, ORR
+
+# Relations from SRT:
+R, (_11, i_12, Right, 1.0
+R, )_16, -_17, Right, 1.0
+R, -_17, \Delta_19, Right, 1.0
+R, =_6, \Delta_8, Right, 1.0
+R, G_5, =_6, Right, 1.0
+R, \Delta_19, \mu_20, Sub, 1.0
+R, \Delta_19, v_22, Right, 1.0
+R, \Delta_3, G_5, Right, 1.0
+R, \Delta_3, \mu_4, Sub, 1.0
+R, \Delta_8, \beta_10, Right, 1.0
+R, \Delta_8, \mu_9, Sub, 1.0
+R, \beta_10, (_11, Right, 1.0
+R, \gamma_14, )_16, Right, 1.0
+R, \gamma_14, 5_15, Sub, 1.0
+R, \gamma_25, \gamma_28, Right, 1.0
+R, \gamma_25, a_26, Sub, 1.0
+R, \gamma_28, 5_29, Sub, 1.0
+R, i_12, \gamma_14, Right, 1.0
+R, v_22, \gamma_25, Right, 1.0
+R, v_22, a_23, Sup, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { G } ( \div 1 ) ^ { ( W ( G ) \div 1 ) } ( W ( G ) \div 1 ) !
+\end{equation}

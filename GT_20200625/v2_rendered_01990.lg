@@ -1,0 +1,19 @@
+# IUD, v2_rendered_01990
+# Objects(8):
+O, 4_11, 4, 1.0, ORRBelow
+O, _6, -, 1.0, ORR
+O, \notin_5, \notin, 1.0, OR
+O, \gamma_3, \gamma, 1.0, O
+O, n_4, n, 1.0, OSub
+O, _9, \sqrt, 1.0, ORRAboveR
+O, \pi_8, \pi, 1.0, ORRAbove
+O, 2_10, 2, 1.0, ORRAboveRInside
+
+# Relations from SRT:
+R, \gamma_3, \notin_5, Right, 1.0
+R, \gamma_3, n_4, Sub, 1.0
+R, \notin_5, _6, Right, 1.0
+R, \pi_8, _9, Right, 1.0
+R, _6, 4_11, Below, 1.0
+R, _6, \pi_8, Above, 1.0
+R, _9, 2_10, Inside, 1.0

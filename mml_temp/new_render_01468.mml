@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msqrt><msqrt><mi>ε</mi></msqrt></msqrt><msub><mi>θ</mi><mi>⊥</mi></msub><msqrt><mi>ε</mi></msqrt><mo>≦</mo><mn>0</mn><mo>,</mo><msub><mi>θ</mi><mi>⊥</mi></msub><mo>≠</mo><msub><mi>N</mi><mi>c</mi></msub><msup><mi>θ</mi><mi>c</mi></msup></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \sqrt { \sqrt { \varepsilon } } \theta _ { \bot } \sqrt { \varepsilon } \leqq 0 , \theta _ { \bot } \neq N _ { c } \theta ^ { c }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

@@ -1,0 +1,37 @@
+# IUD, 3012
+# Objects(17):
+O, 0_16, 0, 1.0, 11
+O, p_2, p, 1.0, 0
+O, \infty_20, \infty, 1.0, 15
+O, )_5, ), 1.0, 3
+O, t_12, t, 1.0, 8
+O, t_4, t, 1.0, 2
+O, \rightarrow_18, \rightarrow, 1.0, 13
+O, (_11, (, 1.0, 7
+O, (_3, (, 1.0, 1
+O, u_6, u, 1.0, 4
+O, COMMA_13, COMMA, 1.0, 9
+O, t_17, t, 1.0, 12
+O, -_19, -, 1.0, 14
+O, -_7, -, 1.0, 5
+O, 1_9, 1, 1.0, 6
+O, p_15, p, 1.0, 10
+O, _8, -, 1.0, 16
+
+# Relations from SRT:
+R, (_11, t_12, Right, 1.0
+R, (_3, t_4, Right, 1.0
+R, )_5, u_6, Right, 1.0
+R, -_19, \infty_20, Right, 1.0
+R, -_7, _8, Right, 1.0
+R, COMMA_13, p_15, Right, 1.0
+R, \rightarrow_18, -_19, Right, 1.0
+R, _8, (_11, Below, 1.0
+R, _8, 1_9, Above, 1.0
+R, _8, COMMA_13, Right, 1.0
+R, p_15, 0_16, Sub, 1.0
+R, p_15, t_17, Right, 1.0
+R, p_2, (_3, Right, 1.0
+R, t_17, \rightarrow_18, Right, 1.0
+R, t_4, )_5, Right, 1.0
+R, u_6, -_7, Right, 1.0

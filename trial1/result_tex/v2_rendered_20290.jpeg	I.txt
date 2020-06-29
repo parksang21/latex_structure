@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { n } \approx Q r ( \lambda ^ { n } ) , ( n \approx 1 , \ldots )
+\end{equation}

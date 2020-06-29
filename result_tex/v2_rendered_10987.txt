@@ -1,0 +1,3 @@
+\begin{equation}
+	S [ r ] = S [ \phi ] + S [ \beta ] + S i n t [ \phi , \beta ]
+\end{equation}

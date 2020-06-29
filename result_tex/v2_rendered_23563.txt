@@ -1,0 +1,3 @@
+\begin{equation}
+	G _ { \sigma } \neq G _ { \sigma } \circ G _ { \sigma }
+\end{equation}

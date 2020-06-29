@@ -1,0 +1,3 @@
+\begin{equation}
+	c = \frac { 9 _ { 1 } } { q _ { - } a _ { 2 } }
+\end{equation}

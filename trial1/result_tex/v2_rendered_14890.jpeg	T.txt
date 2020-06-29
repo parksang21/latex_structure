@@ -1,0 +1,3 @@
+\begin{equation}
+	= \sum _ { i = 1 } ^ { r } 1 \odot \cdots \odot 1 \odot T _ { i } \odot 1 \odot \cdots \odot 1
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	g ( \tau ) = \frac { A _ { T } + B } { C _ { T } + D } , A D - B C = 1
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	j ^ { a } = \theta _ { b c } ^ { a } q ^ { b } p ^ { c } + s ^ { a }
+\end{equation}

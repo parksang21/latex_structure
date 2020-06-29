@@ -1,0 +1,3 @@
+\begin{equation}
+	= V o l ( Z M ) ( T ( X ) ) ^ { \alpha }
+\end{equation}

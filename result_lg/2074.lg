@@ -1,0 +1,45 @@
+# IUD, 2074
+# Objects(21):
+O, \Omega_9, \Omega, 1.0, ORRRR
+O, )_11, ), 1.0, ORRRRR
+O, \Omega_25, \Omega, 1.0, ORRRRRRRRRRRRRR
+O, f_16, f, 1.0, ORRRRRRRR
+O, 3_15, 3, 1.0, ORRRRRRRSub
+O, 0_14, 0, 1.0, ORRRRRRR
+O, \Omega_19, \Omega, 1.0, ORRRRRRRRRR
+O, V_3, V, 1.0, O
+O, =_12, =, 1.0, ORRRRRR
+O, V_6, V, 1.0, ORR
+O, 3_26, 3, 1.0, ORRRRRRRRRRRRRRSub
+O, (_23, (, 1.0, ORRRRRRRRRRRRR
+O, (_7, (, 1.0, ORRR
+O, 3_4, 3, 1.0, OSub
+O, F_22, F, 1.0, ORRRRRRRRRRRR
+O, )_27, ), 1.0, ORRRRRRRRRRRRRRR
+O, )_21, ), 1.0, ORRRRRRRRRRR
+O, 3_10, 3, 1.0, ORRRRSub
+O, (_17, (, 1.0, ORRRRRRRRR
+O, \equiv_5, \equiv, 1.0, OR
+O, 3_20, 3, 1.0, ORRRRRRRRRRSub
+
+# Relations from SRT:
+R, (_17, \Omega_19, Right, 1.0
+R, (_23, \Omega_25, Right, 1.0
+R, (_7, \Omega_9, Right, 1.0
+R, )_11, =_12, Right, 1.0
+R, )_21, F_22, Right, 1.0
+R, 0_14, 3_15, Sub, 1.0
+R, 0_14, f_16, Right, 1.0
+R, =_12, 0_14, Right, 1.0
+R, F_22, (_23, Right, 1.0
+R, V_3, 3_4, Sub, 1.0
+R, V_3, \equiv_5, Right, 1.0
+R, V_6, (_7, Right, 1.0
+R, \Omega_19, )_21, Right, 1.0
+R, \Omega_19, 3_20, Sub, 1.0
+R, \Omega_25, )_27, Right, 1.0
+R, \Omega_25, 3_26, Sub, 1.0
+R, \Omega_9, )_11, Right, 1.0
+R, \Omega_9, 3_10, Sub, 1.0
+R, \equiv_5, V_6, Right, 1.0
+R, f_16, (_17, Right, 1.0

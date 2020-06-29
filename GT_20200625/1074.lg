@@ -1,0 +1,43 @@
+# IUD, 1074
+# Objects(20):
+O, b_10, b, 1.0, ORRSup
+O, \lambda_15, \lambda, 1.0, ORRRRRR
+O, (_18, (, 1.0, ORRRRRRRR
+O, E_8, E, 1.0, ORR
+O, (_13, (, 1.0, ORRRRR
+O, E_3, E, 1.0, O
+O, \alpha_4, \alpha, 1.0, OSub
+O, /_20, /, 1.0, ORRRRRRRRRR
+O, +_11, +, 1.0, ORRR
+O, )_25, ), 1.0, ORRRRRRRRRRRRR
+O, n_16, n, 1.0, ORRRRRRSup
+O, \alpha_9, \alpha, 1.0, ORRSub
+O, m_24, m, 1.0, ORRRRRRRRRRRRSup
+O, )_23, ), 1.0, ORRRRRRRRRRRR
+O, =_6, =, 1.0, OR
+O, a_5, a, 1.0, OSup
+O, \beta_21, \beta, 1.0, ORRRRRRRRRRR
+O, O_12, O, 1.0, ORRRR
+O, \mu_19, \mu, 1.0, ORRRRRRRRR
+O, COMMA_17, COMMA, 1.0, ORRRRRRR
+
+# Relations from SRT:
+R, (_13, \lambda_15, Right, 1.0
+R, (_18, \mu_19, Right, 1.0
+R, )_23, )_25, Right, 1.0
+R, )_23, m_24, Sup, 1.0
+R, +_11, O_12, Right, 1.0
+R, /_20, \beta_21, Right, 1.0
+R, =_6, E_8, Right, 1.0
+R, COMMA_17, (_18, Right, 1.0
+R, E_3, =_6, Right, 1.0
+R, E_3, \alpha_4, Sub, 1.0
+R, E_3, a_5, Sup, 1.0
+R, E_8, +_11, Right, 1.0
+R, E_8, \alpha_9, Sub, 1.0
+R, E_8, b_10, Sup, 1.0
+R, O_12, (_13, Right, 1.0
+R, \beta_21, )_23, Right, 1.0
+R, \lambda_15, COMMA_17, Right, 1.0
+R, \lambda_15, n_16, Sup, 1.0
+R, \mu_19, /_20, Right, 1.0

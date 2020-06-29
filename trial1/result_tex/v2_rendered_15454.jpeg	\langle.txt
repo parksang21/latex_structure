@@ -1,0 +1,3 @@
+\begin{equation}
+	\tilde { \gamma } ( x ) \tilde { \gamma } ( y ) \tilde { \gamma }
+\end{equation}

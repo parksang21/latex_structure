@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { 0 } { 0 } ( W , W ) \leqq h \beta \angle W
+\end{equation}

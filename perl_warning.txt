@@ -1,0 +1,53 @@
+  ERROR: unknown tag :mover
+unknown tag :mover
+./lg_gen/batch_mml2lg: line 59: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+./lg_gen/batch_mml2lg: line 60: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+  ERROR:  !! inkml_temp//507_em_71_0.inkml: unused symbol (symbol 9)
+ !! inkml_temp//507_em_71_0.inkml: invalid symbol (symbol 9)
+mi problem detected : no label
+./lg_gen/batch_mml2lg: line 59: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+./lg_gen/batch_mml2lg: line 60: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+  ERROR:  !! inkml_temp//new_render_01003.inkml: unused symbol (symbol 16)
+ !! inkml_temp//new_render_01003.inkml: invalid symbol (symbol 16)
+mi problem detected : no label
+./lg_gen/batch_mml2lg: line 59: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+./lg_gen/batch_mml2lg: line 60: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+  ERROR:  !! inkml_temp//new_render_01210.inkml: unused symbol (symbol 0)
+ !! inkml_temp//new_render_01210.inkml: invalid symbol (symbol 0)
+unknown tag :mover
+mi problem detected : no label
+unknown tag :mover
+./lg_gen/batch_mml2lg: line 59: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+./lg_gen/batch_mml2lg: line 60: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+  ERROR: unknown tag :mover
+unknown tag :mover
+./lg_gen/batch_mml2lg: line 59: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+./lg_gen/batch_mml2lg: line 60: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+  ERROR: unknown tag :mover
+unknown tag :mover
+./lg_gen/batch_mml2lg: line 59: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+./lg_gen/batch_mml2lg: line 60: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+  ERROR: unknown tag :mover
+unknown tag :mover
+./lg_gen/batch_mml2lg: line 59: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+./lg_gen/batch_mml2lg: line 60: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+  ERROR: unknown tag :mover
+unknown tag :mover
+./lg_gen/batch_mml2lg: line 59: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+./lg_gen/batch_mml2lg: line 60: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+  ERROR: unknown tag :mover
+unknown tag :mover
+./lg_gen/batch_mml2lg: line 59: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+./lg_gen/batch_mml2lg: line 60: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+  ERROR: unknown tag :mover
+unknown tag :mover
+./lg_gen/batch_mml2lg: line 59: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+./lg_gen/batch_mml2lg: line 60: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+  ERROR: unknown tag :mover
+unknown tag :mover
+./lg_gen/batch_mml2lg: line 59: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+./lg_gen/batch_mml2lg: line 60: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+  ERROR: unknown tag :mover
+unknown tag :mover
+./lg_gen/batch_mml2lg: line 59: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+./lg_gen/batch_mml2lg: line 60: ConvertCrohmeLgErrors-inkml_temp/: Is a directory

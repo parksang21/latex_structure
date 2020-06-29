@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta _ { i } z ^ { s } = - \Delta _ { v } f ( \Delta _ { s } f ) ^ { - 1 } \Delta _ { i } Z ^ { v }
+\end{equation}

@@ -1,0 +1,23 @@
+# IUD, v2_rendered_13868
+# Objects(10):
+O, \div_10, \div, 1.0, ORRR
+O, \Omega_13, \Omega, 1.0, ORRRRSub
+O, \Omega_4, \Omega, 1.0, OSub
+O, _7, \sqrt, 1.0, ORR
+O, c_12, c, 1.0, ORRRR
+O, c_8, c, 1.0, ORRInside
+O, \Omega_9, \Omega, 1.0, ORRSub
+O, c_3, c, 1.0, O
+O, \circle_14, \circle, 1.0, ORRRRSup
+O, \equiv_5, \equiv, 1.0, OR
+
+# Relations from SRT:
+R, \div_10, c_12, Right, 1.0
+R, \equiv_5, _7, Right, 1.0
+R, _7, \Omega_9, Sub, 1.0
+R, _7, \div_10, Right, 1.0
+R, _7, c_8, Inside, 1.0
+R, c_12, \Omega_13, Sub, 1.0
+R, c_12, \circle_14, Sup, 1.0
+R, c_3, \Omega_4, Sub, 1.0
+R, c_3, \equiv_5, Right, 1.0

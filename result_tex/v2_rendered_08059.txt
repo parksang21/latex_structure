@@ -1,0 +1,3 @@
+\begin{equation}
+	I _ { \rho } ( k ^ { \prime } u ) = e ^ { - i \rho \pi / 2 } J _ { \rho } ( i k ^ { \prime } u )
+\end{equation}

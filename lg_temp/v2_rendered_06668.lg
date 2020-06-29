@@ -1,0 +1,45 @@
+# IUD, v2_rendered_06668
+# Objects(21):
+O, -_11, -, 1.0, 6
+O, p_23, p, 1.0, 15
+O, 0_26, 0, 1.0, 18
+O, f_13, f, 1.0, 7
+O, x_10, x, 1.0, 5
+O, )_18, ), 1.0, 11
+O, \infty_7, \infty, 1.0, 3
+O, \notin_25, \notin, 1.0, 17
+O, (_15, (, 1.0, 9
+O, )_27, ), 1.0, 19
+O, d_8, d, 1.0, 4
+O, 0_20, 0, 1.0, 13
+O, _16, \sqrt, 1.0, 20
+O, x_17, x, 1.0, 10
+O, =_19, =, 1.0, 12
+O, \alpha_14, \alpha, 1.0, 8
+O, (_21, (, 1.0, 14
+O, \infty_6, \infty, 1.0, 2
+O, \int_3, \int, 1.0, 0
+O, +_24, +, 1.0, 16
+O, -_5, -, 1.0, 1
+
+# Relations from SRT:
+R, (_15, _16, Right, 1.0
+R, (_21, p_23, Right, 1.0
+R, )_18, =_19, Right, 1.0
+R, -_5, \infty_6, Right, 1.0
+R, 0_20, (_21, Right, 1.0
+R, 0_26, )_27, Right, 1.0
+R, =_19, 0_20, Right, 1.0
+R, \int_3, -_5, Sub, 1.0
+R, \int_3, \infty_7, Sup, 1.0
+R, \int_3, d_8, Right, 1.0
+R, \notin_25, 0_26, Right, 1.0
+R, _16, )_18, Right, 1.0
+R, _16, x_17, Inside, 1.0
+R, d_8, x_10, Right, 1.0
+R, f_13, (_15, Right, 1.0
+R, f_13, \alpha_14, Sub, 1.0
+R, p_23, +_24, Sup, 1.0
+R, p_23, \notin_25, Right, 1.0
+R, x_10, -_11, Sup, 1.0
+R, x_10, f_13, Right, 1.0

@@ -1,0 +1,31 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">2022</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msup><mi xml:id="Q_3">Q</mi><mn xml:id="2_4">2</mn></msup><mo xml:id="=_5">=</mo><mi xml:id="H_6">H</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">Q</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="Q_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">2</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="2_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="=_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">H</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="H_6"/>
+	</traceGroup>
+</traceGroup>
+</ink>

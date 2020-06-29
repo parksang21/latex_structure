@@ -1,0 +1,3 @@
+\begin{equation}
+	( \omega ) \geq \int _ { 0 } ^ { \infty } d t e ^ { i \omega t } A ( t )
+\end{equation}

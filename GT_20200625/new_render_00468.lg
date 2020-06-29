@@ -1,0 +1,41 @@
+# IUD, new_render_00468
+# Objects(19):
+O, =_6, =, 1.0, ORR
+O, )_14, ), 1.0, ORRRRRRRRRR
+O, COMMA_10, COMMA, 1.0, ORRRRRR
+O, -_18, -, 1.0, ORRRRRRRRRRRSup
+O, S_20, S, 1.0, ORRRRRRRRRRRSupR
+O, o_24, o, 1.0, ORRRRRRRRRRRSupRSupR
+O, \sigma_4, \sigma, 1.0, OR
+O, (_8, (, 1.0, ORRRR
+O, e_16, e, 1.0, ORRRRRRRRRRR
+O, (_23, (, 1.0, ORRRRRRRRRRRSupRSup
+O, P_7, P, 1.0, ORRR
+O, \theta_13, \theta, 1.0, ORRRRRRRRR
+O, s_11, s, 1.0, ORRRRRRR
+O, COMMA_12, COMMA, 1.0, ORRRRRRRR
+O, o_5, o, 1.0, ORSub
+O, \Omega_9, \Omega, 1.0, ORRRRR
+O, )_25, ), 1.0, ORRRRRRRRRRRSupRSupRR
+O, \square_2, \square, 1.0, O
+O, k_21, k, 1.0, ORRRRRRRRRRRSupRSub
+
+# Relations from SRT:
+R, (_23, o_24, Right, 1.0
+R, (_8, \Omega_9, Right, 1.0
+R, )_14, e_16, Right, 1.0
+R, -_18, S_20, Right, 1.0
+R, =_6, P_7, Right, 1.0
+R, COMMA_10, s_11, Right, 1.0
+R, COMMA_12, \theta_13, Right, 1.0
+R, P_7, (_8, Right, 1.0
+R, S_20, (_23, Sup, 1.0
+R, S_20, k_21, Sub, 1.0
+R, \Omega_9, COMMA_10, Right, 1.0
+R, \sigma_4, =_6, Right, 1.0
+R, \sigma_4, o_5, Sub, 1.0
+R, \square_2, \sigma_4, Right, 1.0
+R, \theta_13, )_14, Right, 1.0
+R, e_16, -_18, Sup, 1.0
+R, o_24, )_25, Right, 1.0
+R, s_11, COMMA_12, Right, 1.0

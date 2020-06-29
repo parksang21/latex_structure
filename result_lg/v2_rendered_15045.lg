@@ -1,0 +1,29 @@
+# IUD, v2_rendered_15045
+# Objects(13):
+O, \oplus_11, \oplus, 1.0, ORRRRRRRRR
+O, \angle_14, \angle, 1.0, ORRRRRRRRRRRR
+O, 4_10, 4, 1.0, ORRRRRRRR
+O, \leq_8, \leq, 1.0, ORRRRRR
+O, (_2, (, 1.0, O
+O, \angle_12, \angle, 1.0, ORRRRRRRRRR
+O, \angle_7, \angle, 1.0, ORRRRR
+O, )_6, ), 1.0, ORRRR
+O, \otimes_4, \otimes, 1.0, ORR
+O, \angle_3, \angle, 1.0, OR
+O, )_13, ), 1.0, ORRRRRRRRRRR
+O, (_9, (, 1.0, ORRRRRRR
+O, 4_5, 4, 1.0, ORRR
+
+# Relations from SRT:
+R, (_2, \angle_3, Right, 1.0
+R, (_9, 4_10, Right, 1.0
+R, )_13, \angle_14, Right, 1.0
+R, )_6, \angle_7, Right, 1.0
+R, 4_10, \oplus_11, Right, 1.0
+R, 4_5, )_6, Right, 1.0
+R, \angle_12, )_13, Right, 1.0
+R, \angle_3, \otimes_4, Right, 1.0
+R, \angle_7, \leq_8, Right, 1.0
+R, \leq_8, (_9, Right, 1.0
+R, \oplus_11, \angle_12, Right, 1.0
+R, \otimes_4, 4_5, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	\sqrt { M } _ { \mu \phi } = i \rho _ { \phi } \frac { \Delta } { \Delta p ^ { \mu } } - i \rho _ { \mu }
+\end{equation}

@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>n</mi><mi>s</mi></msub><mo>=</mo><mn>4</mn><mo>+</mo><mfrac><mi>d</mi><mrow><mi>d</mi><mo>ln</mo><mi>n</mi></mrow></mfrac><mo>ln</mo><mo stretchy="false" form="prefix">[</mo><mo stretchy="false" form="prefix">(</mo><mi>δ</mi><mi>ρ</mi><mo stretchy="false" form="prefix">(</mo><mi>n</mi><mo stretchy="false" form="postfix">)</mo><mi>/</mi><mi>ρ</mi><msup><mo stretchy="false" form="postfix">)</mo><mn>2</mn></msup><mo stretchy="false" form="postfix">]</mo><mo>≈</mo><mn>2</mn></mrow><annotation encoding="application/x-tex">\begin{equation}
+    n _ { s } = 4 + \frac { d } { d \ln n } \ln [ ( \delta \rho ( n ) / \rho ) ^ { 2 } ] \approx 2
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

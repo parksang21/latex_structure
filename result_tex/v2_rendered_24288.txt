@@ -1,0 +1,3 @@
+\begin{equation}
+	\phi \rightarrow - \phi , \psi \rightarrow e ^ { i \alpha } \gamma ^ { 9 } \psi
+\end{equation}

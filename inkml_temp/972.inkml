@@ -1,0 +1,61 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">972</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mi xml:id="K_2">K</mi><mo xml:id="=_3">=</mo><mo xml:id="-_4">−</mo><msqrt xml:id="_5"><mi xml:id="\theta_6">θ</mi></msqrt><mfrac xml:id="_7"><mrow><mo xml:id="\cos_9">cos</mo><mi xml:id="\psi_10">ψ</mi></mrow><mrow><mo xml:id="\sin_12">sin</mo><mi xml:id="\psi_13">ψ</mi></mrow></mfrac></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">K</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="K_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="=_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="-_4"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\theta</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\theta_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">\cos</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="\cos_9"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\psi</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\psi_10"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">\sin</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="\sin_12"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\psi</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\psi_13"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="_7"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="_5"/>
+	</traceGroup>
+</traceGroup>
+</ink>

@@ -1,0 +1,35 @@
+# IUD, v2_rendered_02993
+# Objects(16):
+O, (_7, (, 1.0, ORRBelow
+O, _4, -, 1.0, ORR
+O, )_11, ), 1.0, ORRBelowRRRR
+O, g_16, g, 1.0, ORRRR
+O, D_8, D, 1.0, ORRBelowR
+O, -_9, -, 1.0, ORRBelowRR
+O, \gamma_2, \gamma, 1.0, O
+O, \alpha_18, \alpha, 1.0, ORRRRSub
+O, k_21, k, 1.0, ORRRRR
+O, =_3, =, 1.0, OR
+O, \beta_19, \beta, 1.0, ORRRRSubR
+O, 1_5, 1, 1.0, ORRAbove
+O, 2_10, 2, 1.0, ORRBelowRRR
+O, k_13, k, 1.0, ORRR
+O, \alpha_14, \alpha, 1.0, ORRRSup
+O, \beta_22, \beta, 1.0, ORRRRRSup
+
+# Relations from SRT:
+R, (_7, D_8, Right, 1.0
+R, -_9, 2_10, Right, 1.0
+R, 2_10, )_11, Right, 1.0
+R, =_3, _4, Right, 1.0
+R, D_8, -_9, Right, 1.0
+R, \alpha_18, \beta_19, Right, 1.0
+R, \gamma_2, =_3, Right, 1.0
+R, _4, (_7, Below, 1.0
+R, _4, 1_5, Above, 1.0
+R, _4, k_13, Right, 1.0
+R, g_16, \alpha_18, Sub, 1.0
+R, g_16, k_21, Right, 1.0
+R, k_13, \alpha_14, Sup, 1.0
+R, k_13, g_16, Right, 1.0
+R, k_21, \beta_22, Sup, 1.0

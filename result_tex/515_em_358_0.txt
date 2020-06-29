@@ -1,0 +1,3 @@
+\begin{equation}
+	f ( t ) g ( t )
+\end{equation}

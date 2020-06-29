@@ -1,0 +1,3 @@
+\begin{equation}
+	( a ) \otimes 1 + ( i d \otimes L ) \Delta ( a )
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	= \frac { a } { n _ { 0 } } \rho _ { i j } P ^ { i } p ^ { j }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { \prime \prime } - \rho ^ { \prime \prime } - \frac { 1 } { 2 } ( T ^ { \prime } ) ^ { 2 } \neq 0
+\end{equation}

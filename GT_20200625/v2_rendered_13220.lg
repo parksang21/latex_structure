@@ -1,0 +1,41 @@
+# IUD, v2_rendered_13220
+# Objects(19):
+O, a_18, a, 1.0, ORRRRRRRR
+O, W_13, W, 1.0, ORRRRRR
+O, 0_26, 0, 1.0, ORRRRRRRRRRRR
+O, (_17, (, 1.0, ORRRRRRR
+O, =_25, =, 1.0, ORRRRRRRRRRR
+O, c_24, c, 1.0, ORRRRRRRRRRSup
+O, \gamma_4, \gamma, 1.0, OR
+O, \Delta_7, \Delta, 1.0, ORR
+O, \psi_23, \psi, 1.0, ORRRRRRRRRR
+O, \prime_16, \prime, 1.0, ORRRRRRSupR
+O, i_11, i, 1.0, ORRRRR
+O, i_2, i, 1.0, O
+O, *_21, *, 1.0, ORRRRRRRRRSup
+O, \mu_5, \mu, 1.0, ORSup
+O, -_10, -, 1.0, ORRRR
+O, )_20, ), 1.0, ORRRRRRRRR
+O, \prime_15, \prime, 1.0, ORRRRRRSup
+O, \psi_9, \psi, 1.0, ORRR
+O, \mu_8, \mu, 1.0, ORRSub
+
+# Relations from SRT:
+R, (_17, a_18, Right, 1.0
+R, )_20, *_21, Sup, 1.0
+R, )_20, \psi_23, Right, 1.0
+R, -_10, i_11, Right, 1.0
+R, =_25, 0_26, Right, 1.0
+R, W_13, (_17, Right, 1.0
+R, W_13, \prime_15, Sup, 1.0
+R, \Delta_7, \mu_8, Sub, 1.0
+R, \Delta_7, \psi_9, Right, 1.0
+R, \gamma_4, \Delta_7, Right, 1.0
+R, \gamma_4, \mu_5, Sup, 1.0
+R, \prime_15, \prime_16, Right, 1.0
+R, \psi_23, =_25, Right, 1.0
+R, \psi_23, c_24, Sup, 1.0
+R, \psi_9, -_10, Right, 1.0
+R, a_18, )_20, Right, 1.0
+R, i_11, W_13, Right, 1.0
+R, i_2, \gamma_4, Right, 1.0

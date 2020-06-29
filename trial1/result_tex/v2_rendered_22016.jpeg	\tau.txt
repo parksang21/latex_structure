@@ -1,0 +1,3 @@
+\begin{equation}
+	= H ^ { 2 } / \phi w i t h \phi \subset O ( 2 , 1 ) ,
+\end{equation}

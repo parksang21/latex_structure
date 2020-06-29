@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { 2 } ( V _ { + } ) \equiv \oplus _ { \lambda } \delta _ { \lambda } ^ { + }
+\end{equation}

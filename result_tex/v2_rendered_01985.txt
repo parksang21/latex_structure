@@ -1,0 +1,3 @@
+\begin{equation}
+	\rho \sim a ^ { - 3 ( 1 + r ) }
+\end{equation}

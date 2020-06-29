@@ -1,0 +1,3 @@
+\begin{equation}
+	d \sigma _ { 0 } ^ { 2 } = d \phi ^ { 2 } + h _ { i j } ( x ) d x ^ { i } d x ^ { j }
+\end{equation}

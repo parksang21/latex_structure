@@ -1,0 +1,3 @@
+\begin{equation}
+	E _ { i } = \varepsilon _ { i j k } D _ { j } [ A ] ( \overrightarrow C - \overrightarrow A ) _ { k }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	1 t r Q _ { I } ^ { 2 } \vert = \frac { 4 } { g ^ { 2 } } ( 1 - \frac { 1 } { N } ) \notin 1
+\end{equation}

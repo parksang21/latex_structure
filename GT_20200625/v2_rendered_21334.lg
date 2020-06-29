@@ -1,0 +1,39 @@
+# IUD, v2_rendered_21334
+# Objects(18):
+O, m_6, m, 1.0, ORSub
+O, M_7, M, 1.0, ORSubR
+O, M_20, M, 1.0, ORRRRRSubR
+O, \theta_19, \theta, 1.0, ORRRRRSub
+O, c_17, c, 1.0, ORRRRR
+O, \beta_8, \beta, 1.0, ORSubRR
+O, q_11, q, 1.0, ORRR
+O, \prod_14, \prod, 1.0, ORRRR
+O, c_2, c, 1.0, O
+O, m_12, m, 1.0, ORRRSup
+O, =_9, =, 1.0, ORR
+O, e_23, e, 1.0, ORRRRRR
+O, K_26, K, 1.0, ORRRRRRSubR
+O, m_25, m, 1.0, ORRRRRRSub
+O, K_15, K, 1.0, ORRRRBelow
+O, K_21, K, 1.0, ORRRRRSup
+O, e_4, e, 1.0, OR
+O, \beta_27, \beta, 1.0, ORRRRRRSubRR
+
+# Relations from SRT:
+R, =_9, q_11, Right, 1.0
+R, K_26, \beta_27, Right, 1.0
+R, M_7, \beta_8, Right, 1.0
+R, \prod_14, K_15, Below, 1.0
+R, \prod_14, c_17, Right, 1.0
+R, \theta_19, M_20, Right, 1.0
+R, c_17, K_21, Sup, 1.0
+R, c_17, \theta_19, Sub, 1.0
+R, c_17, e_23, Right, 1.0
+R, c_2, e_4, Right, 1.0
+R, e_23, m_25, Sub, 1.0
+R, e_4, =_9, Right, 1.0
+R, e_4, m_6, Sub, 1.0
+R, m_25, K_26, Right, 1.0
+R, m_6, M_7, Right, 1.0
+R, q_11, \prod_14, Right, 1.0
+R, q_11, m_12, Sup, 1.0

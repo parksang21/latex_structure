@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta _ { \varepsilon } ( p \rightarrow \infty ) = \frac { 1 } { 2 }
+\end{equation}

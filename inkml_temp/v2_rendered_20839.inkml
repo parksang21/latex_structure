@@ -1,0 +1,51 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_20839</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msub><mi xml:id="\mu_3">μ</mi><msub><mi xml:id="N_5">N</mi><mi xml:id="f_6">f</mi></msub></msub><mo xml:id="\oplus_7">⊕</mo><mi xml:id="F_8">F</mi><msub><mi xml:id="\psi_10">ψ</mi><msub><mi xml:id="N_12">N</mi><mi xml:id="\sigma_13">σ</mi></msub></msub></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\mu_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">N</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="N_5"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">f</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="f_6"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\oplus</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\oplus_7"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">F</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="F_8"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\psi</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\psi_10"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">N</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="N_12"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\sigma</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\sigma_13"/>
+	</traceGroup>
+</traceGroup>
+</ink>

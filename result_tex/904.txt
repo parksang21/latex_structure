@@ -1,0 +1,3 @@
+\begin{equation}
+	l _ { + } ^ { + \csqrts + } = Z ^ { k - 1 }
+\end{equation}

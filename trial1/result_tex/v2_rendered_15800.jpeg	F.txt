@@ -1,0 +1,3 @@
+\begin{equation}
+	= - p _ { x } r \cos \theta - p _ { y } r \tan \theta
+\end{equation}

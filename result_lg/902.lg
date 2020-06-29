@@ -1,0 +1,45 @@
+# IUD, 902
+# Objects(21):
+O, a_15, a, 1.0, ORRRRRRRRRSup
+O, )_25, ), 1.0, ORRRRRRRRRRRRRRR
+O, b_19, b, 1.0, ORRRRRRRRRRRSup
+O, _7, -, 1.0, ORRRRR
+O, a_3, a, 1.0, OR
+O, \}_24, \}, 1.0, ORRRRRRRRRRRRRR
+O, \lambda_18, \lambda, 1.0, ORRRRRRRRRRR
+O, COMMA_20, COMMA, 1.0, ORRRRRRRRRRRR
+O, 1_8, 1, 1.0, ORRRRRAbove
+O, 4_9, 4, 1.0, ORRRRRBelow
+O, \lambda_22, \lambda, 1.0, ORRRRRRRRRRRRR
+O, \{_16, \{, 1.0, ORRRRRRRRRR
+O, r_11, r, 1.0, ORRRRRRR
+O, =_6, =, 1.0, ORRRR
+O, b_4, b, 1.0, ORR
+O, c_5, c, 1.0, ORRR
+O, \lambda_14, \lambda, 1.0, ORRRRRRRRR
+O, c_23, c, 1.0, ORRRRRRRRRRRRRSup
+O, d_2, d, 1.0, O
+O, (_12, (, 1.0, ORRRRRRRR
+O, T_10, T, 1.0, ORRRRRR
+
+# Relations from SRT:
+R, (_12, \lambda_14, Right, 1.0
+R, =_6, _7, Right, 1.0
+R, COMMA_20, \lambda_22, Right, 1.0
+R, T_10, r_11, Right, 1.0
+R, \lambda_14, \{_16, Right, 1.0
+R, \lambda_14, a_15, Sup, 1.0
+R, \lambda_18, COMMA_20, Right, 1.0
+R, \lambda_18, b_19, Sup, 1.0
+R, \lambda_22, \}_24, Right, 1.0
+R, \lambda_22, c_23, Sup, 1.0
+R, \{_16, \lambda_18, Right, 1.0
+R, \}_24, )_25, Right, 1.0
+R, _7, 1_8, Above, 1.0
+R, _7, 4_9, Below, 1.0
+R, _7, T_10, Right, 1.0
+R, a_3, b_4, Right, 1.0
+R, b_4, c_5, Right, 1.0
+R, c_5, =_6, Right, 1.0
+R, d_2, a_3, Right, 1.0
+R, r_11, (_12, Right, 1.0

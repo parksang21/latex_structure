@@ -1,0 +1,3 @@
+\begin{equation}
+	\omega \Leftrightarrow e ^ { i \Omega \sigma _ { 3 } / 2 } \omega
+\end{equation}

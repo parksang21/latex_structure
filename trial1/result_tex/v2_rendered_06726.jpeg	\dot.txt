@@ -1,0 +1,3 @@
+\begin{equation}
+	{ \phi } = 3 H _ { S } \pm \sqrt { 3 H _ { S } ^ { 2 } + e ^ { \phi } \rho }
+\end{equation}

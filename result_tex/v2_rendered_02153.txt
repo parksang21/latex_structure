@@ -1,0 +1,3 @@
+\begin{equation}
+	E _ { 0 } = - \lim _ { T \rightarrow \infty } \frac { 1 } { T } \log Z ( T )
+\end{equation}

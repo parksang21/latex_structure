@@ -1,0 +1,35 @@
+# IUD, v2_rendered_20229
+# Objects(16):
+O, 0_18, 0, 1.0, 13
+O, e_8, e, 1.0, 5
+O, \vert_2, \vert, 1.0, 0
+O, \vert_16, \vert, 1.0, 11
+O, B_12, B, 1.0, 7
+O, D_17, D, 1.0, 12
+O, D_3, D, 1.0, 1
+O, \subset_19, \subset, 1.0, 14
+O, i_10, i, 1.0, 6
+O, /_14, /, 1.0, 9
+O, \theta_13, \theta, 1.0, 8
+O, \theta_4, \theta, 1.0, 2
+O, _11, \sqrt, 1.0, 15
+O, \equiv_6, \equiv, 1.0, 4
+O, N_15, N, 1.0, 10
+O, \subset_5, \subset, 1.0, 3
+
+# Relations from SRT:
+R, /_14, N_15, Right, 1.0
+R, 0_18, \subset_19, Right, 1.0
+R, D_17, 0_18, Right, 1.0
+R, D_3, \theta_4, Right, 1.0
+R, \equiv_6, e_8, Right, 1.0
+R, \subset_5, \equiv_6, Right, 1.0
+R, \theta_13, /_14, Right, 1.0
+R, \theta_4, \subset_5, Right, 1.0
+R, \vert_16, D_17, Right, 1.0
+R, \vert_2, D_3, Right, 1.0
+R, _11, B_12, Inside, 1.0
+R, _11, \theta_13, Right, 1.0
+R, e_8, \vert_16, Right, 1.0
+R, e_8, i_10, Sup, 1.0
+R, i_10, _11, Right, 1.0

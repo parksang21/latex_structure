@@ -1,0 +1,25 @@
+# IUD, 2068
+# Objects(11):
+O, _8, -, 1.0, 10
+O, -_7, -, 1.0, 4
+O, \beta_4, \beta, 1.0, 1
+O, \beta_14, \beta, 1.0, 8
+O, \sigma_6, \sigma, 1.0, 3
+O, 2_11, 2, 1.0, 6
+O, =_5, =, 1.0, 2
+O, 4_12, 4, 1.0, 7
+O, 2_15, 2, 1.0, 9
+O, \sigma_3, \sigma, 1.0, 0
+O, \lambda_9, \lambda, 1.0, 5
+
+# Relations from SRT:
+R, -_7, _8, Right, 1.0
+R, 2_11, 4_12, Right, 1.0
+R, 4_12, \beta_14, Right, 1.0
+R, =_5, \sigma_6, Right, 1.0
+R, \beta_14, 2_15, Sup, 1.0
+R, \sigma_3, =_5, Right, 1.0
+R, \sigma_3, \beta_4, Sup, 1.0
+R, \sigma_6, -_7, Right, 1.0
+R, _8, 2_11, Below, 1.0
+R, _8, \lambda_9, Above, 1.0

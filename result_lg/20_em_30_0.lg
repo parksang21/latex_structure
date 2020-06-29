@@ -1,0 +1,7 @@
+# IUD, 20_em_30_0
+# Objects(2):
+O, s_3, s, 1.0, OSub
+O, I_2, I, 1.0, O
+
+# Relations from SRT:
+R, I_2, s_3, Sub, 1.0

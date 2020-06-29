@@ -1,0 +1,3 @@
+\begin{equation}
+	\delta _ { 1 } ( s V ) L \neq s \delta _ { 1 } ( \vee L ) , \therefore s , V , L \in N
+\end{equation}

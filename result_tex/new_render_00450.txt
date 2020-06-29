@@ -1,0 +1,3 @@
+\begin{equation}
+	\varepsilon _ { 1 } ( F S ) H \geqq F \varepsilon _ { 1 } ( S H ) , \therefore F , q H < N
+\end{equation}

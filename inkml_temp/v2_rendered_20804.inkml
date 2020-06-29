@@ -1,0 +1,91 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_20804</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><munder><mo xml:id="\lim_3">lim</mo><mrow><mi xml:id="u_5">u</mi><mo xml:id="\rightarrow_6">→</mo><mn xml:id="0_7">0</mn></mrow></munder><mi xml:id="u_8">u</mi><msub><mi xml:id="x_10">x</mi><mrow><mn xml:id="1_12">1</mn><mi xml:id="\rho_13">ρ</mi><mn xml:id="1_14">1</mn></mrow></msub><mo form="prefix" stretchy="false" xml:id="(_15">(</mo><mi xml:id="u_16">u</mi><mo xml:id=",_17">,</mo><mi xml:id="w_18">w</mi><mo form="postfix" stretchy="false" xml:id=")_19">)</mo><mo xml:id="=_20">=</mo><mn xml:id="1_21">1</mn></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\lim</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\lim_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">u</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="u_5"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\rightarrow</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\rightarrow_6"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">0</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="0_7"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">u</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="u_8"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">x</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="x_10"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">1</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="1_12"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\rho</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\rho_13"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">1</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="1_14"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="(_15"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">u</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="u_16"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">,</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href=",_17"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">w</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="w_18"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href=")_19"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="=_20"/>
+	</traceGroup>
+ <traceGroup xml:id="16">
+    <annotation type="truth">1</annotation>
+	<traceView traceDataRef="15"/>
+    <annotationXML href="1_21"/>
+	</traceGroup>
+</traceGroup>
+</ink>

@@ -1,0 +1,41 @@
+# IUD, v2_rendered_18568
+# Objects(19):
+O, N_17, N, 1.0, ORRRRRSup
+O, Y_11, Y, 1.0, ORRRSup
+O, \beta_2, \beta, 1.0, O
+O, N_24, N, 1.0, ORRRRRRSupRRR
+O, !_8, !, 1.0, ORRBelowR
+O, e_10, e, 1.0, ORRR
+O, q_5, q, 1.0, ORRAbove
+O, e_13, e, 1.0, ORRRR
+O, =_3, =, 1.0, OR
+O, _4, -, 1.0, ORR
+O, R_14, R, 1.0, ORRRRSup
+O, 7_7, 7, 1.0, ORRBelow
+O, R_25, R, 1.0, ORRRRRRSupRRRR
+O, e_19, e, 1.0, ORRRRRR
+O, Q_21, Q, 1.0, ORRRRRRSup
+O, Y_26, Y, 1.0, ORRRRRRSupRRRRR
+O, Q_23, Q, 1.0, ORRRRRRSupRR
+O, e_16, e, 1.0, ORRRRR
+O, \beta_22, \beta, 1.0, ORRRRRRSupR
+
+# Relations from SRT:
+R, 7_7, !_8, Right, 1.0
+R, =_3, _4, Right, 1.0
+R, N_24, R_25, Right, 1.0
+R, Q_21, \beta_22, Right, 1.0
+R, Q_23, N_24, Right, 1.0
+R, R_25, Y_26, Right, 1.0
+R, \beta_22, Q_23, Right, 1.0
+R, \beta_2, =_3, Right, 1.0
+R, _4, 7_7, Below, 1.0
+R, _4, e_10, Right, 1.0
+R, _4, q_5, Above, 1.0
+R, e_10, Y_11, Sup, 1.0
+R, e_10, e_13, Right, 1.0
+R, e_13, R_14, Sup, 1.0
+R, e_13, e_16, Right, 1.0
+R, e_16, N_17, Sup, 1.0
+R, e_16, e_19, Right, 1.0
+R, e_19, Q_21, Sup, 1.0

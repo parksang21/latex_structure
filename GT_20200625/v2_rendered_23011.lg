@@ -1,0 +1,35 @@
+# IUD, v2_rendered_23011
+# Objects(16):
+O, \alpha_11, \alpha, 1.0, ORRRRSub
+O, \beta_6, \beta, 1.0, ORRSub
+O, \Omega_10, \Omega, 1.0, ORRRR
+O, \gamma_16, \gamma, 1.0, ORRRRRRR
+O, =_3, =, 1.0, OR
+O, \vee_18, \vee, 1.0, ORRRRRRRR
+O, \Omega_5, \Omega, 1.0, ORR
+O, \alpha_7, \alpha, 1.0, ORRSup
+O, H_2, H, 1.0, O
+O, \vee_8, \vee, 1.0, ORRR
+O, -_13, -, 1.0, ORRRRR
+O, \gamma_20, \gamma, 1.0, ORRRRRRRRR
+O, \alpha_17, \alpha, 1.0, ORRRRRRRSub
+O, 2_14, 2, 1.0, ORRRRRR
+O, \alpha_21, \alpha, 1.0, ORRRRRRRRRSup
+O, \beta_12, \beta, 1.0, ORRRRSup
+
+# Relations from SRT:
+R, -_13, 2_14, Right, 1.0
+R, 2_14, \gamma_16, Right, 1.0
+R, =_3, \Omega_5, Right, 1.0
+R, H_2, =_3, Right, 1.0
+R, \Omega_10, -_13, Right, 1.0
+R, \Omega_10, \alpha_11, Sub, 1.0
+R, \Omega_10, \beta_12, Sup, 1.0
+R, \Omega_5, \alpha_7, Sup, 1.0
+R, \Omega_5, \beta_6, Sub, 1.0
+R, \Omega_5, \vee_8, Right, 1.0
+R, \gamma_16, \alpha_17, Sub, 1.0
+R, \gamma_16, \vee_18, Right, 1.0
+R, \gamma_20, \alpha_21, Sup, 1.0
+R, \vee_18, \gamma_20, Right, 1.0
+R, \vee_8, \Omega_10, Right, 1.0

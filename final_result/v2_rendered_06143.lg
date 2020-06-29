@@ -1,0 +1,41 @@
+# IUD, v2_rendered_06143
+# Objects(19):
+O, n_21, n, 1.0, ORRRRR
+O, \vert_25, \vert, 1.0, ORRRRRRRRR
+O, \langle_23, \langle, 1.0, ORRRRRRR
+O, \phi_8, \phi, 1.0, ORR
+O, \phi_4, \phi, 1.0, OInside
+O, n_13, n, 1.0, ORRRBelow
+O, \rangle_22, \rangle, 1.0, ORRRRRR
+O, _3, \sqrt, 1.0, O
+O, \prod_11, \prod, 1.0, ORRR
+O, 1_19, 1, 1.0, ORRRAboveRR
+O, =_6, =, 1.0, OR
+O, k_17, k, 1.0, ORRRAbove
+O, n_24, n, 1.0, ORRRRRRRR
+O, 0_15, 0, 1.0, ORRRBelowRR
+O, k_5, k, 1.0, OSub
+O, =_14, =, 1.0, ORRRBelowR
+O, -_18, -, 1.0, ORRRAboveR
+O, *_9, *, 1.0, ORRSub
+O, \vert_20, \vert, 1.0, ORRRR
+
+# Relations from SRT:
+R, -_18, 1_19, Right, 1.0
+R, =_14, 0_15, Right, 1.0
+R, =_6, \phi_8, Right, 1.0
+R, \langle_23, n_24, Right, 1.0
+R, \phi_8, *_9, Sub, 1.0
+R, \phi_8, \prod_11, Right, 1.0
+R, \prod_11, \vert_20, Right, 1.0
+R, \prod_11, k_17, Above, 1.0
+R, \prod_11, n_13, Below, 1.0
+R, \rangle_22, \langle_23, Right, 1.0
+R, \vert_20, n_21, Right, 1.0
+R, _3, =_6, Right, 1.0
+R, _3, \phi_4, Inside, 1.0
+R, _3, k_5, Sub, 1.0
+R, k_17, -_18, Right, 1.0
+R, n_13, =_14, Right, 1.0
+R, n_21, \rangle_22, Right, 1.0
+R, n_24, \vert_25, Right, 1.0

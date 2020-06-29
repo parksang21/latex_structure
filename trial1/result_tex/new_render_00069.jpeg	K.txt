@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { N N } = \varepsilon _ { N } ^ { V } \square _ { V } \bar { n } _ { N }
+\end{equation}

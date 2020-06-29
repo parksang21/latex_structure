@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>ln</mo><mi>d</mi><mi>e</mi><mi>t</mi><mo>=</mo><mfrac><mrow><mo stretchy="false" form="postfix">|</mo><mi>e</mi><mi>α</mi><mo stretchy="false" form="postfix">|</mo></mrow><mrow><mn>2</mn><mi>π</mi></mrow></mfrac><mo>ln</mo><mo stretchy="false" form="prefix">(</mo><mi>m</mi><mi>a</mi><mo stretchy="false" form="postfix">)</mo><mo>×</mo><mi>R</mi><mo stretchy="false" form="prefix">(</mo><mi>m</mi><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \ln d e t = \frac { \vert e \alpha \vert } { 2 \pi } \ln ( m a ) \times R ( m )
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

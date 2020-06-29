@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>μ</mi><mn>5</mn></msub><mo>=</mo><mo>cos</mo><mi>θ</mi><mi>μ</mi><msub><mi>μ</mi><mn>2</mn></msub><mo>=</mo><mo>−</mo><mi>s</mi><msub><mi>i</mi><mi>n</mi></msub><msub><mi>θ</mi><mi>μ</mi></msub><msub><mi>Q</mi><mn>5</mn></msub></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \mu _ { 5 } = \cos \theta \mu \mu _ { 2 } = - s i _ { n } \theta _ { \mu } Q _ { 5 }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

@@ -1,0 +1,3 @@
+\begin{equation}
+	( x ^ { \subset } , t ) = C ( \sqrt { t } + \frac { x ^ { \subset } } { 2 \sqrt { t } } )
+\end{equation}

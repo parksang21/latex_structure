@@ -1,0 +1,3 @@
+\begin{equation}
+	\vert a \circ b \vert \leq \vert a \vert \vert b \vert , \exists a _ { 1 } b \angle V
+\end{equation}

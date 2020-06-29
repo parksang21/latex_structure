@@ -1,0 +1,43 @@
+# IUD, new_render_01830
+# Objects(20):
+O, !_19, !, 1.0, 12
+O, b_8, b, 1.0, 4
+O, 0_12, 0, 1.0, 7
+O, v_16, v, 1.0, 10
+O, \Omega_11, \Omega, 1.0, 6
+O, 2_18, 2, 1.0, 11
+O, a_2, a, 1.0, 0
+O, w_25, w, 1.0, 17
+O, \Omega_4, \Omega, 1.0, 1
+O, \div_6, \div, 1.0, 3
+O, _7, -, 1.0, 18
+O, 2_23, 2, 1.0, 15
+O, 1_13, 1, 1.0, 8
+O, 0_22, 0, 1.0, 14
+O, 0_5, 0, 1.0, 2
+O, \leqq_24, \leqq, 1.0, 16
+O, _15, -, 1.0, 19
+O, \div_14, \div, 1.0, 9
+O, \Omega_21, \Omega, 1.0, 13
+O, 1_9, 1, 1.0, 5
+
+# Relations from SRT:
+R, 2_18, !_19, Right, 1.0
+R, \Omega_11, 0_12, Sub, 1.0
+R, \Omega_11, 1_13, Sup, 1.0
+R, \Omega_11, \div_14, Right, 1.0
+R, \Omega_21, 0_22, Sub, 1.0
+R, \Omega_21, 2_23, Sup, 1.0
+R, \Omega_21, \leqq_24, Right, 1.0
+R, \Omega_4, 0_5, Sub, 1.0
+R, \Omega_4, \div_6, Right, 1.0
+R, \div_14, _15, Right, 1.0
+R, \div_6, _7, Right, 1.0
+R, \leqq_24, w_25, Right, 1.0
+R, _15, 2_18, Below, 1.0
+R, _15, \Omega_21, Right, 1.0
+R, _15, v_16, Above, 1.0
+R, _7, 1_9, Below, 1.0
+R, _7, \Omega_11, Right, 1.0
+R, _7, b_8, Above, 1.0
+R, a_2, \Omega_4, Right, 1.0

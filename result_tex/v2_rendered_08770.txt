@@ -1,0 +1,3 @@
+\begin{equation}
+	\delta \approx \div \frac { s } { 0 ! } N _ { s x } \sigma _ { s } \sigma _ { x }
+\end{equation}

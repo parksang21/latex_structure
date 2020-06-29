@@ -1,0 +1,37 @@
+# IUD, v2_rendered_23931
+# Objects(17):
+O, i_16, i, 1.0, ORRRRRRRRRR
+O, COMMA_14, COMMA, 1.0, ORRRRRRRR
+O, n_10, n, 1.0, ORRRRSub
+O, COMMA_17, COMMA, 1.0, ORRRRRRRRRRR
+O, 0_13, 0, 1.0, ORRRRRRR
+O, (_7, (, 1.0, ORRR
+O, \forall_15, \forall, 1.0, ORRRRRRRRR
+O, \lt_19, \lt, 1.0, ORRRRRRRRRRRRR
+O, Q_9, Q, 1.0, ORRRR
+O, i_6, i, 1.0, ORRSup
+O, b_20, b, 1.0, ORRRRRRRRRRRRRR
+O, \leq_12, \leq, 1.0, ORRRRRR
+O, \rangle_11, \rangle, 1.0, ORRRRR
+O, \sigma_2, \sigma, 1.0, O
+O, n_18, n, 1.0, ORRRRRRRRRRRR
+O, \Delta_5, \Delta, 1.0, ORR
+O, \circle_3, \circle, 1.0, OR
+
+# Relations from SRT:
+R, (_7, Q_9, Right, 1.0
+R, 0_13, COMMA_14, Right, 1.0
+R, COMMA_14, \forall_15, Right, 1.0
+R, COMMA_17, n_18, Right, 1.0
+R, Q_9, \rangle_11, Right, 1.0
+R, Q_9, n_10, Sub, 1.0
+R, \Delta_5, (_7, Right, 1.0
+R, \Delta_5, i_6, Sup, 1.0
+R, \circle_3, \Delta_5, Right, 1.0
+R, \forall_15, i_16, Right, 1.0
+R, \leq_12, 0_13, Right, 1.0
+R, \lt_19, b_20, Right, 1.0
+R, \rangle_11, \leq_12, Right, 1.0
+R, \sigma_2, \circle_3, Right, 1.0
+R, i_16, COMMA_17, Right, 1.0
+R, n_18, \lt_19, Right, 1.0

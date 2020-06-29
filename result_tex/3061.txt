@@ -1,0 +1,3 @@
+\begin{equation}
+	A _ { \gamma } ^ { \prime } ( x ^ { \prime } ) = A _ { \gamma } ( x )
+\end{equation}

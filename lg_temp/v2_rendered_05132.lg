@@ -1,0 +1,33 @@
+# IUD, v2_rendered_05132
+# Objects(15):
+O, \theta_4, \theta, 1.0, 1
+O, !_15, !, 1.0, 10
+O, J_19, J, 1.0, 12
+O, \theta_8, \theta, 1.0, 4
+O, J_10, J, 1.0, 5
+O, \prime_11, \prime, 1.0, 6
+O, =_13, =, 1.0, 8
+O, \delta_17, \delta, 1.0, 11
+O, J_21, J, 1.0, 13
+O, \langle_2, \langle, 1.0, 0
+O, COMMA_6, COMMA, 1.0, 3
+O, n_14, n, 1.0, 9
+O, \rangle_12, \rangle, 1.0, 7
+O, \prime_22, \prime, 1.0, 14
+O, J_5, J, 1.0, 2
+
+# Relations from SRT:
+R, !_15, \delta_17, Right, 1.0
+R, =_13, n_14, Right, 1.0
+R, COMMA_6, \theta_8, Right, 1.0
+R, J_10, \prime_11, Sup, 1.0
+R, J_19, J_21, Right, 1.0
+R, J_21, \prime_22, Sup, 1.0
+R, \delta_17, J_19, Sub, 1.0
+R, \langle_2, \theta_4, Right, 1.0
+R, \rangle_12, =_13, Right, 1.0
+R, \theta_4, COMMA_6, Right, 1.0
+R, \theta_4, J_5, Sub, 1.0
+R, \theta_8, J_10, Sub, 1.0
+R, \theta_8, \rangle_12, Right, 1.0
+R, n_14, !_15, Right, 1.0

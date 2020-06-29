@@ -1,0 +1,45 @@
+# IUD, v2_rendered_14818
+# Objects(21):
+O, \phi_18, \phi, 1.0, ORRRRRRRRRRRRSubR
+O, -_23, -, 1.0, ORRRRRRRRRRRRRRR
+O, =_6, =, 1.0, ORRRR
+O, \phi_25, \phi, 1.0, ORRRRRRRRRRRRRRRR
+O, ω_5, ω, 1.0, ORRR
+O, +_13, +, 1.0, ORRRRRRRRRRR
+O, D_15, D, 1.0, ORRRRRRRRRRRR
+O, ω_10, ω, 1.0, ORRRRRRRR
+O, =_3, =, 1.0, OR
+O, ω_8, ω, 1.0, ORRRRRR
+O, =_11, =, 1.0, ORRRRRRRRR
+O, \Omega_2, \Omega, 1.0, O
+O, F_12, F, 1.0, ORRRRRRRRRR
+O, 2_22, 2, 1.0, ORRRRRRRRRRRRRRSup
+O, i_7, i, 1.0, ORRRRR
+O, 2_26, 2, 1.0, ORRRRRRRRRRRRRRRRSup
+O, m_21, m, 1.0, ORRRRRRRRRRRRRR
+O, +_19, +, 1.0, ORRRRRRRRRRRRR
+O, H_17, H, 1.0, ORRRRRRRRRRRRSub
+O, \propto_9, \propto, 1.0, ORRRRRRR
+O, d_4, d, 1.0, ORR
+
+# Relations from SRT:
+R, +_13, D_15, Right, 1.0
+R, +_19, m_21, Right, 1.0
+R, -_23, \phi_25, Right, 1.0
+R, =_11, F_12, Right, 1.0
+R, =_3, d_4, Right, 1.0
+R, =_6, i_7, Right, 1.0
+R, D_15, +_19, Right, 1.0
+R, D_15, H_17, Sub, 1.0
+R, F_12, +_13, Right, 1.0
+R, H_17, \phi_18, Right, 1.0
+R, \Omega_2, =_3, Right, 1.0
+R, \phi_25, 2_26, Sup, 1.0
+R, \propto_9, ω_10, Right, 1.0
+R, d_4, ω_5, Right, 1.0
+R, i_7, ω_8, Right, 1.0
+R, m_21, -_23, Right, 1.0
+R, m_21, 2_22, Sup, 1.0
+R, ω_10, =_11, Right, 1.0
+R, ω_5, =_6, Right, 1.0
+R, ω_8, \propto_9, Right, 1.0

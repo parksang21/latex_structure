@@ -1,0 +1,39 @@
+# IUD, 2019
+# Objects(18):
+O, J_3, J, 1.0, O
+O, \mu_12, \mu, 1.0, ORRRRRSup
+O, )_8, ), 1.0, ORRR
+O, \alpha_22, \alpha, 1.0, ORRRRRRRRRRRSup
+O, B_23, B, 1.0, ORRRRRRRRRRRR
+O, \mu_19, \mu, 1.0, ORRRRRRRRRRSub
+O, (_13, (, 1.0, ORRRRRR
+O, z_14, z, 1.0, ORRRRRRR
+O, )_15, ), 1.0, ORRRRRRRR
+O, \gamma_18, \gamma, 1.0, ORRRRRRRRRR
+O, =_9, =, 1.0, ORRRR
+O, (_6, (, 1.0, OR
+O, J_11, J, 1.0, ORRRRR
+O, \alpha_5, \alpha, 1.0, OSup
+O, (_16, (, 1.0, ORRRRRRRRR
+O, B_4, B, 1.0, OSub
+O, )_21, ), 1.0, ORRRRRRRRRRR
+O, z_7, z, 1.0, ORR
+
+# Relations from SRT:
+R, (_13, z_14, Right, 1.0
+R, (_16, \gamma_18, Right, 1.0
+R, (_6, z_7, Right, 1.0
+R, )_15, (_16, Right, 1.0
+R, )_21, B_23, Right, 1.0
+R, )_21, \alpha_22, Sup, 1.0
+R, )_8, =_9, Right, 1.0
+R, =_9, J_11, Right, 1.0
+R, J_11, (_13, Right, 1.0
+R, J_11, \mu_12, Sup, 1.0
+R, J_3, (_6, Right, 1.0
+R, J_3, B_4, Sub, 1.0
+R, J_3, \alpha_5, Sup, 1.0
+R, \gamma_18, )_21, Right, 1.0
+R, \gamma_18, \mu_19, Sub, 1.0
+R, z_14, )_15, Right, 1.0
+R, z_7, )_8, Right, 1.0

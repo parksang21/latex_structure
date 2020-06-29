@@ -1,0 +1,3 @@
+\begin{equation}
+	S ^ { t o t a l } \rightarrow \lambda ^ { \sqrt { d } } S ^ { t _ { 0 } t _ { a } \vert }
+\end{equation}

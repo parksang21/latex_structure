@@ -1,0 +1,3 @@
+\begin{equation}
+	\beta = \frac { 1 } { m ^ { 2 } } ( - \Delta _ { i } \pi _ { i } + m ^ { 2 } A _ { 0 } ) \approx 0
+\end{equation}

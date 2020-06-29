@@ -1,0 +1,3 @@
+\begin{equation}
+	C _ { 5 } = p \csqrt \sqrt { X } + \sqrt { - \gamma } V = 0
+\end{equation}

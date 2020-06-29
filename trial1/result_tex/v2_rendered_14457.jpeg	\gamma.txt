@@ -1,0 +1,3 @@
+\begin{equation}
+	A _ { \mu } ^ { a } = \Delta _ { \mu } \alpha ^ { a } , \gamma y ^ { i } = 0 , \gamma \alpha ^ { a } = 0
+\end{equation}

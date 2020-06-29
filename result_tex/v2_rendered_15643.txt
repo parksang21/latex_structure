@@ -1,0 +1,3 @@
+\begin{equation}
+	r _ { m } r _ { j } \csqrt q _ { m j } ^ { * } r _ { j } r _ { m } = 0 , \exists m , j \in S
+\end{equation}

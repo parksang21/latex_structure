@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>C</mi><mi>N</mi></msub><mo>=</mo><munder><mo>∑</mo><mrow><mn>1</mn><mo>≤</mo><mi>i</mi><mo>&lt;</mo><mi>j</mi><mo>≤</mo><mi>N</mi></mrow></munder><msubsup><mi>x</mi><mrow><mi>i</mi><mi>j</mi></mrow><mn>2</mn></msubsup><msub><mi>Δ</mi><mi>i</mi></msub><msub><mi>Δ</mi><mi>j</mi></msub></mrow><annotation encoding="application/x-tex">\begin{equation}
+    C _ { N } = \sum _ { 1 \leq i &lt; j \leq N } x _ { i j } ^ { 2 } \Delta _ { i } \Delta _ { j }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

@@ -1,0 +1,3 @@
+\begin{equation}
+	W _ { 0 } ( p ) \geq a c _ { 0 } ( i \gamma _ { a } p ^ { \mu } ) + O ( p ^ { 2 } )
+\end{equation}

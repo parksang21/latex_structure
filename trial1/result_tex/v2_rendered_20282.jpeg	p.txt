@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { 0 } \approx m _ { . } c p s \alpha p ^ { 4 } \approx m _ { . } s i n \alpha
+\end{equation}

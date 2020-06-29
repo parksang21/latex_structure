@@ -1,0 +1,3 @@
+\begin{equation}
+	{ P } \equiv ( 1 , \tilde { P } _ { \notin } ) = ( 1 , P _ { \notin } / \phi )
+\end{equation}

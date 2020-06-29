@@ -1,0 +1,3 @@
+\begin{equation}
+	{ \alpha } _ { - 1 } ^ { i } \vert k \} u _ { \alpha }
+\end{equation}

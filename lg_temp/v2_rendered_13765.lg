@@ -1,0 +1,43 @@
+# IUD, v2_rendered_13765
+# Objects(20):
+O, \rho_3, \rho, 1.0, 0
+O, _17, -, 1.0, 19
+O, \cup_10, \cup, 1.0, 7
+O, l_14, l, 1.0, 9
+O, _11, -, 1.0, 18
+O, (_20, (, 1.0, 13
+O, (_6, (, 1.0, 3
+O, l_22, l, 1.0, 15
+O, 1_18, 1, 1.0, 12
+O, 1_12, 1, 1.0, 8
+O, l_8, l, 1.0, 5
+O, \vert_24, \vert, 1.0, 16
+O, \log_16, \log, 1.0, 11
+O, p_21, p, 1.0, 14
+O, 2_15, 2, 1.0, 10
+O, 2_4, 2, 1.0, 1
+O, \log_5, \log, 1.0, 2
+O, \gamma_9, \gamma, 1.0, 6
+O, 2_25, 2, 1.0, 17
+O, \varepsilon_7, \varepsilon, 1.0, 4
+
+# Relations from SRT:
+R, (_20, p_21, Right, 1.0
+R, (_6, \varepsilon_7, Right, 1.0
+R, \cup_10, _11, Right, 1.0
+R, \gamma_9, \cup_10, Right, 1.0
+R, \log_16, _17, Right, 1.0
+R, \log_5, (_6, Right, 1.0
+R, \rho_3, 2_4, Sup, 1.0
+R, \rho_3, \log_5, Right, 1.0
+R, \varepsilon_7, l_8, Right, 1.0
+R, \vert_24, 2_25, Sup, 1.0
+R, _11, 1_12, Above, 1.0
+R, _11, \log_16, Right, 1.0
+R, _11, l_14, Below, 1.0
+R, _17, (_20, Below, 1.0
+R, _17, 1_18, Above, 1.0
+R, l_14, 2_15, Sup, 1.0
+R, l_22, \vert_24, Right, 1.0
+R, l_8, \gamma_9, Right, 1.0
+R, p_21, l_22, Right, 1.0

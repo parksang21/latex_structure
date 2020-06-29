@@ -1,0 +1,3 @@
+\begin{equation}
+	= l n Z - \int J _ { \varphi ^ { i } } \varphi ^ { i }
+\end{equation}

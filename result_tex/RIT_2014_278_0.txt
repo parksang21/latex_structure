@@ -1,0 +1,3 @@
+\begin{equation}
+	\lim \frac { \vert a _ { n + 1 } x / } { \vert a _ { n } \vert } > 1
+\end{equation}

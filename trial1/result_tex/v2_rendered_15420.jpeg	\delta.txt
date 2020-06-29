@@ -1,0 +1,3 @@
+\begin{equation}
+	( \Omega ) = \frac { 9 } { m ! } \prod _ { R } ^ { } k _ { R } \Omega _ { R } ( \Omega )
+\end{equation}

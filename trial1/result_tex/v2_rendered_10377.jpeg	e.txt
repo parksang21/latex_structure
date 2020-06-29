@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { \phi } = B D ^ { 3 } , D = C + \alpha y , y < Y
+\end{equation}

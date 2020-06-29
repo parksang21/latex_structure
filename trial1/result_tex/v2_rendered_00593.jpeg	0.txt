@@ -1,0 +1,3 @@
+\begin{equation}
+	\leq \sigma \wedge 4 \pi l , 0 \leq \tau \wedge \pi
+\end{equation}

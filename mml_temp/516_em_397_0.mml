@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msubsup><mi>v</mi><mi>n</mi><mn>2</mn></msubsup><mo>+</mo><mi>l</mi><msub><mi>v</mi><mi>n</mi></msub><msub><mi>v</mi><mi>l</mi></msub><mo>+</mo><msubsup><mi>v</mi><mn>1</mn><mn>2</mn></msubsup><mo>=</mo><mfrac><mn>2</mn><msub><mi>u</mi><mn>1</mn></msub></mfrac><mo>+</mo><msubsup><mi>v</mi><mn>2</mn><mn>2</mn></msubsup></mrow><annotation encoding="application/x-tex">\begin{equation}
+    v _ { n } ^ { 2 } + l v _ { n } v _ { l } + v _ { 1 } ^ { 2 } = \frac { 2 } { u _ { 1 } } + v _ { 2 } ^ { 2 }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

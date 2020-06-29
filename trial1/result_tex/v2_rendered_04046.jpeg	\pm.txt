@@ -1,0 +1,3 @@
+\begin{equation}
+	a \psi _ { 1 } + \frac { b } { 5 } \psi _ { 1 } ^ { 5 } \pm \frac { s } { 3 ! } \psi _ { 1 } ^ { 3 } = \pm v
+\end{equation}

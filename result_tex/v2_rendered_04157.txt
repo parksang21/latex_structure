@@ -1,0 +1,3 @@
+\begin{equation}
+	H = \frac { 1 } { \sqrt { 2 } \pi m } ( \frac { \alpha } { 2 } ) ^ { 3 } F
+\end{equation}

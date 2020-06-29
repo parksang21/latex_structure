@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { x - a } { y - a } > \log \frac { x } { y } , ( x > y > a > 0 )
+\end{equation}

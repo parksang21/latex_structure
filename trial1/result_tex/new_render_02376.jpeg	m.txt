@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { 1 } + m _ { 1 } + \ldots + m _ { k } \geqq g \geqq M ( K )
+\end{equation}

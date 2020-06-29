@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { i n v } \equiv \int ( 2 \phi _ { + } \phi _ { - } + \Omega ^ { 2 } + H ^ { 2 } + 2 v H )
+\end{equation}

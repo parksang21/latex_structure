@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { j e } \leftrightarrow k _ { j } ^ { - 7 } \circ T _ { j e } \circ k _ { e }
+\end{equation}

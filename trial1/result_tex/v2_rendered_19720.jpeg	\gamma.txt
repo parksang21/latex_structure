@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \gamma } ^ { a } = \Delta _ { \gamma } \varepsilon ^ { a }
+\end{equation}

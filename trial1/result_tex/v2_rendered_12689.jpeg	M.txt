@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \infty } ^ { - 1 } = T _ { b } T _ { a } B _ { 0 }
+\end{equation}

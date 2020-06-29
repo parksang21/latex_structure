@@ -1,0 +1,39 @@
+# IUD, new_render_00129
+# Objects(18):
+O, COMMA_16, COMMA, 1.0, ORRRRRRRRRR
+O, T_9, T, 1.0, ORRRRR
+O, G_20, G, 1.0, ORRRRRRRRRRRRRR
+O, \rangle_7, \rangle, 1.0, ORRR
+O, \rho_14, \rho, 1.0, ORRRRRRRRR
+O, )_12, ), 1.0, ORRRRRRRR
+O, \therefore_17, \therefore, 1.0, ORRRRRRRRRRR
+O, \{_2, \{, 1.0, O
+O, \}_21, \}, 1.0, ORRRRRRRRRRRRRRR
+O, \rho_5, \rho, 1.0, ORR
+O, n_11, n, 1.0, ORRRRRRR
+O, \gt_19, \gt, 1.0, ORRRRRRRRRRRRR
+O, (_10, (, 1.0, ORRRRRR
+O, \equiv_8, \equiv, 1.0, ORRRR
+O, 9_15, 9, 1.0, ORRRRRRRRRSub
+O, n_18, n, 1.0, ORRRRRRRRRRRR
+O, n_6, n, 1.0, ORRSub
+O, \vert_3, \vert, 1.0, OR
+
+# Relations from SRT:
+R, (_10, n_11, Right, 1.0
+R, )_12, \rho_14, Right, 1.0
+R, COMMA_16, \therefore_17, Right, 1.0
+R, G_20, \}_21, Right, 1.0
+R, T_9, (_10, Right, 1.0
+R, \equiv_8, T_9, Right, 1.0
+R, \gt_19, G_20, Right, 1.0
+R, \rangle_7, \equiv_8, Right, 1.0
+R, \rho_14, 9_15, Sub, 1.0
+R, \rho_14, COMMA_16, Right, 1.0
+R, \rho_5, \rangle_7, Right, 1.0
+R, \rho_5, n_6, Sub, 1.0
+R, \therefore_17, n_18, Right, 1.0
+R, \vert_3, \rho_5, Right, 1.0
+R, \{_2, \vert_3, Right, 1.0
+R, n_11, )_12, Right, 1.0
+R, n_18, \gt_19, Right, 1.0

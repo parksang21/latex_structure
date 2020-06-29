@@ -1,0 +1,3 @@
+\begin{equation}
+	\vert \psi \rangle = \sum _ { \gamma , \phi , p } \vert r , \phi , l \rangle \langle r , \phi , l \vert \psi \rangle
+\end{equation}

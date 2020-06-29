@@ -1,0 +1,35 @@
+# IUD, 501_em_0_0
+# Objects(16):
+O, )_17, ), 1.0, ORBelowRRRRRRRR
+O, x_13, x, 1.0, ORBelowRRRRR
+O, (_6, (, 1.0, ORBelow
+O, d_19, d, 1.0, ORR
+O, b_12, b, 1.0, ORBelowRRRR
+O, a_7, a, 1.0, ORBelowR
+O, c_15, c, 1.0, ORBelowRRRRRRR
+O, x_9, x, 1.0, ORBelowRR
+O, 2_10, 2, 1.0, ORBelowRRSup
+O, n_18, n, 1.0, ORBelowRRRRRRRRSup
+O, x_20, x, 1.0, ORRR
+O, 1_4, 1, 1.0, ORAbove
+O, \int_2, \int, 1.0, O
+O, +_14, +, 1.0, ORBelowRRRRRR
+O, +_11, +, 1.0, ORBelowRRR
+O, _3, -, 1.0, OR
+
+# Relations from SRT:
+R, (_6, a_7, Right, 1.0
+R, )_17, n_18, Sup, 1.0
+R, +_11, b_12, Right, 1.0
+R, +_14, c_15, Right, 1.0
+R, \int_2, _3, Right, 1.0
+R, _3, (_6, Below, 1.0
+R, _3, 1_4, Above, 1.0
+R, _3, d_19, Right, 1.0
+R, a_7, x_9, Right, 1.0
+R, b_12, x_13, Right, 1.0
+R, c_15, )_17, Right, 1.0
+R, d_19, x_20, Right, 1.0
+R, x_13, +_14, Right, 1.0
+R, x_9, +_11, Right, 1.0
+R, x_9, 2_10, Sup, 1.0

@@ -1,0 +1,37 @@
+# IUD, new_render_00138
+# Objects(17):
+O, =_14, =, 1.0, ORRRRR
+O, )_13, ), 1.0, ORRRR
+O, /_8, /, 1.0, OSubRRR
+O, R_12, R, 1.0, ORRR
+O, (_10, (, 1.0, OR
+O, K_3, K, 1.0, O
+O, 0_20, 0, 1.0, ORRRRRRRRRRR
+O, \therefore_17, \therefore, 1.0, ORRRRRRRR
+O, l_18, l, 1.0, ORRRRRRRRR
+O, COMMA_16, COMMA, 1.0, ORRRRRRR
+O, 3_9, 3, 1.0, OSubRRRR
+O, 0_15, 0, 1.0, ORRRRRR
+O, 1_7, 1, 1.0, OSubRR
+O, +_6, +, 1.0, OSubR
+O, l_5, l, 1.0, OSub
+O, M_11, M, 1.0, ORR
+O, \geq_19, \geq, 1.0, ORRRRRRRRRR
+
+# Relations from SRT:
+R, (_10, M_11, Right, 1.0
+R, )_13, =_14, Right, 1.0
+R, +_6, 1_7, Right, 1.0
+R, /_8, 3_9, Right, 1.0
+R, 0_15, COMMA_16, Right, 1.0
+R, 1_7, /_8, Right, 1.0
+R, =_14, 0_15, Right, 1.0
+R, COMMA_16, \therefore_17, Right, 1.0
+R, K_3, (_10, Right, 1.0
+R, K_3, l_5, Sub, 1.0
+R, M_11, R_12, Right, 1.0
+R, R_12, )_13, Right, 1.0
+R, \geq_19, 0_20, Right, 1.0
+R, \therefore_17, l_18, Right, 1.0
+R, l_18, \geq_19, Right, 1.0
+R, l_5, +_6, Right, 1.0

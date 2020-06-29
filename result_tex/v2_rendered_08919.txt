@@ -1,0 +1,3 @@
+\begin{equation}
+	\beta / \vert \alpha ^ { ( 1 ) } \vert \sim 1
+\end{equation}

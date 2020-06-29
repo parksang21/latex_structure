@@ -1,0 +1,47 @@
+# IUD, 1035
+# Objects(22):
+O, X_2, X, 1.0, 0
+O, -_14, -, 1.0, 11
+O, +_23, +, 1.0, 19
+O, \sigma_22, \sigma, 1.0, 18
+O, \tau_15, \tau, 1.0, 12
+O, X_10, X, 1.0, 7
+O, \tau_6, \tau, 1.0, 4
+O, R_11, R, 1.0, 8
+O, +_17, +, 1.0, 14
+O, )_25, ), 1.0, 21
+O, )_16, ), 1.0, 13
+O, \tau_24, \tau, 1.0, 20
+O, X_19, X, 1.0, 15
+O, =_8, =, 1.0, 6
+O, COMMA_5, COMMA, 1.0, 3
+O, (_3, (, 1.0, 1
+O, (_21, (, 1.0, 17
+O, \sigma_4, \sigma, 1.0, 2
+O, (_12, (, 1.0, 9
+O, \sigma_13, \sigma, 1.0, 10
+O, L_20, L, 1.0, 16
+O, )_7, ), 1.0, 5
+
+# Relations from SRT:
+R, (_12, \sigma_13, Right, 1.0
+R, (_21, \sigma_22, Right, 1.0
+R, (_3, \sigma_4, Right, 1.0
+R, )_16, +_17, Right, 1.0
+R, )_7, =_8, Right, 1.0
+R, +_17, X_19, Right, 1.0
+R, +_23, \tau_24, Right, 1.0
+R, -_14, \tau_15, Right, 1.0
+R, =_8, X_10, Right, 1.0
+R, COMMA_5, \tau_6, Right, 1.0
+R, X_10, (_12, Right, 1.0
+R, X_10, R_11, Sub, 1.0
+R, X_19, (_21, Right, 1.0
+R, X_19, L_20, Sub, 1.0
+R, X_2, (_3, Right, 1.0
+R, \sigma_13, -_14, Right, 1.0
+R, \sigma_22, +_23, Right, 1.0
+R, \sigma_4, COMMA_5, Right, 1.0
+R, \tau_15, )_16, Right, 1.0
+R, \tau_24, )_25, Right, 1.0
+R, \tau_6, )_7, Right, 1.0

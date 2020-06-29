@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta ( i \lambda y , p ) \approx \Delta _ { T } ( i \lambda _ { y } , p ) \therefore y \geq 9
+\end{equation}

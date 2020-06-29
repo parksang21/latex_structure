@@ -1,0 +1,3 @@
+\begin{equation}
+	- \frac { 1 } { 2 \alpha ^ { \prime } } \lambda ^ { 2 }
+\end{equation}

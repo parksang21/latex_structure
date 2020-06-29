@@ -1,0 +1,39 @@
+# IUD, v2_rendered_17848
+# Objects(18):
+O, \equiv_6, \equiv, 1.0, 4
+O, (_17, (, 1.0, 11
+O, (_21, (, 1.0, 15
+O, \subset_11, \subset, 1.0, 7
+O, p_22, p, 1.0, 16
+O, )_23, ), 1.0, 17
+O, H_2, H, 1.0, 0
+O, \rho_10, \rho, 1.0, 6
+O, )_5, ), 1.0, 3
+O, \pi_13, \pi, 1.0, 8
+O, (_3, (, 1.0, 1
+O, -_15, -, 1.0, 9
+O, x_4, x, 1.0, 2
+O, \sum_8, \sum, 1.0, 5
+O, x_18, x, 1.0, 12
+O, )_19, ), 1.0, 13
+O, 1_16, 1, 1.0, 10
+O, H_20, H, 1.0, 14
+
+# Relations from SRT:
+R, (_17, x_18, Right, 1.0
+R, (_21, p_22, Right, 1.0
+R, (_3, x_4, Right, 1.0
+R, )_5, \equiv_6, Right, 1.0
+R, -_15, 1_16, Right, 1.0
+R, H_20, (_21, Right, 1.0
+R, H_2, (_3, Right, 1.0
+R, \equiv_6, \sum_8, Right, 1.0
+R, \pi_13, (_17, Right, 1.0
+R, \pi_13, -_15, Sup, 1.0
+R, \rho_10, \subset_11, Right, 1.0
+R, \subset_11, \pi_13, Right, 1.0
+R, \sum_8, H_20, Right, 1.0
+R, \sum_8, \rho_10, Below, 1.0
+R, p_22, )_23, Right, 1.0
+R, x_18, )_19, Right, 1.0
+R, x_4, )_5, Right, 1.0

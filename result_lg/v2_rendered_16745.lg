@@ -1,0 +1,39 @@
+# IUD, v2_rendered_16745
+# Objects(18):
+O, \mu_5, \mu, 1.0, OSub
+O, +_8, +, 1.0, OSubSubR
+O, (_19, (, 1.0, ORRR
+O, p_14, p, 1.0, ORSupR
+O, \prime_24, \prime, 1.0, ORRRRRRSup
+O, C_11, C, 1.0, OR
+O, (_13, (, 1.0, ORSup
+O, )_25, ), 1.0, ORRRRRRR
+O, 1_9, 1, 1.0, OSubSubRR
+O, \wedge_18, \wedge, 1.0, ORR
+O, -_21, -, 1.0, ORRRRR
+O, F_20, F, 1.0, ORRRR
+O, -_15, -, 1.0, ORSupRR
+O, 1_7, 1, 1.0, OSubSub
+O, F_23, F, 1.0, ORRRRRR
+O, 1_16, 1, 1.0, ORSupRRR
+O, \int_3, \int, 1.0, O
+O, )_17, ), 1.0, ORSupRRRR
+
+# Relations from SRT:
+R, (_13, p_14, Right, 1.0
+R, (_19, F_20, Right, 1.0
+R, +_8, 1_9, Right, 1.0
+R, -_15, 1_16, Right, 1.0
+R, -_21, F_23, Right, 1.0
+R, 1_16, )_17, Right, 1.0
+R, 1_7, +_8, Right, 1.0
+R, C_11, (_13, Sup, 1.0
+R, C_11, \wedge_18, Right, 1.0
+R, F_20, -_21, Right, 1.0
+R, F_23, )_25, Right, 1.0
+R, F_23, \prime_24, Sup, 1.0
+R, \int_3, C_11, Right, 1.0
+R, \int_3, \mu_5, Sub, 1.0
+R, \mu_5, 1_7, Sub, 1.0
+R, \wedge_18, (_19, Right, 1.0
+R, p_14, -_15, Right, 1.0

@@ -1,0 +1,111 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_10342</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msub><mi xml:id="\theta_3">θ</mi><mi xml:id="\lambda_4">λ</mi></msub><mo xml:id="\leq_5">≤</mo><mo form="prefix" stretchy="false" xml:id="(_6">(</mo><mi xml:id="D_7">D</mi><mo xml:id="\circle_8">∘</mo><mi xml:id="L_9">L</mi><msubsup><mo form="postfix" stretchy="false" xml:id=")_11">)</mo><mi xml:id="\lambda_12">λ</mi><mrow><mo xml:id="-_14">−</mo><mn xml:id="7_15">7</mn><mi xml:id="\gamma_16">γ</mi></mrow></msubsup><mo form="prefix" stretchy="false" xml:id="(_17">(</mo><mi xml:id="D_18">D</mi><mo xml:id="\circle_19">∘</mo><msup><mi xml:id="h_21">h</mi><mrow><mi xml:id="T_23">T</mi><mi xml:id="D_24">D</mi></mrow></msup><mo form="postfix" stretchy="false" xml:id=")_25">)</mo><mi xml:id="\gamma_26">γ</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\theta</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\theta_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\lambda</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\lambda_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\leq</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\leq_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="(_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">D</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="D_7"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\circle</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\circle_8"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">L</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="L_9"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href=")_11"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">\lambda</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="\lambda_12"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="-_14"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">7</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="7_15"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">\gamma</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="\gamma_16"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="(_17"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">D</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="D_18"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">\circle</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="\circle_19"/>
+	</traceGroup>
+ <traceGroup xml:id="16">
+    <annotation type="truth">h</annotation>
+	<traceView traceDataRef="15"/>
+    <annotationXML href="h_21"/>
+	</traceGroup>
+ <traceGroup xml:id="17">
+    <annotation type="truth">T</annotation>
+	<traceView traceDataRef="16"/>
+    <annotationXML href="T_23"/>
+	</traceGroup>
+ <traceGroup xml:id="18">
+    <annotation type="truth">D</annotation>
+	<traceView traceDataRef="17"/>
+    <annotationXML href="D_24"/>
+	</traceGroup>
+ <traceGroup xml:id="19">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="18"/>
+    <annotationXML href=")_25"/>
+	</traceGroup>
+ <traceGroup xml:id="20">
+    <annotation type="truth">\gamma</annotation>
+	<traceView traceDataRef="19"/>
+    <annotationXML href="\gamma_26"/>
+	</traceGroup>
+</traceGroup>
+</ink>

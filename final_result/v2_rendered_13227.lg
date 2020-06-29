@@ -1,0 +1,37 @@
+# IUD, v2_rendered_13227
+# Objects(17):
+O, COMMA_19, COMMA, 1.0, ORRRRRRRRRR
+O, \theta_20, \theta, 1.0, ORRRRRRRRRRR
+O, \theta_14, \theta, 1.0, ORRRRRR
+O, x_18, x, 1.0, ORRRRRRRRR
+O, x_8, x, 1.0, ORRRR
+O, )_21, ), 1.0, ORRRRRRRRRRRR
+O, d_6, d, 1.0, ORRR
+O, d_10, d, 1.0, ORRRRR
+O, _15, \sqrt, 1.0, ORRRRRRR
+O, D_7, D, 1.0, ORRRSup
+O, D_12, D, 1.0, ORRRRRSup
+O, G_13, G, 1.0, ORRRRRSupSub
+O, =_3, =, 1.0, OR
+O, \int_4, \int, 1.0, ORR
+O, I_2, I, 1.0, O
+O, F_16, F, 1.0, ORRRRRRRInside
+O, (_17, (, 1.0, ORRRRRRRR
+
+# Relations from SRT:
+R, (_17, x_18, Right, 1.0
+R, =_3, \int_4, Right, 1.0
+R, COMMA_19, \theta_20, Right, 1.0
+R, D_12, G_13, Sub, 1.0
+R, I_2, =_3, Right, 1.0
+R, \int_4, d_6, Right, 1.0
+R, \theta_14, _15, Right, 1.0
+R, \theta_20, )_21, Right, 1.0
+R, _15, (_17, Right, 1.0
+R, _15, F_16, Inside, 1.0
+R, d_10, D_12, Sup, 1.0
+R, d_10, \theta_14, Right, 1.0
+R, d_6, D_7, Sup, 1.0
+R, d_6, x_8, Right, 1.0
+R, x_18, COMMA_19, Right, 1.0
+R, x_8, d_10, Right, 1.0

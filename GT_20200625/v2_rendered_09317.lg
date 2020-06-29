@@ -1,0 +1,51 @@
+# IUD, v2_rendered_09317
+# Objects(24):
+O, y_25, y, 1.0, ORRRRRRRRRRRRRRRRR
+O, -_17, -, 1.0, ORRRRRRRRRRR
+O, \alpha_22, \alpha, 1.0, ORRRRRRRRRRRRRRR
+O, x_6, x, 1.0, ORR
+O, (_5, (, 1.0, OR
+O, \equiv_11, \equiv, 1.0, ORRRRRRR
+O, \alpha_13, \alpha, 1.0, ORRRRRRRR
+O, z_27, z, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, y_8, y, 1.0, ORRRR
+O, -_26, -, 1.0, ORRRRRRRRRRRRRRRRRR
+O, (_15, (, 1.0, ORRRRRRRRR
+O, z_18, z, 1.0, ORRRRRRRRRRRR
+O, \mu_14, \mu, 1.0, ORRRRRRRRSup
+O, \mu_23, \mu, 1.0, ORRRRRRRRRRRRRRRSup
+O, S_3, S, 1.0, O
+O, )_10, ), 1.0, ORRRRRR
+O, \mu_4, \mu, 1.0, OSup
+O, x_16, x, 1.0, ORRRRRRRRRR
+O, )_28, ), 1.0, ORRRRRRRRRRRRRRRRRRRR
+O, COMMA_7, COMMA, 1.0, ORRR
+O, )_19, ), 1.0, ORRRRRRRRRRRRR
+O, z_9, z, 1.0, ORRRRR
+O, (_24, (, 1.0, ORRRRRRRRRRRRRRRR
+O, -_20, -, 1.0, ORRRRRRRRRRRRRR
+
+# Relations from SRT:
+R, (_15, x_16, Right, 1.0
+R, (_24, y_25, Right, 1.0
+R, (_5, x_6, Right, 1.0
+R, )_10, \equiv_11, Right, 1.0
+R, )_19, -_20, Right, 1.0
+R, -_17, z_18, Right, 1.0
+R, -_20, \alpha_22, Right, 1.0
+R, -_26, z_27, Right, 1.0
+R, COMMA_7, y_8, Right, 1.0
+R, S_3, (_5, Right, 1.0
+R, S_3, \mu_4, Sup, 1.0
+R, \alpha_13, (_15, Right, 1.0
+R, \alpha_13, \mu_14, Sup, 1.0
+R, \alpha_22, (_24, Right, 1.0
+R, \alpha_22, \mu_23, Sup, 1.0
+R, \equiv_11, \alpha_13, Right, 1.0
+R, x_16, -_17, Right, 1.0
+R, x_6, COMMA_7, Right, 1.0
+R, y_25, -_26, Right, 1.0
+R, y_8, z_9, Right, 1.0
+R, z_18, )_19, Right, 1.0
+R, z_27, )_28, Right, 1.0
+R, z_9, )_10, Right, 1.0

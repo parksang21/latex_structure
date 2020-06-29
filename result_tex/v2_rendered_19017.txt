@@ -1,0 +1,3 @@
+\begin{equation}
+	K _ { j n } ^ { g l ( n ) } = - \delta _ { j , n - 1 }
+\end{equation}

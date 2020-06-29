@@ -1,0 +1,39 @@
+# IUD, v2_rendered_08824
+# Objects(18):
+O, g_6, g, 1.0, OR
+O, \mu_8, \mu, 1.0, ORSub
+O, \beta_12, \beta, 1.0, ORRRR
+O, \mu_17, \mu, 1.0, ORRRRRRSub
+O, \phi_23, \phi, 1.0, ORRRRRRRRR
+O, \delta_21, \delta, 1.0, ORRRRRRRR
+O, \varepsilon_25, \varepsilon, 1.0, ORRRRRRRRRRR
+O, \varepsilon_13, \varepsilon, 1.0, ORRRRR
+O, -_11, -, 1.0, ORRR
+O, COMMA_19, COMMA, 1.0, ORRRRRRR
+O, \beta_4, \beta, 1.0, OSub
+O, =_10, =, 1.0, ORR
+O, \tau_9, \tau, 1.0, ORSubR
+O, \beta_22, \beta, 1.0, ORRRRRRRRSub
+O, =_24, =, 1.0, ORRRRRRRRRR
+O, g_15, g, 1.0, ORRRRRR
+O, \delta_3, \delta, 1.0, O
+O, \tau_18, \tau, 1.0, ORRRRRRSubR
+
+# Relations from SRT:
+R, -_11, \beta_12, Right, 1.0
+R, =_10, -_11, Right, 1.0
+R, =_24, \varepsilon_25, Right, 1.0
+R, COMMA_19, \delta_21, Right, 1.0
+R, \beta_12, \varepsilon_13, Right, 1.0
+R, \delta_21, \beta_22, Sub, 1.0
+R, \delta_21, \phi_23, Right, 1.0
+R, \delta_3, \beta_4, Sub, 1.0
+R, \delta_3, g_6, Right, 1.0
+R, \mu_17, \tau_18, Right, 1.0
+R, \mu_8, \tau_9, Right, 1.0
+R, \phi_23, =_24, Right, 1.0
+R, \varepsilon_13, g_15, Right, 1.0
+R, g_15, COMMA_19, Right, 1.0
+R, g_15, \mu_17, Sub, 1.0
+R, g_6, =_10, Right, 1.0
+R, g_6, \mu_8, Sub, 1.0

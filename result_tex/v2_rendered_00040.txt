@@ -1,0 +1,3 @@
+\begin{equation}
+	( \psi ) _ { H } = \sum _ { i \not\subset I }
+\end{equation}

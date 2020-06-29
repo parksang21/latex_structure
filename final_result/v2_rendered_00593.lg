@@ -1,0 +1,29 @@
+# IUD, v2_rendered_00593
+# Objects(13):
+O, \leq_11, \leq, 1.0, ORRRRRRRRR
+O, \wedge_5, \wedge, 1.0, ORRR
+O, 0_10, 0, 1.0, ORRRRRRRR
+O, 4_6, 4, 1.0, ORRRR
+O, l_8, l, 1.0, ORRRRRR
+O, \sigma_4, \sigma, 1.0, ORR
+O, \wedge_13, \wedge, 1.0, ORRRRRRRRRRR
+O, \leq_3, \leq, 1.0, OR
+O, \pi_14, \pi, 1.0, ORRRRRRRRRRRR
+O, COMMA_9, COMMA, 1.0, ORRRRRRR
+O, \pi_7, \pi, 1.0, ORRRRR
+O, \tau_12, \tau, 1.0, ORRRRRRRRRR
+O, 0_2, 0, 1.0, O
+
+# Relations from SRT:
+R, 0_10, \leq_11, Right, 1.0
+R, 0_2, \leq_3, Right, 1.0
+R, 4_6, \pi_7, Right, 1.0
+R, COMMA_9, 0_10, Right, 1.0
+R, \leq_11, \tau_12, Right, 1.0
+R, \leq_3, \sigma_4, Right, 1.0
+R, \pi_7, l_8, Right, 1.0
+R, \sigma_4, \wedge_5, Right, 1.0
+R, \tau_12, \wedge_13, Right, 1.0
+R, \wedge_13, \pi_14, Right, 1.0
+R, \wedge_5, 4_6, Right, 1.0
+R, l_8, COMMA_9, Right, 1.0

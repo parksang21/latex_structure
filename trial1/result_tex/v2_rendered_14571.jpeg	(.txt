@@ -1,0 +1,3 @@
+\begin{equation}
+	Y _ { k } ) _ { j } ^ { i } = x _ { k } \delta _ { j } ^ { i } + \lambda \phi _ { j } ^ { i }
+\end{equation}

@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>s</mi><mi>u</mi><mi>p</mi><mi>p</mi><msqrt><mi>Q</mi></msqrt><mo>∩</mo><mo stretchy="false" form="prefix">{</mo><mi>k</mi><mo stretchy="false" form="prefix">(</mo><msup><mi>k</mi><mn>2</mn></msup><mo>≥</mo><mn>0</mn><mi>a</mi><mi>n</mi><mi>d</mi><msup><mi>k</mi><mn>0</mn></msup><mo>≤</mo><mn>0</mn><mo stretchy="false" form="postfix">}</mo></mrow><annotation encoding="application/x-tex">\begin{equation}
+    s u p p \sqrt { Q } \cap \{ k ( k ^ { 2 } \geq 0 a n d k ^ { 0 } \leq 0 \}
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

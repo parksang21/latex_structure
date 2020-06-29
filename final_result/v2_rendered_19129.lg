@@ -1,0 +1,35 @@
+# IUD, v2_rendered_19129
+# Objects(16):
+O, n_10, n, 1.0, ORRBelow
+O, \sum_9, \sum, 1.0, ORR
+O, \lt_16, \lt, 1.0, ORRRAboveRRR
+O, s_6, s, 1.0, OSupR
+O, s_22, s, 1.0, ORRRBelowSup
+O, n_17, n, 1.0, ORRRAboveRRRR
+O, \vert_18, \vert, 1.0, ORRRAboveRRRRR
+O, =_7, =, 1.0, OR
+O, \lambda_20, \lambda, 1.0, ORRRBelow
+O, n_14, n, 1.0, ORRRAboveR
+O, \gt_15, \gt, 1.0, ORRRAboveRR
+O, _11, -, 1.0, ORRR
+O, L_3, L, 1.0, O
+O, n_21, n, 1.0, ORRRBelowSub
+O, -_5, -, 1.0, OSup
+O, \vert_13, \vert, 1.0, ORRRAbove
+
+# Relations from SRT:
+R, -_5, s_6, Right, 1.0
+R, =_7, \sum_9, Right, 1.0
+R, L_3, -_5, Sup, 1.0
+R, L_3, =_7, Right, 1.0
+R, \gt_15, \lt_16, Right, 1.0
+R, \lambda_20, n_21, Sub, 1.0
+R, \lambda_20, s_22, Sup, 1.0
+R, \lt_16, n_17, Right, 1.0
+R, \sum_9, _11, Right, 1.0
+R, \sum_9, n_10, Below, 1.0
+R, \vert_13, n_14, Right, 1.0
+R, _11, \lambda_20, Below, 1.0
+R, _11, \vert_13, Above, 1.0
+R, n_14, \gt_15, Right, 1.0
+R, n_17, \vert_18, Right, 1.0

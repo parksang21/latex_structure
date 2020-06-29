@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="false" form="prefix">⟨</mo><mi>d</mi><msub><mo stretchy="false" form="postfix">⟩</mo><mi>F</mi></msub><mo>∼</mo><msubsup><mo>∫</mo><mn>0</mn><mi>∞</mi></msubsup><mi>d</mi><mi>λ</mi><mi>λ</mi><msup><mi>e</mi><mrow><mo>−</mo><mi>t</mi><msup><mi>λ</mi><mn>2</mn></msup></mrow></msup><mo>∝</mo><mi>∞</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \langle d \rangle _ { F } \sim \int _ { 0 } ^ { \infty } d \lambda \lambda e ^ { - t \lambda ^ { 2 } } \propto \infty
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

@@ -1,0 +1,3 @@
+\begin{equation}
+	\gamma _ { \mu } \Delta _ { \mu } G ^ { 0 } ( x - y ) = \delta ( x - y )
+\end{equation}

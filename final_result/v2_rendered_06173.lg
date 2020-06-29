@@ -1,0 +1,39 @@
+# IUD, v2_rendered_06173
+# Objects(18):
+O, \gamma_7, \gamma, 1.0, ORSupR
+O, \beta_6, \beta, 1.0, ORSup
+O, a_12, a, 1.0, ORRRSub
+O, b_13, b, 1.0, ORRRSubR
+O, T_4, T, 1.0, OR
+O, [_2, [, 1.0, O
+O, \beta_15, \beta, 1.0, ORRRSup
+O, a_22, a, 1.0, ORRRRRRRRR
+O, b_24, b, 1.0, ORRRRRRRRRRR
+O, \forall_21, \forall, 1.0, ORRRRRRRR
+O, \gamma_16, \gamma, 1.0, ORRRSupR
+O, =_18, =, 1.0, ORRRRR
+O, COMMA_20, COMMA, 1.0, ORRRRRRR
+O, M_10, M, 1.0, ORRR
+O, 0_19, 0, 1.0, ORRRRRR
+O, COMMA_8, COMMA, 1.0, ORR
+O, ]_17, ], 1.0, ORRRR
+O, COMMA_23, COMMA, 1.0, ORRRRRRRRRR
+
+# Relations from SRT:
+R, 0_19, COMMA_20, Right, 1.0
+R, =_18, 0_19, Right, 1.0
+R, COMMA_20, \forall_21, Right, 1.0
+R, COMMA_23, b_24, Right, 1.0
+R, COMMA_8, M_10, Right, 1.0
+R, M_10, \beta_15, Sup, 1.0
+R, M_10, ]_17, Right, 1.0
+R, M_10, a_12, Sub, 1.0
+R, T_4, COMMA_8, Right, 1.0
+R, T_4, \beta_6, Sup, 1.0
+R, [_2, T_4, Right, 1.0
+R, \beta_15, \gamma_16, Right, 1.0
+R, \beta_6, \gamma_7, Right, 1.0
+R, \forall_21, a_22, Right, 1.0
+R, ]_17, =_18, Right, 1.0
+R, a_12, b_13, Right, 1.0
+R, a_22, COMMA_23, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	\delta = E \delta , H = - \frac { 1 } { 2 } \square + V ( x _ { 1 } , , \ldots , x _ { n } )
+\end{equation}

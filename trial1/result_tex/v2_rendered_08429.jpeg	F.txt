@@ -1,0 +1,3 @@
+\begin{equation}
+	= ( \varphi ( \theta ) , \mu ( \theta ) , a )
+\end{equation}

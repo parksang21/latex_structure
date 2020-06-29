@@ -1,0 +1,3 @@
+\begin{equation}
+	h _ { i } = \sqrt { \alpha } _ { i } \csqrt \sqrt { p } _ { i } + \beta _ { i } m _ { i } + V _ { i } ( \sqrt { x } _ { i } )
+\end{equation}

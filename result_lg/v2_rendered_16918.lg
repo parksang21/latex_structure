@@ -1,0 +1,45 @@
+# IUD, v2_rendered_16918
+# Objects(21):
+O, (_18, (, 1.0, ORRRRRRRRRRRR
+O, )_26, ), 1.0, ORRRRRRRRRRRRRRRR
+O, a_11, a, 1.0, ORRRRRRRSup
+O, e_20, e, 1.0, ORRRRRRRRRRRRR
+O, a_21, a, 1.0, ORRRRRRRRRRRRRSub
+O, f_17, f, 1.0, ORRRRRRRRRRR
+O, b_15, b, 1.0, ORRRRRRRRRSup
+O, \psi_10, \psi, 1.0, ORRRRRRR
+O, \phi_14, \phi, 1.0, ORRRRRRRRR
+O, \subset_12, \subset, 1.0, ORRRRRRRR
+O, \psi_4, \psi, 1.0, ORR
+O, (_3, (, 1.0, OR
+O, \otimes_16, \otimes, 1.0, ORRRRRRRRRR
+O, COMMA_22, COMMA, 1.0, ORRRRRRRRRRRRRR
+O, =_8, =, 1.0, ORRRRRR
+O, )_7, ), 1.0, ORRRRR
+O, k_24, k, 1.0, ORRRRRRRRRRRRRRR
+O, \phi_6, \phi, 1.0, ORRRR
+O, f_2, f, 1.0, O
+O, b_25, b, 1.0, ORRRRRRRRRRRRRRRSub
+O, COMMA_5, COMMA, 1.0, ORRR
+
+# Relations from SRT:
+R, (_18, e_20, Right, 1.0
+R, (_3, \psi_4, Right, 1.0
+R, )_7, =_8, Right, 1.0
+R, =_8, \psi_10, Right, 1.0
+R, COMMA_22, k_24, Right, 1.0
+R, COMMA_5, \phi_6, Right, 1.0
+R, \otimes_16, f_17, Right, 1.0
+R, \phi_14, \otimes_16, Right, 1.0
+R, \phi_14, b_15, Sup, 1.0
+R, \phi_6, )_7, Right, 1.0
+R, \psi_10, \subset_12, Right, 1.0
+R, \psi_10, a_11, Sup, 1.0
+R, \psi_4, COMMA_5, Right, 1.0
+R, \subset_12, \phi_14, Right, 1.0
+R, e_20, COMMA_22, Right, 1.0
+R, e_20, a_21, Sub, 1.0
+R, f_17, (_18, Right, 1.0
+R, f_2, (_3, Right, 1.0
+R, k_24, )_26, Right, 1.0
+R, k_24, b_25, Sub, 1.0

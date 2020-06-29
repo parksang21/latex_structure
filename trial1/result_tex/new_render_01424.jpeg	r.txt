@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { 4 v c } \leqq 0 , \because v , c
+\end{equation}

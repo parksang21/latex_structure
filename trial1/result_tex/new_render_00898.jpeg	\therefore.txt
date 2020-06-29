@@ -1,0 +1,3 @@
+\begin{equation}
+	a o ( W _ { a } ) + o ( E W _ { a } ) = 2 o
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { 1 } { 2 } \sqrt { \lambda } _ { M \psi } ^ { a } [ D _ { M } , D _ { \psi } ] = 0
+\end{equation}

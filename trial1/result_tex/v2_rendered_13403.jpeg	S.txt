@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { L } \leq \frac { 1 } { 4 } ( A ( 0 ) - A ( 1 ) )
+\end{equation}

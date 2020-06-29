@@ -1,0 +1,3 @@
+\begin{equation}
+	\vert \mu \notin = \sum _ { i } m i _ { i } \vert \mu _ { i } \notin
+\end{equation}

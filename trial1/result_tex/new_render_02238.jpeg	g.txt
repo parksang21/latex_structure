@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { a \bar { b } } \geqq \Delta _ { a } \Delta _ { \bar { b } } K ( z , \bar { z } )
+\end{equation}

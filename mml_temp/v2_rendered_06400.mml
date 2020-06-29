@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>s</mi><mi>i</mi></msub><mo>=</mo><mfrac><mn>2</mn><mrow><mo stretchy="false" form="prefix">(</mo><msub><mi>α</mi><mi>i</mi></msub><mo>,</mo><msub><mi>α</mi><mi>i</mi></msub><mo stretchy="false" form="postfix">)</mo></mrow></mfrac><mfrac><mn>1</mn><msup><mi>β</mi><mn>2</mn></msup></mfrac><mo>÷</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">\begin{equation}
+    s _ { i } = \frac { 2 } { ( \alpha _ { i } , \alpha _ { i } ) } \frac { 1 } { \beta ^ { 2 } } \div 1
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

@@ -1,0 +1,41 @@
+# IUD, v2_rendered_19294
+# Objects(19):
+O, =_14, =, 1.0, ORRRRRRRRR
+O, Y_17, Y, 1.0, ORRRRRRRRRRRR
+O, X_9, X, 1.0, ORRRR
+O, Y_18, Y, 1.0, ORRRRRRRRRRRRR
+O, Y_21, Y, 1.0, ORRRRRRRRRRRRRRRR
+O, Y_15, Y, 1.0, ORRRRRRRRRR
+O, P_3, P, 1.0, O
+O, 3_4, 3, 1.0, OSub
+O, Y_10, Y, 1.0, ORRRRR
+O, Y_13, Y, 1.0, ORRRRRRRR
+O, Y_8, Y, 1.0, ORRR
+O, X_7, X, 1.0, ORR
+O, Y_11, Y, 1.0, ORRRRRR
+O, X_12, X, 1.0, ORRRRRRR
+O, X_19, X, 1.0, ORRRRRRRRRRRRRR
+O, X_20, X, 1.0, ORRRRRRRRRRRRRRR
+O, X_16, X, 1.0, ORRRRRRRRRRR
+O, +_5, +, 1.0, OSup
+O, \circle_6, \circle, 1.0, OR
+
+# Relations from SRT:
+R, =_14, Y_15, Right, 1.0
+R, P_3, +_5, Sup, 1.0
+R, P_3, 3_4, Sub, 1.0
+R, P_3, \circle_6, Right, 1.0
+R, X_12, Y_13, Right, 1.0
+R, X_16, Y_17, Right, 1.0
+R, X_19, X_20, Right, 1.0
+R, X_20, Y_21, Right, 1.0
+R, X_7, Y_8, Right, 1.0
+R, X_9, Y_10, Right, 1.0
+R, Y_10, Y_11, Right, 1.0
+R, Y_11, X_12, Right, 1.0
+R, Y_13, =_14, Right, 1.0
+R, Y_15, X_16, Right, 1.0
+R, Y_17, Y_18, Right, 1.0
+R, Y_18, X_19, Right, 1.0
+R, Y_8, X_9, Right, 1.0
+R, \circle_6, X_7, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	\beta ^ { \bot } \beta H \leq - \psi \Delta ^ { 1 } \gamma _ { 0 }
+\end{equation}

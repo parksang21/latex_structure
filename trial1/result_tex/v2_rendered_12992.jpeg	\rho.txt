@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { 2 } \ln ( \varepsilon l ) ^ { 2 } \cup \frac { 1 } { l ^ { 2 } } \ln \frac { 1 } { ( \rho l ) ^ { 2 } }
+\end{equation}

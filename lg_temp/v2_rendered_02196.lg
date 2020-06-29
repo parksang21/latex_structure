@@ -1,0 +1,37 @@
+# IUD, v2_rendered_02196
+# Objects(17):
+O, t_18, t, 1.0, 10
+O, (_13, (, 1.0, 7
+O, )_19, ), 1.0, 11
+O, R_3, R, 1.0, 0
+O, \approx_7, \approx, 1.0, 3
+O, \exists_21, \exists, 1.0, 13
+O, COMMA_20, COMMA, 1.0, 12
+O, y_22, y, 1.0, 14
+O, COMMA_23, COMMA, 1.0, 15
+O, R_15, R, 1.0, 8
+O, y_6, y, 1.0, 2
+O, m_17, m, 1.0, 9
+O, t_24, t, 1.0, 16
+O, y_12, y, 1.0, 6
+O, R_9, R, 1.0, 4
+O, a_11, a, 1.0, 5
+O, a_5, a, 1.0, 1
+
+# Relations from SRT:
+R, (_13, R_15, Right, 1.0
+R, )_19, COMMA_20, Right, 1.0
+R, COMMA_20, \exists_21, Right, 1.0
+R, COMMA_23, t_24, Right, 1.0
+R, R_15, )_19, Right, 1.0
+R, R_15, m_17, Sub, 1.0
+R, R_3, \approx_7, Right, 1.0
+R, R_3, a_5, Sub, 1.0
+R, R_9, (_13, Right, 1.0
+R, R_9, a_11, Sub, 1.0
+R, \approx_7, R_9, Right, 1.0
+R, \exists_21, y_22, Right, 1.0
+R, a_11, y_12, Right, 1.0
+R, a_5, y_6, Right, 1.0
+R, m_17, t_18, Right, 1.0
+R, y_22, COMMA_23, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	\int d ^ { \delta } x \sqrt { g } G _ { i j } \Delta ^ { \mu } \omega ^ { i } \Delta _ { \mu } \omega ^ { j } + \csqrts
+\end{equation}

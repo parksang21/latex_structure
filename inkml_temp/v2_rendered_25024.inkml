@@ -1,0 +1,101 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_25024</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mi xml:id="\beta_2">β</mi><mo xml:id="=_3">=</mo><mi xml:id="p_4">p</mi><mi xml:id="q_5">q</mi><mo xml:id="\int_6">∫</mo><mn xml:id="2_7">2</mn><msup><mi xml:id="g_9">g</mi><mi xml:id="\prime_10">′</mi></msup><mi xml:id="s_11">s</mi><mi xml:id="i_12">i</mi><mi xml:id="n_13">n</mi><mi xml:id="g_14">g</mi><mi xml:id="t_15">t</mi><mi xml:id="a_16">a</mi><mi xml:id="n_17">n</mi><mi xml:id="g_18">g</mi><mo xml:id="⊄_19">⊄</mo><mi xml:id="\Omega_20">Ω</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\beta</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\beta_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="=_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">p</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="p_4"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">q</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="q_5"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">\int</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="\int_6"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">2</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="2_7"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">g</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="g_9"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\prime</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\prime_10"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">s</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="s_11"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">i</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="i_12"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">n</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="n_13"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">g</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="g_14"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">t</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="t_15"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">a</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="a_16"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">n</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="n_17"/>
+	</traceGroup>
+ <traceGroup xml:id="16">
+    <annotation type="truth">g</annotation>
+	<traceView traceDataRef="15"/>
+    <annotationXML href="g_18"/>
+	</traceGroup>
+ <traceGroup xml:id="17">
+    <annotation type="truth">⊄</annotation>
+	<traceView traceDataRef="16"/>
+    <annotationXML href="⊄_19"/>
+	</traceGroup>
+ <traceGroup xml:id="18">
+    <annotation type="truth">\Omega</annotation>
+	<traceView traceDataRef="17"/>
+    <annotationXML href="\Omega_20"/>
+	</traceGroup>
+</traceGroup>
+</ink>

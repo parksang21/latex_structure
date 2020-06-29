@@ -1,0 +1,45 @@
+# IUD, v2_rendered_12713
+# Objects(21):
+O, k_12, k, 1.0, 7
+O, =_6, =, 1.0, 3
+O, \tan_19, \tan, 1.0, 12
+O, K_3, K, 1.0, 0
+O, \pm_16, \pm, 1.0, 11
+O, _8, -, 1.0, 19
+O, -_25, -, 1.0, 17
+O, \cos_23, \cos, 1.0, 15
+O, \pm_5, \pm, 1.0, 2
+O, i_11, i, 1.0, 6
+O, \theta_24, \theta, 1.0, 16
+O, _17, -, 1.0, 20
+O, \pm_7, \pm, 1.0, 4
+O, \theta_20, \theta, 1.0, 13
+O, =_15, =, 1.0, 10
+O, i_22, i, 1.0, 14
+O, 1_26, 1, 1.0, 18
+O, m_14, m, 1.0, 9
+O, -_13, -, 1.0, 8
+O, f_4, f, 1.0, 1
+O, ω_9, ω, 1.0, 5
+
+# Relations from SRT:
+R, -_13, m_14, Right, 1.0
+R, -_25, 1_26, Right, 1.0
+R, =_15, \pm_16, Right, 1.0
+R, =_6, \pm_7, Right, 1.0
+R, K_3, =_6, Right, 1.0
+R, K_3, \pm_5, Sup, 1.0
+R, K_3, f_4, Sub, 1.0
+R, \cos_23, \theta_24, Right, 1.0
+R, \pm_16, _17, Right, 1.0
+R, \pm_7, _8, Right, 1.0
+R, \tan_19, \theta_20, Right, 1.0
+R, \theta_24, -_25, Right, 1.0
+R, _17, \tan_19, Above, 1.0
+R, _17, i_22, Below, 1.0
+R, _8, =_15, Right, 1.0
+R, _8, i_11, Below, 1.0
+R, _8, ω_9, Above, 1.0
+R, i_11, k_12, Right, 1.0
+R, i_22, \cos_23, Right, 1.0
+R, k_12, -_13, Right, 1.0

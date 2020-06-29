@@ -1,0 +1,3 @@
+\begin{equation}
+	/ g _ { Y M } ^ { 2 } \sim ( R M _ { H } ) ^ { 6 } / g _ { H } ^ { 2 }
+\end{equation}

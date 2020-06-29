@@ -1,0 +1,3 @@
+\begin{equation}
+	\vert _ { _ { M } } \approx \phi ^ { M } \odot \phi ^ { S U ( 3 ) }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	= \frac { 1 } { 2 } \Omega _ { i j } d Z ^ { i } \wedge d Z ^ { j }
+\end{equation}

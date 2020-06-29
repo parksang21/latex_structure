@@ -1,0 +1,3 @@
+\begin{equation}
+	D _ { \mu } \beta ^ { a } = \Delta _ { \mu } \beta ^ { a } - g \tau _ { a b c } \omega _ { \mu } ^ { b } \beta ^ { c }
+\end{equation}

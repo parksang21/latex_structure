@@ -1,0 +1,3 @@
+\begin{equation}
+	O _ { n } ( x ) > = C _ { n } \cdot L ^ { - 2 \Delta _ { n } }
+\end{equation}

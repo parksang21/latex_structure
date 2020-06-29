@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { 3 } \geq \lambda _ { 1 } ^ { 3 } \odot \lambda _ { 7 } ^ { 3 } \odot \lambda _ { 2 7 } ^ { 3 }
+\end{equation}

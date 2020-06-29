@@ -1,0 +1,126 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_24091</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mo xml:id="\cos_2">cos</mo><mfrac xml:id="_3"><mi xml:id="\sigma_4">σ</mi><mi xml:id="l_5">l</mi></mfrac><mo xml:id="=_6">=</mo><mo xml:id="\cos_7">cos</mo><mi xml:id="x_8">x</mi><mo xml:id="\cos_9">cos</mo><msup><mi xml:id="x_11">x</mi><mi xml:id="\prime_12">′</mi></msup><mo xml:id="-_13">−</mo><mo xml:id="\cos_14">cos</mo><mi xml:id="x_15">x</mi><mo xml:id="\cos_16">cos</mo><msup><mi xml:id="x_18">x</mi><mi xml:id="\prime_19">′</mi></msup><mo xml:id="\cos_20">cos</mo><mo form="prefix" stretchy="false" xml:id="(_21">(</mo><mi xml:id="\phi_22">ϕ</mi><mo xml:id="-_23">−</mo><msup><mi xml:id="\phi_25">ϕ</mi><mi xml:id="\prime_26">′</mi></msup><mo form="postfix" stretchy="false" xml:id=")_27">)</mo></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\cos</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\cos_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\sigma</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\sigma_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">l</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="l_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="=_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">\cos</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="\cos_7"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">x</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="x_8"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">\cos</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="\cos_9"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">x</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="x_11"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">\prime</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="\prime_12"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="-_13"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">\cos</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="\cos_14"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">x</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="x_15"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">\cos</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="\cos_16"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">x</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="x_18"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">\prime</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="\prime_19"/>
+	</traceGroup>
+ <traceGroup xml:id="16">
+    <annotation type="truth">\cos</annotation>
+	<traceView traceDataRef="15"/>
+    <annotationXML href="\cos_20"/>
+	</traceGroup>
+ <traceGroup xml:id="17">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="16"/>
+    <annotationXML href="(_21"/>
+	</traceGroup>
+ <traceGroup xml:id="18">
+    <annotation type="truth">\phi</annotation>
+	<traceView traceDataRef="17"/>
+    <annotationXML href="\phi_22"/>
+	</traceGroup>
+ <traceGroup xml:id="19">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="18"/>
+    <annotationXML href="-_23"/>
+	</traceGroup>
+ <traceGroup xml:id="20">
+    <annotation type="truth">\phi</annotation>
+	<traceView traceDataRef="19"/>
+    <annotationXML href="\phi_25"/>
+	</traceGroup>
+ <traceGroup xml:id="21">
+    <annotation type="truth">\prime</annotation>
+	<traceView traceDataRef="20"/>
+    <annotationXML href="\prime_26"/>
+	</traceGroup>
+ <traceGroup xml:id="22">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="21"/>
+    <annotationXML href=")_27"/>
+	</traceGroup>
+ <traceGroup xml:id="23">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="22"/>
+    <annotationXML href="_3"/>
+	</traceGroup>
+</traceGroup>
+</ink>

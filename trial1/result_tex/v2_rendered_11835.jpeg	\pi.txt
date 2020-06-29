@@ -1,0 +1,3 @@
+\begin{equation}
+	\notin q _ { 1 } \notin q _ { 2 } \notin \cdots \notin q _ { r } \notin 0
+\end{equation}

@@ -1,0 +1,55 @@
+# IUD, v2_rendered_14019
+# Objects(26):
+O, \phi_27, \phi, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, \phi_23, \phi, 1.0, ORRRRRRRRRRRRRRR
+O, \rangle_10, \rangle, 1.0, ORRRRRRRR
+O, _14, -, 1.0, ORRRRRRRRRRRR
+O, COMMA_22, COMMA, 1.0, ORRRRRRRRRRRRRR
+O, \delta_18, \delta, 1.0, ORRRRRRRRRRRRRAbove
+O, (_26, (, 1.0, ORRRRRRRRRRRRRRRRRR
+O, )_28, ), 1.0, ORRRRRRRRRRRRRRRRRRRR
+O, \phi_21, \phi, 1.0, ORRRRRRRRRRRRRBelowR
+O, \vert_8, \vert, 1.0, ORRRRRR
+O, [_13, [, 1.0, ORRRRRRRRRRR
+O, O_12, O, 1.0, ORRRRRRRRRR
+O, _17, -, 1.0, ORRRRRRRRRRRRR
+O, (_3, (, 1.0, OR
+O, ]_24, ], 1.0, ORRRRRRRRRRRRRRRR
+O, COMMA_5, COMMA, 1.0, ORRR
+O, \rho_25, \rho, 1.0, ORRRRRRRRRRRRRRRRR
+O, \rho_9, \rho, 1.0, ORRRRRRR
+O, O_2, O, 1.0, O
+O, \mu_6, \mu, 1.0, ORRRR
+O, i_16, i, 1.0, ORRRRRRRRRRRRBelow
+O, )_7, ), 1.0, ORRRRR
+O, \delta_20, \delta, 1.0, ORRRRRRRRRRRRRBelow
+O, \leftrightarrow_11, \leftrightarrow, 1.0, ORRRRRRRRR
+O, 1_15, 1, 1.0, ORRRRRRRRRRRRAbove
+O, \lambda_4, \lambda, 1.0, ORR
+
+# Relations from SRT:
+R, (_26, \phi_27, Right, 1.0
+R, (_3, \lambda_4, Right, 1.0
+R, )_7, \vert_8, Right, 1.0
+R, COMMA_22, \phi_23, Right, 1.0
+R, COMMA_5, \mu_6, Right, 1.0
+R, O_12, [_13, Right, 1.0
+R, O_2, (_3, Right, 1.0
+R, [_13, _14, Right, 1.0
+R, \delta_20, \phi_21, Right, 1.0
+R, \lambda_4, COMMA_5, Right, 1.0
+R, \leftrightarrow_11, O_12, Right, 1.0
+R, \mu_6, )_7, Right, 1.0
+R, \phi_23, ]_24, Right, 1.0
+R, \phi_27, )_28, Right, 1.0
+R, \rangle_10, \leftrightarrow_11, Right, 1.0
+R, \rho_25, (_26, Right, 1.0
+R, \rho_9, \rangle_10, Right, 1.0
+R, \vert_8, \rho_9, Right, 1.0
+R, ]_24, \rho_25, Right, 1.0
+R, _14, 1_15, Above, 1.0
+R, _14, _17, Right, 1.0
+R, _14, i_16, Below, 1.0
+R, _17, COMMA_22, Right, 1.0
+R, _17, \delta_18, Above, 1.0
+R, _17, \delta_20, Below, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	t ( \theta , \theta ) \leqq 1 , \therefore \theta \cap \omega
+\end{equation}

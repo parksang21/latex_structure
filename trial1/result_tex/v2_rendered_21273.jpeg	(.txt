@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta _ { \gamma } , \Delta _ { \gamma } ) _ { ( 9 0 ) } = \sqrt { \tilde { \Delta } } e ^ { 2 U }
+\end{equation}

@@ -1,0 +1,43 @@
+# IUD, v2_rendered_24279
+# Objects(20):
+O, \theta_7, \theta, 1.0, OR
+O, _3, \sqrt, 1.0, O
+O, W_20, W, 1.0, ORRRRRRRR
+O, 0_8, 0, 1.0, ORSub
+O, =_19, =, 1.0, ORRRRRRR
+O, \theta_11, \theta, 1.0, ORRR
+O, \subset_24, \subset, 1.0, ORRRRRRRRRRRR
+O, \Delta_25, \Delta, 1.0, ORRRRRRRRRRRRR
+O, COMMA_13, COMMA, 1.0, ORRRR
+O, p_5, p, 1.0, OSub
+O, W_18, W, 1.0, ORRRRRR
+O, s_16, s, 1.0, ORRRRRInside
+O, p_17, p, 1.0, ORRRRRSub
+O, s_4, s, 1.0, OInside
+O, =_9, =, 1.0, ORR
+O, \forall_22, \forall, 1.0, ORRRRRRRRRR
+O, _15, \sqrt, 1.0, ORRRRR
+O, COMMA_21, COMMA, 1.0, ORRRRRRRRR
+O, 0_12, 0, 1.0, ORRRSub
+O, \rho_23, \rho, 1.0, ORRRRRRRRRRR
+
+# Relations from SRT:
+R, =_19, W_20, Right, 1.0
+R, =_9, \theta_11, Right, 1.0
+R, COMMA_13, _15, Right, 1.0
+R, COMMA_21, \forall_22, Right, 1.0
+R, W_18, =_19, Right, 1.0
+R, W_20, COMMA_21, Right, 1.0
+R, \forall_22, \rho_23, Right, 1.0
+R, \rho_23, \subset_24, Right, 1.0
+R, \subset_24, \Delta_25, Right, 1.0
+R, \theta_11, 0_12, Sub, 1.0
+R, \theta_11, COMMA_13, Right, 1.0
+R, \theta_7, 0_8, Sub, 1.0
+R, \theta_7, =_9, Right, 1.0
+R, _15, W_18, Right, 1.0
+R, _15, p_17, Sub, 1.0
+R, _15, s_16, Inside, 1.0
+R, _3, \theta_7, Right, 1.0
+R, _3, p_5, Sub, 1.0
+R, _3, s_4, Inside, 1.0

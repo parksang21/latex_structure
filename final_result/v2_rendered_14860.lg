@@ -1,0 +1,39 @@
+# IUD, v2_rendered_14860
+# Objects(18):
+O, \cap_22, \cap, 1.0, ORRRRRRRRRRRR
+O, 2_12, 2, 1.0, ORRRRSup
+O, \lambda_18, \lambda, 1.0, ORRRRRRRRRR
+O, \pm_9, \pm, 1.0, ORRRSub
+O, \pm_15, \pm, 1.0, ORRRRRRR
+O, 0_23, 0, 1.0, ORRRRRRRRRRRRR
+O, d_11, d, 1.0, ORRRR
+O, \rho_8, \rho, 1.0, ORRR
+O, =_5, =, 1.0, OR
+O, 2_16, 2, 1.0, ORRRRRRRR
+O, \pm_21, \pm, 1.0, ORRRRRRRRRRRSub
+O, \pm_4, \pm, 1.0, OSub
+O, \pi_17, \pi, 1.0, ORRRRRRRRR
+O, Q_3, Q, 1.0, O
+O, r_13, r, 1.0, ORRRRR
+O, N_20, N, 1.0, ORRRRRRRRRRR
+O, =_14, =, 1.0, ORRRRRR
+O, \int_6, \int, 1.0, ORR
+
+# Relations from SRT:
+R, 2_16, \pi_17, Right, 1.0
+R, =_14, \pm_15, Right, 1.0
+R, =_5, \int_6, Right, 1.0
+R, N_20, \cap_22, Right, 1.0
+R, N_20, \pm_21, Sub, 1.0
+R, Q_3, =_5, Right, 1.0
+R, Q_3, \pm_4, Sub, 1.0
+R, \cap_22, 0_23, Right, 1.0
+R, \int_6, \rho_8, Right, 1.0
+R, \lambda_18, N_20, Right, 1.0
+R, \pi_17, \lambda_18, Right, 1.0
+R, \pm_15, 2_16, Right, 1.0
+R, \rho_8, \pm_9, Sub, 1.0
+R, \rho_8, d_11, Right, 1.0
+R, d_11, 2_12, Sup, 1.0
+R, d_11, r_13, Right, 1.0
+R, r_13, =_14, Right, 1.0

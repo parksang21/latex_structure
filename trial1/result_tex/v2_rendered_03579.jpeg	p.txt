@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { j } = - i \frac { \Delta } { \Delta q _ { j } } , j = 1 , \ldots , r
+\end{equation}

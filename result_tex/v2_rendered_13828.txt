@@ -1,0 +1,3 @@
+\begin{equation}
+	\int d ^ { 4 } x \frac { 1 } { 2 } h _ { \mu \phi } T ^ { \mu \phi }
+\end{equation}

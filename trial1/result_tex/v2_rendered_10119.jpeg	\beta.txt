@@ -1,0 +1,3 @@
+\begin{equation}
+	( g ) = a \frac { \Delta g ( a ) } { \Delta a }
+\end{equation}

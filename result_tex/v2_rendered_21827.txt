@@ -1,0 +1,3 @@
+\begin{equation}
+	\beta \Delta \times \beta E = g \beta \Delta f \times \beta E
+\end{equation}

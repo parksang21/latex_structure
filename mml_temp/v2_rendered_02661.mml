@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mfrac><mn>1</mn><mi>π</mi></mfrac><msubsup><mo>∫</mo><mi>a</mi><mi>b</mi></msubsup><mi>d</mi><mi>λ</mi><msqrt><mrow><mn>2</mn><mo stretchy="false" form="prefix">(</mo><msubsup><mi>E</mi><mi>F</mi><mrow><mo stretchy="false" form="prefix">(</mo><mn>0</mn><mo stretchy="false" form="postfix">)</mo></mrow></msubsup><mo>−</mo><mi>V</mi><mo stretchy="false" form="postfix">)</mo></mrow></msqrt><mo>=</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \frac { 1 } { \pi } \int _ { a } ^ { b } d \lambda \sqrt { 2 ( E _ { F } ^ { ( 0 ) } - V ) } = 1
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \tau } \langle T _ { \mu } ^ { \tau } ( x ) \rangle _ { R e n . } = 0
+\end{equation}

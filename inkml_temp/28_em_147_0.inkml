@@ -1,0 +1,26 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">28_em_147_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mo form="prefix" stretchy="false" xml:id="[_2">[</mo><mn xml:id="8_3">8</mn><mo form="postfix" stretchy="false" xml:id="]_4">]</mo></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">[</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="[_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">8</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="8_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">]</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="]_4"/>
+	</traceGroup>
+</traceGroup>
+</ink>

@@ -1,0 +1,3 @@
+\begin{equation}
+	{ \tilde { \pi } } _ { b } ( x ) \equiv \tilde { \pi } _ { b } - L E ( x )
+\end{equation}

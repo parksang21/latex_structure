@@ -1,0 +1,35 @@
+# IUD, v2_rendered_00018
+# Objects(16):
+O, \mu_20, \mu, 1.0, ORRRRRRRSup
+O, \mu_11, \mu, 1.0, ORRRRRR
+O, \lambda_14, \lambda, 1.0, ORRRRRRSubR
+O, 1_19, 1, 1.0, ORRRRRRRSubR
+O, \vert_2, \vert, 1.0, O
+O, p_4, p, 1.0, ORR
+O, \gt_5, \gt, 1.0, ORRR
+O, -_18, -, 1.0, ORRRRRRRSub
+O, \alpha_16, \alpha, 1.0, ORRRRRRR
+O, \mu_3, \mu, 1.0, OR
+O, =_6, =, 1.0, ORRRR
+O, \mu_13, \mu, 1.0, ORRRRRRSub
+O, \alpha_22, \alpha, 1.0, ORRRRRRRRR
+O, \beta_21, \beta, 1.0, ORRRRRRRR
+O, 0_9, 0, 1.0, ORRRRRSub
+O, N_8, N, 1.0, ORRRRR
+
+# Relations from SRT:
+R, -_18, 1_19, Right, 1.0
+R, =_6, N_8, Right, 1.0
+R, N_8, 0_9, Sub, 1.0
+R, N_8, \mu_11, Right, 1.0
+R, \alpha_16, -_18, Sub, 1.0
+R, \alpha_16, \beta_21, Right, 1.0
+R, \alpha_16, \mu_20, Sup, 1.0
+R, \beta_21, \alpha_22, Right, 1.0
+R, \gt_5, =_6, Right, 1.0
+R, \mu_11, \alpha_16, Right, 1.0
+R, \mu_11, \mu_13, Sub, 1.0
+R, \mu_13, \lambda_14, Right, 1.0
+R, \mu_3, p_4, Right, 1.0
+R, \vert_2, \mu_3, Right, 1.0
+R, p_4, \gt_5, Right, 1.0

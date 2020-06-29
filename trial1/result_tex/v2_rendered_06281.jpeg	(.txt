@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { V ^ { \prime } } { V } ) ^ { 2 } \vee \frac { d } { ( d - 1 ) ^ { 2 } }
+\end{equation}

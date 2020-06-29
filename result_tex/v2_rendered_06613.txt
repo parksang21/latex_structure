@@ -1,0 +1,3 @@
+\begin{equation}
+	h _ { \Delta } ( x _ { 2 } ) = t a n h ( \frac { x _ { 2 } } { \Delta } )
+\end{equation}

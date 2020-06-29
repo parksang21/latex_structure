@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \circ } ( f ) \geq a c _ { \circ } ( i \gamma _ { \mu } f ^ { \mu } ) + O ( f ^ { 2 } )
+\end{equation}

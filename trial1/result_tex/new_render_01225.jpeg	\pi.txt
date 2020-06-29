@@ -1,0 +1,3 @@
+\begin{equation}
+	\leqq \frac { \Delta P } { \Delta \tilde { \lambda } } \leqq \tilde { \lambda } ^ { * } \pm i e A _ { \circ } \lambda ^ { * }
+\end{equation}

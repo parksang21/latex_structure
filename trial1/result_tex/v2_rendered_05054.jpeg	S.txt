@@ -1,0 +1,3 @@
+\begin{equation}
+	\leq \frac { 8 \pi M E } { \delta _ { P } ^ { 2 } }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	N ( t ) = \int _ { \mu ( t ) } d \mu ^ { \mu } j _ { \mu } ( t , x )
+\end{equation}

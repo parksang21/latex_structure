@@ -1,0 +1,3 @@
+\begin{equation}
+	d y ^ { 1 } \csqrts d y ^ { n } d \rho ^ { 1 } \csqrts \phi ^ { m } \equiv d y \phi
+\end{equation}

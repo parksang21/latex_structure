@@ -1,0 +1,66 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_24061</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msup><mi xml:id="X_3">X</mi><mi xml:id="\mu_4">μ</mi></msup><mo xml:id="=_5">=</mo><msup><mi xml:id="x_7">x</mi><mi xml:id="\mu_8">μ</mi></msup><mo xml:id="\div_9">÷</mo><msup><mi xml:id="\theta_11">θ</mi><mrow><mi xml:id="\mu_13">μ</mi><mi xml:id="\varepsilon_14">ε</mi></mrow></msup><msub><mi xml:id="A_16">A</mi><mi xml:id="\varepsilon_17">ε</mi></msub></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">X</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="X_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\mu_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="=_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">x</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="x_7"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="\mu_8"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\div</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\div_9"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">\theta</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="\theta_11"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\mu_13"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">\varepsilon</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="\varepsilon_14"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">A</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="A_16"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">\varepsilon</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="\varepsilon_17"/>
+	</traceGroup>
+</traceGroup>
+</ink>

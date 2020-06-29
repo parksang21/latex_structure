@@ -1,0 +1,3 @@
+\begin{equation}
+	( 6 \osqrt \Delta ) \Delta _ { \mu R } \leqq ( \Delta \osqrt 6 ) \Delta _ { \mu } _ { R } \exists R \in \phi _ { \omega }
+\end{equation}

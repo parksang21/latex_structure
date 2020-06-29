@@ -1,0 +1,3 @@
+\begin{equation}
+	( \square \osqrt 4 ) \square \neq ( 4 \osqrt \square ) \square
+\end{equation}

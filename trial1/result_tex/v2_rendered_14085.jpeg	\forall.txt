@@ -1,0 +1,3 @@
+\begin{equation}
+	J \in \rho \subset M J ( 7 )
+\end{equation}

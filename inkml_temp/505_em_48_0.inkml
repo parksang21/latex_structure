@@ -1,0 +1,166 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">505_em_48_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mo form="prefix" stretchy="false" xml:id="(_2">(</mo><mi xml:id="g_3">g</mi><mo xml:id="-_4">−</mo><mi xml:id="x_5">x</mi><mo form="postfix" stretchy="false" xml:id=")_6">)</mo><mo form="prefix" stretchy="false" xml:id="(_7">(</mo><mi xml:id="d_8">d</mi><mo xml:id="-_9">−</mo><mi xml:id="x_10">x</mi><mo form="postfix" stretchy="false" xml:id=")_11">)</mo><mo xml:id="-_12">−</mo><mi xml:id="b_13">b</mi><mi xml:id="c_14">c</mi><mo xml:id="=_15">=</mo><msup><mi xml:id="x_17">x</mi><mn xml:id="2_18">2</mn></msup><mo xml:id="-_19">−</mo><mo form="prefix" stretchy="false" xml:id="(_20">(</mo><mi xml:id="a_21">a</mi><mo xml:id="+_22">+</mo><mi xml:id="d_23">d</mi><mo form="postfix" stretchy="false" xml:id=")_24">)</mo><mi xml:id="x_25">x</mi><mo xml:id="+_26">+</mo><mo form="prefix" stretchy="false" xml:id="(_27">(</mo><mi xml:id="a_28">a</mi><mi xml:id="d_29">d</mi><mo xml:id="-_30">−</mo><mi xml:id="b_31">b</mi><mi xml:id="c_32">c</mi><mo form="postfix" stretchy="false" xml:id=")_33">)</mo></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="(_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">g</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="g_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="-_4"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">x</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="x_5"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href=")_6"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="(_7"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">d</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="d_8"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="-_9"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">x</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="x_10"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href=")_11"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="-_12"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">b</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="b_13"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">c</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="c_14"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="=_15"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">x</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="x_17"/>
+	</traceGroup>
+ <traceGroup xml:id="16">
+    <annotation type="truth">2</annotation>
+	<traceView traceDataRef="15"/>
+    <annotationXML href="2_18"/>
+	</traceGroup>
+ <traceGroup xml:id="17">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="16"/>
+    <annotationXML href="-_19"/>
+	</traceGroup>
+ <traceGroup xml:id="18">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="17"/>
+    <annotationXML href="(_20"/>
+	</traceGroup>
+ <traceGroup xml:id="19">
+    <annotation type="truth">a</annotation>
+	<traceView traceDataRef="18"/>
+    <annotationXML href="a_21"/>
+	</traceGroup>
+ <traceGroup xml:id="20">
+    <annotation type="truth">+</annotation>
+	<traceView traceDataRef="19"/>
+    <annotationXML href="+_22"/>
+	</traceGroup>
+ <traceGroup xml:id="21">
+    <annotation type="truth">d</annotation>
+	<traceView traceDataRef="20"/>
+    <annotationXML href="d_23"/>
+	</traceGroup>
+ <traceGroup xml:id="22">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="21"/>
+    <annotationXML href=")_24"/>
+	</traceGroup>
+ <traceGroup xml:id="23">
+    <annotation type="truth">x</annotation>
+	<traceView traceDataRef="22"/>
+    <annotationXML href="x_25"/>
+	</traceGroup>
+ <traceGroup xml:id="24">
+    <annotation type="truth">+</annotation>
+	<traceView traceDataRef="23"/>
+    <annotationXML href="+_26"/>
+	</traceGroup>
+ <traceGroup xml:id="25">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="24"/>
+    <annotationXML href="(_27"/>
+	</traceGroup>
+ <traceGroup xml:id="26">
+    <annotation type="truth">a</annotation>
+	<traceView traceDataRef="25"/>
+    <annotationXML href="a_28"/>
+	</traceGroup>
+ <traceGroup xml:id="27">
+    <annotation type="truth">d</annotation>
+	<traceView traceDataRef="26"/>
+    <annotationXML href="d_29"/>
+	</traceGroup>
+ <traceGroup xml:id="28">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="27"/>
+    <annotationXML href="-_30"/>
+	</traceGroup>
+ <traceGroup xml:id="29">
+    <annotation type="truth">b</annotation>
+	<traceView traceDataRef="28"/>
+    <annotationXML href="b_31"/>
+	</traceGroup>
+ <traceGroup xml:id="30">
+    <annotation type="truth">c</annotation>
+	<traceView traceDataRef="29"/>
+    <annotationXML href="c_32"/>
+	</traceGroup>
+ <traceGroup xml:id="31">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="30"/>
+    <annotationXML href=")_33"/>
+	</traceGroup>
+</traceGroup>
+</ink>

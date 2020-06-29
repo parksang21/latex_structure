@@ -1,0 +1,3 @@
+\begin{equation}
+	\langle 0 \vert T _ { i } ^ { k } \vert 0 \rangle = \delta _ { i } ^ { k } \frac { A _ { d } } { 2 }
+\end{equation}

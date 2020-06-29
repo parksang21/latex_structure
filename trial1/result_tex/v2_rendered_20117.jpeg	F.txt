@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \mu _ { 1 } \cdots \mu _ { n } } = \phi _ { \mu _ { 1 } \cdots \mu _ { n } } \Omega ( \rho )
+\end{equation}

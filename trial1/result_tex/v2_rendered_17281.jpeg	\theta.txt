@@ -1,0 +1,3 @@
+\begin{equation}
+	( l , 0 ) = \frac { ( 2 l + 7 ) ( l + 1 ) _ { 6 } } { 1 8 }
+\end{equation}

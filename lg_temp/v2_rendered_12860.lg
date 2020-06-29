@@ -1,0 +1,39 @@
+# IUD, v2_rendered_12860
+# Objects(18):
+O, \mu_7, \mu, 1.0, 3
+O, \psi_20, \psi, 1.0, 12
+O, c_26, c, 1.0, 17
+O, =_11, =, 1.0, 6
+O, \mu_4, \mu, 1.0, 1
+O, c_17, c, 1.0, 10
+O, \psi_24, \psi, 1.0, 15
+O, \mu_21, \mu, 1.0, 13
+O, f_13, f, 1.0, 7
+O, \mu_25, \mu, 1.0, 16
+O, a_15, a, 1.0, 8
+O, Y_6, Y, 1.0, 2
+O, \phi_9, \phi, 1.0, 4
+O, b_22, b, 1.0, 14
+O, b_16, b, 1.0, 9
+O, Y_3, Y, 1.0, 0
+O, 0_10, 0, 1.0, 5
+O, a_18, a, 1.0, 11
+
+# Relations from SRT:
+R, =_11, f_13, Right, 1.0
+R, Y_3, Y_6, Right, 1.0
+R, Y_3, \mu_4, Sub, 1.0
+R, Y_6, \mu_7, Sup, 1.0
+R, Y_6, \phi_9, Right, 1.0
+R, \phi_9, 0_10, Sup, 1.0
+R, \phi_9, =_11, Right, 1.0
+R, \psi_20, \mu_21, Sub, 1.0
+R, \psi_20, \psi_24, Right, 1.0
+R, \psi_20, b_22, Sup, 1.0
+R, \psi_24, \mu_25, Sub, 1.0
+R, \psi_24, c_26, Sup, 1.0
+R, a_15, b_16, Right, 1.0
+R, b_16, c_17, Right, 1.0
+R, f_13, \psi_20, Right, 1.0
+R, f_13, a_15, Sub, 1.0
+R, f_13, a_18, Sup, 1.0

@@ -1,0 +1,49 @@
+# IUD, v2_rendered_09426
+# Objects(23):
+O, y_20, y, 1.0, 15
+O, 4_27, 4, 1.0, 20
+O, COMMA_21, COMMA, 1.0, 16
+O, \cos_13, \cos, 1.0, 8
+O, _22, \sqrt, 1.0, 22
+O, (_19, (, 1.0, 14
+O, 0_4, 0, 1.0, 1
+O, 4_14, 4, 1.0, 9
+O, =_10, =, 1.0, 6
+O, 0_8, 0, 1.0, 4
+O, )_24, ), 1.0, 18
+O, \sin_26, \sin, 1.0, 19
+O, 4_17, 4, 1.0, 12
+O, y_23, y, 1.0, 17
+O, 4_9, 4, 1.0, 5
+O, +_16, +, 1.0, 11
+O, \theta_15, \theta, 1.0, 10
+O, \theta_28, \theta, 1.0, 21
+O, \Omega_3, \Omega, 1.0, 0
+O, A_18, A, 1.0, 13
+O, \alpha_7, \alpha, 1.0, 3
+O, 4_11, 4, 1.0, 7
+O, 6_5, 6, 1.0, 2
+
+# Relations from SRT:
+R, (_19, y_20, Right, 1.0
+R, )_24, \sin_26, Right, 1.0
+R, +_16, 4_17, Right, 1.0
+R, 4_11, \cos_13, Right, 1.0
+R, 4_17, A_18, Right, 1.0
+R, =_10, 4_11, Right, 1.0
+R, A_18, (_19, Right, 1.0
+R, COMMA_21, _22, Right, 1.0
+R, \Omega_3, 0_4, Sub, 1.0
+R, \Omega_3, 6_5, Sup, 1.0
+R, \Omega_3, \alpha_7, Right, 1.0
+R, \alpha_7, 0_8, Sub, 1.0
+R, \alpha_7, 4_9, Sup, 1.0
+R, \alpha_7, =_10, Right, 1.0
+R, \cos_13, 4_14, Sup, 1.0
+R, \cos_13, \theta_15, Right, 1.0
+R, \sin_26, 4_27, Sup, 1.0
+R, \sin_26, \theta_28, Right, 1.0
+R, \theta_15, +_16, Right, 1.0
+R, _22, )_24, Right, 1.0
+R, _22, y_23, Inside, 1.0
+R, y_20, COMMA_21, Right, 1.0

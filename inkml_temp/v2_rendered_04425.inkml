@@ -1,0 +1,56 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_04425</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mi xml:id="\delta_2">δ</mi><msup><mi xml:id="\alpha_4">α</mi><mi xml:id="a_5">a</mi></msup><mo xml:id="=_6">=</mo><msup><mi xml:id="\Delta_8">Δ</mi><mi xml:id="k_9">k</mi></msup><msubsup><mi xml:id="m_11">m</mi><mi xml:id="k_12">k</mi><mi xml:id="a_13">a</mi></msubsup></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\delta</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\delta_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\alpha</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\alpha_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">a</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="a_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="=_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">\Delta</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="\Delta_8"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">k</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="k_9"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">m</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="m_11"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">k</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="k_12"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">a</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="a_13"/>
+	</traceGroup>
+</traceGroup>
+</ink>

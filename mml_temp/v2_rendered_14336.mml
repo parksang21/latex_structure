@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="false" form="postfix">|</mo><mi>E</mi><munder><mo>&gt;</mo><mrow><mn>0</mn><mo>,</mo><mi>e</mi></mrow></munder><mo>=</mo><mfrac><mn>1</mn><msqrt><mn>2</mn></msqrt></mfrac><mo stretchy="false" form="prefix">[</mo><mo stretchy="false" form="postfix">|</mo><mi>E</mi><munder><mo>&gt;</mo><mo accent="false">+</mo></munder><mo>−</mo><mo stretchy="false" form="postfix">|</mo><mi>E</mi><msub><mo stretchy="false" form="postfix">⟩</mo><mo>−</mo></msub><mo stretchy="false" form="postfix">]</mo></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \vert E &gt; _ { 0 , e } = \frac { 1 } { \sqrt { 2 } } [ \vert E &gt; _ { + } - \vert E \rangle _ { - } ]
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

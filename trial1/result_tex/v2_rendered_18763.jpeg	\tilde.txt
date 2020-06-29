@@ -1,0 +1,3 @@
+\begin{equation}
+	{ \Delta } _ { \gamma } \tilde { \Delta } _ { + + } \tilde { u } = e ^ { 2 \tilde { u } } \tilde { F } _ { L } \tilde { F } _ { R }
+\end{equation}

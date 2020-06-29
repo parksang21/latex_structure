@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { 1 } { \tan i \theta ) } = \frac { \cos ( \theta ) } { m \vert \theta ) }
+\end{equation}

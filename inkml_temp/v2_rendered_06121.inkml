@@ -1,0 +1,96 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_06121</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msup><mi xml:id="\phi_3">ϕ</mi><mi xml:id="a_4">a</mi></msup><mo xml:id="\wedge_5">∧</mo><msup><mi xml:id="H_7">H</mi><mi xml:id="b_8">b</mi></msup><msub><mi xml:id="\mu_10">μ</mi><mrow><mi xml:id="a_12">a</mi><mi xml:id="b_13">b</mi></mrow></msub><mo xml:id="\wedge_14">∧</mo><msup><mi xml:id="H_16">H</mi><mi xml:id="c_17">c</mi></msup><mo xml:id="\wedge_18">∧</mo><msup><mi xml:id="H_20">H</mi><mi xml:id="d_21">d</mi></msup><msub><mi xml:id="\mu_23">μ</mi><mrow><mi xml:id="c_25">c</mi><mi xml:id="d_26">d</mi></mrow></msub></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\phi</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\phi_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">a</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="a_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\wedge</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\wedge_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">H</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="H_7"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">b</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="b_8"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\mu_10"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">a</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="a_12"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">b</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="b_13"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">\wedge</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="\wedge_14"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">H</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="H_16"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">c</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="c_17"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">\wedge</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="\wedge_18"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">H</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="H_20"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">d</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="d_21"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="\mu_23"/>
+	</traceGroup>
+ <traceGroup xml:id="16">
+    <annotation type="truth">c</annotation>
+	<traceView traceDataRef="15"/>
+    <annotationXML href="c_25"/>
+	</traceGroup>
+ <traceGroup xml:id="17">
+    <annotation type="truth">d</annotation>
+	<traceView traceDataRef="16"/>
+    <annotationXML href="d_26"/>
+	</traceGroup>
+</traceGroup>
+</ink>

@@ -1,0 +1,3 @@
+\begin{equation}
+	\alpha ^ { \prime } C _ { 0 } N _ { \tau } ^ { 2 } V _ { \bot } = - 1
+\end{equation}

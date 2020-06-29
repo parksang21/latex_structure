@@ -1,0 +1,57 @@
+# IUD, v2_rendered_11945
+# Objects(27):
+O, H_24, H, 1.0, 22
+O, e_3, e, 1.0, 1
+O, e_22, e, 1.0, 20
+O, COMMA_25, COMMA, 1.0, 23
+O, k_11, k, 1.0, 9
+O, (_10, (, 1.0, 8
+O, G_28, G, 1.0, 26
+O, COMMA_20, COMMA, 1.0, 18
+O, )_14, ), 1.0, 12
+O, \sigma_4, \sigma, 1.0, 2
+O, \wedge_27, \wedge, 1.0, 25
+O, *_12, *, 1.0, 10
+O, e_13, e, 1.0, 11
+O, )_19, ), 1.0, 17
+O, k_18, k, 1.0, 16
+O, k_26, k, 1.0, 24
+O, \wedge_23, \wedge, 1.0, 21
+O, (_17, (, 1.0, 15
+O, =_8, =, 1.0, 6
+O, \forall_21, \forall, 1.0, 19
+O, R_2, R, 1.0, 0
+O, \sigma_9, \sigma, 1.0, 7
+O, (_5, (, 1.0, 3
+O, \approx_15, \approx, 1.0, 13
+O, k_6, k, 1.0, 4
+O, \sigma_16, \sigma, 1.0, 14
+O, )_7, ), 1.0, 5
+
+# Relations from SRT:
+R, (_10, k_11, Right, 1.0
+R, (_17, k_18, Right, 1.0
+R, (_5, k_6, Right, 1.0
+R, )_14, \approx_15, Right, 1.0
+R, )_19, COMMA_20, Right, 1.0
+R, )_7, =_8, Right, 1.0
+R, *_12, e_13, Right, 1.0
+R, =_8, \sigma_9, Right, 1.0
+R, COMMA_20, \forall_21, Right, 1.0
+R, COMMA_25, k_26, Right, 1.0
+R, H_24, COMMA_25, Right, 1.0
+R, R_2, e_3, Right, 1.0
+R, \approx_15, \sigma_16, Right, 1.0
+R, \forall_21, e_22, Right, 1.0
+R, \sigma_16, (_17, Right, 1.0
+R, \sigma_4, (_5, Right, 1.0
+R, \sigma_9, (_10, Right, 1.0
+R, \wedge_23, H_24, Right, 1.0
+R, \wedge_27, G_28, Right, 1.0
+R, e_13, )_14, Right, 1.0
+R, e_22, \wedge_23, Right, 1.0
+R, e_3, \sigma_4, Right, 1.0
+R, k_11, *_12, Right, 1.0
+R, k_18, )_19, Right, 1.0
+R, k_26, \wedge_27, Right, 1.0
+R, k_6, )_7, Right, 1.0

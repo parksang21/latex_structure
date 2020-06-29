@@ -1,0 +1,47 @@
+# IUD, v2_rendered_17932
+# Objects(22):
+O, _22, \sqrt, 1.0, ORRRRRRRRRR
+O, (_17, (, 1.0, ORRRRRRR
+O, j_16, j, 1.0, ORRRRRRSub
+O, _4, \sqrt, 1.0, OR
+O, \alpha_19, \alpha, 1.0, ORRRRRRRR
+O, )_24, ), 1.0, ORRRRRRRRRRR
+O, -_21, -, 1.0, ORRRRRRRRR
+O, H_23, H, 1.0, ORRRRRRRRRRInside
+O, _9, \sqrt, 1.0, ORRR
+O, \alpha_11, \alpha, 1.0, ORRRSub
+O, H_5, H, 1.0, ORInside
+O, =_13, =, 1.0, ORRRRR
+O, \alpha_15, \alpha, 1.0, ORRRRRR
+O, s_27, s, 1.0, ORRRRRRRRRRRRInside
+O, j_6, j, 1.0, ORSub
+O, \alpha_28, \alpha, 1.0, ORRRRRRRRRRRRSub
+O, s_10, s, 1.0, ORRRInside
+O, ]_12, ], 1.0, ORRRR
+O, COMMA_7, COMMA, 1.0, ORR
+O, \cap_20, \cap, 1.0, ORRRRRRRRSup
+O, _26, \sqrt, 1.0, ORRRRRRRRRRRR
+O, [_2, [, 1.0, O
+
+# Relations from SRT:
+R, (_17, \alpha_19, Right, 1.0
+R, )_24, _26, Right, 1.0
+R, -_21, _22, Right, 1.0
+R, =_13, \alpha_15, Right, 1.0
+R, COMMA_7, _9, Right, 1.0
+R, [_2, _4, Right, 1.0
+R, \alpha_15, (_17, Right, 1.0
+R, \alpha_15, j_16, Sub, 1.0
+R, \alpha_19, -_21, Right, 1.0
+R, \alpha_19, \cap_20, Sup, 1.0
+R, ]_12, =_13, Right, 1.0
+R, _22, )_24, Right, 1.0
+R, _22, H_23, Inside, 1.0
+R, _26, \alpha_28, Sub, 1.0
+R, _26, s_27, Inside, 1.0
+R, _4, COMMA_7, Right, 1.0
+R, _4, H_5, Inside, 1.0
+R, _4, j_6, Sub, 1.0
+R, _9, \alpha_11, Sub, 1.0
+R, _9, ]_12, Right, 1.0
+R, _9, s_10, Inside, 1.0

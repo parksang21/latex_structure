@@ -1,0 +1,3 @@
+\begin{equation}
+	1 _ { 2 } \otimes \sqrt { \gamma } _ { 5 } \sqrt { \delta } ^ { N } = \rho \sqrt { \delta } ^ { N }
+\end{equation}

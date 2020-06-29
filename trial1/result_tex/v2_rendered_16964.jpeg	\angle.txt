@@ -1,0 +1,3 @@
+\begin{equation}
+	\sigma _ { i } = P ( \alpha , s , \theta ) e ^ { - S _ { c } ^ { ( i ) } }
+\end{equation}

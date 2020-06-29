@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>ψ</mi><mrow><mi>e</mi><mi>f</mi><mi>f</mi></mrow></msub><mo>≥</mo><mfrac><mn>2</mn><mrow><mn>2</mn><mo>×</mo><msup><mi>ψ</mi><mn>4</mn></msup><mo>×</mo><mi>k</mi><mo>∘</mo><mi>k</mi></mrow></mfrac></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \psi _ { e f f } \geq \frac { 2 } { 2 \times \psi ^ { 4 } \times k \circ k }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

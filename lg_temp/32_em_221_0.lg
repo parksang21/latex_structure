@@ -1,0 +1,11 @@
+# IUD, 32_em_221_0
+# Objects(4):
+O, n_2, n, 1.0, 0
+O, \gt_3, \gt, 1.0, 1
+O, N_5, N, 1.0, 3
+O, COMMA_4, COMMA, 1.0, 2
+
+# Relations from SRT:
+R, COMMA_4, N_5, Right, 1.0
+R, \gt_3, COMMA_4, Right, 1.0
+R, n_2, \gt_3, Right, 1.0

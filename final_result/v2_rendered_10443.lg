@@ -1,0 +1,47 @@
+# IUD, v2_rendered_10443
+# Objects(22):
+O, p_15, p, 1.0, ORRRRRRRRRSub
+O, \rangle_8, \rangle, 1.0, ORRRR
+O, \rangle_16, \rangle, 1.0, ORRRRRRRRRR
+O, \pi_6, \pi, 1.0, ORRR
+O, \approx_9, \approx, 1.0, ORRRRR
+O, I_19, I, 1.0, ORRRRRRRRRRRR
+O, \cap_26, \cap, 1.0, ORRRRRRRRRRRRRRR
+O, x_21, x, 1.0, ORRRRRRRRRRRRSub
+O, \langle_2, \langle, 1.0, O
+O, \vert_12, \vert, 1.0, ORRRRRRRR
+O, \prime_22, \prime, 1.0, ORRRRRRRRRRRRSubSup
+O, \pi_14, \pi, 1.0, ORRRRRRRRR
+O, \vert_4, \vert, 1.0, ORR
+O, p_25, p, 1.0, ORRRRRRRRRRRRRR
+O, 0_10, 0, 1.0, ORRRRRR
+O, \forall_11, \forall, 1.0, ORRRRRRR
+O, 0_27, 0, 1.0, ORRRRRRRRRRRRRRRR
+O, \cap_17, \cap, 1.0, ORRRRRRRRRRR
+O, g_3, g, 1.0, OR
+O, COMMA_24, COMMA, 1.0, ORRRRRRRRRRRRR
+O, *_23, *, 1.0, ORRRRRRRRRRRRSup
+O, p_7, p, 1.0, ORRRSub
+
+# Relations from SRT:
+R, 0_10, \forall_11, Right, 1.0
+R, COMMA_24, p_25, Right, 1.0
+R, I_19, *_23, Sup, 1.0
+R, I_19, COMMA_24, Right, 1.0
+R, I_19, x_21, Sub, 1.0
+R, \approx_9, 0_10, Right, 1.0
+R, \cap_17, I_19, Right, 1.0
+R, \cap_26, 0_27, Right, 1.0
+R, \forall_11, \vert_12, Right, 1.0
+R, \langle_2, g_3, Right, 1.0
+R, \pi_14, \rangle_16, Right, 1.0
+R, \pi_14, p_15, Sub, 1.0
+R, \pi_6, \rangle_8, Right, 1.0
+R, \pi_6, p_7, Sub, 1.0
+R, \rangle_16, \cap_17, Right, 1.0
+R, \rangle_8, \approx_9, Right, 1.0
+R, \vert_12, \pi_14, Right, 1.0
+R, \vert_4, \pi_6, Right, 1.0
+R, g_3, \vert_4, Right, 1.0
+R, p_25, \cap_26, Right, 1.0
+R, x_21, \prime_22, Sup, 1.0

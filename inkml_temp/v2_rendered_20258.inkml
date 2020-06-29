@@ -1,0 +1,41 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_20258</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mo xml:id="\tan_2">tan</mo><mi xml:id="\rho_3">ρ</mi><mo xml:id="\sin_4">sin</mo><mi xml:id="\phi_5">ϕ</mi><mo xml:id="=_6">=</mo><mi xml:id="c_7">c</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\tan</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\tan_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\rho</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\rho_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\sin</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\sin_4"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\phi</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\phi_5"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="=_6"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">c</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="c_7"/>
+	</traceGroup>
+</traceGroup>
+</ink>

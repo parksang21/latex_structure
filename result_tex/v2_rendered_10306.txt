@@ -1,0 +1,3 @@
+\begin{equation}
+	T \sim \frac { m } { L ^ { p } } \sim \frac { 1 } { g \gamma _ { s } ^ { p + 1 } }
+\end{equation}

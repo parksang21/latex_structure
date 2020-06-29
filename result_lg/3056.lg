@@ -1,0 +1,31 @@
+# IUD, 3056
+# Objects(14):
+O, t_16, t, 1.0, ORRRRR
+O, =_3, =, 1.0, OR
+O, 1_13, 1, 1.0, ORRRRBelowRR
+O, k_11, k, 1.0, ORRRRBelow
+O, k_17, k, 1.0, ORRRRRSub
+O, u_2, u, 1.0, O
+O, \infty_14, \infty, 1.0, ORRRRAbove
+O, \sum_9, \sum, 1.0, ORRRR
+O, =_12, =, 1.0, ORRRRBelowR
+O, k_20, k, 1.0, ORRRRRRSup
+O, u_19, u, 1.0, ORRRRRR
+O, 0_6, 0, 1.0, ORRSub
+O, t_5, t, 1.0, ORR
+O, +_7, +, 1.0, ORRR
+
+# Relations from SRT:
+R, +_7, \sum_9, Right, 1.0
+R, =_12, 1_13, Right, 1.0
+R, =_3, t_5, Right, 1.0
+R, \sum_9, \infty_14, Above, 1.0
+R, \sum_9, k_11, Below, 1.0
+R, \sum_9, t_16, Right, 1.0
+R, k_11, =_12, Right, 1.0
+R, t_16, k_17, Sub, 1.0
+R, t_16, u_19, Right, 1.0
+R, t_5, +_7, Right, 1.0
+R, t_5, 0_6, Sub, 1.0
+R, u_19, k_20, Sup, 1.0
+R, u_2, =_3, Right, 1.0

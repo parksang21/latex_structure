@@ -1,0 +1,3 @@
+\begin{equation}
+	\beta a ^ { \prime } = \beta a _ { p } ^ { \prime } + \beta k / 2 \pi
+\end{equation}

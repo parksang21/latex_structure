@@ -1,0 +1,3 @@
+\begin{equation}
+	= \int [ \frac { 1 } { 2 } ( \Delta \varphi ) ^ { 2 } + \beta _ { 0 } \varphi ^ { 4 } ] d ^ { 4 } x
+\end{equation}

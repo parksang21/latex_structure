@@ -1,0 +1,3 @@
+\begin{equation}
+	W = \mu _ { \alpha \beta \gamma } \gamma _ { \alpha } P _ { \beta } P _ { \gamma } + \csqrts
+\end{equation}

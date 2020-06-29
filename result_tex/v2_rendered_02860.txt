@@ -1,0 +1,3 @@
+\begin{equation}
+	G _ { a a } = e ^ { 4 \omega _ { a } } a = 6 , \lsqrts , 4
+\end{equation}

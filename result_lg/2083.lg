@@ -1,0 +1,21 @@
+# IUD, 2083
+# Objects(9):
+O, P_3, P, 1.0, O
+O, (_10, (, 1.0, ORR
+O, )_12, ), 1.0, ORRRR
+O, \mu_5, \mu, 1.0, OSub
+O, \varepsilon_6, \varepsilon, 1.0, OSubR
+O, =_13, =, 1.0, ORRRRR
+O, \sigma_9, \sigma, 1.0, ORSub
+O, V_11, V, 1.0, ORRR
+O, p_8, p, 1.0, OR
+
+# Relations from SRT:
+R, (_10, V_11, Right, 1.0
+R, )_12, =_13, Right, 1.0
+R, P_3, \mu_5, Sub, 1.0
+R, P_3, p_8, Right, 1.0
+R, V_11, )_12, Right, 1.0
+R, \mu_5, \varepsilon_6, Right, 1.0
+R, p_8, (_10, Right, 1.0
+R, p_8, \sigma_9, Sub, 1.0

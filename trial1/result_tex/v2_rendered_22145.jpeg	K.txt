@@ -1,0 +1,3 @@
+\begin{equation}
+	= - \log \sigma ( \bar { s } - s ) - \log X ^ { I } \varepsilon _ { I J } \bar { X } ^ { J }
+\end{equation}

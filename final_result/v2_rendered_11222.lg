@@ -1,0 +1,37 @@
+# IUD, v2_rendered_11222
+# Objects(17):
+O, i_11, i, 1.0, ORRRRRSub
+O, (_3, (, 1.0, OR
+O, \otimes_19, \otimes, 1.0, ORRRRRRRRRR
+O, i_6, i, 1.0, ORRSub
+O, +_14, +, 1.0, ORRRRRRRR
+O, O_16, O, 1.0, ORRRRRRRRR
+O, 1_13, 1, 1.0, ORRRRRRR
+O, =_8, =, 1.0, ORRRR
+O, \Delta_2, \Delta, 1.0, O
+O, )_7, ), 1.0, ORRR
+O, \beta_21, \beta, 1.0, ORRRRRRRRRRR
+O, \beta_10, \beta, 1.0, ORRRRR
+O, \beta_5, \beta, 1.0, ORR
+O, \otimes_12, \otimes, 1.0, ORRRRRR
+O, j_18, j, 1.0, ORRRRRRRRRSup
+O, j_22, j, 1.0, ORRRRRRRRRRRSub
+O, i_17, i, 1.0, ORRRRRRRRRSub
+
+# Relations from SRT:
+R, (_3, \beta_5, Right, 1.0
+R, )_7, =_8, Right, 1.0
+R, +_14, O_16, Right, 1.0
+R, 1_13, +_14, Right, 1.0
+R, =_8, \beta_10, Right, 1.0
+R, O_16, \otimes_19, Right, 1.0
+R, O_16, i_17, Sub, 1.0
+R, O_16, j_18, Sup, 1.0
+R, \Delta_2, (_3, Right, 1.0
+R, \beta_10, \otimes_12, Right, 1.0
+R, \beta_10, i_11, Sub, 1.0
+R, \beta_21, j_22, Sub, 1.0
+R, \beta_5, )_7, Right, 1.0
+R, \beta_5, i_6, Sub, 1.0
+R, \otimes_12, 1_13, Right, 1.0
+R, \otimes_19, \beta_21, Right, 1.0

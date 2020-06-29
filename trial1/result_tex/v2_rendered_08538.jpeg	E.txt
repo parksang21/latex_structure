@@ -1,0 +1,3 @@
+\begin{equation}
+	= - \frac { \Delta I _ { m } } { \Delta t } \omega = \frac { \Delta I _ { m } } { \Delta \phi }
+\end{equation}

@@ -1,0 +1,21 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">RIT_2014_233_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <msup><mi xml:id="A_2">A</mi><mi xml:id="T_3">T</mi></msup>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">A</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="A_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">T</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="T_3"/>
+	</traceGroup>
+</traceGroup>
+</ink>

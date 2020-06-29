@@ -1,0 +1,3 @@
+\begin{equation}
+	U _ { \omega } a b ^ { \prime } \Omega _ { \omega } = a \Omega \sqrt { \otimes } b ^ { \prime } \Omega
+\end{equation}

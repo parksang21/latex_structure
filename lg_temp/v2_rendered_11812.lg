@@ -1,0 +1,25 @@
+# IUD, v2_rendered_11812
+# Objects(11):
+O, +_8, +, 1.0, 6
+O, \rightarrow_10, \rightarrow, 1.0, 8
+O, s_12, s, 1.0, 10
+O, -_11, -, 1.0, 9
+O, n_9, n, 1.0, 7
+O, \tau_2, \tau, 1.0, 0
+O, 1_5, 1, 1.0, 3
+O, \tau_7, \tau, 1.0, 5
+O, \div_6, \div, 1.0, 4
+O, -_4, -, 1.0, 2
+O, \rightarrow_3, \rightarrow, 1.0, 1
+
+# Relations from SRT:
+R, +_8, n_9, Right, 1.0
+R, -_11, s_12, Right, 1.0
+R, -_4, 1_5, Right, 1.0
+R, 1_5, \div_6, Right, 1.0
+R, \div_6, \tau_7, Right, 1.0
+R, \rightarrow_10, -_11, Right, 1.0
+R, \rightarrow_3, -_4, Right, 1.0
+R, \tau_2, \rightarrow_3, Right, 1.0
+R, \tau_7, +_8, Right, 1.0
+R, n_9, \rightarrow_10, Right, 1.0

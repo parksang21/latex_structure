@@ -1,0 +1,3 @@
+\begin{equation}
+	\angle _ { k \pi } = i \sqrt { \lambda } \gamma ^ { \mu } \Delta _ { \mu } \lambda = i \sqrt { \psi } \gamma ^ { \mu } \Delta _ { \mu } \psi
+\end{equation}

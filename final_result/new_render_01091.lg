@@ -1,0 +1,53 @@
+# IUD, new_render_01091
+# Objects(25):
+O, \beta_19, \beta, 1.0, ORRRRRRRRRRRRR
+O, \rangle_22, \rangle, 1.0, ORRRRRRRRRRRRRRRR
+O, \prime_15, \prime, 1.0, ORRRRRRRRRSup
+O, \rangle_8, \rangle, 1.0, ORRRR
+O, COMMA_6, COMMA, 1.0, ORR
+O, 8_24, 8, 1.0, ORRRRRRRRRRRRRRRRRR
+O, \leq_27, \leq, 1.0, ORRRRRRRRRRRRRRRRRRRRR
+O, \beta_14, \beta, 1.0, ORRRRRRRRR
+O, \langle_10, \langle, 1.0, ORRRRRR
+O, \geqq_9, \geqq, 1.0, ORRRRR
+O, \beta_11, \beta, 1.0, ORRRRRRR
+O, \langle_18, \langle, 1.0, ORRRRRRRRRRRR
+O, \beta_26, \beta, 1.0, ORRRRRRRRRRRRRRRRRRRR
+O, \rangle_16, \rangle, 1.0, ORRRRRRRRRR
+O, COMMA_20, COMMA, 1.0, ORRRRRRRRRRRRRR
+O, ⊄_23, ⊄, 1.0, ORRRRRRRRRRRRRRRRR
+O, \beta_4, \beta, 1.0, OR
+O, \prime_5, \prime, 1.0, ORSup
+O, COMMA_12, COMMA, 1.0, ORRRRRRRR
+O, 8_28, 8, 1.0, ORRRRRRRRRRRRRRRRRRRRRR
+O, \therefore_25, \therefore, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, COMMA_17, COMMA, 1.0, ORRRRRRRRRRR
+O, \beta_7, \beta, 1.0, ORRR
+O, \langle_2, \langle, 1.0, O
+O, \beta_21, \beta, 1.0, ORRRRRRRRRRRRRRR
+
+# Relations from SRT:
+R, 8_24, \therefore_25, Right, 1.0
+R, COMMA_12, \beta_14, Right, 1.0
+R, COMMA_17, \langle_18, Right, 1.0
+R, COMMA_20, \beta_21, Right, 1.0
+R, COMMA_6, \beta_7, Right, 1.0
+R, \beta_11, COMMA_12, Right, 1.0
+R, \beta_14, \prime_15, Sup, 1.0
+R, \beta_14, \rangle_16, Right, 1.0
+R, \beta_19, COMMA_20, Right, 1.0
+R, \beta_21, \rangle_22, Right, 1.0
+R, \beta_26, \leq_27, Right, 1.0
+R, \beta_4, COMMA_6, Right, 1.0
+R, \beta_4, \prime_5, Sup, 1.0
+R, \beta_7, \rangle_8, Right, 1.0
+R, \geqq_9, \langle_10, Right, 1.0
+R, \langle_10, \beta_11, Right, 1.0
+R, \langle_18, \beta_19, Right, 1.0
+R, \langle_2, \beta_4, Right, 1.0
+R, \leq_27, 8_28, Right, 1.0
+R, \rangle_16, COMMA_17, Right, 1.0
+R, \rangle_22, ⊄_23, Right, 1.0
+R, \rangle_8, \geqq_9, Right, 1.0
+R, \therefore_25, \beta_26, Right, 1.0
+R, ⊄_23, 8_24, Right, 1.0

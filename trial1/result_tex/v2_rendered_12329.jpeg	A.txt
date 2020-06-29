@@ -1,0 +1,3 @@
+\begin{equation}
+	( \lambda ) = 7 ^ { - \frac { \mu } { 7 } } ( \sqrt { 7 \theta _ { 1 } } \lambda ) ^ { 7 \mu }
+\end{equation}

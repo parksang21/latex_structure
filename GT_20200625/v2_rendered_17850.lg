@@ -1,0 +1,43 @@
+# IUD, v2_rendered_17850
+# Objects(20):
+O, /_12, /, 1.0, ORRRRRR
+O, _10, \sqrt, 1.0, ORRRRR
+O, S_19, S, 1.0, ORRRRRRRAboveRRInside
+O, \times_17, \times, 1.0, ORRRRRRRAboveR
+O, i_6, i, 1.0, ORRR
+O, K_3, K, 1.0, OInside
+O, +_24, +, 1.0, ORRRRRRRBelowR
+O, _15, \sqrt, 1.0, ORRRRRRRAbove
+O, =_4, =, 1.0, OR
+O, /_5, /, 1.0, ORR
+O, 0_23, 0, 1.0, ORRRRRRRBelowSub
+O, P_16, P, 1.0, ORRRRRRRAboveInside
+O, 0_9, 0, 1.0, ORRRRSub
+O, _13, -, 1.0, ORRRRRRR
+O, P_22, P, 1.0, ORRRRRRRBelow
+O, m_25, m, 1.0, ORRRRRRRBelowRR
+O, _2, \sqrt, 1.0, O
+O, _18, \sqrt, 1.0, ORRRRRRRAboveRR
+O, \triangle_11, \triangle, 1.0, ORRRRRInside
+O, P_8, P, 1.0, ORRRR
+
+# Relations from SRT:
+R, +_24, m_25, Right, 1.0
+R, /_12, _13, Right, 1.0
+R, /_5, i_6, Right, 1.0
+R, =_4, /_5, Right, 1.0
+R, P_22, +_24, Right, 1.0
+R, P_22, 0_23, Sub, 1.0
+R, P_8, 0_9, Sub, 1.0
+R, P_8, _10, Right, 1.0
+R, \times_17, _18, Right, 1.0
+R, _10, /_12, Right, 1.0
+R, _10, \triangle_11, Inside, 1.0
+R, _13, P_22, Below, 1.0
+R, _13, _15, Above, 1.0
+R, _15, P_16, Inside, 1.0
+R, _15, \times_17, Right, 1.0
+R, _18, S_19, Inside, 1.0
+R, _2, =_4, Right, 1.0
+R, _2, K_3, Inside, 1.0
+R, i_6, P_8, Right, 1.0

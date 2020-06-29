@@ -1,0 +1,46 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_23007</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mi xml:id="F_2">F</mi><mo xml:id="=_3">=</mo><mi xml:id="d_4">d</mi><msup><mi xml:id="x_6">x</mi><mo xml:id="-_7">−</mo></msup><mo xml:id="\wedge_8">∧</mo><mi xml:id="\beta_9">β</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">F</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="F_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="=_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">d</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="d_4"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">x</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="x_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="-_7"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\wedge</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\wedge_8"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">\beta</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="\beta_9"/>
+	</traceGroup>
+</traceGroup>
+</ink>

@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mi>μ</mi><mrow><msub><mi>R</mi><mn>1</mn></msub><mo>⊗</mo><msub><mi>R</mi><mn>2</mn></msub></mrow></msup><mo>=</mo><munder><mo>∑</mo><mi>i</mi></munder><msub><mi>n</mi><mi>i</mi></msub><msup><mi>μ</mi><msub><mi>R</mi><mi>i</mi></msub></msup></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \mu ^ { R _ { 1 } \otimes R _ { 2 } } = \sum _ { i } n _ { i } \mu ^ { R _ { i } }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

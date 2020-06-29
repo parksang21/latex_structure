@@ -1,0 +1,3 @@
+\begin{equation}
+	e _ { i , j } ) _ { k l } \equiv \delta _ { i k } \delta _ { j l }
+\end{equation}

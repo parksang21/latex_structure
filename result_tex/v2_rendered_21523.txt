@@ -1,0 +1,3 @@
+\begin{equation}
+	G _ { \mu ^ { \prime } } G _ { \mu } ^ { \circ } \vert _ { 3 } + G _ { \mu }
+\end{equation}

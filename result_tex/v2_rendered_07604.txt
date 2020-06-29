@@ -1,0 +1,3 @@
+\begin{equation}
+	\sqrt { \Delta } _ { r } , \sqrt { \Delta } _ { i } \propto r ^ { \frac { 3 - \beta } { 4 } } , \gamma \rightarrow 0
+\end{equation}

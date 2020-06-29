@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta \leq - D ^ { 2 } - \frac { i } { 2 } \sigma _ { \mu \varepsilon } F _ { \mu \varepsilon }
+\end{equation}

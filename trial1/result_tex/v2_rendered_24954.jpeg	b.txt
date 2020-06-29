@@ -1,0 +1,3 @@
+\begin{equation}
+	( x ) ( \Delta _ { \lambda } ( x ) - \Delta _ { \lambda } ( q ^ { - 1 } x ) + c ) = 0
+\end{equation}

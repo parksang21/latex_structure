@@ -1,0 +1,43 @@
+# IUD, v2_rendered_04173
+# Objects(20):
+O, \infty_15, \infty, 1.0, OBelowRRRRRRRR
+O, \tau_12, \tau, 1.0, OBelowRRRRR
+O, (_17, (, 1.0, ORR
+O, +_9, +, 1.0, OBelowRR
+O, \rightarrow_13, \rightarrow, 1.0, OBelowRRRRRR
+O, COMMA_11, COMMA, 1.0, OBelowRRRR
+O, 0_25, 0, 1.0, ORRRRRRRR
+O, \tau_22, \tau, 1.0, ORRRRR
+O, \tau_19, \tau, 1.0, ORRR
+O, -_14, -, 1.0, OBelowRRRRRRR
+O, G_16, G, 1.0, OR
+O, \prime_7, \prime, 1.0, OBelowSup
+O, \tau_6, \tau, 1.0, OBelow
+O, \prime_20, \prime, 1.0, ORRRSup
+O, )_23, ), 1.0, ORRRRRR
+O, \infty_10, \infty, 1.0, OBelowRRR
+O, \lim_3, \lim, 1.0, O
+O, \rightarrow_8, \rightarrow, 1.0, OBelowR
+O, =_24, =, 1.0, ORRRRRRR
+O, COMMA_21, COMMA, 1.0, ORRRR
+
+# Relations from SRT:
+R, (_17, \tau_19, Right, 1.0
+R, )_23, =_24, Right, 1.0
+R, +_9, \infty_10, Right, 1.0
+R, -_14, \infty_15, Right, 1.0
+R, =_24, 0_25, Right, 1.0
+R, COMMA_11, \tau_12, Right, 1.0
+R, COMMA_21, \tau_22, Right, 1.0
+R, G_16, (_17, Right, 1.0
+R, \infty_10, COMMA_11, Right, 1.0
+R, \lim_3, G_16, Right, 1.0
+R, \lim_3, \tau_6, Below, 1.0
+R, \rightarrow_13, -_14, Right, 1.0
+R, \rightarrow_8, +_9, Right, 1.0
+R, \tau_12, \rightarrow_13, Right, 1.0
+R, \tau_19, COMMA_21, Right, 1.0
+R, \tau_19, \prime_20, Sup, 1.0
+R, \tau_22, )_23, Right, 1.0
+R, \tau_6, \prime_7, Sup, 1.0
+R, \tau_6, \rightarrow_8, Right, 1.0

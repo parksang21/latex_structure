@@ -1,0 +1,26 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">36_em_30_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mo xml:id="\tan_2">tan</mo><msub><mi xml:id="\gamma_4">γ</mi><mi xml:id="i_5">i</mi></msub></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\tan</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\tan_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\gamma</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\gamma_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">i</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="i_5"/>
+	</traceGroup>
+</traceGroup>
+</ink>

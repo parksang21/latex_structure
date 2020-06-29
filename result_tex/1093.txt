@@ -1,0 +1,3 @@
+\begin{equation}
+	\delta L _ { \phi } ^ { ( 0 ) } = J _ { \phi } ^ { \mu } \Delta _ { \mu } \alpha
+\end{equation}

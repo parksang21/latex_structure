@@ -1,0 +1,55 @@
+# IUD, new_render_01807
+# Objects(26):
+O, \leqq_18, \leqq, 1.0, 14
+O, (_20, (, 1.0, 16
+O, \Delta_29, \Delta, 1.0, 25
+O, )_9, ), 1.0, 6
+O, )_17, ), 1.0, 13
+O, t_21, t, 1.0, 17
+O, j_5, j, 1.0, 2
+O, \therefore_26, \therefore, 1.0, 22
+O, \lt_28, \lt, 1.0, 24
+O, (_14, (, 1.0, 10
+O, (_3, (, 1.0, 1
+O, (_7, (, 1.0, 4
+O, \varepsilon_27, \varepsilon, 1.0, 23
+O, )_16, ), 1.0, 12
+O, j_12, j, 1.0, 8
+O, \varepsilon_13, \varepsilon, 1.0, 9
+O, COMMA_10, COMMA, 1.0, 7
+O, COMMA_22, COMMA, 1.0, 18
+O, x_23, x, 1.0, 19
+O, \varepsilon_6, \varepsilon, 1.0, 3
+O, COMMA_25, COMMA, 1.0, 21
+O, t_8, t, 1.0, 5
+O, B_2, B, 1.0, 0
+O, )_24, ), 1.0, 20
+O, x_15, x, 1.0, 11
+O, B_19, B, 1.0, 15
+
+# Relations from SRT:
+R, (_14, x_15, Right, 1.0
+R, (_20, t_21, Right, 1.0
+R, (_3, j_5, Right, 1.0
+R, (_7, t_8, Right, 1.0
+R, )_16, )_17, Right, 1.0
+R, )_17, \leqq_18, Right, 1.0
+R, )_24, COMMA_25, Right, 1.0
+R, )_9, COMMA_10, Right, 1.0
+R, B_19, (_20, Right, 1.0
+R, B_2, (_3, Right, 1.0
+R, COMMA_10, j_12, Right, 1.0
+R, COMMA_22, x_23, Right, 1.0
+R, COMMA_25, \therefore_26, Right, 1.0
+R, \leqq_18, B_19, Right, 1.0
+R, \lt_28, \Delta_29, Right, 1.0
+R, \therefore_26, \varepsilon_27, Right, 1.0
+R, \varepsilon_27, \lt_28, Right, 1.0
+R, j_12, (_14, Right, 1.0
+R, j_12, \varepsilon_13, Sub, 1.0
+R, j_5, (_7, Right, 1.0
+R, j_5, \varepsilon_6, Sub, 1.0
+R, t_21, COMMA_22, Right, 1.0
+R, t_8, )_9, Right, 1.0
+R, x_15, )_16, Right, 1.0
+R, x_23, )_24, Right, 1.0

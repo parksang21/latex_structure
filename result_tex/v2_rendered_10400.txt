@@ -1,0 +1,3 @@
+\begin{equation}
+	X \vee x \leftrightarrow ( x , x ) \in X \times X
+\end{equation}

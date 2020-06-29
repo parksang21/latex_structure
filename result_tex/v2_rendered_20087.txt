@@ -1,0 +1,3 @@
+\begin{equation}
+	b ^ { p } \subset b , a ^ { p } > \alpha , b > a
+\end{equation}

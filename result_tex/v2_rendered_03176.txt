@@ -1,0 +1,3 @@
+\begin{equation}
+	D ^ { 2 } a = - i [ \sqrt { F } _ { A } , a ] , \exists a \in W ( L , A ) \otimes \wedge
+\end{equation}

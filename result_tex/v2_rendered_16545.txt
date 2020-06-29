@@ -1,0 +1,3 @@
+\begin{equation}
+	\sqrt { A } = - \sqrt { d } \sqrt { U } \sqrt { U } ^ { - 1 }
+\end{equation}

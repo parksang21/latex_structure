@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta _ { m } \Omega + \frac { 2 } { 3 } \Omega b _ { m } - B _ { m }
+\end{equation}

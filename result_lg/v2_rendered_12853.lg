@@ -1,0 +1,37 @@
+# IUD, v2_rendered_12853
+# Objects(17):
+O, 2_18, 2, 1.0, ORRRRRRRRRRSup
+O, F_19, F, 1.0, ORRRRRRRRRRR
+O, -_14, -, 1.0, ORRRRRRRR
+O, \rho_10, \rho, 1.0, ORRRRRR
+O, 2_4, 2, 1.0, OSup
+O, 3_9, 3, 1.0, ORRRRR
+O, \rho_7, \rho, 1.0, ORRR
+O, \rho_17, \rho, 1.0, ORRRRRRRRRR
+O, 3_15, 3, 1.0, ORRRRRRRRR
+O, F_12, F, 1.0, ORRRRRRR
+O, 0_21, 0, 1.0, ORRRRRRRRRRRRR
+O, F_5, F, 1.0, OR
+O, -_8, -, 1.0, ORRRR
+O, =_20, =, 1.0, ORRRRRRRRRRRR
+O, \rho_13, \rho, 1.0, ORRRRRRRSub
+O, \rho_3, \rho, 1.0, O
+O, \rho_6, \rho, 1.0, ORR
+
+# Relations from SRT:
+R, -_14, 3_15, Right, 1.0
+R, -_8, 3_9, Right, 1.0
+R, 3_15, \rho_17, Right, 1.0
+R, 3_9, \rho_10, Right, 1.0
+R, =_20, 0_21, Right, 1.0
+R, F_12, -_14, Right, 1.0
+R, F_12, \rho_13, Sub, 1.0
+R, F_19, =_20, Right, 1.0
+R, F_5, \rho_6, Right, 1.0
+R, \rho_10, F_12, Right, 1.0
+R, \rho_17, 2_18, Sup, 1.0
+R, \rho_17, F_19, Right, 1.0
+R, \rho_3, 2_4, Sup, 1.0
+R, \rho_3, F_5, Right, 1.0
+R, \rho_6, \rho_7, Right, 1.0
+R, \rho_7, -_8, Right, 1.0

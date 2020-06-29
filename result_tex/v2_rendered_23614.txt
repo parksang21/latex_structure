@@ -1,0 +1,3 @@
+\begin{equation}
+	\pi ( q _ { 1 } \subset q _ { 2 } \subset \csqrts \subset q _ { r } \subset 0
+\end{equation}

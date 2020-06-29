@@ -1,0 +1,9 @@
+# IUD, RIT_2014_65_0
+# Objects(3):
+O, 6_2, 6, 1.0, 0
+O, \times_3, \times, 1.0, 1
+O, H_4, H, 1.0, 2
+
+# Relations from SRT:
+R, 6_2, \times_3, Right, 1.0
+R, \times_3, H_4, Right, 1.0

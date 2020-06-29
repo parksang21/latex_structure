@@ -1,0 +1,37 @@
+# IUD, v2_rendered_15034
+# Objects(17):
+O, i_4, i, 1.0, OSub
+O, =_18, =, 1.0, ORRRRRRBelowR
+O, \pi_7, \pi, 1.0, ORRR
+O, 2_6, 2, 1.0, ORR
+O, P_3, P, 1.0, O
+O, j_23, j, 1.0, ORRRRRRRSub
+O, s_17, s, 1.0, ORRRRRRBelow
+O, \sum_15, \sum, 1.0, ORRRRRR
+O, j_13, j, 1.0, ORRRRRSubR
+O, x_22, x, 1.0, ORRRRRRR
+O, s_24, s, 1.0, ORRRRRRRSup
+O, N_20, N, 1.0, ORRRRRRAbove
+O, \phi_10, \phi, 1.0, ORRRRR
+O, \gamma_8, \gamma, 1.0, ORRRR
+O, i_12, i, 1.0, ORRRRRSub
+O, 1_19, 1, 1.0, ORRRRRRBelowRR
+O, =_5, =, 1.0, OR
+
+# Relations from SRT:
+R, 2_6, \pi_7, Right, 1.0
+R, =_18, 1_19, Right, 1.0
+R, =_5, 2_6, Right, 1.0
+R, P_3, =_5, Right, 1.0
+R, P_3, i_4, Sub, 1.0
+R, \gamma_8, \phi_10, Right, 1.0
+R, \phi_10, \sum_15, Right, 1.0
+R, \phi_10, i_12, Sub, 1.0
+R, \pi_7, \gamma_8, Right, 1.0
+R, \sum_15, N_20, Above, 1.0
+R, \sum_15, s_17, Below, 1.0
+R, \sum_15, x_22, Right, 1.0
+R, i_12, j_13, Right, 1.0
+R, s_17, =_18, Right, 1.0
+R, x_22, j_23, Sub, 1.0
+R, x_22, s_24, Sup, 1.0

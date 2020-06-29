@@ -1,0 +1,3 @@
+\begin{equation}
+	f ( v ) = \lim _ { c = 3 } ^ { \infty } \frac { k _ { c } } { c ! } v ^ { c }
+\end{equation}

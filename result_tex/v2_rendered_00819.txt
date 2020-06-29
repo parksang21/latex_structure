@@ -1,0 +1,3 @@
+\begin{equation}
+	M \leftrightarrow R M , \phi \leftrightarrow R \phi R ^ { - 1 } , \omega \leftrightarrow R W R ^ { - 1 }
+\end{equation}

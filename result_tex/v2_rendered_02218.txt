@@ -1,0 +1,3 @@
+\begin{equation}
+	\vert \lambda _ { 2 } \vert \leq \vert \mu _ { 2 } \vert \beta
+\end{equation}

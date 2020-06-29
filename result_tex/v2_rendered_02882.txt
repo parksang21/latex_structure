@@ -1,0 +1,3 @@
+\begin{equation}
+	S _ { f } J S _ { f } ^ { \csqrt B } \neq f \csqrt J
+\end{equation}

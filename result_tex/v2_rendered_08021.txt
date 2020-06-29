@@ -1,0 +1,3 @@
+\begin{equation}
+	( x \vert y ) = g _ { \mu \lambda } \varepsilon ^ { \mu } \theta ^ { \lambda } = ( \varepsilon \vert \theta )
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \Omega , \beta } ( A ) = e ^ { - \beta H } A \Omega , A \in A (
+\end{equation}

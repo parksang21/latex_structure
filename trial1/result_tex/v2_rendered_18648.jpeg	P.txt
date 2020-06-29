@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { 1 } ( p ) = F _ { 1 } ( \mu _ { \pi } ) - \frac { 1 } { 2 e ^ { 2 } \sigma } p ^ { 2 }
+\end{equation}

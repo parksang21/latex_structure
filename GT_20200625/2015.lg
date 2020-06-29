@@ -1,0 +1,45 @@
+# IUD, 2015
+# Objects(21):
+O, _26, \sqrt, 1.0, ORRRRRRRRRRRR
+O, L_19, L, 1.0, ORRRRRRR
+O, +_24, +, 1.0, ORRRRRRRRRR
+O, \mu_22, \mu, 1.0, ORRRRRRRRSub
+O, \theta_4, \theta, 1.0, OSup
+O, 2_14, 2, 1.0, ORRRRBelow
+O, \theta_9, \theta, 1.0, ORSubR
+O, l_27, l, 1.0, ORRRRRRRRRRRRInside
+O, B_6, B, 1.0, OR
+O, g_16, g, 1.0, ORRRRR
+O, \gamma_21, \gamma, 1.0, ORRRRRRRR
+O, 2_25, 2, 1.0, ORRRRRRRRRRR
+O, \Delta_3, \Delta, 1.0, O
+O, \prime_17, \prime, 1.0, ORRRRRSup
+O, -_11, -, 1.0, ORRR
+O, (_18, (, 1.0, ORRRRRR
+O, L_23, L, 1.0, ORRRRRRRRR
+O, \mu_8, \mu, 1.0, ORSub
+O, _12, -, 1.0, ORRRR
+O, =_10, =, 1.0, ORR
+O, 1_13, 1, 1.0, ORRRRAbove
+
+# Relations from SRT:
+R, (_18, L_19, Right, 1.0
+R, +_24, 2_25, Right, 1.0
+R, -_11, _12, Right, 1.0
+R, 2_25, _26, Right, 1.0
+R, =_10, -_11, Right, 1.0
+R, B_6, =_10, Right, 1.0
+R, B_6, \mu_8, Sub, 1.0
+R, L_19, \gamma_21, Right, 1.0
+R, L_23, +_24, Right, 1.0
+R, \Delta_3, B_6, Right, 1.0
+R, \Delta_3, \theta_4, Sup, 1.0
+R, \gamma_21, L_23, Right, 1.0
+R, \gamma_21, \mu_22, Sub, 1.0
+R, \mu_8, \theta_9, Right, 1.0
+R, _12, 1_13, Above, 1.0
+R, _12, 2_14, Below, 1.0
+R, _12, g_16, Right, 1.0
+R, _26, l_27, Inside, 1.0
+R, g_16, (_18, Right, 1.0
+R, g_16, \prime_17, Sup, 1.0

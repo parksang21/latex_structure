@@ -1,0 +1,35 @@
+# IUD, v2_rendered_25475
+# Objects(16):
+O, \sum_8, \sum, 1.0, ORRRRR
+O, V_14, V, 1.0, ORRRRRRRRRR
+O, \Omega_11, \Omega, 1.0, ORRRRRRR
+O, (_3, (, 1.0, OR
+O, W_2, W, 1.0, O
+O, )_5, ), 1.0, ORRR
+O, \Omega_4, \Omega, 1.0, ORR
+O, ]_18, ], 1.0, ORRRRRRRRRRRRRR
+O, \sigma_16, \sigma, 1.0, ORRRRRRRRRRRR
+O, [_10, [, 1.0, ORRRRRR
+O, \sigma_12, \sigma, 1.0, ORRRRRRRR
+O, \sigma_9, \sigma, 1.0, ORRRRRBelow
+O, (_15, (, 1.0, ORRRRRRRRRRR
+O, =_6, =, 1.0, ORRRR
+O, )_17, ), 1.0, ORRRRRRRRRRRRR
+O, -_13, -, 1.0, ORRRRRRRRR
+
+# Relations from SRT:
+R, (_15, \sigma_16, Right, 1.0
+R, (_3, \Omega_4, Right, 1.0
+R, )_17, ]_18, Right, 1.0
+R, )_5, =_6, Right, 1.0
+R, -_13, V_14, Right, 1.0
+R, =_6, \sum_8, Right, 1.0
+R, V_14, (_15, Right, 1.0
+R, W_2, (_3, Right, 1.0
+R, [_10, \Omega_11, Right, 1.0
+R, \Omega_11, \sigma_12, Right, 1.0
+R, \Omega_4, )_5, Right, 1.0
+R, \sigma_12, -_13, Right, 1.0
+R, \sigma_16, )_17, Right, 1.0
+R, \sum_8, [_10, Right, 1.0
+R, \sum_8, \sigma_9, Below, 1.0

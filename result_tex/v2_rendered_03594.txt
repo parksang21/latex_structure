@@ -1,0 +1,3 @@
+\begin{equation}
+	\psi ( x ) \Leftrightarrow [ 1 + i \sqrt { g } \sqrt { \alpha } ( x ) ] \psi ( x )
+\end{equation}

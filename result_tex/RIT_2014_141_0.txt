@@ -1,0 +1,3 @@
+\begin{equation}
+	v d v = - \frac { d y } { 2 y ^ { 2 } }
+\end{equation}

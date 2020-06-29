@@ -1,0 +1,55 @@
+# IUD, 962
+# Objects(26):
+O, r_15, r, 1.0, ORRRRRR
+O, \sum_7, \sum, 1.0, ORRRR
+O, \vert_14, \vert, 1.0, ORRRRR
+O, COMMA_12, COMMA, 1.0, ORRRRBelowRRR
+O, \rangle_29, \rangle, 1.0, ORRRRRRRRRRRRRRRRRRRR
+O, COMMA_10, COMMA, 1.0, ORRRRBelowR
+O, \psi_28, \psi, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, r_22, r, 1.0, ORRRRRRRRRRRRR
+O, \vert_27, \vert, 1.0, ORRRRRRRRRRRRRRRRRR
+O, \psi_3, \psi, 1.0, OR
+O, \rangle_4, \rangle, 1.0, ORR
+O, \phi_17, \phi, 1.0, ORRRRRRRR
+O, \rangle_20, \rangle, 1.0, ORRRRRRRRRRR
+O, r_9, r, 1.0, ORRRRBelow
+O, \vert_2, \vert, 1.0, O
+O, l_26, l, 1.0, ORRRRRRRRRRRRRRRRR
+O, COMMA_18, COMMA, 1.0, ORRRRRRRRR
+O, l_13, l, 1.0, ORRRRBelowRRRR
+O, \langle_21, \langle, 1.0, ORRRRRRRRRRRR
+O, COMMA_25, COMMA, 1.0, ORRRRRRRRRRRRRRRR
+O, COMMA_16, COMMA, 1.0, ORRRRRRR
+O, l_19, l, 1.0, ORRRRRRRRRR
+O, COMMA_23, COMMA, 1.0, ORRRRRRRRRRRRRR
+O, \phi_24, \phi, 1.0, ORRRRRRRRRRRRRRR
+O, \phi_11, \phi, 1.0, ORRRRBelowRR
+O, =_5, =, 1.0, ORRR
+
+# Relations from SRT:
+R, =_5, \sum_7, Right, 1.0
+R, COMMA_10, \phi_11, Right, 1.0
+R, COMMA_12, l_13, Right, 1.0
+R, COMMA_16, \phi_17, Right, 1.0
+R, COMMA_18, l_19, Right, 1.0
+R, COMMA_23, \phi_24, Right, 1.0
+R, COMMA_25, l_26, Right, 1.0
+R, \langle_21, r_22, Right, 1.0
+R, \phi_11, COMMA_12, Right, 1.0
+R, \phi_17, COMMA_18, Right, 1.0
+R, \phi_24, COMMA_25, Right, 1.0
+R, \psi_28, \rangle_29, Right, 1.0
+R, \psi_3, \rangle_4, Right, 1.0
+R, \rangle_20, \langle_21, Right, 1.0
+R, \rangle_4, =_5, Right, 1.0
+R, \sum_7, \vert_14, Right, 1.0
+R, \sum_7, r_9, Below, 1.0
+R, \vert_14, r_15, Right, 1.0
+R, \vert_27, \psi_28, Right, 1.0
+R, \vert_2, \psi_3, Right, 1.0
+R, l_19, \rangle_20, Right, 1.0
+R, l_26, \vert_27, Right, 1.0
+R, r_15, COMMA_16, Right, 1.0
+R, r_22, COMMA_23, Right, 1.0
+R, r_9, COMMA_10, Right, 1.0

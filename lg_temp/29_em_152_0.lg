@@ -1,0 +1,18 @@
+# IUD, 29_em_152_0
+# Objects(7):
+O, _8, \sqrt, 1.0, 6
+O, n_9, n, 1.0, 4
+O, -_4, -, 1.0, 0
+O, _2, \sqrt, 1.0, 5
+O, n_5, n, 1.0, 1
+O, i_7, i, 1.0, 3
+O, =_6, =, 1.0, 2
+
+# Relations from SRT:
+R, -_4, n_5, Right, 1.0
+R, =_6, i_7, Right, 1.0
+R, _2, -_4, Inside, 1.0
+R, _2, =_6, Right, 1.0
+R, _2, n_5, Inside, 1.0
+R, _8, n_9, Inside, 1.0
+R, i_7, _8, Right, 1.0

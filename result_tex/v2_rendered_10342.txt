@@ -1,0 +1,3 @@
+\begin{equation}
+	\theta _ { \lambda } \leq ( D \circ L ) _ { \lambda } ^ { - 7 \gamma } ( D \circ h ^ { T D } ) \gamma
+\end{equation}

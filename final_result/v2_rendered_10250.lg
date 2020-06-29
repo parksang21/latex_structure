@@ -1,0 +1,21 @@
+# IUD, v2_rendered_10250
+# Objects(9):
+O, \phi_8, \phi, 1.0, ORRRR
+O, -_9, -, 1.0, ORRRRR
+O, \phi_5, \phi, 1.0, ORR
+O, \phi_2, \phi, 1.0, O
+O, \log_10, \log, 1.0, ORRRRRR
+O, =_7, =, 1.0, ORRR
+O, \rightarrow_3, \rightarrow, 1.0, OR
+O, \prime_6, \prime, 1.0, ORRSup
+O, \gamma_11, \gamma, 1.0, ORRRRRRR
+
+# Relations from SRT:
+R, -_9, \log_10, Right, 1.0
+R, =_7, \phi_8, Right, 1.0
+R, \log_10, \gamma_11, Right, 1.0
+R, \phi_2, \rightarrow_3, Right, 1.0
+R, \phi_5, =_7, Right, 1.0
+R, \phi_5, \prime_6, Sup, 1.0
+R, \phi_8, -_9, Right, 1.0
+R, \rightarrow_3, \phi_5, Right, 1.0

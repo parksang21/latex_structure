@@ -1,0 +1,3 @@
+\begin{equation}
+	\log _ { a } x - b g _ { a } y = \log _ { a } \frac { y } { y }
+\end{equation}

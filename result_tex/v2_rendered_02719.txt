@@ -1,0 +1,3 @@
+\begin{equation}
+	Z \leq \sum _ { n _ { q } , m } e ^ { - n _ { q } ( \omega _ { q } - m \Omega _ { 0 } ) \beta }
+\end{equation}

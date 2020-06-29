@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { 0 } = \frac { \pi } { a e ^ { 2 } } ( \pi _ { 1 } ^ { \prime } - e \phi ^ { \prime } )
+\end{equation}

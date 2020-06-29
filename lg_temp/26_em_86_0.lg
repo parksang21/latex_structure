@@ -1,0 +1,7 @@
+# IUD, 26_em_86_0
+# Objects(2):
+O, \log_2, \log, 1.0, 0
+O, a_3, a, 1.0, 1
+
+# Relations from SRT:
+R, \log_2, a_3, Sub, 1.0

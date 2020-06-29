@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { W } = \frac { 1 } { 4 } \int d ^ { 6 } z _ { + } W ^ { \alpha } W _ { \alpha } + c . c .
+\end{equation}

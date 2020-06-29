@@ -1,0 +1,3 @@
+\begin{equation}
+	\tau _ { \varepsilon } = \frac { \mu _ { \varepsilon } \tau + \Omega _ { \varepsilon } } { \lambda _ { \varepsilon } }
+\end{equation}

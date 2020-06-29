@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { i j k } ^ { t r e e } = \frac { g } { \sqrt { 2 } } W _ { i j k }
+\end{equation}

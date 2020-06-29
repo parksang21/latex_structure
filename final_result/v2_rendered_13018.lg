@@ -1,0 +1,33 @@
+# IUD, v2_rendered_13018
+# Objects(15):
+O, 0_15, 0, 1.0, ORRRRRRRRRRR
+O, m_5, m, 1.0, ORSub
+O, (_14, (, 1.0, ORRRRRRRRRR
+O, \beta_4, \beta, 1.0, OR
+O, \rangle_17, \rangle, 1.0, ORRRRRRRRRRRRR
+O, )_16, ), 1.0, ORRRRRRRRRRRR
+O, \rangle_8, \rangle, 1.0, ORRRR
+O, \equiv_9, \equiv, 1.0, ORRRRR
+O, \circle_12, \circle, 1.0, ORRRRRRRR
+O, f_11, f, 1.0, ORRRRRRR
+O, \langle_2, \langle, 1.0, O
+O, \phi_7, \phi, 1.0, ORRR
+O, \phi_13, \phi, 1.0, ORRRRRRRRR
+O, \langle_10, \langle, 1.0, ORRRRRR
+O, \vert_6, \vert, 1.0, ORR
+
+# Relations from SRT:
+R, (_14, 0_15, Right, 1.0
+R, )_16, \rangle_17, Right, 1.0
+R, 0_15, )_16, Right, 1.0
+R, \beta_4, \vert_6, Right, 1.0
+R, \beta_4, m_5, Sub, 1.0
+R, \circle_12, \phi_13, Right, 1.0
+R, \equiv_9, \langle_10, Right, 1.0
+R, \langle_10, f_11, Right, 1.0
+R, \langle_2, \beta_4, Right, 1.0
+R, \phi_13, (_14, Right, 1.0
+R, \phi_7, \rangle_8, Right, 1.0
+R, \rangle_8, \equiv_9, Right, 1.0
+R, \vert_6, \phi_7, Right, 1.0
+R, f_11, \circle_12, Right, 1.0

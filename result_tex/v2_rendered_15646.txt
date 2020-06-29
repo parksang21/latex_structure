@@ -1,0 +1,3 @@
+\begin{equation}
+	\psi ( g ) = \prod _ { \beta } c ^ { \beta } R _ { \beta \beta } ( g )
+\end{equation}

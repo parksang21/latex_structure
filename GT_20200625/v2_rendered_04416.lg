@@ -1,0 +1,33 @@
+# IUD, v2_rendered_04416
+# Objects(15):
+O, n_4, n, 1.0, ORR
+O, \tau_14, \tau, 1.0, ORRRRRRRRRRR
+O, \vert_7, \vert, 1.0, ORRRRR
+O, O_6, O, 1.0, ORRRR
+O, \subset_12, \subset, 1.0, ORRRRRRRRRR
+O, \}_17, \}, 1.0, ORRRRRRRRRRRR
+O, \rangle_9, \rangle, 1.0, ORRRRRRR
+O, \langle_3, \langle, 1.0, OR
+O, p_8, p, 1.0, ORRRRRR
+O, \prime_16, \prime, 1.0, ORRRRRRRRRRRSup
+O, s_15, s, 1.0, ORRRRRRRRRRRSub
+O, \vert_10, \vert, 1.0, ORRRRRRRR
+O, n_11, n, 1.0, ORRRRRRRRR
+O, \vert_5, \vert, 1.0, ORRR
+O, \{_2, \{, 1.0, O
+
+# Relations from SRT:
+R, O_6, \vert_7, Right, 1.0
+R, \langle_3, n_4, Right, 1.0
+R, \rangle_9, \vert_10, Right, 1.0
+R, \subset_12, \tau_14, Right, 1.0
+R, \tau_14, \prime_16, Sup, 1.0
+R, \tau_14, \}_17, Right, 1.0
+R, \tau_14, s_15, Sub, 1.0
+R, \vert_10, n_11, Right, 1.0
+R, \vert_5, O_6, Right, 1.0
+R, \vert_7, p_8, Right, 1.0
+R, \{_2, \langle_3, Right, 1.0
+R, n_11, \subset_12, Right, 1.0
+R, n_4, \vert_5, Right, 1.0
+R, p_8, \rangle_9, Right, 1.0

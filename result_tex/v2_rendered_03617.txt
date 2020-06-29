@@ -1,0 +1,3 @@
+\begin{equation}
+	s S _ { 1 } = 0 \Leftrightarrow s ( \int S _ { 1 } ) = 0 \Leftrightarrow \int ( s S _ { 1 } ) = 0
+\end{equation}

@@ -1,0 +1,39 @@
+# IUD, v2_rendered_12201
+# Objects(18):
+O, [_8, [, 1.0, ORRRRRR
+O, \sin_7, \sin, 1.0, ORRRRR
+O, \tan_11, \tan, 1.0, ORRRRRRRAbove
+O, (_12, (, 1.0, ORRRRRRRAboveR
+O, _9, -, 1.0, ORRRRRRR
+O, K_14, K, 1.0, ORRRRRRRAboveRRInside
+O, (_3, (, 1.0, OR
+O, )_5, ), 1.0, ORRR
+O, _18, \sqrt, 1.0, ORRRRRRRBelow
+O, )_16, ), 1.0, ORRRRRRRAboveRRRR
+O, ]_21, ], 1.0, ORRRRRRRR
+O, =_6, =, 1.0, ORRRR
+O, _13, \sqrt, 1.0, ORRRRRRRAboveRR
+O, K_19, K, 1.0, ORRRRRRRBelowInside
+O, L_20, L, 1.0, ORRRRRRRBelowR
+O, \sigma_4, \sigma, 1.0, ORR
+O, \sigma_15, \sigma, 1.0, ORRRRRRRAboveRRR
+O, \phi_2, \phi, 1.0, O
+
+# Relations from SRT:
+R, (_12, _13, Right, 1.0
+R, (_3, \sigma_4, Right, 1.0
+R, )_5, =_6, Right, 1.0
+R, =_6, \sin_7, Right, 1.0
+R, [_8, _9, Right, 1.0
+R, \phi_2, (_3, Right, 1.0
+R, \sigma_15, )_16, Right, 1.0
+R, \sigma_4, )_5, Right, 1.0
+R, \sin_7, [_8, Right, 1.0
+R, \tan_11, (_12, Right, 1.0
+R, _13, K_14, Inside, 1.0
+R, _13, \sigma_15, Right, 1.0
+R, _18, K_19, Inside, 1.0
+R, _18, L_20, Right, 1.0
+R, _9, \tan_11, Above, 1.0
+R, _9, ]_21, Right, 1.0
+R, _9, _18, Below, 1.0

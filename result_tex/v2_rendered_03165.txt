@@ -1,0 +1,3 @@
+\begin{equation}
+	\tau _ { 1 } \subset \tau _ { u n i v } \sim 1 0 ^ { 1 7 } s
+\end{equation}

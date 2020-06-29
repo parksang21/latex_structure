@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { i } { 7 \mu } \int l ^ { 4 } x ( \Delta . \sqrt { A } ^ { a } ) ^ { 7 }
+\end{equation}

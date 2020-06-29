@@ -1,0 +1,3 @@
+\begin{equation}
+	M = R ^ { 3 } \times \frac { R } { X } \sqrt { M } _ { d } Z
+\end{equation}

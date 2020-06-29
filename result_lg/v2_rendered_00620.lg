@@ -1,0 +1,43 @@
+# IUD, v2_rendered_00620
+# Objects(20):
+O, _17, \sqrt, 1.0, ORRRRRRRRRR
+O, \phi_7, \phi, 1.0, ORRRRR
+O, \Delta_9, \Delta, 1.0, ORRRRRRInside
+O, _21, \sqrt, 1.0, ORRRRRRRRRRRRR
+O, _8, \sqrt, 1.0, ORRRRRR
+O, \Delta_6, \Delta, 1.0, ORRRR
+O, \Delta_20, \Delta, 1.0, ORRRRRRRRRRRR
+O, \phi_16, \phi, 1.0, ORRRRRRRRRSupR
+O, \gamma_19, \gamma, 1.0, ORRRRRRRRRRR
+O, \phi_10, \phi, 1.0, ORRRRRRR
+O, e_13, e, 1.0, ORRRRRRRRR
+O, )_23, ), 1.0, ORRRRRRRRRRRRRR
+O, 2_15, 2, 1.0, ORRRRRRRRRSup
+O, (_5, (, 1.0, ORRR
+O, K_4, K, 1.0, ORR
+O, L_2, L, 1.0, O
+O, \gamma_22, \gamma, 1.0, ORRRRRRRRRRRRRInside
+O, =_3, =, 1.0, OR
+O, \Delta_18, \Delta, 1.0, ORRRRRRRRRRInside
+O, +_11, +, 1.0, ORRRRRRRR
+
+# Relations from SRT:
+R, (_5, \Delta_6, Right, 1.0
+R, +_11, e_13, Right, 1.0
+R, 2_15, \phi_16, Right, 1.0
+R, =_3, K_4, Right, 1.0
+R, K_4, (_5, Right, 1.0
+R, L_2, =_3, Right, 1.0
+R, \Delta_20, _21, Right, 1.0
+R, \Delta_6, \phi_7, Right, 1.0
+R, \gamma_19, \Delta_20, Right, 1.0
+R, \phi_10, +_11, Right, 1.0
+R, \phi_7, _8, Right, 1.0
+R, _17, \Delta_18, Inside, 1.0
+R, _17, \gamma_19, Right, 1.0
+R, _21, )_23, Right, 1.0
+R, _21, \gamma_22, Inside, 1.0
+R, _8, \Delta_9, Inside, 1.0
+R, _8, \phi_10, Right, 1.0
+R, e_13, 2_15, Sup, 1.0
+R, e_13, _17, Right, 1.0

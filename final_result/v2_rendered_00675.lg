@@ -1,0 +1,51 @@
+# IUD, v2_rendered_00675
+# Objects(24):
+O, -_14, -, 1.0, ORRRRRRRRRRRR
+O, ]_26, ], 1.0, ORRRRRRRRRRRRRRRRRRRRRR
+O, =_6, =, 1.0, ORRRR
+O, [_12, [, 1.0, ORRRRRRRRRR
+O, 2_11, 2, 1.0, ORRRRRRRRR
+O, \sin_21, \sin, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, )_5, ), 1.0, ORRR
+O, W_2, W, 1.0, O
+O, 1_13, 1, 1.0, ORRRRRRRRRRR
+O, (_3, (, 1.0, OR
+O, 2_7, 2, 1.0, ORRRRR
+O, K_9, K, 1.0, ORRRRRRR
+O, \beta_22, \beta, 1.0, ORRRRRRRRRRRRRRRRRRRR
+O, 2_15, 2, 1.0, ORRRRRRRRRRRRR
+O, \sin_19, \sin, 1.0, ORRRRRRRRRRRRRRRRR
+O, 2_25, 2, 1.0, ORRRRRRRRRRRRRRRRRRRRRSup
+O, =_10, =, 1.0, ORRRRRRRR
+O, \sin_17, \sin, 1.0, ORRRRRRRRRRRRRRR
+O, (_16, (, 1.0, ORRRRRRRRRRRRRR
+O, \cos_8, \cos, 1.0, ORRRRRR
+O, \beta_18, \beta, 1.0, ORRRRRRRRRRRRRRRR
+O, )_24, ), 1.0, ORRRRRRRRRRRRRRRRRRRRR
+O, \gamma_4, \gamma, 1.0, ORR
+O, \alpha_20, \alpha, 1.0, ORRRRRRRRRRRRRRRRRR
+
+# Relations from SRT:
+R, (_16, \sin_17, Right, 1.0
+R, (_3, \gamma_4, Right, 1.0
+R, )_24, 2_25, Sup, 1.0
+R, )_24, ]_26, Right, 1.0
+R, )_5, =_6, Right, 1.0
+R, -_14, 2_15, Right, 1.0
+R, 1_13, -_14, Right, 1.0
+R, 2_11, [_12, Right, 1.0
+R, 2_15, (_16, Right, 1.0
+R, 2_7, \cos_8, Right, 1.0
+R, =_10, 2_11, Right, 1.0
+R, =_6, 2_7, Right, 1.0
+R, K_9, =_10, Right, 1.0
+R, W_2, (_3, Right, 1.0
+R, [_12, 1_13, Right, 1.0
+R, \alpha_20, \sin_21, Right, 1.0
+R, \beta_18, \sin_19, Right, 1.0
+R, \beta_22, )_24, Right, 1.0
+R, \cos_8, K_9, Right, 1.0
+R, \gamma_4, )_5, Right, 1.0
+R, \sin_17, \beta_18, Right, 1.0
+R, \sin_19, \alpha_20, Right, 1.0
+R, \sin_21, \beta_22, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta _ { x } \tau ( 0 , t ) = \Delta _ { x } \tau ( V , t ) = 0 \forall t
+\end{equation}

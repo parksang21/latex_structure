@@ -1,0 +1,43 @@
+# IUD, 959
+# Objects(20):
+O, R_28, R, 1.0, ORRRRRRSub
+O, _3, \sqrt, 1.0, O
+O, =_14, =, 1.0, ORRR
+O, \varepsilon_5, \varepsilon, 1.0, OSub
+O, F_23, F, 1.0, ORRRRRInside
+O, 2_18, 2, 1.0, ORRRRSup
+O, _26, \sqrt, 1.0, ORRRRRR
+O, u_20, u, 1.0, ORRRRSupRInside
+O, F_27, F, 1.0, ORRRRRRInside
+O, _22, \sqrt, 1.0, ORRRRR
+O, u_13, u, 1.0, ORRInside
+O, \Delta_4, \Delta, 1.0, OInside
+O, +_10, +, 1.0, ORSub
+O, _19, \sqrt, 1.0, ORRRRSupR
+O, +_11, +, 1.0, ORSubR
+O, e_16, e, 1.0, ORRRR
+O, _7, \sqrt, 1.0, OR
+O, \Delta_8, \Delta, 1.0, ORInside
+O, _12, \sqrt, 1.0, ORR
+O, L_24, L, 1.0, ORRRRRSub
+
+# Relations from SRT:
+R, +_10, +_11, Right, 1.0
+R, 2_18, _19, Right, 1.0
+R, =_14, e_16, Right, 1.0
+R, _12, =_14, Right, 1.0
+R, _12, u_13, Inside, 1.0
+R, _19, u_20, Inside, 1.0
+R, _22, F_23, Inside, 1.0
+R, _22, L_24, Sub, 1.0
+R, _22, _26, Right, 1.0
+R, _26, F_27, Inside, 1.0
+R, _26, R_28, Sub, 1.0
+R, _3, \Delta_4, Inside, 1.0
+R, _3, \varepsilon_5, Sub, 1.0
+R, _3, _7, Right, 1.0
+R, _7, +_10, Sub, 1.0
+R, _7, \Delta_8, Inside, 1.0
+R, _7, _12, Right, 1.0
+R, e_16, 2_18, Sup, 1.0
+R, e_16, _22, Right, 1.0

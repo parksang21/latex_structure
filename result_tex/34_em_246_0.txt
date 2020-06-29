@@ -1,0 +1,3 @@
+\begin{equation}
+	v = ( v _ { x } v y v z )
+\end{equation}

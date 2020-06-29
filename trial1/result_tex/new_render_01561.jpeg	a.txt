@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { g } a _ { w } - q _ { g w } ^ { * } a _ { w } a _ { g } \geqq 8 , \therefore g , w \in S
+\end{equation}

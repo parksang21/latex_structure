@@ -1,0 +1,29 @@
+# IUD, v2_rendered_17298
+# Objects(13):
+O, COMMA_18, COMMA, 1.0, 12
+O, \phi_8, \phi, 1.0, 4
+O, =_3, =, 1.0, 1
+O, \varepsilon_2, \varepsilon, 1.0, 0
+O, e_5, e, 1.0, 2
+O, 8_10, 8, 1.0, 6
+O, \theta_12, \theta, 1.0, 7
+O, 3_7, 3, 1.0, 3
+O, 0_17, 0, 1.0, 11
+O, \otimes_14, \otimes, 1.0, 9
+O, 0_13, 0, 1.0, 8
+O, \vert_9, \vert, 1.0, 5
+O, \beta_16, \beta, 1.0, 10
+
+# Relations from SRT:
+R, 3_7, \phi_8, Right, 1.0
+R, =_3, e_5, Right, 1.0
+R, \beta_16, 0_17, Sub, 1.0
+R, \beta_16, COMMA_18, Right, 1.0
+R, \otimes_14, \beta_16, Right, 1.0
+R, \phi_8, \vert_9, Right, 1.0
+R, \theta_12, 0_13, Sub, 1.0
+R, \theta_12, \otimes_14, Right, 1.0
+R, \varepsilon_2, =_3, Right, 1.0
+R, \vert_9, 8_10, Right, 1.0
+R, e_5, 3_7, Sup, 1.0
+R, e_5, \theta_12, Right, 1.0

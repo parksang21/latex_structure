@@ -1,0 +1,3 @@
+\begin{equation}
+	\int \sum _ { j = 0 } ^ { \infty } a j z ^ { j } d z = \sum _ { j = 1 } ^ { \infty } \frac { a _ { i - 1 } } { j } x ^ { j }
+\end{equation}

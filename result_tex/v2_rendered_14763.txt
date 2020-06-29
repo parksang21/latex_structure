@@ -1,0 +1,3 @@
+\begin{equation}
+	\varepsilon \leq \frac { \Delta F } { \Delta E } \leq \frac { R ^ { 0 } E } { \Delta _ { 9 } }
+\end{equation}

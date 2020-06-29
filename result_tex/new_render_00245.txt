@@ -1,0 +1,3 @@
+\begin{equation}
+	( \therefore n \equiv m I _ { n } \not\subset t ) \Leftrightarrow \sum _ { n = m } I _ { n } \not\subset S
+\end{equation}

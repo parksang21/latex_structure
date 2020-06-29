@@ -1,0 +1,41 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">new_render_00740</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mi xml:id="\square_2">▫</mi><mo xml:id="\approx_3">≈</mo><msub><mi xml:id="l_5">l</mi><mi xml:id="t_6">t</mi></msub><mo xml:id="-_7">−</mo><mi xml:id="\varepsilon_8">ε</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\square</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\square_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\approx</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\approx_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">l</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="l_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">t</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="t_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="-_7"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\varepsilon</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\varepsilon_8"/>
+	</traceGroup>
+</traceGroup>
+</ink>

@@ -1,0 +1,3 @@
+\begin{equation}
+	u _ { \varphi } , \tilde { u } _ { \varphi } \rangle \leftrightarrow \vert u _ { \varphi } , u _ { \varphi } \tilde { u } _ { \varphi } \rangle
+\end{equation}

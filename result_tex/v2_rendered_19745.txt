@@ -1,0 +1,3 @@
+\begin{equation}
+	\lambda v _ { \mu } \Leftrightarrow ( D \csqrt 2 ) ! G _ { \mu }
+\end{equation}

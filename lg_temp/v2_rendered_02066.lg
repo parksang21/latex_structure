@@ -1,0 +1,41 @@
+# IUD, v2_rendered_02066
+# Objects(19):
+O, 2_20, 2, 1.0, 11
+O, _8, \sqrt, 1.0, 17
+O, _6, \sqrt, 1.0, 16
+O, \delta_16, \delta, 1.0, 9
+O, _2, \sqrt, 1.0, 15
+O, +_10, +, 1.0, 5
+O, 0_22, 0, 1.0, 13
+O, =_21, =, 1.0, 12
+O, 2_13, 2, 1.0, 7
+O, -_4, -, 1.0, 1
+O, _18, \sqrt, 1.0, 18
+O, f_19, f, 1.0, 10
+O, 1_12, 1, 1.0, 6
+O, \rho_7, \rho, 1.0, 3
+O, 2_5, 2, 1.0, 2
+O, \Omega_9, \Omega, 1.0, 4
+O, \Omega_15, \Omega, 1.0, 8
+O, \Omega_3, \Omega, 1.0, 0
+O, _11, -, 1.0, 14
+
+# Relations from SRT:
+R, +_10, _11, Right, 1.0
+R, -_4, 2_5, Right, 1.0
+R, 2_5, _6, Right, 1.0
+R, =_21, 0_22, Right, 1.0
+R, \Omega_15, \delta_16, Sup, 1.0
+R, \Omega_15, _18, Right, 1.0
+R, _11, 1_12, Above, 1.0
+R, _11, 2_13, Below, 1.0
+R, _11, \Omega_15, Right, 1.0
+R, _18, 2_20, Sup, 1.0
+R, _18, =_21, Right, 1.0
+R, _18, f_19, Inside, 1.0
+R, _2, -_4, Right, 1.0
+R, _2, \Omega_3, Inside, 1.0
+R, _6, \rho_7, Inside, 1.0
+R, _6, _8, Right, 1.0
+R, _8, +_10, Right, 1.0
+R, _8, \Omega_9, Inside, 1.0

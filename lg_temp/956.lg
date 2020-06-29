@@ -1,0 +1,39 @@
+# IUD, 956
+# Objects(18):
+O, \sigma_11, \sigma, 1.0, 6
+O, \phi_13, \phi, 1.0, 8
+O, p_24, p, 1.0, 15
+O, 1_7, 1, 1.0, 3
+O, f_3, f, 1.0, 0
+O, (_12, (, 1.0, 7
+O, 2_9, 2, 1.0, 4
+O, f_22, f, 1.0, 14
+O, \mu_4, \mu, 1.0, 1
+O, m_10, m, 1.0, 5
+O, \Omega_16, \Omega, 1.0, 10
+O, _6, -, 1.0, 17
+O, =_5, =, 1.0, 2
+O, \rho_20, \rho, 1.0, 13
+O, \rho_25, \rho, 1.0, 16
+O, \mu_18, \mu, 1.0, 11
+O, \rho_19, \rho, 1.0, 12
+O, )_14, ), 1.0, 9
+
+# Relations from SRT:
+R, (_12, \phi_13, Right, 1.0
+R, )_14, \Omega_16, Right, 1.0
+R, 2_9, m_10, Right, 1.0
+R, =_5, _6, Right, 1.0
+R, \Omega_16, \mu_18, Sup, 1.0
+R, \Omega_16, f_22, Right, 1.0
+R, \mu_18, \rho_19, Right, 1.0
+R, \phi_13, )_14, Right, 1.0
+R, \rho_19, \rho_20, Right, 1.0
+R, \sigma_11, (_12, Right, 1.0
+R, _6, 1_7, Above, 1.0
+R, _6, 2_9, Below, 1.0
+R, _6, \sigma_11, Right, 1.0
+R, f_22, p_24, Sub, 1.0
+R, f_3, =_5, Right, 1.0
+R, f_3, \mu_4, Sub, 1.0
+R, p_24, \rho_25, Right, 1.0

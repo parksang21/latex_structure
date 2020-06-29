@@ -1,0 +1,3 @@
+\begin{equation}
+	d \phi = - i A \phi d \tau - i g G ( \phi ) d \tau + \sqrt { 2 } \mu d B
+\end{equation}

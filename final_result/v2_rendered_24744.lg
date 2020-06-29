@@ -1,0 +1,29 @@
+# IUD, v2_rendered_24744
+# Objects(13):
+O, )_6, ), 1.0, ORRRR
+O, 1_5, 1, 1.0, ORRR
+O, \otimes_11, \otimes, 1.0, ORRRRRRRRR
+O, \triangle_12, \triangle, 1.0, ORRRRRRRRRR
+O, \otimes_4, \otimes, 1.0, ORR
+O, (_2, (, 1.0, O
+O, \triangle_14, \triangle, 1.0, ORRRRRRRRRRRR
+O, )_13, ), 1.0, ORRRRRRRRRRR
+O, (_9, (, 1.0, ORRRRRRR
+O, =_8, =, 1.0, ORRRRRR
+O, \triangle_3, \triangle, 1.0, OR
+O, \triangle_7, \triangle, 1.0, ORRRRR
+O, 1_10, 1, 1.0, ORRRRRRRR
+
+# Relations from SRT:
+R, (_2, \triangle_3, Right, 1.0
+R, (_9, 1_10, Right, 1.0
+R, )_13, \triangle_14, Right, 1.0
+R, )_6, \triangle_7, Right, 1.0
+R, 1_10, \otimes_11, Right, 1.0
+R, 1_5, )_6, Right, 1.0
+R, =_8, (_9, Right, 1.0
+R, \otimes_11, \triangle_12, Right, 1.0
+R, \otimes_4, 1_5, Right, 1.0
+R, \triangle_12, )_13, Right, 1.0
+R, \triangle_3, \otimes_4, Right, 1.0
+R, \triangle_7, =_8, Right, 1.0

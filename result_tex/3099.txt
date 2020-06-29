@@ -1,0 +1,3 @@
+\begin{equation}
+	P = \Delta \csqrt v i \gamma _ { 1 } - b \gamma _ { 2 }
+\end{equation}

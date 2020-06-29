@@ -1,0 +1,39 @@
+# IUD, new_render_01497
+# Objects(18):
+O, p_25, p, 1.0, ORRRRRRRSub
+O, v_3, v, 1.0, O
+O, -_6, -, 1.0, ORR
+O, =_5, =, 1.0, OR
+O, i_4, i, 1.0, OSub
+O, i_26, i, 1.0, ORRRRRRRSubR
+O, p_10, p, 1.0, ORRRBelow
+O, (_18, (, 1.0, ORRRRR
+O, \leqq_11, \leqq, 1.0, ORRRBelowR
+O, \beta_14, \beta, 1.0, ORRRR
+O, )_27, ), 1.0, ORRRRRRRR
+O, T_20, T, 1.0, ORRRRRR
+O, i_16, i, 1.0, ORRRRSub
+O, i_21, i, 1.0, ORRRRRRSub
+O, \beta_23, \beta, 1.0, ORRRRRRR
+O, \lim_8, \lim, 1.0, ORRR
+O, p_17, p, 1.0, ORRRRSubR
+O, i_12, i, 1.0, ORRRBelowRR
+
+# Relations from SRT:
+R, (_18, T_20, Right, 1.0
+R, -_6, \lim_8, Right, 1.0
+R, =_5, -_6, Right, 1.0
+R, T_20, \beta_23, Right, 1.0
+R, T_20, i_21, Sub, 1.0
+R, \beta_14, (_18, Right, 1.0
+R, \beta_14, i_16, Sub, 1.0
+R, \beta_23, )_27, Right, 1.0
+R, \beta_23, p_25, Sub, 1.0
+R, \leqq_11, i_12, Right, 1.0
+R, \lim_8, \beta_14, Right, 1.0
+R, \lim_8, p_10, Below, 1.0
+R, i_16, p_17, Right, 1.0
+R, p_10, \leqq_11, Right, 1.0
+R, p_25, i_26, Right, 1.0
+R, v_3, =_5, Right, 1.0
+R, v_3, i_4, Sub, 1.0

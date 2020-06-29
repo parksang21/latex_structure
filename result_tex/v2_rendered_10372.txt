@@ -1,0 +1,3 @@
+\begin{equation}
+	\phi ^ { \bot } \beta P = + \gamma \Delta ^ { 1 } \varepsilon _ { 0 }
+\end{equation}

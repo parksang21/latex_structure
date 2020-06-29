@@ -1,0 +1,43 @@
+# IUD, v2_rendered_10342
+# Objects(20):
+O, \leq_5, \leq, 1.0, OR
+O, 7_15, 7, 1.0, ORRRRRRSupR
+O, \lambda_12, \lambda, 1.0, ORRRRRRSub
+O, D_24, D, 1.0, ORRRRRRRRRRSupR
+O, h_21, h, 1.0, ORRRRRRRRRR
+O, \gamma_16, \gamma, 1.0, ORRRRRRSupRR
+O, \lambda_4, \lambda, 1.0, OSub
+O, L_9, L, 1.0, ORRRRR
+O, \circle_19, \circle, 1.0, ORRRRRRRRR
+O, T_23, T, 1.0, ORRRRRRRRRRSup
+O, )_26, ), 1.0, ORRRRRRRRRRR
+O, (_6, (, 1.0, ORR
+O, -_14, -, 1.0, ORRRRRRSup
+O, \theta_3, \theta, 1.0, O
+O, \gamma_27, \gamma, 1.0, ORRRRRRRRRRRSub
+O, (_17, (, 1.0, ORRRRRRR
+O, )_11, ), 1.0, ORRRRRR
+O, \circle_8, \circle, 1.0, ORRRR
+O, D_7, D, 1.0, ORRR
+O, D_18, D, 1.0, ORRRRRRRR
+
+# Relations from SRT:
+R, (_17, D_18, Right, 1.0
+R, (_6, D_7, Right, 1.0
+R, )_11, (_17, Right, 1.0
+R, )_11, -_14, Sup, 1.0
+R, )_11, \lambda_12, Sub, 1.0
+R, )_26, \gamma_27, Sub, 1.0
+R, -_14, 7_15, Right, 1.0
+R, 7_15, \gamma_16, Right, 1.0
+R, D_18, \circle_19, Right, 1.0
+R, D_7, \circle_8, Right, 1.0
+R, L_9, )_11, Right, 1.0
+R, T_23, D_24, Right, 1.0
+R, \circle_19, h_21, Right, 1.0
+R, \circle_8, L_9, Right, 1.0
+R, \leq_5, (_6, Right, 1.0
+R, \theta_3, \lambda_4, Sub, 1.0
+R, \theta_3, \leq_5, Right, 1.0
+R, h_21, )_26, Right, 1.0
+R, h_21, T_23, Sup, 1.0

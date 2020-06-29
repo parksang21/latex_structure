@@ -1,0 +1,3 @@
+\begin{equation}
+	J = - i [ \overrightarrow k \times \Delta / \Delta \overrightarrow k ] - i [ \tilde { n } \times \Delta / \Delta \tilde { n } ]
+\end{equation}

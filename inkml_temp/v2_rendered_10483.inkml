@@ -1,0 +1,61 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_10483</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mo xml:id="\exists_2">∃</mo><mi xml:id="\angle_3">∠</mi><mi xml:id="T_4">T</mi><mi xml:id="I_5">I</mi><mi xml:id="P_6">P</mi><mo xml:id="\leq_7">≤</mo><mi xml:id="\angle_8">∠</mi><mi xml:id="I_9">I</mi><mi xml:id="T_10">T</mi><mi xml:id="P_11">P</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\exists</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\exists_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\angle</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\angle_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">T</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="T_4"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">I</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="I_5"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">P</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="P_6"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\leq</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\leq_7"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">\angle</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="\angle_8"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">I</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="I_9"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">T</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="T_10"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">P</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="P_11"/>
+	</traceGroup>
+</traceGroup>
+</ink>

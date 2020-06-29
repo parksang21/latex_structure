@@ -1,0 +1,3 @@
+\begin{equation}
+	= \frac { 1 } { \alpha } \tan \alpha t
+\end{equation}

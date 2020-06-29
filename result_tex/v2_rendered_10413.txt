@@ -1,0 +1,3 @@
+\begin{equation}
+	F = \frac { 1 } { 4 \alpha _ { \theta } } \frac { G m ^ { 2 } } { r ^ { 2 } }
+\end{equation}

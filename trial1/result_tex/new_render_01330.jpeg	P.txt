@@ -1,0 +1,3 @@
+\begin{equation}
+	[ X _ { n } \notin t \because n \geqq m ] \leqq P [ \sum _ { n \geqq m } X _ { n } \notin s ]
+\end{equation}

@@ -1,0 +1,49 @@
+# IUD, v2_rendered_18595
+# Objects(23):
+O, \beta_23, \beta, 1.0, ORRRRRRRRRRRRRRR
+O, i_5, i, 1.0, ORSub
+O, i_11, i, 1.0, ORRRRRSub
+O, \log_12, \log, 1.0, ORRRRRR
+O, \vert_25, \vert, 1.0, ORRRRRRRRRRRRRRRRR
+O, -_7, -, 1.0, ORRR
+O, \infty_27, \infty, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, A_4, A, 1.0, OR
+O, \leftrightarrow_26, \leftrightarrow, 1.0, ORRRRRRRRRRRRRRRRRR
+O, \Delta_10, \Delta, 1.0, ORRRRR
+O, \theta_19, \theta, 1.0, ORRRRRRRRRRR
+O, e_2, e, 1.0, O
+O, x_24, x, 1.0, ORRRRRRRRRRRRRRRR
+O, \Delta_17, \Delta, 1.0, ORRRRRRRRRR
+O, i_18, i, 1.0, ORRRRRRRRRRSub
+O, \sim_14, \sim, 1.0, ORRRRRRRR
+O, \phi_13, \phi, 1.0, ORRRRRRR
+O, \sim_6, \sim, 1.0, ORR
+O, s_21, s, 1.0, ORRRRRRRRRRRRR
+O, a_20, a, 1.0, ORRRRRRRRRRRR
+O, i_8, i, 1.0, ORRRR
+O, N_15, N, 1.0, ORRRRRRRRR
+O, \vert_22, \vert, 1.0, ORRRRRRRRRRRRRR
+
+# Relations from SRT:
+R, -_7, i_8, Right, 1.0
+R, A_4, \sim_6, Right, 1.0
+R, A_4, i_5, Sub, 1.0
+R, N_15, \Delta_17, Right, 1.0
+R, \Delta_10, \log_12, Right, 1.0
+R, \Delta_10, i_11, Sub, 1.0
+R, \Delta_17, \theta_19, Right, 1.0
+R, \Delta_17, i_18, Sub, 1.0
+R, \beta_23, x_24, Right, 1.0
+R, \leftrightarrow_26, \infty_27, Right, 1.0
+R, \log_12, \phi_13, Right, 1.0
+R, \phi_13, \sim_14, Right, 1.0
+R, \sim_14, N_15, Right, 1.0
+R, \sim_6, -_7, Right, 1.0
+R, \theta_19, a_20, Right, 1.0
+R, \vert_22, \beta_23, Right, 1.0
+R, \vert_25, \leftrightarrow_26, Right, 1.0
+R, a_20, s_21, Right, 1.0
+R, e_2, A_4, Right, 1.0
+R, i_8, \Delta_10, Right, 1.0
+R, s_21, \vert_22, Right, 1.0
+R, x_24, \vert_25, Right, 1.0

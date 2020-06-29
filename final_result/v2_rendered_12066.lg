@@ -1,0 +1,27 @@
+# IUD, v2_rendered_12066
+# Objects(12):
+O, \alpha_12, \alpha, 1.0, ORRSubR
+O, \tau_5, \tau, 1.0, OSub
+O, \gamma_20, \gamma, 1.0, ORRRSubR
+O, \alpha_19, \alpha, 1.0, ORRRSub
+O, =_7, =, 1.0, OR
+O, x_3, x, 1.0, O
+O, \alpha_6, \alpha, 1.0, OSubR
+O, \triangle_9, \triangle, 1.0, ORR
+O, \tau_11, \tau, 1.0, ORRSub
+O, \alpha_14, \alpha, 1.0, ORRSup
+O, \gamma_15, \gamma, 1.0, ORRSupR
+O, U_17, U, 1.0, ORRR
+
+# Relations from SRT:
+R, =_7, \triangle_9, Right, 1.0
+R, U_17, \alpha_19, Sub, 1.0
+R, \alpha_14, \gamma_15, Right, 1.0
+R, \alpha_19, \gamma_20, Right, 1.0
+R, \tau_11, \alpha_12, Right, 1.0
+R, \tau_5, \alpha_6, Right, 1.0
+R, \triangle_9, U_17, Right, 1.0
+R, \triangle_9, \alpha_14, Sup, 1.0
+R, \triangle_9, \tau_11, Sub, 1.0
+R, x_3, =_7, Right, 1.0
+R, x_3, \tau_5, Sub, 1.0

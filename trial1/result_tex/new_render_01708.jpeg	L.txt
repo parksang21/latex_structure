@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { j } \vert \psi \rangle \leq 9 , \because j \geqq 9
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	a \Omega _ { 0 } \div \frac { b } { 1 } \Omega _ { 0 } ^ { 1 } \div \frac { v } { 2 ! } \Omega _ { 0 } ^ { 2 } \leqq w
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \{ \alpha _ { i } \} } n _ { i } ( R ^ { \prime } \alpha _ { i } )
+\end{equation}

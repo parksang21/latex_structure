@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>σ</mi><msubsup><mi>Q</mi><mi>Y</mi><mi>j</mi></msubsup><mo>=</mo><mo>−</mo><mi>n</mi><mo>∴</mo><mi>j</mi><mo>,</mo><mi>σ</mi><msub><mi>Q</mi><mi>B</mi></msub><mo>=</mo><mo>−</mo><mn>6</mn><mi>n</mi><mo>,</mo><mi>σ</mi><msub><mi>Q</mi><mi>Q</mi></msub><mo>=</mo><mo>−</mo><mi>n</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \sigma Q _ { Y } ^ { j } = - n \therefore j , \sigma Q _ { B } = - 6 n , \sigma Q _ { Q } = - n
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

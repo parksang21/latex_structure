@@ -1,0 +1,3 @@
+\begin{equation}
+	J = \frac { k } { 2 } + 1 , J ^ { \prime } = \frac { k } { 2 } , J ^ { \prime \prime } = \frac { k } { 2 } \}
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	m \vert y \vert = \vert y y \vert
+\end{equation}

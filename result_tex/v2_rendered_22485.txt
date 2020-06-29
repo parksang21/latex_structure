@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta _ { p } M _ { \gamma } ( z _ { 0 } ) = [ p _ { p } , M _ { \gamma } \langle z _ { 0 } ) ]
+\end{equation}

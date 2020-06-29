@@ -1,0 +1,3 @@
+\begin{equation}
+	{ \beta } _ { \square \tau } ( \tau ) \leq 0 , n f \tau \cap \square \tau
+\end{equation}

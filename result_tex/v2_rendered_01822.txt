@@ -1,0 +1,3 @@
+\begin{equation}
+	Q ( \theta = \frac { \pi } { 2 } ) = - \frac { q e } { 2 } \tan ( \frac { m \beta } { 2 } )
+\end{equation}

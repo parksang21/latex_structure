@@ -1,0 +1,51 @@
+# IUD, v2_rendered_04223
+# Objects(24):
+O, =_11, =, 1.0, ORRRRR
+O, /_9, /, 1.0, ORRR
+O, 1_15, 1, 1.0, ORRRRRRRRR
+O, 6_27, 6, 1.0, ORRRRRRRRRRRRRRRRRRRRR
+O, ._23, ., 1.0, ORRRRRRRRRRRRRRRRR
+O, 9_19, 9, 1.0, ORRRRRRRRRRRRR
+O, 8_20, 8, 1.0, ORRRRRRRRRRRRRR
+O, g_3, g, 1.0, O
+O, \pi_10, \pi, 1.0, ORRRR
+O, ._22, ., 1.0, ORRRRRRRRRRRRRRRR
+O, ._21, ., 1.0, ORRRRRRRRRRRRRRR
+O, 3_17, 3, 1.0, ORRRRRRRRRRR
+O, =_7, =, 1.0, OR
+O, 0_12, 0, 1.0, ORRRRRR
+O, ._13, ., 1.0, ORRRRRRR
+O, c_5, c, 1.0, OSub
+O, p_6, p, 1.0, OSubR
+O, 1_8, 1, 1.0, ORR
+O, 0_18, 0, 1.0, ORRRRRRRRRRRR
+O, 3_14, 3, 1.0, ORRRRRRRR
+O, /_26, /, 1.0, ORRRRRRRRRRRRRRRRRRRR
+O, 1_25, 1, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, 8_16, 8, 1.0, ORRRRRRRRRR
+O, \gt_24, \gt, 1.0, ORRRRRRRRRRRRRRRRRR
+
+# Relations from SRT:
+R, ._13, 3_14, Right, 1.0
+R, ._21, ._22, Right, 1.0
+R, ._22, ._23, Right, 1.0
+R, ._23, \gt_24, Right, 1.0
+R, /_26, 6_27, Right, 1.0
+R, /_9, \pi_10, Right, 1.0
+R, 0_12, ._13, Right, 1.0
+R, 0_18, 9_19, Right, 1.0
+R, 1_15, 8_16, Right, 1.0
+R, 1_25, /_26, Right, 1.0
+R, 1_8, /_9, Right, 1.0
+R, 3_14, 1_15, Right, 1.0
+R, 3_17, 0_18, Right, 1.0
+R, 8_16, 3_17, Right, 1.0
+R, 8_20, ._21, Right, 1.0
+R, 9_19, 8_20, Right, 1.0
+R, =_11, 0_12, Right, 1.0
+R, =_7, 1_8, Right, 1.0
+R, \gt_24, 1_25, Right, 1.0
+R, \pi_10, =_11, Right, 1.0
+R, c_5, p_6, Right, 1.0
+R, g_3, =_7, Right, 1.0
+R, g_3, c_5, Sub, 1.0

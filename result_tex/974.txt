@@ -1,0 +1,3 @@
+\begin{equation}
+	\langle - \Delta \rangle _ { \varepsilon } = \langle V \rangle _ { \varepsilon }
+\end{equation}

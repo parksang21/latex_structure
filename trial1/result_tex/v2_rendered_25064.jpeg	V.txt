@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { c l } = - \frac { 1 } { 2 } ( m ^ { 2 } + \delta R ) \phi ^ { 2 } + \frac { f } { 8 } \phi ^ { 4 }
+\end{equation}

@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>tan</mo><mo stretchy="false" form="prefix">(</mo><mn>5</mn><mi>x</mi><mo stretchy="false" form="postfix">)</mo><mo>=</mo><mfrac><mrow><mi>j</mi><mo>tan</mo><mo stretchy="false" form="prefix">(</mo><mi>x</mi><mo stretchy="false" form="postfix">)</mo><mo>−</mo><mo>∧</mo><mn>0</mn><msubsup><mo>tan</mo><mrow><mn>4</mn><mn>7</mn></mrow><mn>3</mn></msubsup><mo stretchy="false" form="prefix">(</mo><mi>x</mi><mo stretchy="false" form="postfix">)</mo><mo>+</mo><msup><mo>tan</mo><mn>5</mn></msup><mo stretchy="false" form="prefix">(</mo><mi>x</mi><mo stretchy="false" form="postfix">)</mo></mrow><mrow><mn>1</mn><mo>−</mo><mn>1</mn><mi>o</mi><msup><mo>tan</mo><mn>2</mn></msup><mo stretchy="false" form="prefix">(</mo><mi>x</mi><mo stretchy="false" form="postfix">)</mo><mo>+</mo><mi>S</mi><msup><mo>tan</mo><mn>2</mn></msup><mo stretchy="false" form="prefix">(</mo><mi>x</mi><mo stretchy="false" form="postfix">)</mo></mrow></mfrac></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \tan ( 5 x ) = \frac { j \tan ( x ) - \wedge 0 \tan _ { 4 7 } ^ { 3 } ( x ) + \tan ^ { 5 } ( x ) } { 1 - 1 o \tan ^ { 2 } ( x ) + S \tan ^ { 2 } ( x ) }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

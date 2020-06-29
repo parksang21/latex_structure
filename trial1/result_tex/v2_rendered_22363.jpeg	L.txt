@@ -1,0 +1,3 @@
+\begin{equation}
+	= \overline { \psi } i \gamma ^ { \mu } \Delta _ { \mu } \psi - \frac { 1 } { 2 } \sigma ^ { 2 } - g \sigma \overline { \psi } \psi
+\end{equation}

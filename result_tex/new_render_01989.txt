@@ -1,0 +1,3 @@
+\begin{equation}
+	Q \leqq \frac { 1 } { 2 \pi R } \int _ { 0 } ^ { L } \Delta _ { x } \beta ( x , t ) d x
+\end{equation}

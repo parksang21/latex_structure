@@ -1,0 +1,3 @@
+\begin{equation}
+	J = C \prod _ { \alpha \cap \tau } + l _ { \alpha } ( x )
+\end{equation}

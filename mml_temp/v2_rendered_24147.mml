@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msubsup><mi>V</mi><mi>z</mi><mi>′</mi></msubsup><mo stretchy="false" form="prefix">(</mo><mi>W</mi><mo>,</mo><mi>W</mi><mo stretchy="false" form="postfix">)</mo><mo>−</mo><mi>i</mi><mi>μ</mi><mi>Δ</mi><mi>W</mi><msub><mo stretchy="false" form="postfix">⟩</mo><mi>σ</mi></msub><mo>=</mo><mn>0</mn></mrow><annotation encoding="application/x-tex">\begin{equation}
+    V _ { z } ^ { \prime } ( W , W ) - i \mu \Delta W \rangle _ { \sigma } = 0
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

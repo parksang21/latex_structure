@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { 1 } ( \tilde { \delta } _ { 3 } ) = 3 \delta _ { 1 } \odot \tilde { \delta } _ { 2 } + \tilde { \delta } _ { 2 } \odot \delta _ { 1 }
+\end{equation}

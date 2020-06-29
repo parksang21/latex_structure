@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { d \alpha \lambda } { d t } = \beta _ { \alpha \lambda }
+\end{equation}

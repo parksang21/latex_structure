@@ -1,0 +1,3 @@
+\begin{equation}
+	\rho = v , \rho , v _ { 1 } ^ { * } \otimes \lsqrts \otimes v _ { n } \rho _ { \wedge } v _ { n } ^ { * }
+\end{equation}

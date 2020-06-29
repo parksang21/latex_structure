@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { i } \sim \frac { 1 } { p ^ { i } } e ^ { - \vert p \vert t } ( p \wedge 1 )
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\lim _ { y \rightarrow X } f ( y ) = f ( x )
+\end{equation}

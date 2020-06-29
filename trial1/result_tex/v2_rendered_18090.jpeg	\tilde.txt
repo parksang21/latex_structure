@@ -1,0 +1,3 @@
+\begin{equation}
+	{ T } \tilde { S } \tilde { T } \tilde { S } \tilde { T } \tilde { S } ^ { - 1 } = 1 , \tilde { S } ^ { 4 } \sigma ^ { 2 } = 1
+\end{equation}

@@ -1,0 +1,33 @@
+# IUD, 506_em_67_0
+# Objects(15):
+O, 2_22, 2, 1.0, 13
+O, n_11, n, 1.0, 5
+O, 8_9, 8, 1.0, 4
+O, \sum_14, \sum, 1.0, 7
+O, n_19, n, 1.0, 11
+O, 3_12, 3, 1.0, 6
+O, \lim_3, \lim, 1.0, 0
+O, _8, -, 1.0, 14
+O, \infty_7, \infty, 1.0, 3
+O, =_17, =, 1.0, 9
+O, i_16, i, 1.0, 8
+O, \rightarrow_6, \rightarrow, 1.0, 2
+O, n_5, n, 1.0, 1
+O, i_21, i, 1.0, 12
+O, 1_18, 1, 1.0, 10
+
+# Relations from SRT:
+R, =_17, 1_18, Right, 1.0
+R, \lim_3, _8, Right, 1.0
+R, \lim_3, n_5, Below, 1.0
+R, \rightarrow_6, \infty_7, Right, 1.0
+R, \sum_14, i_16, Below, 1.0
+R, \sum_14, i_21, Right, 1.0
+R, \sum_14, n_19, Above, 1.0
+R, _8, 8_9, Above, 1.0
+R, _8, \sum_14, Right, 1.0
+R, _8, n_11, Below, 1.0
+R, i_16, =_17, Right, 1.0
+R, i_21, 2_22, Sup, 1.0
+R, n_11, 3_12, Sup, 1.0
+R, n_5, \rightarrow_6, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	[ O ^ { \prime } , \beta _ { 0 ^ { \prime } } ( g ) ] \leqq 8 \forall g \vee G
+\end{equation}

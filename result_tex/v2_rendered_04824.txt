@@ -1,0 +1,3 @@
+\begin{equation}
+	\langle P ( p , p z ^ { + } ) \vert \psi \rangle = \langle p \vert U ( \psi , z ) \vert \rho \rangle
+\end{equation}

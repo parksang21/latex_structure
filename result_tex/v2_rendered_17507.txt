@@ -1,0 +1,3 @@
+\begin{equation}
+	\mu = \lim _ { m \in Z } e ^ { i 2 \pi m x ^ { 4 } / L } \mu ( m )
+\end{equation}

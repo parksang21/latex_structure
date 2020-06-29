@@ -1,0 +1,41 @@
+# IUD, v2_rendered_12301
+# Objects(19):
+O, =_3, =, 1.0, OR
+O, 6_26, 6, 1.0, ORRRRRRRRRRRRSup
+O, \subset_23, \subset, 1.0, ORRRRRRRRRRR
+O, 3_14, 3, 1.0, ORRRRRRSup
+O, 1_6, 1, 1.0, ORRSup
+O, +_11, +, 1.0, ORRRRR
+O, e_9, e, 1.0, ORRRR
+O, 4_18, 4, 1.0, ORRRRRRRRSup
+O, e_5, e, 1.0, ORR
+O, e_17, e, 1.0, ORRRRRRRR
+O, \subset_7, \subset, 1.0, ORRR
+O, e_25, e, 1.0, ORRRRRRRRRRRR
+O, e_13, e, 1.0, ORRRRRR
+O, J_2, J, 1.0, O
+O, +_19, +, 1.0, ORRRRRRRRR
+O, \subset_15, \subset, 1.0, ORRRRRRR
+O, e_21, e, 1.0, ORRRRRRRRRR
+O, 5_22, 5, 1.0, ORRRRRRRRRRSup
+O, 2_10, 2, 1.0, ORRRRSup
+
+# Relations from SRT:
+R, +_11, e_13, Right, 1.0
+R, +_19, e_21, Right, 1.0
+R, =_3, e_5, Right, 1.0
+R, J_2, =_3, Right, 1.0
+R, \subset_15, e_17, Right, 1.0
+R, \subset_23, e_25, Right, 1.0
+R, \subset_7, e_9, Right, 1.0
+R, e_13, 3_14, Sup, 1.0
+R, e_13, \subset_15, Right, 1.0
+R, e_17, +_19, Right, 1.0
+R, e_17, 4_18, Sup, 1.0
+R, e_21, 5_22, Sup, 1.0
+R, e_21, \subset_23, Right, 1.0
+R, e_25, 6_26, Sup, 1.0
+R, e_5, 1_6, Sup, 1.0
+R, e_5, \subset_7, Right, 1.0
+R, e_9, +_11, Right, 1.0
+R, e_9, 2_10, Sup, 1.0

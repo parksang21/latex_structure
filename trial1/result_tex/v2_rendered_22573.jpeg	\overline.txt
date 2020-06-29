@@ -1,0 +1,3 @@
+\begin{equation}
+	{ S } _ { x } = 1 _ { 1 } \odot 1 _ { 2 } \odot \ldots \odot \frac { \overline { \sigma } _ { x } } { 2 } \odot \ldots \odot 1 _ { N }
+\end{equation}

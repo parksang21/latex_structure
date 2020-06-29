@@ -1,0 +1,3 @@
+\begin{equation}
+	\langle \psi ^ { \prime } , \psi \rangle \leqq \langle \psi , \psi 7 , \langle \psi , \psi \rangle > 8 \because \psi \approx 8
+\end{equation}

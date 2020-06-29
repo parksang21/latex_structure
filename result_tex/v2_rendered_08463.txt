@@ -1,0 +1,3 @@
+\begin{equation}
+	O _ { \pi ^ { * } z } ( C ) \approx K _ { \pi ^ { * } z } \otimes L _ { \pi ^ { * } z }
+\end{equation}

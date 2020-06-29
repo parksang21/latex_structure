@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>ψ</mi><mrow><mi>α</mi><mi>B</mi><mi>M</mi></mrow></msub><mo>=</mo><msub><mi>e</mi><mrow><mi>a</mi><mi>α</mi></mrow></msub><msubsup><mi>ψ</mi><mi>M</mi><mrow><mi>a</mi><mi>b</mi></mrow></msubsup><msub><mi>e</mi><mrow><mi>b</mi><mi>β</mi></mrow></msub></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \psi _ { \alpha B M } = e _ { a \alpha } \psi _ { M } ^ { a b } e _ { b \beta }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

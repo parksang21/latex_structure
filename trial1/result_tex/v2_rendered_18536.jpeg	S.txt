@@ -1,0 +1,3 @@
+\begin{equation}
+	( x ) = 2 \tilde { S } _ { 1 } \sin ( 2 \pi x / a )
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { \mu } = B ^ { \mu } e ^ { \frac { 1 } { 2 } k ( \sigma - v \tau ) } + A ^ { \mu }
+\end{equation}

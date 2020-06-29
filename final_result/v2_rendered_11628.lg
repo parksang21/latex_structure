@@ -1,0 +1,41 @@
+# IUD, v2_rendered_11628
+# Objects(19):
+O, =_12, =, 1.0, ORRRR
+O, 4_22, 4, 1.0, ORRRRRRBelowR
+O, G_10, G, 1.0, ORRR
+O, \delta_25, \delta, 1.0, ORRRRRRR
+O, 4_26, 4, 1.0, ORRRRRRRSup
+O, 3_23, 3, 1.0, ORRRRRRBelowRR
+O, 4_18, 4, 1.0, ORRRRRRAboveRR
+O, =_5, =, 1.0, OR
+O, -_13, -, 1.0, ORRRRR
+O, J_3, J, 1.0, O
+O, 8_4, 8, 1.0, OSub
+O, 8_11, 8, 1.0, ORRRSub
+O, 1_16, 1, 1.0, ORRRRRRAbove
+O, 3_21, 3, 1.0, ORRRRRRBelow
+O, \alpha_7, \alpha, 1.0, ORR
+O, 8_8, 8, 1.0, ORRSub
+O, _14, -, 1.0, ORRRRRR
+O, 4_17, 4, 1.0, ORRRRRRAboveR
+O, 0_19, 0, 1.0, ORRRRRRAboveRRR
+
+# Relations from SRT:
+R, -_13, _14, Right, 1.0
+R, 1_16, 4_17, Right, 1.0
+R, 3_21, 4_22, Right, 1.0
+R, 4_17, 4_18, Right, 1.0
+R, 4_18, 0_19, Right, 1.0
+R, 4_22, 3_23, Right, 1.0
+R, =_12, -_13, Right, 1.0
+R, =_5, \alpha_7, Right, 1.0
+R, G_10, 8_11, Sub, 1.0
+R, G_10, =_12, Right, 1.0
+R, J_3, 8_4, Sub, 1.0
+R, J_3, =_5, Right, 1.0
+R, \alpha_7, 8_8, Sub, 1.0
+R, \alpha_7, G_10, Right, 1.0
+R, \delta_25, 4_26, Sup, 1.0
+R, _14, 1_16, Above, 1.0
+R, _14, 3_21, Below, 1.0
+R, _14, \delta_25, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	( O _ { \mu \tau } , O _ { M T } ) - 3 \delta i \angle O _ { M T } = 3
+\end{equation}

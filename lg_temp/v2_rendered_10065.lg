@@ -1,0 +1,45 @@
+# IUD, v2_rendered_10065
+# Objects(21):
+O, COMMA_7, COMMA, 1.0, 5
+O, (_3, (, 1.0, 1
+O, u_6, u, 1.0, 4
+O, u_9, u, 1.0, 6
+O, )_11, ), 1.0, 8
+O, =_12, =, 1.0, 9
+O, \in_19, \in, 1.0, 16
+O, \prime_24, \prime, 1.0, 20
+O, r_17, r, 1.0, 14
+O, COMMA_14, COMMA, 1.0, 11
+O, \Delta_2, \Delta, 1.0, 0
+O, 0_13, 0, 1.0, 10
+O, f_15, f, 1.0, 12
+O, \psi_4, \psi, 1.0, 2
+O, 2_10, 2, 1.0, 7
+O, W_20, W, 1.0, 17
+O, COMMA_5, COMMA, 1.0, 3
+O, \cup_21, \cup, 1.0, 18
+O, o_16, o, 1.0, 13
+O, W_23, W, 1.0, 19
+O, \psi_18, \psi, 1.0, 15
+
+# Relations from SRT:
+R, (_3, \psi_4, Right, 1.0
+R, )_11, =_12, Right, 1.0
+R, 0_13, COMMA_14, Right, 1.0
+R, =_12, 0_13, Right, 1.0
+R, COMMA_14, f_15, Right, 1.0
+R, COMMA_5, u_6, Right, 1.0
+R, COMMA_7, u_9, Right, 1.0
+R, W_20, \cup_21, Right, 1.0
+R, W_23, \prime_24, Sup, 1.0
+R, \Delta_2, (_3, Right, 1.0
+R, \cup_21, W_23, Right, 1.0
+R, \in_19, W_20, Right, 1.0
+R, \psi_18, \in_19, Right, 1.0
+R, \psi_4, COMMA_5, Right, 1.0
+R, f_15, o_16, Right, 1.0
+R, o_16, r_17, Right, 1.0
+R, r_17, \psi_18, Right, 1.0
+R, u_6, COMMA_7, Right, 1.0
+R, u_9, )_11, Right, 1.0
+R, u_9, 2_10, Sub, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	\leqq \{ t \vee S U _ { n } ( 5 ) \vert a t \leqq t a \because a \vee S U _ { n } ( 5 ) \}
+\end{equation}

@@ -1,0 +1,45 @@
+# IUD, new_render_01758
+# Objects(21):
+O, COMMA_20, COMMA, 1.0, ORRRRRRRRRRRRRRRRRR
+O, COMMA_14, COMMA, 1.0, ORRRRRRRRRRRR
+O, 0_13, 0, 1.0, ORRRRRRRRRRR
+O, COMMA_5, COMMA, 1.0, ORRR
+O, )_19, ), 1.0, ORRRRRRRRRRRRRRRRR
+O, x_6, x, 1.0, ORRRR
+O, \psi_11, \psi, 1.0, ORRRRRRRRR
+O, \theta_8, \theta, 1.0, ORRRRRR
+O, )_9, ), 1.0, ORRRRRRR
+O, \geqq_10, \geqq, 1.0, ORRRRRRRR
+O, (_3, (, 1.0, OR
+O, COMMA_7, COMMA, 1.0, ORRRRR
+O, x_15, x, 1.0, ORRRRRRRRRRRRR
+O, \psi_2, \psi, 1.0, O
+O, \theta_18, \theta, 1.0, ORRRRRRRRRRRRRRRR
+O, (_12, (, 1.0, ORRRRRRRRRR
+O, \beta_4, \beta, 1.0, ORR
+O, COMMA_16, COMMA, 1.0, ORRRRRRRRRRRRRR
+O, /_17, /, 1.0, ORRRRRRRRRRRRRRR
+O, \exists_21, \exists, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, x_22, x, 1.0, ORRRRRRRRRRRRRRRRRRRR
+
+# Relations from SRT:
+R, (_12, 0_13, Right, 1.0
+R, (_3, \beta_4, Right, 1.0
+R, )_19, COMMA_20, Right, 1.0
+R, )_9, \geqq_10, Right, 1.0
+R, /_17, \theta_18, Right, 1.0
+R, 0_13, COMMA_14, Right, 1.0
+R, COMMA_14, x_15, Right, 1.0
+R, COMMA_16, /_17, Right, 1.0
+R, COMMA_20, \exists_21, Right, 1.0
+R, COMMA_5, x_6, Right, 1.0
+R, COMMA_7, \theta_8, Right, 1.0
+R, \beta_4, COMMA_5, Right, 1.0
+R, \exists_21, x_22, Right, 1.0
+R, \geqq_10, \psi_11, Right, 1.0
+R, \psi_11, (_12, Right, 1.0
+R, \psi_2, (_3, Right, 1.0
+R, \theta_18, )_19, Right, 1.0
+R, \theta_8, )_9, Right, 1.0
+R, x_15, COMMA_16, Right, 1.0
+R, x_6, COMMA_7, Right, 1.0

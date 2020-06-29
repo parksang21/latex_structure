@@ -1,0 +1,3 @@
+\begin{equation}
+	4 8 _ { E _ { 8 } } \rightarrow \oplus _ { r } ( \bar { L } _ { n } ^ { r } , L _ { n } ^ { r } )
+\end{equation}

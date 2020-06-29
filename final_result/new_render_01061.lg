@@ -1,0 +1,42 @@
+# IUD, new_render_01061
+# Objects(19):
+O, \beta_9, \beta, 1.0, ORRRRRBelow
+O, 1_15, 1, 1.0, ORRRRRRRRRInside
+O, \phi_2, \phi, 1.0, O
+O, +_12, +, 1.0, ORRRRRRRR
+O, \delta_5, \delta, 1.0, ORRR
+O, _7, -, 1.0, ORRRRR
+O, (_10, (, 1.0, ORRRRRR
+O, 1_11, 1, 1.0, ORRRRRRR
+O, _17, -, 1.0, ORRRRRRRRRInsideRR
+O, \log_6, \log, 1.0, ORRRR
+O, )_22, ), 1.0, ORRRRRRRRRR
+O, 4_21, 4, 1.0, ORRRRRRRRRInsideRRBelow
+O, \leqq_3, \leqq, 1.0, OR
+O, \pm_4, \pm, 1.0, ORR
+O, _13, \sqrt, 1.0, ORRRRRRRRR
+O, -_16, -, 1.0, ORRRRRRRRRInsideR
+O, 2_8, 2, 1.0, ORRRRRAbove
+O, \beta_19, \beta, 1.0, ORRRRRRRRRInsideRRAbove
+O, 2_20, 2, 1.0, ORRRRRRRRRInsideRRAboveSup
+
+# Relations from SRT:
+R, (_10, 1_11, Right, 1.0
+R, +_12, _13, Right, 1.0
+R, -_16, _17, Right, 1.0
+R, 1_11, +_12, Right, 1.0
+R, 1_15, -_16, Right, 1.0
+R, \beta_19, 2_20, Sup, 1.0
+R, \delta_5, \log_6, Right, 1.0
+R, \leqq_3, \pm_4, Right, 1.0
+R, \log_6, _7, Right, 1.0
+R, \phi_2, \leqq_3, Right, 1.0
+R, \pm_4, \delta_5, Right, 1.0
+R, _13, )_22, Right, 1.0
+R, _13, -_16, Inside, 1.0
+R, _13, 1_15, Inside, 1.0
+R, _17, 4_21, Below, 1.0
+R, _17, \beta_19, Above, 1.0
+R, _7, (_10, Right, 1.0
+R, _7, 2_8, Above, 1.0
+R, _7, \beta_9, Below, 1.0

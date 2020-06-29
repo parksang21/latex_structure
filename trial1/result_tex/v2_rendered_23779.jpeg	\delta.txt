@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \rho } \phi = i \rho \sigma \phi
+\end{equation}

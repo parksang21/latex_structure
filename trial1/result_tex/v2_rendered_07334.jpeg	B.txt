@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { a } \leftrightarrow B ^ { a } + d \rho ^ { a }
+\end{equation}

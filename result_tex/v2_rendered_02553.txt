@@ -1,0 +1,3 @@
+\begin{equation}
+	A ^ { t } = - A , D ^ { t } G = - G D , B = C ^ { * } G
+\end{equation}

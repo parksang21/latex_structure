@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mfrac><mi>N</mi><mi>M</mi></mfrac><mo>∨</mo><mi>Z</mi><mo>,</mo><mfrac><mi>μ</mi><mi>P</mi></mfrac><mo>∨</mo><mi>Z</mi><mo>,</mo><mfrac><mi>P</mi><mi>Q</mi></mfrac><mo>∨</mo><mi>Z</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \frac { N } { M } \vee Z , \frac { \mu } { P } \vee Z , \frac { P } { Q } \vee Z
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

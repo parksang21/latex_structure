@@ -1,0 +1,3 @@
+\begin{equation}
+	R = \{ \mu ^ { ( k ) } \in R ^ { r } , k = 1 , \lsqrts , d \}
+\end{equation}

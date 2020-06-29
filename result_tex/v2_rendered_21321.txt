@@ -1,0 +1,3 @@
+\begin{equation}
+	\phi ( x ) = e ^ { i p \csqrt x } \phi ( 0 ) e ^ { - i p \csqrt x }
+\end{equation}

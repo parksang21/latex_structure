@@ -1,0 +1,23 @@
+# IUD, 26_em_88_0
+# Objects(10):
+O, 2_9, 2, 1.0, ORRSup
+O, =_10, =, 1.0, ORRR
+O, -_5, -, 1.0, OR
+O, v_8, v, 1.0, ORRSub
+O, v_7, v, 1.0, ORR
+O, v_12, v, 1.0, ORRRR
+O, v_3, v, 1.0, O
+O, 2_4, 2, 1.0, OSup
+O, v_13, v, 1.0, ORRRRSub
+O, 2_14, 2, 1.0, ORRRRSup
+
+# Relations from SRT:
+R, -_5, v_7, Right, 1.0
+R, =_10, v_12, Right, 1.0
+R, v_12, 2_14, Sup, 1.0
+R, v_12, v_13, Sub, 1.0
+R, v_3, -_5, Right, 1.0
+R, v_3, 2_4, Sup, 1.0
+R, v_7, 2_9, Sup, 1.0
+R, v_7, =_10, Right, 1.0
+R, v_7, v_8, Sub, 1.0

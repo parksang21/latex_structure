@@ -1,0 +1,3 @@
+\begin{equation}
+	( a \oplus \mu ( b \oplus c ) ) = \mu ( \mu ( a \oplus b ) \oplus c )
+\end{equation}

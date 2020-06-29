@@ -1,0 +1,41 @@
+# IUD, v2_rendered_23816
+# Objects(19):
+O, \sim_21, \sim, 1.0, ORRRRRRRRRRR
+O, 2_24, 2, 1.0, ORRRRRRRRRRRRSup
+O, 2_20, 2, 1.0, ORRRRRRRRRRSup
+O, k_9, k, 1.0, ORRR
+O, (_8, (, 1.0, ORR
+O, \vert_19, \vert, 1.0, ORRRRRRRRRR
+O, \vert_2, \vert, 1.0, O
+O, M_6, M, 1.0, ORAboveR
+O, _3, -, 1.0, OR
+O, f_13, f, 1.0, ORRRRRSub
+O, t_12, t, 1.0, ORRRRR
+O, (_14, (, 1.0, ORRRRRR
+O, k_23, k, 1.0, ORRRRRRRRRRRR
+O, )_17, ), 1.0, ORRRRRRRRR
+O, )_16, ), 1.0, ORRRRRRRR
+O, COMMA_10, COMMA, 1.0, ORRRR
+O, M_7, M, 1.0, ORBelow
+O, k_15, k, 1.0, ORRRRRRR
+O, \delta_5, \delta, 1.0, ORAbove
+
+# Relations from SRT:
+R, (_14, k_15, Right, 1.0
+R, (_8, k_9, Right, 1.0
+R, )_16, )_17, Right, 1.0
+R, )_17, \vert_19, Right, 1.0
+R, COMMA_10, t_12, Right, 1.0
+R, \delta_5, M_6, Right, 1.0
+R, \sim_21, k_23, Right, 1.0
+R, \vert_19, 2_20, Sup, 1.0
+R, \vert_19, \sim_21, Right, 1.0
+R, \vert_2, _3, Right, 1.0
+R, _3, (_8, Right, 1.0
+R, _3, M_7, Below, 1.0
+R, _3, \delta_5, Above, 1.0
+R, k_15, )_16, Right, 1.0
+R, k_23, 2_24, Sup, 1.0
+R, k_9, COMMA_10, Right, 1.0
+R, t_12, (_14, Right, 1.0
+R, t_12, f_13, Sub, 1.0

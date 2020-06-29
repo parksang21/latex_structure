@@ -1,0 +1,3 @@
+\begin{equation}
+	m \Omega _ { \lambda n } O _ { n \cup } - j _ { \lambda } = 0
+\end{equation}

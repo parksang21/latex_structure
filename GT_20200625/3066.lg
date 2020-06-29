@@ -1,0 +1,55 @@
+# IUD, 3066
+# Objects(26):
+O, \vert_27, \vert, 1.0, ORRRRRRRRRRRRRRRRRRRRRRR
+O, I_3, I, 1.0, OInside
+O, \langle_22, \langle, 1.0, ORRRRRRRRRRRRRRRRRR
+O, [_13, [, 1.0, ORRRRRRRRR
+O, \rangle_21, \rangle, 1.0, ORRRRRRRRRRRRRRRRR
+O, [_9, [, 1.0, ORRRRR
+O, \mu_20, \mu, 1.0, ORRRRRRRRRRRRRRRR
+O, d_14, d, 1.0, ORRRRRRRRRR
+O, \int_8, \int, 1.0, ORRRR
+O, \mu_26, \mu, 1.0, ORRRRRRRRRRRRRRRRRRRRRR
+O, \mu_15, \mu, 1.0, ORRRRRRRRRRR
+O, \lambda_11, \lambda, 1.0, ORRRRRRR
+O, d_10, d, 1.0, ORRRRRR
+O, COMMA_24, COMMA, 1.0, ORRRRRRRRRRRRRRRRRRRR
+O, =_4, =, 1.0, OR
+O, COMMA_19, COMMA, 1.0, ORRRRRRRRRRRRRRR
+O, b_7, b, 1.0, ORRRInside
+O, \lambda_18, \lambda, 1.0, ORRRRRRRRRRRRRR
+O, \vert_17, \vert, 1.0, ORRRRRRRRRRRRR
+O, N_5, N, 1.0, ORR
+O, -_25, -, 1.0, ORRRRRRRRRRRRRRRRRRRRR
+O, ]_12, ], 1.0, ORRRRRRRR
+O, \lambda_23, \lambda, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, _2, \sqrt, 1.0, O
+O, ]_16, ], 1.0, ORRRRRRRRRRRR
+O, _6, \sqrt, 1.0, ORRR
+
+# Relations from SRT:
+R, -_25, \mu_26, Right, 1.0
+R, =_4, N_5, Right, 1.0
+R, COMMA_19, \mu_20, Right, 1.0
+R, COMMA_24, -_25, Right, 1.0
+R, N_5, _6, Right, 1.0
+R, [_13, d_14, Right, 1.0
+R, [_9, d_10, Right, 1.0
+R, \int_8, [_9, Right, 1.0
+R, \lambda_11, ]_12, Right, 1.0
+R, \lambda_18, COMMA_19, Right, 1.0
+R, \lambda_23, COMMA_24, Right, 1.0
+R, \langle_22, \lambda_23, Right, 1.0
+R, \mu_15, ]_16, Right, 1.0
+R, \mu_20, \rangle_21, Right, 1.0
+R, \mu_26, \vert_27, Right, 1.0
+R, \rangle_21, \langle_22, Right, 1.0
+R, \vert_17, \lambda_18, Right, 1.0
+R, ]_12, [_13, Right, 1.0
+R, ]_16, \vert_17, Right, 1.0
+R, _2, =_4, Right, 1.0
+R, _2, I_3, Inside, 1.0
+R, _6, \int_8, Right, 1.0
+R, _6, b_7, Inside, 1.0
+R, d_10, \lambda_11, Right, 1.0
+R, d_14, \mu_15, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	\theta _ { 3 } = \theta _ { 1 } + \theta _ { 2 }
+\end{equation}

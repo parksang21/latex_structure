@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \mu } ^ { a } \leftrightarrow A _ { \mu } ^ { a } + ( D _ { \mu } \theta ) ^ { a }
+\end{equation}

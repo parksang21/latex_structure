@@ -1,0 +1,3 @@
+\begin{equation}
+	= - \frac { i } { 1 6 \pi } \int d ^ { 2 } \theta \tau W _ { \alpha } ^ { 2 } + h . c .
+\end{equation}

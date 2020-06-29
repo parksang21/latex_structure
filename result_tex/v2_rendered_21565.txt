@@ -1,0 +1,3 @@
+\begin{equation}
+	N _ { f } ( 4 ) = d i m M _ { i n s t } + 3 - 2 \alpha
+\end{equation}

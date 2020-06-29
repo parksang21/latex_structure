@@ -1,0 +1,29 @@
+# IUD, 2052
+# Objects(13):
+O, m_9, m, 1.0, 5
+O, m_16, m, 1.0, 9
+O, \Omega_2, \Omega, 1.0, 0
+O, +_8, +, 1.0, 4
+O, E_5, E, 1.0, 2
+O, 0_17, 0, 1.0, 10
+O, _11, -, 1.0, 12
+O, M_7, M, 1.0, 3
+O, E_12, E, 1.0, 7
+O, _4, -, 1.0, 11
+O, =_10, =, 1.0, 6
+O, 2_14, 2, 1.0, 8
+O, \equiv_3, \equiv, 1.0, 1
+
+# Relations from SRT:
+R, +_8, m_9, Right, 1.0
+R, 2_14, m_16, Right, 1.0
+R, =_10, _11, Right, 1.0
+R, M_7, +_8, Right, 1.0
+R, \Omega_2, \equiv_3, Right, 1.0
+R, \equiv_3, _4, Right, 1.0
+R, _11, 2_14, Below, 1.0
+R, _11, E_12, Above, 1.0
+R, _4, =_10, Right, 1.0
+R, _4, E_5, Above, 1.0
+R, _4, M_7, Below, 1.0
+R, m_16, 0_17, Sub, 1.0

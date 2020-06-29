@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { 8 } = \alpha _ { 8 } G _ { 8 } = - \frac { 1 4 4 0 } { 3 4 3 } \delta ^ { 4 }
+\end{equation}

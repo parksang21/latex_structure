@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta _ { \sqrt { a } t } ^ { \prime } \phi _ { 1 } ( z ) = 0
+\end{equation}

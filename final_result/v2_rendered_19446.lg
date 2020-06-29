@@ -1,0 +1,25 @@
+# IUD, v2_rendered_19446
+# Objects(11):
+O, \alpha_6, \alpha, 1.0, ORSub
+O, \alpha_16, \alpha, 1.0, ORRRRRSub
+O, \subset_2, \subset, 1.0, O
+O, \beta_17, \beta, 1.0, ORRRRRSubR
+O, \sigma_11, \sigma, 1.0, ORRRR
+O, 2_12, 2, 1.0, ORRRRSup
+O, \beta_7, \beta, 1.0, ORSubR
+O, =_9, =, 1.0, ORRR
+O, 1_14, 1, 1.0, ORRRRR
+O, \gt_8, \gt, 1.0, ORR
+O, \sigma_4, \sigma, 1.0, OR
+
+# Relations from SRT:
+R, 1_14, \alpha_16, Sub, 1.0
+R, =_9, \sigma_11, Right, 1.0
+R, \alpha_16, \beta_17, Right, 1.0
+R, \alpha_6, \beta_7, Right, 1.0
+R, \gt_8, =_9, Right, 1.0
+R, \sigma_11, 1_14, Right, 1.0
+R, \sigma_11, 2_12, Sup, 1.0
+R, \sigma_4, \alpha_6, Sub, 1.0
+R, \sigma_4, \gt_8, Right, 1.0
+R, \subset_2, \sigma_4, Right, 1.0

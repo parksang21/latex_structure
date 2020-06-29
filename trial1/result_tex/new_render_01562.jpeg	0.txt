@@ -1,0 +1,3 @@
+\begin{equation}
+	\geqq m _ { n } \geqq L _ { n } , p _ { n } \approx 0
+\end{equation}

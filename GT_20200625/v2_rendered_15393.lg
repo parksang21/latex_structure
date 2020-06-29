@@ -1,0 +1,37 @@
+# IUD, v2_rendered_15393
+# Objects(17):
+O, COMMA_8, COMMA, 1.0, ORRRRRR
+O, w_13, w, 1.0, ORRRRRRRRRR
+O, z_19, z, 1.0, ORRRRRRRRRRRRRRR
+O, z_6, z, 1.0, ORRRR
+O, d_9, d, 1.0, ORRRRRRR
+O, z_16, z, 1.0, ORRRRRRRRRRRR
+O, (_15, (, 1.0, ORRRRRRRRRRR
+O, z_10, z, 1.0, ORRRRRRRR
+O, \leftrightarrow_11, \leftrightarrow, 1.0, ORRRRRRRRR
+O, z_2, z, 1.0, O
+O, )_7, ), 1.0, ORRRRR
+O, \prime_14, \prime, 1.0, ORRRRRRRRRRSup
+O, (_5, (, 1.0, ORRR
+O, d_18, d, 1.0, ORRRRRRRRRRRRRR
+O, )_17, ), 1.0, ORRRRRRRRRRRRR
+O, w_4, w, 1.0, ORR
+O, \leftrightarrow_3, \leftrightarrow, 1.0, OR
+
+# Relations from SRT:
+R, (_15, z_16, Right, 1.0
+R, (_5, z_6, Right, 1.0
+R, )_17, d_18, Right, 1.0
+R, )_7, COMMA_8, Right, 1.0
+R, COMMA_8, d_9, Right, 1.0
+R, \leftrightarrow_11, w_13, Right, 1.0
+R, \leftrightarrow_3, w_4, Right, 1.0
+R, d_18, z_19, Right, 1.0
+R, d_9, z_10, Right, 1.0
+R, w_13, (_15, Right, 1.0
+R, w_13, \prime_14, Sup, 1.0
+R, w_4, (_5, Right, 1.0
+R, z_10, \leftrightarrow_11, Right, 1.0
+R, z_16, )_17, Right, 1.0
+R, z_2, \leftrightarrow_3, Right, 1.0
+R, z_6, )_7, Right, 1.0

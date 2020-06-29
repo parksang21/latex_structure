@@ -1,0 +1,3 @@
+\begin{equation}
+	a _ { n } \leftrightarrow c _ { n } = \frac { a _ { n } } { a _ { n - 1 } }
+\end{equation}

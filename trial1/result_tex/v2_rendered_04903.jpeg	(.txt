@@ -1,0 +1,3 @@
+\begin{equation}
+	C ^ { 1 } P _ { 1 } + C ^ { 2 } P _ { 2 } ) \gamma _ { k } = E _ { k } \gamma _ { k }
+\end{equation}

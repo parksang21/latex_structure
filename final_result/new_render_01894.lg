@@ -1,0 +1,51 @@
+# IUD, new_render_01894
+# Objects(24):
+O, i_6, i, 1.0, ORSup
+O, j_28, j, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, V_16, V, 1.0, ORRRRRRRRRSub
+O, Q_15, Q, 1.0, ORRRRRRRRR
+O, -_18, -, 1.0, ORRRRRRRRRRR
+O, j_20, j, 1.0, ORRRRRRRRRRRRR
+O, COMMA_21, COMMA, 1.0, ORRRRRRRRRRRRRR
+O, \Omega_22, \Omega, 1.0, ORRRRRRRRRRRRRRR
+O, 3_19, 3, 1.0, ORRRRRRRRRRRR
+O, COMMA_12, COMMA, 1.0, ORRRRRRR
+O, A_5, A, 1.0, ORSub
+O, Q_24, Q, 1.0, ORRRRRRRRRRRRRRRR
+O, Q_4, Q, 1.0, OR
+O, \geqq_26, \geqq, 1.0, ORRRRRRRRRRRRRRRRR
+O, \Omega_13, \Omega, 1.0, ORRRRRRRR
+O, \forall_10, \forall, 1.0, ORRRRR
+O, j_9, j, 1.0, ORRRR
+O, \geqq_7, \geqq, 1.0, ORR
+O, -_27, -, 1.0, ORRRRRRRRRRRRRRRRRR
+O, S_25, S, 1.0, ORRRRRRRRRRRRRRRRSub
+O, \Omega_2, \Omega, 1.0, O
+O, i_11, i, 1.0, ORRRRRR
+O, -_8, -, 1.0, ORRR
+O, \geqq_17, \geqq, 1.0, ORRRRRRRRRR
+
+# Relations from SRT:
+R, -_18, 3_19, Right, 1.0
+R, -_27, j_28, Right, 1.0
+R, -_8, j_9, Right, 1.0
+R, 3_19, j_20, Right, 1.0
+R, COMMA_12, \Omega_13, Right, 1.0
+R, COMMA_21, \Omega_22, Right, 1.0
+R, Q_15, V_16, Sub, 1.0
+R, Q_15, \geqq_17, Right, 1.0
+R, Q_24, S_25, Sub, 1.0
+R, Q_24, \geqq_26, Right, 1.0
+R, Q_4, A_5, Sub, 1.0
+R, Q_4, \geqq_7, Right, 1.0
+R, Q_4, i_6, Sup, 1.0
+R, \Omega_13, Q_15, Right, 1.0
+R, \Omega_22, Q_24, Right, 1.0
+R, \Omega_2, Q_4, Right, 1.0
+R, \forall_10, i_11, Right, 1.0
+R, \geqq_17, -_18, Right, 1.0
+R, \geqq_26, -_27, Right, 1.0
+R, \geqq_7, -_8, Right, 1.0
+R, i_11, COMMA_12, Right, 1.0
+R, j_20, COMMA_21, Right, 1.0
+R, j_9, \forall_10, Right, 1.0

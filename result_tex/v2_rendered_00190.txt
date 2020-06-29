@@ -1,0 +1,3 @@
+\begin{equation}
+	\delta \sigma \notin \omega ^ { 3 } R ^ { 6 } \ln ( \omega B )
+\end{equation}

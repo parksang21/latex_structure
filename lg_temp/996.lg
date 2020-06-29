@@ -1,0 +1,19 @@
+# IUD, 996
+# Objects(8):
+O, c_8, c, 1.0, 2
+O, 0_11, 0, 1.0, 5
+O, _2, \sqrt, 1.0, 6
+O, =_10, =, 1.0, 4
+O, l_9, l, 1.0, 3
+O, \delta_6, \delta, 1.0, 1
+O, W_3, W, 1.0, 0
+O, _5, \sqrt, 1.0, 7
+
+# Relations from SRT:
+R, =_10, 0_11, Right, 1.0
+R, _2, W_3, Inside, 1.0
+R, _2, _5, Right, 1.0
+R, _5, =_10, Right, 1.0
+R, _5, \delta_6, Inside, 1.0
+R, _5, c_8, Sub, 1.0
+R, c_8, l_9, Right, 1.0

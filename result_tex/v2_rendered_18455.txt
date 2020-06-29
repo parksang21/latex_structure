@@ -1,0 +1,3 @@
+\begin{equation}
+	C S _ { m i \times e d } = T ^ { a } \wedge F \cap V _ { a }
+\end{equation}

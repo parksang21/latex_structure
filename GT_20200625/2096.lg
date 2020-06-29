@@ -1,0 +1,31 @@
+# IUD, 2096
+# Objects(14):
+O, e_14, e, 1.0, ORRRRRRR
+O, \wedge_16, \wedge, 1.0, ORRRRRRRR
+O, +_9, +, 1.0, ORRRRR
+O, i_19, i, 1.0, ORRRRRRRRRSub
+O, =_3, =, 1.0, OR
+O, l_7, l, 1.0, ORRRR
+O, o_5, o, 1.0, ORRR
+O, \theta_18, \theta, 1.0, ORRRRRRRRR
+O, i_12, i, 1.0, ORRRRRRBelow
+O, B_8, B, 1.0, ORRRRSub
+O, \sum_11, \sum, 1.0, ORRRRRR
+O, \beta_2, \beta, 1.0, O
+O, i_15, i, 1.0, ORRRRRRRSub
+O, V_4, V, 1.0, ORR
+
+# Relations from SRT:
+R, +_9, \sum_11, Right, 1.0
+R, =_3, V_4, Right, 1.0
+R, V_4, o_5, Right, 1.0
+R, \beta_2, =_3, Right, 1.0
+R, \sum_11, e_14, Right, 1.0
+R, \sum_11, i_12, Below, 1.0
+R, \theta_18, i_19, Sub, 1.0
+R, \wedge_16, \theta_18, Right, 1.0
+R, e_14, \wedge_16, Right, 1.0
+R, e_14, i_15, Sub, 1.0
+R, l_7, +_9, Right, 1.0
+R, l_7, B_8, Sub, 1.0
+R, o_5, l_7, Right, 1.0

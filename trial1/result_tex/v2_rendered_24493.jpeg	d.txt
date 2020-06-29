@@ -1,0 +1,3 @@
+\begin{equation}
+	\theta + \theta \notin \theta = 0
+\end{equation}

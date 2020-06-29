@@ -1,0 +1,3 @@
+\begin{equation}
+	( R ) > \tilde { f } ( R ) a n d , h e n c e , \lambda < \tilde { \lambda }
+\end{equation}

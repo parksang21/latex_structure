@@ -1,0 +1,3 @@
+\begin{equation}
+	\varphi ^ { \prime } = e ^ { \phi } D \varphi
+\end{equation}

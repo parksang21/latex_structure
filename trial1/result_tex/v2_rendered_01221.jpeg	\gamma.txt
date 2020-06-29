@@ -1,0 +1,3 @@
+\begin{equation}
+	\vert _ { \Delta D } ( \theta ) = e ^ { i N \theta }
+\end{equation}

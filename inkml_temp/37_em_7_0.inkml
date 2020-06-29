@@ -1,0 +1,26 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">37_em_7_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mo xml:id="\cos_2">cos</mo><mn xml:id="6_3">6</mn><mi xml:id="\theta_4">θ</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\cos</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\cos_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">6</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="6_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\theta</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\theta_4"/>
+	</traceGroup>
+</traceGroup>
+</ink>

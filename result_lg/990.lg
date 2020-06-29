@@ -1,0 +1,49 @@
+# IUD, 990
+# Objects(23):
+O, (_4, (, 1.0, ORR
+O, \gt_29, \gt, 1.0, ORRRRRRRRRRRRRRRR
+O, (_8, (, 1.0, ORRRRRR
+O, y_24, y, 1.0, ORRRRRRRRRRRRRRSub
+O, \langle_15, \langle, 1.0, ORRRRRRRRRRR
+O, )_10, ), 1.0, ORRRRRRRR
+O, x_18, x, 1.0, ORRRRRRRRRRRRSub
+O, \sigma_17, \sigma, 1.0, ORRRRRRRRRRRR
+O, \langle_2, \langle, 1.0, O
+O, )_6, ), 1.0, ORRRR
+O, y_27, y, 1.0, ORRRRRRRRRRRRRRRSub
+O, y_9, y, 1.0, ORRRRRRR
+O, s_20, s, 1.0, ORRRRRRRRRRRRR
+O, P_7, P, 1.0, ORRRRR
+O, \rangle_12, \rangle, 1.0, ORRRRRRRRR
+O, =_14, =, 1.0, ORRRRRRRRRR
+O, P_3, P, 1.0, OR
+O, \lambda_30, \lambda, 1.0, ORRRRRRRRRRRRRRRRBelow
+O, x_5, x, 1.0, ORRR
+O, x_21, x, 1.0, ORRRRRRRRRRRRRSub
+O, s_26, s, 1.0, ORRRRRRRRRRRRRRR
+O, \sigma_23, \sigma, 1.0, ORRRRRRRRRRRRRR
+O, \lambda_13, \lambda, 1.0, ORRRRRRRRRSub
+
+# Relations from SRT:
+R, (_4, x_5, Right, 1.0
+R, (_8, y_9, Right, 1.0
+R, )_10, \rangle_12, Right, 1.0
+R, )_6, P_7, Right, 1.0
+R, =_14, \langle_15, Right, 1.0
+R, P_3, (_4, Right, 1.0
+R, P_7, (_8, Right, 1.0
+R, \gt_29, \lambda_30, Below, 1.0
+R, \langle_15, \sigma_17, Right, 1.0
+R, \langle_2, P_3, Right, 1.0
+R, \rangle_12, =_14, Right, 1.0
+R, \rangle_12, \lambda_13, Sub, 1.0
+R, \sigma_17, s_20, Right, 1.0
+R, \sigma_17, x_18, Sub, 1.0
+R, \sigma_23, s_26, Right, 1.0
+R, \sigma_23, y_24, Sub, 1.0
+R, s_20, \sigma_23, Right, 1.0
+R, s_20, x_21, Sub, 1.0
+R, s_26, \gt_29, Right, 1.0
+R, s_26, y_27, Sub, 1.0
+R, x_5, )_6, Right, 1.0
+R, y_9, )_10, Right, 1.0

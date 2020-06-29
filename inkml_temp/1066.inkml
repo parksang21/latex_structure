@@ -1,0 +1,56 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">1066</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mi xml:id="d_2">d</mi><msup><mi xml:id="P_4">P</mi><mi xml:id="\mu_5">μ</mi></msup><mo xml:id="=_6">=</mo><msubsup><mi xml:id="P_8">P</mi><mi xml:id="\sigma_9">σ</mi><mi xml:id="\mu_10">μ</mi></msubsup><mi xml:id="d_11">d</mi><mi xml:id="\tau_12">τ</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">d</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="d_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">P</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="P_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\mu_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="=_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">P</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="P_8"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\sigma</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\sigma_9"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="\mu_10"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">d</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="d_11"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">\tau</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="\tau_12"/>
+	</traceGroup>
+</traceGroup>
+</ink>

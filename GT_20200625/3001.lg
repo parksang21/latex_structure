@@ -1,0 +1,48 @@
+# IUD, 3001
+# Objects(22):
+O, \mu_21, \mu, 1.0, ORRRRRRRRRRInsideRRRRSub
+O, d_25, d, 1.0, ORRRRRRRRRRR
+O, \gamma_22, \gamma, 1.0, ORRRRRRRRRRInsideRRRRSubR
+O, =_3, =, 1.0, OR
+O, L_5, L, 1.0, ORRR
+O, x_27, x, 1.0, ORRRRRRRRRRRR
+O, _12, \sqrt, 1.0, ORRRRRRRRRR
+O, (_17, (, 1.0, ORRRRRRRRRRInsideRRR
+O, g_19, g, 1.0, ORRRRRRRRRRInsideRRRR
+O, \int_4, \int, 1.0, ORR
+O, \phi_7, \phi, 1.0, ORRRRR
+O, d_14, d, 1.0, ORRRRRRRRRRInside
+O, \phi_10, \phi, 1.0, ORRRRRRRR
+O, )_23, ), 1.0, ORRRRRRRRRRInsideRRRRR
+O, t_16, t, 1.0, ORRRRRRRRRRInsideRR
+O, D_9, D, 1.0, ORRRRRRR
+O, e_15, e, 1.0, ORRRRRRRRRRInsideR
+O, COMMA_8, COMMA, 1.0, ORRRRRR
+O, I_2, I, 1.0, O
+O, (_6, (, 1.0, ORRRR
+O, )_11, ), 1.0, ORRRRRRRRR
+O, 4_26, 4, 1.0, ORRRRRRRRRRRSup
+
+# Relations from SRT:
+R, (_17, g_19, Right, 1.0
+R, (_6, \phi_7, Right, 1.0
+R, )_11, _12, Right, 1.0
+R, =_3, \int_4, Right, 1.0
+R, COMMA_8, D_9, Right, 1.0
+R, D_9, \phi_10, Right, 1.0
+R, I_2, =_3, Right, 1.0
+R, L_5, (_6, Right, 1.0
+R, \int_4, L_5, Right, 1.0
+R, \mu_21, \gamma_22, Right, 1.0
+R, \phi_10, )_11, Right, 1.0
+R, \phi_7, COMMA_8, Right, 1.0
+R, _12, d_14, Inside, 1.0
+R, _12, d_25, Right, 1.0
+R, _12, e_15, Inside, 1.0
+R, d_14, e_15, Right, 1.0
+R, d_25, 4_26, Sup, 1.0
+R, d_25, x_27, Right, 1.0
+R, e_15, t_16, Right, 1.0
+R, g_19, )_23, Right, 1.0
+R, g_19, \mu_21, Sub, 1.0
+R, t_16, (_17, Right, 1.0

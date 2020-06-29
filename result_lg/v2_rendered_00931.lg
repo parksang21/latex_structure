@@ -1,0 +1,47 @@
+# IUD, v2_rendered_00931
+# Objects(21):
+O, \Delta_27, \Delta, 1.0, ORRRRRRRRInsideRR
+O, c_19, c, 1.0, ORRRRRRRInside
+O, \mu_10, \mu, 1.0, ORRRInsideRSub
+O, _15, \sqrt, 1.0, ORRRRR
+O, \rightarrow_17, \rightarrow, 1.0, ORRRRRR
+O, B_4, B, 1.0, ORR
+O, \rightarrow_3, \rightarrow, 1.0, OR
+O, \mu_13, \mu, 1.0, ORRRInsideRRSub
+O, _18, \sqrt, 1.0, ORRRRRRR
+O, -_22, -, 1.0, ORRRRRRRRInside
+O, COMMA_14, COMMA, 1.0, ORRRR
+O, \Delta_9, \Delta, 1.0, ORRRInsideR
+O, _20, \sqrt, 1.0, ORRRRRRRR
+O, \mu_28, \mu, 1.0, ORRRRRRRRInsideRRSub
+O, -_7, -, 1.0, ORRRInside
+O, c_16, c, 1.0, ORRRRRInside
+O, _5, \sqrt, 1.0, ORRR
+O, \Delta_24, \Delta, 1.0, ORRRRRRRRInsideR
+O, \Delta_12, \Delta, 1.0, ORRRInsideRR
+O, \mu_25, \mu, 1.0, ORRRRRRRRInsideRSub
+O, B_2, B, 1.0, O
+
+# Relations from SRT:
+R, -_22, \Delta_24, Right, 1.0
+R, -_7, \Delta_9, Right, 1.0
+R, B_2, \rightarrow_3, Right, 1.0
+R, B_4, _5, Right, 1.0
+R, COMMA_14, _15, Right, 1.0
+R, \Delta_12, \mu_13, Sub, 1.0
+R, \Delta_24, \Delta_27, Right, 1.0
+R, \Delta_24, \mu_25, Sub, 1.0
+R, \Delta_27, \mu_28, Sub, 1.0
+R, \Delta_9, \Delta_12, Right, 1.0
+R, \Delta_9, \mu_10, Sub, 1.0
+R, \rightarrow_17, _18, Right, 1.0
+R, \rightarrow_3, B_4, Right, 1.0
+R, _15, \rightarrow_17, Right, 1.0
+R, _15, c_16, Inside, 1.0
+R, _18, _20, Right, 1.0
+R, _18, c_19, Inside, 1.0
+R, _20, -_22, Inside, 1.0
+R, _20, \Delta_24, Inside, 1.0
+R, _5, -_7, Inside, 1.0
+R, _5, COMMA_14, Right, 1.0
+R, _5, \Delta_9, Inside, 1.0

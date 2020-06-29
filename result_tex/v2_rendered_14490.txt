@@ -1,0 +1,3 @@
+\begin{equation}
+	\langle Y _ { z z } \rangle = - 3 \times \frac { \pi ^ { 2 } } { 1 4 4 0 a ^ { 4 } }
+\end{equation}

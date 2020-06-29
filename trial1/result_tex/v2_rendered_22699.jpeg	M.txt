@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { i } D _ { 0 } ^ { 2 } \delta _ { i k } M _ { k } \neq M _ { i } K _ { i k } M _ { k }
+\end{equation}

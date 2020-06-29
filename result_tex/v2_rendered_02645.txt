@@ -1,0 +1,3 @@
+\begin{equation}
+	S U ( n ) \approx S ^ { 2 m - 1 } \osqrt S U ( n - 1 )
+\end{equation}

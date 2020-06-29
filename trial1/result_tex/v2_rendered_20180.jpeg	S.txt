@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { \mu } \rightarrow S ^ { \mu } A ^ { \mu } \rightarrow A ^ { \mu }
+\end{equation}

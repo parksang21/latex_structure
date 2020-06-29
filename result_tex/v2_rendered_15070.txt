@@ -1,0 +1,3 @@
+\begin{equation}
+	D ( t ) = \theta \Delta _ { z } + \Delta _ { \theta }
+\end{equation}

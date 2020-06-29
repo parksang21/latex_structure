@@ -1,0 +1,3 @@
+\begin{equation}
+	\{ \sqrt { D } a , \sqrt { D } _ { b } \} = 2 i m ^ { 2 } \sqrt { C } _ { a b }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\int = \int d \tau ( p _ { m } \Omega ^ { r } - \frac { e p ^ { 2 } } { 2 } )
+\end{equation}

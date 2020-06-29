@@ -1,0 +1,66 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_06101</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msub><mi xml:id="B_3">B</mi><mrow><mi xml:id="\mu_5">μ</mi><mi xml:id="\varepsilon_6">ε</mi></mrow></msub><mo xml:id="\Leftrifhtarrow_7">⇔</mo><msub><mi xml:id="B_9">B</mi><mrow><mi xml:id="\mu_11">μ</mi><mi xml:id="\varepsilon_12">ε</mi></mrow></msub><mo xml:id="\oplus_13">⊕</mo><msub><mi xml:id="B_15">B</mi><mrow><mi xml:id="\mu_17">μ</mi><mo form="postfix" stretchy="false" xml:id="\vert_18">|</mo></mrow></msub></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">B</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="B_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\mu_5"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\varepsilon</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\varepsilon_6"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\Leftrifhtarrow</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\Leftrifhtarrow_7"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">B</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="B_9"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\mu_11"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">\varepsilon</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="\varepsilon_12"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\oplus</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\oplus_13"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">B</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="B_15"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="\mu_17"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">\vert</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="\vert_18"/>
+	</traceGroup>
+</traceGroup>
+</ink>

@@ -1,0 +1,33 @@
+# IUD, v2_rendered_16404
+# Objects(15):
+O, \Delta_15, \Delta, 1.0, ORRRRRR
+O, \sigma_17, \sigma, 1.0, ORRRRRRR
+O, \sigma_3, \sigma, 1.0, O
+O, (_7, (, 1.0, OR
+O, 0_20, 0, 1.0, ORRRRRRRRRR
+O, (_13, (, 1.0, ORRRRR
+O, \mu_5, \mu, 1.0, OSub
+O, \Delta_9, \Delta, 1.0, ORR
+O, )_12, ), 1.0, ORRRR
+O, \sigma_11, \sigma, 1.0, ORRR
+O, \rho_16, \rho, 1.0, ORRRRRRSup
+O, \rho_6, \rho, 1.0, OSubR
+O, \mu_10, \mu, 1.0, ORRSup
+O, )_18, ), 1.0, ORRRRRRRR
+O, \geq_19, \geq, 1.0, ORRRRRRRRR
+
+# Relations from SRT:
+R, (_13, \Delta_15, Right, 1.0
+R, (_7, \Delta_9, Right, 1.0
+R, )_12, (_13, Right, 1.0
+R, )_18, \geq_19, Right, 1.0
+R, \Delta_15, \rho_16, Sup, 1.0
+R, \Delta_15, \sigma_17, Right, 1.0
+R, \Delta_9, \mu_10, Sup, 1.0
+R, \Delta_9, \sigma_11, Right, 1.0
+R, \geq_19, 0_20, Right, 1.0
+R, \mu_5, \rho_6, Right, 1.0
+R, \sigma_11, )_12, Right, 1.0
+R, \sigma_17, )_18, Right, 1.0
+R, \sigma_3, (_7, Right, 1.0
+R, \sigma_3, \mu_5, Sub, 1.0

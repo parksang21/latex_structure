@@ -1,0 +1,3 @@
+\begin{equation}
+	k _ { g }
+\end{equation}

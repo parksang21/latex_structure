@@ -1,0 +1,3 @@
+\begin{equation}
+	\angle = \{ e ^ { i \frac { 2 k \pi } { L } x } \vert k = 0 , \pm 1 , \pm 2 , \csqrts \}
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { i j } \neq \Delta _ { i } a _ { j } ^ { s } - \Delta _ { j } a _ { i } ^ { s }
+\end{equation}

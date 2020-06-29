@@ -1,0 +1,3 @@
+\begin{equation}
+	G _ { \vert n 1 } ^ { \alpha } = - G _ { - n } ^ { \alpha }
+\end{equation}

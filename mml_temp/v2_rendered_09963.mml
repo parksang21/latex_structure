@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="false" form="prefix">[</mo><msub><mi>M</mi><mrow><mi>a</mi><mi>b</mi></mrow></msub><mo>,</mo><msub><mi>Q</mi><mi>α</mi></msub><mo stretchy="false" form="postfix">]</mo><mo>=</mo><mo>−</mo><mfrac><mi>i</mi><mn>2</mn></mfrac><mo stretchy="false" form="prefix">(</mo><msub><mi>ϕ</mi><mrow><mi>a</mi><mi>b</mi></mrow></msub><mi>Q</mi><msub><mo stretchy="false" form="postfix">)</mo><mi>α</mi></msub></mrow><annotation encoding="application/x-tex">\begin{equation}
+    [ M _ { a b } , Q _ { \alpha } ] = - \frac { i } { 2 } ( \phi _ { a b } Q ) _ { \alpha }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

@@ -1,0 +1,56 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">519_em_456_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mo xml:id="\sin_2">sin</mo><mn xml:id="2_3">2</mn><mi xml:id="a_4">a</mi><mo xml:id="=_5">=</mo><mn xml:id="2_6">2</mn><mo xml:id="\sin_7">sin</mo><mi xml:id="a_8">a</mi><mo xml:id="\cos_9">cos</mo><mi xml:id="a_10">a</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\sin</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\sin_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">2</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="2_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">a</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="a_4"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="=_5"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">2</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="2_6"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\sin</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\sin_7"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">a</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="a_8"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\cos</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\cos_9"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">a</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="a_10"/>
+	</traceGroup>
+</traceGroup>
+</ink>

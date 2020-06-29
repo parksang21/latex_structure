@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { P } \rho _ { P } - \lim _ { \alpha } \rho _ { \alpha } ^ { \theta }
+\end{equation}

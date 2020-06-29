@@ -1,0 +1,30 @@
+# IUD, 3041
+# Objects(13):
+O, _7, \sqrt, 1.0, 12
+O, g_13, g, 1.0, 5
+O, c_4, c, 1.0, 1
+O, 0_11, 0, 1.0, 4
+O, \alpha_19, \alpha, 1.0, 9
+O, \prime_20, \prime, 1.0, 10
+O, \pi_17, \pi, 1.0, 8
+O, g_10, g, 1.0, 3
+O, E_3, E, 1.0, 0
+O, _6, -, 1.0, 11
+O, 1_14, 1, 1.0, 6
+O, 2_16, 2, 1.0, 7
+O, =_5, =, 1.0, 2
+
+# Relations from SRT:
+R, 2_16, \pi_17, Right, 1.0
+R, =_5, _6, Right, 1.0
+R, E_3, =_5, Right, 1.0
+R, E_3, c_4, Sub, 1.0
+R, \alpha_19, \prime_20, Sup, 1.0
+R, \pi_17, \alpha_19, Right, 1.0
+R, _6, 2_16, Below, 1.0
+R, _6, _7, Above, 1.0
+R, _7, g_10, Inside, 1.0
+R, _7, g_13, Inside, 1.0
+R, g_10, 0_11, Sub, 1.0
+R, g_10, g_13, Right, 1.0
+R, g_13, 1_14, Sub, 1.0

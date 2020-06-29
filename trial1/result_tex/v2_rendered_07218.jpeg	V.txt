@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { } ^ { i } = d _ { i \div 1 } ^ { \prime } t ^ { i } + t ^ { i + 1 } d _ { i }
+\end{equation}

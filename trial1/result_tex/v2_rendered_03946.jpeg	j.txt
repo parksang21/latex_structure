@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \mu } [ A ] = - \frac { 1 } { e } \frac { \delta } { \delta A _ { \mu } ( x ) } \log Z [ A ]
+\end{equation}

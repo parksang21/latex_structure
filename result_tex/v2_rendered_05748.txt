@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { 1 } { \rho } \approx \log ( \frac { 1 } { H _ { 5 } \delta } )
+\end{equation}

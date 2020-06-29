@@ -1,0 +1,111 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_16444</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mi xml:id="I_2">I</mi><mo form="prefix" stretchy="false" xml:id="(_3">(</mo><mi xml:id="n_4">n</mi><mo form="postfix" stretchy="false" xml:id=")_5">)</mo><mo xml:id="=_6">=</mo><msub><mo xml:id="\int_8">∫</mo><mi xml:id="C_9">C</mi></msub><msup><mi xml:id="d_11">d</mi><mi xml:id="n_12">n</mi></msup><mi xml:id="\psi_13">ψ</mi><msubsup><mi xml:id="D_15">D</mi><mi xml:id="c_16">c</mi><mrow><mo form="prefix" stretchy="false" xml:id="(_18">(</mo><mi xml:id="n_19">n</mi><mo form="postfix" stretchy="false" xml:id=")_20">)</mo></mrow></msubsup><mo form="prefix" stretchy="false" xml:id="(_21">(</mo><mi xml:id="\psi_22">ψ</mi><mo xml:id=",_23">,</mo><mi xml:id="\psi_24">ψ</mi><mo form="postfix" stretchy="false" xml:id=")_25">)</mo></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">I</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="I_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="(_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">n</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="n_4"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href=")_5"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="=_6"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\int</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\int_8"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">C</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="C_9"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">d</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="d_11"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">n</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="n_12"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">\psi</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="\psi_13"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">D</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="D_15"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">c</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="c_16"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="(_18"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">n</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="n_19"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href=")_20"/>
+	</traceGroup>
+ <traceGroup xml:id="16">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="15"/>
+    <annotationXML href="(_21"/>
+	</traceGroup>
+ <traceGroup xml:id="17">
+    <annotation type="truth">\psi</annotation>
+	<traceView traceDataRef="16"/>
+    <annotationXML href="\psi_22"/>
+	</traceGroup>
+ <traceGroup xml:id="18">
+    <annotation type="truth">,</annotation>
+	<traceView traceDataRef="17"/>
+    <annotationXML href=",_23"/>
+	</traceGroup>
+ <traceGroup xml:id="19">
+    <annotation type="truth">\psi</annotation>
+	<traceView traceDataRef="18"/>
+    <annotationXML href="\psi_24"/>
+	</traceGroup>
+ <traceGroup xml:id="20">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="19"/>
+    <annotationXML href=")_25"/>
+	</traceGroup>
+</traceGroup>
+</ink>

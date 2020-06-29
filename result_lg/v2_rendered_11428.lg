@@ -1,0 +1,35 @@
+# IUD, v2_rendered_11428
+# Objects(16):
+O, L_2, L, 1.0, O
+O, A_15, A, 1.0, ORRRRRRRRR
+O, A_4, A, 1.0, ORR
+O, COMMA_5, COMMA, 1.0, ORRR
+O, B_19, B, 1.0, ORRRRRRRRRRR
+O, *_14, *, 1.0, ORRRRRRRRSup
+O, (_3, (, 1.0, OR
+O, )_7, ), 1.0, ORRRRR
+O, \Leftrifhtarrow_9, \Leftrifhtarrow, 1.0, ORRRRRR
+O, )_20, ), 1.0, ORRRRRRRRRRRR
+O, \beta_6, \beta, 1.0, ORRRR
+O, (_13, (, 1.0, ORRRRRRRR
+O, COMMA_17, COMMA, 1.0, ORRRRRRRRRR
+O, L_11, L, 1.0, ORRRRRRR
+O, *_10, *, 1.0, ORRRRRRAbove
+O, *_18, *, 1.0, ORRRRRRRRRRSup
+
+# Relations from SRT:
+R, (_13, *_14, Sup, 1.0
+R, (_13, A_15, Right, 1.0
+R, (_3, A_4, Right, 1.0
+R, )_7, \Leftrifhtarrow_9, Right, 1.0
+R, A_15, COMMA_17, Right, 1.0
+R, A_4, COMMA_5, Right, 1.0
+R, B_19, )_20, Right, 1.0
+R, COMMA_17, *_18, Sup, 1.0
+R, COMMA_17, B_19, Right, 1.0
+R, COMMA_5, \beta_6, Right, 1.0
+R, L_11, (_13, Right, 1.0
+R, L_2, (_3, Right, 1.0
+R, \Leftrifhtarrow_9, *_10, Above, 1.0
+R, \Leftrifhtarrow_9, L_11, Right, 1.0
+R, \beta_6, )_7, Right, 1.0

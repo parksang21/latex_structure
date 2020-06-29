@@ -1,0 +1,3 @@
+\begin{equation}
+	j _ { [ m ] } ^ { \delta } = \frac { \sqrt { \gamma } } { c ^ { 2 } } u _ { \mu } T ^ { \mu \delta }
+\end{equation}

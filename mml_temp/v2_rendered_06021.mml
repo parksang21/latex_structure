@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>g</mi><mo>=</mo><munder><mo>∏</mo><mi>l</mi></munder><msub><mi>G</mi><mi>l</mi></msub><mo stretchy="false" form="prefix">(</mo><msub><mi>m</mi><mn>0</mn></msub><mo>,</mo><mi>μ</mi><mo>,</mo><mi>ε</mi><mo>,</mo><mi>Ω</mi><mo stretchy="false" form="postfix">)</mo><msubsup><mi>g</mi><mn>0</mn><mi>l</mi></msubsup></mrow><annotation encoding="application/x-tex">\begin{equation}
+    g = \prod _ { l } G _ { l } ( m _ { 0 } , \mu , \varepsilon , \Omega ) g _ { 0 } ^ { l }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

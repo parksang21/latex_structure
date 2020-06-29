@@ -1,0 +1,3 @@
+\begin{equation}
+	A _ { k } \tau ( e ) \neq \tau ( e * k ) \approx \tau ( e ) . \forall k \wedge H , e \wedge s
+\end{equation}

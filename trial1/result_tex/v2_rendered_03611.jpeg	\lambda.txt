@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { A } ( x + 2 \pi R ) = W \lambda ^ { A } ( x )
+\end{equation}

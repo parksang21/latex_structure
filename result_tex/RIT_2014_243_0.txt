@@ -1,0 +1,3 @@
+\begin{equation}
+	\sum _ { n = 5 } ^ { 1 0 } ( 2 n + 1 )
+\end{equation}

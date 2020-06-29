@@ -1,0 +1,35 @@
+# IUD, v2_rendered_20804
+# Objects(16):
+O, \rightarrow_6, \rightarrow, 1.0, OBelowR
+O, )_19, ), 1.0, ORRRRRRR
+O, \vert_14, \vert, 1.0, ORRSubRR
+O, COMMA_17, COMMA, 1.0, ORRRRR
+O, \lim_3, \lim, 1.0, O
+O, =_20, =, 1.0, ORRRRRRRR
+O, 1_21, 1, 1.0, ORRRRRRRRR
+O, (_15, (, 1.0, ORRR
+O, u_16, u, 1.0, ORRRR
+O, \vert_12, \vert, 1.0, ORRSub
+O, 0_7, 0, 1.0, OBelowRR
+O, x_10, x, 1.0, ORR
+O, u_5, u, 1.0, OBelow
+O, w_18, w, 1.0, ORRRRRR
+O, u_8, u, 1.0, OR
+O, \rho_13, \rho, 1.0, ORRSubR
+
+# Relations from SRT:
+R, (_15, u_16, Right, 1.0
+R, )_19, =_20, Right, 1.0
+R, =_20, 1_21, Right, 1.0
+R, COMMA_17, w_18, Right, 1.0
+R, \lim_3, u_5, Below, 1.0
+R, \lim_3, u_8, Right, 1.0
+R, \rho_13, \vert_14, Right, 1.0
+R, \rightarrow_6, 0_7, Right, 1.0
+R, \vert_12, \rho_13, Right, 1.0
+R, u_16, COMMA_17, Right, 1.0
+R, u_5, \rightarrow_6, Right, 1.0
+R, u_8, x_10, Right, 1.0
+R, w_18, )_19, Right, 1.0
+R, x_10, (_15, Right, 1.0
+R, x_10, \vert_12, Sub, 1.0

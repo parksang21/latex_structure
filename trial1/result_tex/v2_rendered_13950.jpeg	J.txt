@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { S } ( m > 0 ) J _ { S } ( n \subset 0 ) = m \delta _ { m + n , 0 }
+\end{equation}

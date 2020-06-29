@@ -1,0 +1,37 @@
+# IUD, v2_rendered_24752
+# Objects(17):
+O, (_12, (, 1.0, ORRRRRR
+O, N_10, N, 1.0, ORRRR
+O, \alpha_18, \alpha, 1.0, ORRRRRRRRRRSup
+O, M_6, M, 1.0, ORRR
+O, -_8, -, 1.0, ORRRSup
+O, p_2, p, 1.0, O
+O, 1_9, 1, 1.0, ORRRSupR
+O, g_17, g, 1.0, ORRRRRRRRRR
+O, \psi_13, \psi, 1.0, ORRRRRRR
+O, =_3, =, 1.0, OR
+O, N_20, N, 1.0, ORRRRRRRRRRR
+O, Q_11, Q, 1.0, ORRRRR
+O, -_4, -, 1.0, ORR
+O, 2_21, 2, 1.0, ORRRRRRRRRRRSup
+O, 4_15, 4, 1.0, ORRRRRRRRR
+O, +_14, +, 1.0, ORRRRRRRR
+O, )_22, ), 1.0, ORRRRRRRRRRRR
+
+# Relations from SRT:
+R, (_12, \psi_13, Right, 1.0
+R, +_14, 4_15, Right, 1.0
+R, -_4, M_6, Right, 1.0
+R, -_8, 1_9, Right, 1.0
+R, 4_15, g_17, Right, 1.0
+R, =_3, -_4, Right, 1.0
+R, M_6, -_8, Sup, 1.0
+R, M_6, N_10, Right, 1.0
+R, N_10, Q_11, Right, 1.0
+R, N_20, )_22, Right, 1.0
+R, N_20, 2_21, Sup, 1.0
+R, Q_11, (_12, Right, 1.0
+R, \psi_13, +_14, Right, 1.0
+R, g_17, N_20, Right, 1.0
+R, g_17, \alpha_18, Sup, 1.0
+R, p_2, =_3, Right, 1.0

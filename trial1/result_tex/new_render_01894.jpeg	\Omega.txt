@@ -1,0 +1,3 @@
+\begin{equation}
+	Q _ { A } ^ { i } \geqq - j \forall i , \Omega Q _ { V } \geqq - 3 j , \Omega Q _ { S } \geqq - j
+\end{equation}

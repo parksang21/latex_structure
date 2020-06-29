@@ -1,0 +1,3 @@
+\begin{equation}
+	( a + b ) * V - a * ( b * v ) \in O ( M )
+\end{equation}

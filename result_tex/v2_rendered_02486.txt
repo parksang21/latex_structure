@@ -1,0 +1,3 @@
+\begin{equation}
+	\Omega _ { \mu } = \frac { 1 } { 2 } \sigma ^ { a b } e _ { a } ^ { T } \Delta _ { \mu } e _ { b T }
+\end{equation}

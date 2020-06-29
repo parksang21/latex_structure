@@ -1,0 +1,3 @@
+\begin{equation}
+	= \int d \tau \lambda _ { \alpha } \lambda _ { \beta } \Delta _ { \tau } Z ^ { M } \Omega _ { M } ^ { \alpha \beta }
+\end{equation}

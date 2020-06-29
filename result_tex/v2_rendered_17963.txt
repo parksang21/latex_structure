@@ -1,0 +1,3 @@
+\begin{equation}
+	\langle \Omega _ { H } , \Omega _ { H ^ { \prime } } ) \equiv q ! \delta _ { H H ^ { \prime } }
+\end{equation}

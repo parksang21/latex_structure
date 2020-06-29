@@ -1,0 +1,33 @@
+# IUD, v2_rendered_10091
+# Objects(15):
+O, i_5, i, 1.0, OBelow
+O, \geq_6, \geq, 1.0, OBelowR
+O, Z_8, Z, 1.0, OAbove
+O, \prod_3, \prod, 1.0, O
+O, l_20, l, 1.0, ORRRRRR
+O, i_11, i, 1.0, ORSub
+O, (_13, (, 1.0, ORSup
+O, 0_17, 0, 1.0, ORRR
+O, )_15, ), 1.0, ORSupRR
+O, l_14, l, 1.0, ORSupR
+O, COMMA_18, COMMA, 1.0, ORRRR
+O, \forall_19, \forall, 1.0, ORRRRR
+O, 4_7, 4, 1.0, OBelowRR
+O, Y_10, Y, 1.0, OR
+O, \geq_16, \geq, 1.0, ORR
+
+# Relations from SRT:
+R, (_13, l_14, Right, 1.0
+R, 0_17, COMMA_18, Right, 1.0
+R, COMMA_18, \forall_19, Right, 1.0
+R, Y_10, (_13, Sup, 1.0
+R, Y_10, \geq_16, Right, 1.0
+R, Y_10, i_11, Sub, 1.0
+R, \forall_19, l_20, Right, 1.0
+R, \geq_16, 0_17, Right, 1.0
+R, \geq_6, 4_7, Right, 1.0
+R, \prod_3, Y_10, Right, 1.0
+R, \prod_3, Z_8, Above, 1.0
+R, \prod_3, i_5, Below, 1.0
+R, i_5, \geq_6, Right, 1.0
+R, l_14, )_15, Right, 1.0

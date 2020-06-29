@@ -1,0 +1,37 @@
+# IUD, v2_rendered_15602
+# Objects(17):
+O, W_2, W, 1.0, O
+O, 3_7, 3, 1.0, ORRRRR
+O, b_8, b, 1.0, ORRRRRR
+O, b_17, b, 1.0, ORRRRRRRRRRInsideBelowR
+O, _12, \sqrt, 1.0, ORRRRRRRRRR
+O, )_5, ), 1.0, ORRR
+O, \phi_18, \phi, 1.0, ORRRRRRRRRRR
+O, c_9, c, 1.0, ORRRRRRR
+O, (_11, (, 1.0, ORRRRRRRRR
+O, (_3, (, 1.0, OR
+O, )_19, ), 1.0, ORRRRRRRRRRRR
+O, 3_16, 3, 1.0, ORRRRRRRRRRInsideBelow
+O, \phi_4, \phi, 1.0, ORR
+O, _13, -, 1.0, ORRRRRRRRRRInside
+O, \sin_10, \sin, 1.0, ORRRRRRRR
+O, 2_14, 2, 1.0, ORRRRRRRRRRInsideAbove
+O, =_6, =, 1.0, ORRRR
+
+# Relations from SRT:
+R, (_11, _12, Right, 1.0
+R, (_3, \phi_4, Right, 1.0
+R, )_5, =_6, Right, 1.0
+R, 3_16, b_17, Right, 1.0
+R, 3_7, b_8, Right, 1.0
+R, =_6, 3_7, Right, 1.0
+R, W_2, (_3, Right, 1.0
+R, \phi_18, )_19, Right, 1.0
+R, \phi_4, )_5, Right, 1.0
+R, \sin_10, (_11, Right, 1.0
+R, _12, \phi_18, Right, 1.0
+R, _12, _13, Inside, 1.0
+R, _13, 2_14, Above, 1.0
+R, _13, 3_16, Below, 1.0
+R, b_8, c_9, Right, 1.0
+R, c_9, \sin_10, Right, 1.0

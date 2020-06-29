@@ -1,0 +1,39 @@
+# IUD, v2_rendered_23743
+# Objects(18):
+O, \prime_5, \prime, 1.0, OSup
+O, -_7, -, 1.0, OR
+O, 2_23, 2, 1.0, ORRRRRRRSup
+O, \prime_12, \prime, 1.0, ORRSupR
+O, )_22, ), 1.0, ORRRRRRR
+O, -_13, -, 1.0, ORRR
+O, \neq_24, \neq, 1.0, ORRRRRRRR
+O, \rho_9, \rho, 1.0, ORR
+O, 1_15, 1, 1.0, ORRRRAbove
+O, 2_16, 2, 1.0, ORRRRBelow
+O, \phi_3, \phi, 1.0, O
+O, _14, -, 1.0, ORRRR
+O, \prime_6, \prime, 1.0, OSupR
+O, \prime_20, \prime, 1.0, ORRRRRRSup
+O, \prime_11, \prime, 1.0, ORRSup
+O, T_19, T, 1.0, ORRRRRR
+O, 0_25, 0, 1.0, ORRRRRRRRR
+O, (_17, (, 1.0, ORRRRR
+
+# Relations from SRT:
+R, (_17, T_19, Right, 1.0
+R, )_22, 2_23, Sup, 1.0
+R, )_22, \neq_24, Right, 1.0
+R, -_13, _14, Right, 1.0
+R, -_7, \rho_9, Right, 1.0
+R, T_19, )_22, Right, 1.0
+R, T_19, \prime_20, Sup, 1.0
+R, \neq_24, 0_25, Right, 1.0
+R, \phi_3, -_7, Right, 1.0
+R, \phi_3, \prime_5, Sup, 1.0
+R, \prime_11, \prime_12, Right, 1.0
+R, \prime_5, \prime_6, Right, 1.0
+R, \rho_9, -_13, Right, 1.0
+R, \rho_9, \prime_11, Sup, 1.0
+R, _14, (_17, Right, 1.0
+R, _14, 1_15, Above, 1.0
+R, _14, 2_16, Below, 1.0

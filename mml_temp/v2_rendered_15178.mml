@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mo>∫</mo><mrow><msup><mi>R</mi><mrow><mn>5</mn><mo>+</mo><mn>1</mn></mrow></msup><mo>=</mo><mi>M</mi><mn>5</mn><mo>−</mo><mi>a</mi><mi>n</mi><mi>t</mi><mi>i</mi><mo>−</mo><mi>M</mi><mn>5</mn></mrow></msub><msub><mi>C</mi><mn>3</mn></msub><mo>∧</mo><mi>H</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \int _ { R ^ { 5 + 1 } = M 5 - a n t i - M 5 } C _ { 3 } \wedge H
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

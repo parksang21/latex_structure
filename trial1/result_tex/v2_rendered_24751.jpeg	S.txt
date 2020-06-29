@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { R S T } = - \frac { \rho } { \pi } \int d ^ { 2 } x \phi \Delta _ { \div } \Delta _ { - } \rho
+\end{equation}

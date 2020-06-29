@@ -1,0 +1,3 @@
+\begin{equation}
+	( \sqrt { a } _ { j } + ( - 1 ) ^ { j - 1 } \sqrt { b } _ { j } \Delta _ { z } ) \sqrt { \beta }
+\end{equation}

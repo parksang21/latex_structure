@@ -1,0 +1,37 @@
+# IUD, v2_rendered_22242
+# Objects(17):
+O, \rangle_10, \rangle, 1.0, ORRRR
+O, \langle_2, \langle, 1.0, O
+O, \psi_4, \psi, 1.0, OR
+O, \gt_21, \gt, 1.0, ORRRRRRRRRRR
+O, COMMA_6, COMMA, 1.0, ORR
+O, 1_5, 1, 1.0, ORSub
+O, \sin_11, \sin, 1.0, ORRRRR
+O, -_16, -, 1.0, ORRRRRRRR
+O, (_12, (, 1.0, ORRRRRR
+O, 2_19, 2, 1.0, ORRRRRRRRRSub
+O, \alpha_18, \alpha, 1.0, ORRRRRRRRR
+O, 1_15, 1, 1.0, ORRRRRRRSub
+O, \alpha_14, \alpha, 1.0, ORRRRRRR
+O, 0_22, 0, 1.0, ORRRRRRRRRRRR
+O, 2_9, 2, 1.0, ORRRSub
+O, \psi_8, \psi, 1.0, ORRR
+O, )_20, ), 1.0, ORRRRRRRRRR
+
+# Relations from SRT:
+R, (_12, \alpha_14, Right, 1.0
+R, )_20, \gt_21, Right, 1.0
+R, -_16, \alpha_18, Right, 1.0
+R, COMMA_6, \psi_8, Right, 1.0
+R, \alpha_14, -_16, Right, 1.0
+R, \alpha_14, 1_15, Sub, 1.0
+R, \alpha_18, )_20, Right, 1.0
+R, \alpha_18, 2_19, Sub, 1.0
+R, \gt_21, 0_22, Right, 1.0
+R, \langle_2, \psi_4, Right, 1.0
+R, \psi_4, 1_5, Sub, 1.0
+R, \psi_4, COMMA_6, Right, 1.0
+R, \psi_8, 2_9, Sub, 1.0
+R, \psi_8, \rangle_10, Right, 1.0
+R, \rangle_10, \sin_11, Right, 1.0
+R, \sin_11, (_12, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	{ d \gamma } { d t } \leq \frac { E _ { 0 } } { 2 \gamma ^ { 2 } }
+\end{equation}

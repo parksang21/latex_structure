@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta _ { \beta } \Omega _ { [ I } \Delta _ { J } \Omega _ { C ] } = 0
+\end{equation}

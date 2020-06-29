@@ -1,0 +1,3 @@
+\begin{equation}
+	\beta ( \omega ) \approx \frac { 2 } { \omega _ { \pi } ^ { 0 } } \beta ( \omega _ { \vert } )
+\end{equation}

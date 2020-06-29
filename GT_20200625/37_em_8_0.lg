@@ -1,0 +1,55 @@
+# IUD, 37_em_8_0
+# Objects(26):
+O, -_15, -, 1.0, ORRRRRRAboveRRRRR
+O, 3_10, 3, 1.0, ORRRRRRAbove
+O, 3_18, 3, 1.0, ORRRRRRAboveRRRRRRSup
+O, 3_25, 3, 1.0, ORRRRRRBelowRR
+O, )_21, ), 1.0, ORRRRRRAboveRRRRRRRRR
+O, )_31, ), 1.0, ORRRRRRBelowRRRRRR
+O, -_24, -, 1.0, ORRRRRRBelowR
+O, x_5, x, 1.0, ORRR
+O, \tan_2, \tan, 1.0, O
+O, x_13, x, 1.0, ORRRRRRAboveRRR
+O, (_29, (, 1.0, ORRRRRRBelowRRRR
+O, )_14, ), 1.0, ORRRRRRAboveRRRR
+O, _8, -, 1.0, ORRRRRR
+O, (_19, (, 1.0, ORRRRRRAboveRRRRRRR
+O, (_3, (, 1.0, OR
+O, 1_23, 1, 1.0, ORRRRRRBelow
+O, \tan_27, \tan, 1.0, ORRRRRRBelowRRR
+O, \tan_11, \tan, 1.0, ORRRRRRAboveR
+O, x_30, x, 1.0, ORRRRRRBelowRRRRR
+O, \tan_17, \tan, 1.0, ORRRRRRAboveRRRRRR
+O, 3_4, 3, 1.0, ORR
+O, =_7, =, 1.0, ORRRRR
+O, x_20, x, 1.0, ORRRRRRAboveRRRRRRRR
+O, 2_28, 2, 1.0, ORRRRRRBelowRRRSup
+O, )_6, ), 1.0, ORRRR
+O, (_12, (, 1.0, ORRRRRRAboveRR
+
+# Relations from SRT:
+R, (_12, x_13, Right, 1.0
+R, (_19, x_20, Right, 1.0
+R, (_29, x_30, Right, 1.0
+R, (_3, 3_4, Right, 1.0
+R, )_14, -_15, Right, 1.0
+R, )_6, =_7, Right, 1.0
+R, -_15, \tan_17, Right, 1.0
+R, -_24, 3_25, Right, 1.0
+R, 1_23, -_24, Right, 1.0
+R, 3_10, \tan_11, Right, 1.0
+R, 3_25, \tan_27, Right, 1.0
+R, 3_4, x_5, Right, 1.0
+R, =_7, _8, Right, 1.0
+R, \tan_11, (_12, Right, 1.0
+R, \tan_17, (_19, Right, 1.0
+R, \tan_17, 3_18, Sup, 1.0
+R, \tan_27, (_29, Right, 1.0
+R, \tan_27, 2_28, Sup, 1.0
+R, \tan_2, (_3, Right, 1.0
+R, _8, 1_23, Below, 1.0
+R, _8, 3_10, Above, 1.0
+R, x_13, )_14, Right, 1.0
+R, x_20, )_21, Right, 1.0
+R, x_30, )_31, Right, 1.0
+R, x_5, )_6, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	\Omega \oplus \overline { \Omega }
+\end{equation}

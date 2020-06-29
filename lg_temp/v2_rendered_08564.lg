@@ -1,0 +1,39 @@
+# IUD, v2_rendered_08564
+# Objects(18):
+O, \prod_18, \prod, 1.0, 12
+O, \sigma_10, \sigma, 1.0, 6
+O, U_14, U, 1.0, 9
+O, \equiv_6, \equiv, 1.0, 4
+O, u_24, u, 1.0, 16
+O, \sigma_15, \sigma, 1.0, 10
+O, \sigma_20, \sigma, 1.0, 13
+O, \vee_11, \vee, 1.0, 7
+O, =_16, =, 1.0, 11
+O, C_12, C, 1.0, 8
+O, (_3, (, 1.0, 1
+O, W_2, W, 1.0, 0
+O, )_5, ), 1.0, 3
+O, \vee_21, \vee, 1.0, 14
+O, \prod_8, \prod, 1.0, 5
+O, C_22, C, 1.0, 15
+O, \sigma_25, \sigma, 1.0, 17
+O, C_4, C, 1.0, 2
+
+# Relations from SRT:
+R, (_3, C_4, Right, 1.0
+R, )_5, \equiv_6, Right, 1.0
+R, =_16, \prod_18, Right, 1.0
+R, C_4, )_5, Right, 1.0
+R, U_14, =_16, Right, 1.0
+R, U_14, \sigma_15, Sub, 1.0
+R, W_2, (_3, Right, 1.0
+R, \equiv_6, \prod_8, Right, 1.0
+R, \prod_18, \sigma_20, Below, 1.0
+R, \prod_18, u_24, Right, 1.0
+R, \prod_8, U_14, Right, 1.0
+R, \prod_8, \sigma_10, Below, 1.0
+R, \sigma_10, \vee_11, Right, 1.0
+R, \sigma_20, \vee_21, Right, 1.0
+R, \vee_11, C_12, Right, 1.0
+R, \vee_21, C_22, Right, 1.0
+R, u_24, \sigma_25, Sub, 1.0

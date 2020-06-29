@@ -1,0 +1,3 @@
+\begin{equation}
+	= V _ { 0 } ( 1 - \frac { v _ { 1 } } { 2 r _ { 0 } ^ { 2 } } )
+\end{equation}

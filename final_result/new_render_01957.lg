@@ -1,0 +1,49 @@
+# IUD, new_render_01957
+# Objects(23):
+O, )_6, ), 1.0, ORRRR
+O, s_5, s, 1.0, ORRR
+O, g_18, g, 1.0, ORRRRRRRRRRRRRRRR
+O, f_11, f, 1.0, ORRRRRRRRR
+O, /_15, /, 1.0, ORRRRRRRRRRRRR
+O, s_16, s, 1.0, ORRRRRRRRRRRRRR
+O, (_2, (, 1.0, O
+O, Y_24, Y, 1.0, ORRRRRRRRRRRRRRRRRRRRR
+O, /_4, /, 1.0, ORR
+O, g_21, g, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, \in_22, \in, 1.0, ORRRRRRRRRRRRRRRRRRRR
+O, g_13, g, 1.0, ORRRRRRRRRRR
+O, 1_25, 1, 1.0, ORRRRRRRRRRRRRRRRRRRRRSup
+O, f_3, f, 1.0, OR
+O, )_14, ), 1.0, ORRRRRRRRRRRR
+O, \exists_20, \exists, 1.0, ORRRRRRRRRRRRRRRRRR
+O, )_9, ), 1.0, ORRRRRRR
+O, (_17, (, 1.0, ORRRRRRRRRRRRRRR
+O, (_7, (, 1.0, ORRRRR
+O, \geqq_10, \geqq, 1.0, ORRRRRRRR
+O, )_19, ), 1.0, ORRRRRRRRRRRRRRRRR
+O, (_12, (, 1.0, ORRRRRRRRRR
+O, g_8, g, 1.0, ORRRRRR
+
+# Relations from SRT:
+R, (_12, g_13, Right, 1.0
+R, (_17, g_18, Right, 1.0
+R, (_2, f_3, Right, 1.0
+R, (_7, g_8, Right, 1.0
+R, )_14, /_15, Right, 1.0
+R, )_19, \exists_20, Right, 1.0
+R, )_6, (_7, Right, 1.0
+R, )_9, \geqq_10, Right, 1.0
+R, /_15, s_16, Right, 1.0
+R, /_4, s_5, Right, 1.0
+R, Y_24, 1_25, Sup, 1.0
+R, \exists_20, g_21, Right, 1.0
+R, \geqq_10, f_11, Right, 1.0
+R, \in_22, Y_24, Right, 1.0
+R, f_11, (_12, Right, 1.0
+R, f_3, /_4, Right, 1.0
+R, g_13, )_14, Right, 1.0
+R, g_18, )_19, Right, 1.0
+R, g_21, \in_22, Right, 1.0
+R, g_8, )_9, Right, 1.0
+R, s_16, (_17, Right, 1.0
+R, s_5, )_6, Right, 1.0

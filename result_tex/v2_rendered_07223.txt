@@ -1,0 +1,3 @@
+\begin{equation}
+	\lim _ { \phi \rightarrow 8 } \phi _ { \Delta \tau } ( 0 , \phi , j ) = \lambda ( j )
+\end{equation}

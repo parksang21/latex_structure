@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { ( a , \mu ) } ( A ) = A ( \mu O + a )
+\end{equation}

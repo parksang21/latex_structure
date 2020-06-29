@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta _ { \alpha } Y ^ { 2 5 } \geq \Omega _ { \alpha \beta } \Delta ^ { \beta } X ^ { 2 5 }
+\end{equation}

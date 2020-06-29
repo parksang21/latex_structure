@@ -1,0 +1,66 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_19791</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mo form="postfix" stretchy="false" xml:id="\vert_2">|</mo><mi xml:id="\psi_3">ψ</mi><mo form="postfix" stretchy="false" xml:id="\rangle_4">⟩</mo><mo xml:id="=_5">=</mo><munder><mo xml:id="\lim_7">lim</mo><mi xml:id="i_8">i</mi></munder><msub><mi xml:id="\alpha_10">α</mi><mi xml:id="i_11">i</mi></msub><mo form="postfix" stretchy="false" xml:id="\vert_12">|</mo><mi xml:id="i_13">i</mi><mo form="postfix" stretchy="false" xml:id="\rangle_14">⟩</mo></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\vert</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\vert_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\psi</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\psi_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\rangle</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\rangle_4"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="=_5"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">\lim</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="\lim_7"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">i</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="i_8"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">\alpha</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="\alpha_10"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">i</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="i_11"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">\vert</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="\vert_12"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">i</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="i_13"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">\rangle</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="\rangle_14"/>
+	</traceGroup>
+</traceGroup>
+</ink>

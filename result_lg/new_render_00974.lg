@@ -1,0 +1,37 @@
+# IUD, new_render_00974
+# Objects(17):
+O, y_18, y, 1.0, ORRRRRRRRRRRR
+O, h_6, h, 1.0, ORRSup
+O, \circle_3, \circle, 1.0, OR
+O, p_9, p, 1.0, ORRRR
+O, \neq_12, \neq, 1.0, ORRRRRR
+O, (_7, (, 1.0, ORRR
+O, t_20, t, 1.0, ORRRRRRRRRRRRRR
+O, COMMA_14, COMMA, 1.0, ORRRRRRRR
+O, \therefore_15, \therefore, 1.0, ORRRRRRRRR
+O, COMMA_17, COMMA, 1.0, ORRRRRRRRRRR
+O, h_16, h, 1.0, ORRRRRRRRRR
+O, \lt_19, \lt, 1.0, ORRRRRRRRRRRRR
+O, \Delta_5, \Delta, 1.0, ORR
+O, )_11, ), 1.0, ORRRRR
+O, \gamma_2, \gamma, 1.0, O
+O, 3_13, 3, 1.0, ORRRRRRR
+O, \gamma_10, \gamma, 1.0, ORRRRSub
+
+# Relations from SRT:
+R, (_7, p_9, Right, 1.0
+R, )_11, \neq_12, Right, 1.0
+R, 3_13, COMMA_14, Right, 1.0
+R, COMMA_14, \therefore_15, Right, 1.0
+R, COMMA_17, y_18, Right, 1.0
+R, \Delta_5, (_7, Right, 1.0
+R, \Delta_5, h_6, Sup, 1.0
+R, \circle_3, \Delta_5, Right, 1.0
+R, \gamma_2, \circle_3, Right, 1.0
+R, \lt_19, t_20, Right, 1.0
+R, \neq_12, 3_13, Right, 1.0
+R, \therefore_15, h_16, Right, 1.0
+R, h_16, COMMA_17, Right, 1.0
+R, p_9, )_11, Right, 1.0
+R, p_9, \gamma_10, Sub, 1.0
+R, y_18, \lt_19, Right, 1.0

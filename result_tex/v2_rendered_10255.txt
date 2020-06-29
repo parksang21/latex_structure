@@ -1,0 +1,3 @@
+\begin{equation}
+	P ^ { \mu } ( \tau ) = S _ { \tau } \tau _ { a } P a \mu
+\end{equation}

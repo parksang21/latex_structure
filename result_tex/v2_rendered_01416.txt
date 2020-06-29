@@ -1,0 +1,3 @@
+\begin{equation}
+	\sqrt { \phi } ( \beta x ) \vert \phi > = \phi ( \beta x ) \vert \phi >
+\end{equation}

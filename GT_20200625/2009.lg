@@ -1,0 +1,35 @@
+# IUD, 2009
+# Objects(16):
+O, \beta_3, \beta, 1.0, O
+O, 2_10, 2, 1.0, ORRBelow
+O, c_16, c, 1.0, ORRRRRAbove
+O, \beta_12, \beta, 1.0, ORRR
+O, e_18, e, 1.0, ORRRRRBelow
+O, 1_6, 1, 1.0, OSupR
+O, *_5, *, 1.0, OSup
+O, 1_13, 1, 1.0, ORRRSup
+O, 1_9, 1, 1.0, ORRAbove
+O, +_14, +, 1.0, ORRRR
+O, =_7, =, 1.0, OR
+O, \beta_21, \beta, 1.0, ORRRRRR
+O, 4_22, 4, 1.0, ORRRRRRSup
+O, _15, -, 1.0, ORRRRR
+O, B_19, B, 1.0, ORRRRRBelowR
+O, _8, -, 1.0, ORR
+
+# Relations from SRT:
+R, *_5, 1_6, Right, 1.0
+R, +_14, _15, Right, 1.0
+R, =_7, _8, Right, 1.0
+R, \beta_12, +_14, Right, 1.0
+R, \beta_12, 1_13, Sup, 1.0
+R, \beta_21, 4_22, Sup, 1.0
+R, \beta_3, *_5, Sup, 1.0
+R, \beta_3, =_7, Right, 1.0
+R, _15, \beta_21, Right, 1.0
+R, _15, c_16, Above, 1.0
+R, _15, e_18, Below, 1.0
+R, _8, 1_9, Above, 1.0
+R, _8, 2_10, Below, 1.0
+R, _8, \beta_12, Right, 1.0
+R, e_18, B_19, Right, 1.0

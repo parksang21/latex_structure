@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { a } J ^ { a } = \Delta _ { a } \psi ^ { a b } = \Delta _ { a } \overline { J } ^ { a } = 0
+\end{equation}

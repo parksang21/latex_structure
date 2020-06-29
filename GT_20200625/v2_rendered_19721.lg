@@ -1,0 +1,47 @@
+# IUD, v2_rendered_19721
+# Objects(22):
+O, \tau_16, \tau, 1.0, ORRRRRR
+O, ._25, ., 1.0, ORRRRRRRRRRRRRR
+O, \log_6, \log, 1.0, ORR
+O, 1_13, 1, 1.0, ORRRRSubRR
+O, k_19, k, 1.0, ORRRRRRRR
+O, k_17, k, 1.0, ORRRRRRSub
+O, COMMA_22, COMMA, 1.0, ORRRRRRRRRRR
+O, ._24, ., 1.0, ORRRRRRRRRRRRR
+O, \phi_3, \phi, 1.0, O
+O, -_12, -, 1.0, ORRRRSubR
+O, k_11, k, 1.0, ORRRRSub
+O, (_7, (, 1.0, ORRR
+O, =_20, =, 1.0, ORRRRRRRRR
+O, )_18, ), 1.0, ORRRRRRR
+O, ._23, ., 1.0, ORRRRRRRRRRRR
+O, 1_21, 1, 1.0, ORRRRRRRRRR
+O, =_5, =, 1.0, OR
+O, /_14, /, 1.0, ORRRRR
+O, \tau_9, \tau, 1.0, ORRRR
+O, r_27, r, 1.0, ORRRRRRRRRRRRRRRR
+O, COMMA_26, COMMA, 1.0, ORRRRRRRRRRRRRRR
+O, k_4, k, 1.0, OSub
+
+# Relations from SRT:
+R, (_7, \tau_9, Right, 1.0
+R, )_18, k_19, Right, 1.0
+R, -_12, 1_13, Right, 1.0
+R, ._23, ._24, Right, 1.0
+R, ._24, ._25, Right, 1.0
+R, ._25, COMMA_26, Right, 1.0
+R, /_14, \tau_16, Right, 1.0
+R, 1_21, COMMA_22, Right, 1.0
+R, =_20, 1_21, Right, 1.0
+R, =_5, \log_6, Right, 1.0
+R, COMMA_22, ._23, Right, 1.0
+R, COMMA_26, r_27, Right, 1.0
+R, \log_6, (_7, Right, 1.0
+R, \phi_3, =_5, Right, 1.0
+R, \phi_3, k_4, Sub, 1.0
+R, \tau_16, )_18, Right, 1.0
+R, \tau_16, k_17, Sub, 1.0
+R, \tau_9, /_14, Right, 1.0
+R, \tau_9, k_11, Sub, 1.0
+R, k_11, -_12, Right, 1.0
+R, k_19, =_20, Right, 1.0

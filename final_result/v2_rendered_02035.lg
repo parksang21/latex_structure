@@ -1,0 +1,41 @@
+# IUD, v2_rendered_02035
+# Objects(19):
+O, Z_4, Z, 1.0, OR
+O, (_2, (, 1.0, O
+O, \triangle_19, \triangle, 1.0, ORRRRRRRRR
+O, D_23, D, 1.0, ORRRRRRRRRRSub
+O, -_15, -, 1.0, ORRRRR
+O, T_7, T, 1.0, ORSubR
+O, T_13, T, 1.0, ORRRSubR
+O, D_6, D, 1.0, ORSub
+O, Z_21, Z, 1.0, ORRRRRRRRRR
+O, COMMA_8, COMMA, 1.0, ORR
+O, 0_16, 0, 1.0, ORRRRRR
+O, \neq_25, \neq, 1.0, ORRRRRRRRRRR
+O, )_14, ), 1.0, ORRRR
+O, Z_10, Z, 1.0, ORRR
+O, \gamma_17, \gamma, 1.0, ORRRRRRR
+O, 0_26, 0, 1.0, ORRRRRRRRRRRR
+O, D_12, D, 1.0, ORRRSub
+O, T_24, T, 1.0, ORRRRRRRRRRSubR
+O, i_18, i, 1.0, ORRRRRRRR
+
+# Relations from SRT:
+R, (_2, Z_4, Right, 1.0
+R, )_14, -_15, Right, 1.0
+R, -_15, 0_16, Right, 1.0
+R, 0_16, \gamma_17, Right, 1.0
+R, COMMA_8, Z_10, Right, 1.0
+R, D_12, T_13, Right, 1.0
+R, D_23, T_24, Right, 1.0
+R, D_6, T_7, Right, 1.0
+R, Z_10, )_14, Right, 1.0
+R, Z_10, D_12, Sub, 1.0
+R, Z_21, D_23, Sub, 1.0
+R, Z_21, \neq_25, Right, 1.0
+R, Z_4, COMMA_8, Right, 1.0
+R, Z_4, D_6, Sub, 1.0
+R, \gamma_17, i_18, Right, 1.0
+R, \neq_25, 0_26, Right, 1.0
+R, \triangle_19, Z_21, Right, 1.0
+R, i_18, \triangle_19, Right, 1.0

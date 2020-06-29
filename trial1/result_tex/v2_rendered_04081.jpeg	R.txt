@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \mu \alpha } = \frac { 1 } { D } G _ { \mu \alpha } R
+\end{equation}

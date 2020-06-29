@@ -1,0 +1,39 @@
+# IUD, 2087
+# Objects(18):
+O, \mu_13, \mu, 1.0, ORRRSup
+O, 0_7, 0, 1.0, ORRSub
+O, 1_24, 1, 1.0, ORRRRRRRSub
+O, _10, \sqrt, 1.0, ORRR
+O, =_3, =, 1.0, OR
+O, \mu_8, \mu, 1.0, ORRSubR
+O, =_14, =, 1.0, ORRRR
+O, \beta_2, \beta, 1.0, O
+O, V_23, V, 1.0, ORRRRRRR
+O, \mu_21, \mu, 1.0, ORRRRRRSubR
+O, 0_20, 0, 1.0, ORRRRRRSub
+O, V_11, V, 1.0, ORRRInside
+O, -_15, -, 1.0, ORRRRR
+O, 1_12, 1, 1.0, ORRRSub
+O, V_5, V, 1.0, ORR
+O, \mu_25, \mu, 1.0, ORRRRRRRSup
+O, V_18, V, 1.0, ORRRRRRInside
+O, _17, \sqrt, 1.0, ORRRRRR
+
+# Relations from SRT:
+R, -_15, _17, Right, 1.0
+R, 0_20, \mu_21, Right, 1.0
+R, 0_7, \mu_8, Right, 1.0
+R, =_14, -_15, Right, 1.0
+R, =_3, V_5, Right, 1.0
+R, V_23, 1_24, Sub, 1.0
+R, V_23, \mu_25, Sup, 1.0
+R, V_5, 0_7, Sub, 1.0
+R, V_5, _10, Right, 1.0
+R, \beta_2, =_3, Right, 1.0
+R, _10, 1_12, Sub, 1.0
+R, _10, =_14, Right, 1.0
+R, _10, V_11, Inside, 1.0
+R, _10, \mu_13, Sup, 1.0
+R, _17, 0_20, Sub, 1.0
+R, _17, V_18, Inside, 1.0
+R, _17, V_23, Right, 1.0

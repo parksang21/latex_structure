@@ -1,0 +1,3 @@
+\begin{equation}
+	- \int _ { \mu } f A _ { g } = i \int _ { \mu } ( \sqrt { m } g ) ( B f ) - i \int _ { \mu } f _ { g }
+\end{equation}

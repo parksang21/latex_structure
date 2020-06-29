@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { \prime } = g \circ \rho \circ \mu
+\end{equation}

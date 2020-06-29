@@ -1,0 +1,3 @@
+\begin{equation}
+	\sum _ { m } \phi _ { m } ( x ) \phi _ { m } ( x ) = \lim _ { s \Leftrightarrow 0 } \delta ( s , x )
+\end{equation}

@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mi>V</mi><mn>2</mn></msup><mo>=</mo><mo>−</mo><mi>ϕ</mi><msup><mi>r</mi><mn>2</mn></msup><mo>−</mo><mi>m</mi><mo>−</mo><mn>2</mn><msup><mi>q</mi><mn>2</mn></msup><mo>ln</mo><mo stretchy="false" form="prefix">(</mo><mfrac><mi>r</mi><msub><mi>r</mi><mn>0</mn></msub></mfrac><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">\begin{equation}
+    V ^ { 2 } = - \phi r ^ { 2 } - m - 2 q ^ { 2 } \ln ( \frac { r } { r _ { 0 } } )
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

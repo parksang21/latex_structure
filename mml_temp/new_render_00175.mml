@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>▫</mi><mrow><mn>2</mn><mi>S</mi></mrow></msub><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msup><mi>ϕ</mi><mn>2</mn></msup><mi>▫</mi><mo>−</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><msubsup><mi>ϕ</mi><mrow><mo>,</mo><mi>β</mi></mrow><mn>2</mn></msubsup><msub><mi>Δ</mi><mi>β</mi></msub></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \square _ { 2 S } = \frac { 1 } { 2 } \phi ^ { 2 } \square - \frac { 1 } { 4 } \phi _ { , \beta } ^ { 2 } \Delta _ { \beta }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

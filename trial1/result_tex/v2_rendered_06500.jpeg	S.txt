@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { 2 } ( \sigma , g ) = \triangle I _ { 2 } ( g )
+\end{equation}

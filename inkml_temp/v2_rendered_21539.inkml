@@ -1,0 +1,76 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_21539</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msub><mi xml:id="\Delta_3">Δ</mi><mi xml:id="\mu_4">μ</mi></msub><msub><mi xml:id="h_6">h</mi><mi xml:id="\theta_7">θ</mi></msub><mo xml:id="+_8">+</mo><msub><mi xml:id="\Delta_10">Δ</mi><mi xml:id="\theta_11">θ</mi></msub><msub><mi xml:id="h_13">h</mi><mi xml:id="\mu_14">μ</mi></msub><mo xml:id="\subset_15">⊂</mo><msub><mi xml:id="\psi_17">ψ</mi><mrow><mi xml:id="\mu_19">μ</mi><mi xml:id="\theta_20">θ</mi></mrow></msub></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\Delta</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\Delta_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\mu_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">h</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="h_6"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\theta</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\theta_7"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">+</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="+_8"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\Delta</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\Delta_10"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">\theta</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="\theta_11"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">h</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="h_13"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="\mu_14"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">\subset</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="\subset_15"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">\psi</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="\psi_17"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="\mu_19"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">\theta</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="\theta_20"/>
+	</traceGroup>
+</traceGroup>
+</ink>

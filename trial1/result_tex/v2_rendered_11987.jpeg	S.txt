@@ -1,0 +1,3 @@
+\begin{equation}
+	[ u , \mu ] = - i ( \mu , \Delta _ { t } u \div F ) \div \frac { 1 } { 2 } ( \mu , K \mu )
+\end{equation}

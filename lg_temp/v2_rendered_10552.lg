@@ -1,0 +1,43 @@
+# IUD, v2_rendered_10552
+# Objects(20):
+O, (_8, (, 1.0, 5
+O, \int_3, \int, 1.0, 0
+O, q_9, q, 1.0, 6
+O, d_15, d, 1.0, 11
+O, d_5, d, 1.0, 2
+O, g_16, g, 1.0, 12
+O, q_6, q, 1.0, 3
+O, g_21, g, 1.0, 17
+O, \int_13, \int, 1.0, 9
+O, =_11, =, 1.0, 8
+O, G_14, G, 1.0, 10
+O, (_18, (, 1.0, 14
+O, )_22, ), 1.0, 18
+O, \phi_17, \phi, 1.0, 13
+O, (_20, (, 1.0, 16
+O, )_10, ), 1.0, 7
+O, )_23, ), 1.0, 19
+O, \phi_7, \phi, 1.0, 4
+O, \pi_19, \pi, 1.0, 15
+O, Q_4, Q, 1.0, 1
+
+# Relations from SRT:
+R, (_18, \pi_19, Right, 1.0
+R, (_20, g_21, Right, 1.0
+R, (_8, q_9, Right, 1.0
+R, )_10, =_11, Right, 1.0
+R, )_22, )_23, Right, 1.0
+R, =_11, \int_13, Right, 1.0
+R, \int_13, G_14, Sub, 1.0
+R, \int_13, d_15, Right, 1.0
+R, \int_3, Q_4, Sub, 1.0
+R, \int_3, d_5, Right, 1.0
+R, \phi_17, (_18, Right, 1.0
+R, \phi_7, (_8, Right, 1.0
+R, \pi_19, (_20, Right, 1.0
+R, d_15, g_16, Right, 1.0
+R, d_5, q_6, Right, 1.0
+R, g_16, \phi_17, Right, 1.0
+R, g_21, )_22, Right, 1.0
+R, q_6, \phi_7, Right, 1.0
+R, q_9, )_10, Right, 1.0

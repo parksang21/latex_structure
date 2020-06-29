@@ -1,0 +1,3 @@
+\begin{equation}
+	I _ { H T / M } ^ { + } \vee \Delta I _ { H T / M } ^ { - } \vee 0
+\end{equation}

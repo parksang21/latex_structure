@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>θ</mi><mi>λ</mi></msub><mo>≤</mo><mo stretchy="false" form="prefix">(</mo><mi>D</mi><mo>∘</mo><mi>L</mi><msubsup><mo stretchy="false" form="postfix">)</mo><mi>λ</mi><mrow><mo>−</mo><mn>7</mn><mi>γ</mi></mrow></msubsup><mo stretchy="false" form="prefix">(</mo><mi>D</mi><mo>∘</mo><msup><mi>h</mi><mrow><mi>T</mi><mi>D</mi></mrow></msup><mo stretchy="false" form="postfix">)</mo><mi>γ</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \theta _ { \lambda } \leq ( D \circ L ) _ { \lambda } ^ { - 7 \gamma } ( D \circ h ^ { T D } ) \gamma
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

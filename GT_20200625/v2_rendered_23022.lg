@@ -1,0 +1,41 @@
+# IUD, v2_rendered_23022
+# Objects(19):
+O, /_19, /, 1.0, ORRRRRRRRRRRRR
+O, 2_18, 2, 1.0, ORRRRRRRRRRRRSup
+O, U_2, U, 1.0, O
+O, =_6, =, 1.0, ORRRR
+O, 4_9, 4, 1.0, ORRRRRRR
+O, \lambda_10, \lambda, 1.0, ORRRRRRRR
+O, )_5, ), 1.0, ORRR
+O, 2_14, 2, 1.0, ORRRRRRRRRRSup
+O, /_8, /, 1.0, ORRRRRR
+O, -_15, -, 1.0, ORRRRRRRRRRR
+O, (_3, (, 1.0, OR
+O, )_22, ), 1.0, ORRRRRRRRRRRRRRR
+O, (_11, (, 1.0, ORRRRRRRRR
+O, 2_23, 2, 1.0, ORRRRRRRRRRRRRRRSup
+O, \phi_4, \phi, 1.0, ORR
+O, 1_7, 1, 1.0, ORRRRR
+O, \phi_13, \phi, 1.0, ORRRRRRRRRR
+O, \mu_17, \mu, 1.0, ORRRRRRRRRRRR
+O, \lambda_20, \lambda, 1.0, ORRRRRRRRRRRRRR
+
+# Relations from SRT:
+R, (_11, \phi_13, Right, 1.0
+R, (_3, \phi_4, Right, 1.0
+R, )_22, 2_23, Sup, 1.0
+R, )_5, =_6, Right, 1.0
+R, -_15, \mu_17, Right, 1.0
+R, /_19, \lambda_20, Right, 1.0
+R, /_8, 4_9, Right, 1.0
+R, 1_7, /_8, Right, 1.0
+R, 4_9, \lambda_10, Right, 1.0
+R, =_6, 1_7, Right, 1.0
+R, U_2, (_3, Right, 1.0
+R, \lambda_10, (_11, Right, 1.0
+R, \lambda_20, )_22, Right, 1.0
+R, \mu_17, /_19, Right, 1.0
+R, \mu_17, 2_18, Sup, 1.0
+R, \phi_13, -_15, Right, 1.0
+R, \phi_13, 2_14, Sup, 1.0
+R, \phi_4, )_5, Right, 1.0

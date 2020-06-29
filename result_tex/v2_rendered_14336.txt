@@ -1,0 +1,3 @@
+\begin{equation}
+	\vert E > _ { 0 , e } = \frac { 1 } { \sqrt { 2 } } [ \vert E > _ { + } - \vert E \rangle _ { - } ]
+\end{equation}

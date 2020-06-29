@@ -1,0 +1,9 @@
+# IUD, 32_em_214_0
+# Objects(3):
+O, \int_2, \int, 1.0, 0
+O, d_4, d, 1.0, 2
+O, c_3, c, 1.0, 1
+
+# Relations from SRT:
+R, \int_2, c_3, Right, 1.0
+R, c_3, d_4, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	\rho \equiv \frac { 1 } { \sqrt { \beta } } \tan ^ { - 1 } ( \sqrt { \beta } _ { p } )
+\end{equation}

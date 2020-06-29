@@ -1,0 +1,27 @@
+# IUD, 516_em_392_0
+# Objects(11):
+O, z_12, z, 1.0, ORRRRInside
+O, _3, \sqrt, 1.0, OR
+O, +_9, +, 1.0, ORRR
+O, COMMA_8, COMMA, 1.0, ORR
+O, -_2, -, 1.0, O
+O, c_14, c, 1.0, ORRRRInsideRR
+O, c_7, c, 1.0, ORInsideRR
+O, -_6, -, 1.0, ORInsideR
+O, -_13, -, 1.0, ORRRRInsideR
+O, z_5, z, 1.0, ORInside
+O, _10, \sqrt, 1.0, ORRRR
+
+# Relations from SRT:
+R, +_9, _10, Right, 1.0
+R, -_13, c_14, Right, 1.0
+R, -_2, _3, Right, 1.0
+R, -_6, c_7, Right, 1.0
+R, COMMA_8, +_9, Right, 1.0
+R, _10, -_13, Inside, 1.0
+R, _10, z_12, Inside, 1.0
+R, _3, -_6, Inside, 1.0
+R, _3, COMMA_8, Right, 1.0
+R, _3, z_5, Inside, 1.0
+R, z_12, -_13, Right, 1.0
+R, z_5, -_6, Right, 1.0

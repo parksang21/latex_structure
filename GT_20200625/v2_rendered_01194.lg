@@ -1,0 +1,45 @@
+# IUD, v2_rendered_01194
+# Objects(21):
+O, _14, \sqrt, 1.0, ORRRRRRR
+O, t_6, t, 1.0, ORRR
+O, )_7, ), 1.0, ORRRR
+O, \propto_23, \propto, 1.0, ORRRRRRRRRRRRRRR
+O, \forall_21, \forall, 1.0, ORRRRRRRRRRRRR
+O, _2, \sqrt, 1.0, O
+O, \phi_15, \phi, 1.0, ORRRRRRRInside
+O, (_16, (, 1.0, ORRRRRRRR
+O, t_22, t, 1.0, ORRRRRRRRRRRRRR
+O, u_5, u, 1.0, ORR
+O, -_12, -, 1.0, ORRRRRRSup
+O, \phi_3, \phi, 1.0, OInside
+O, t_10, t, 1.0, ORRRRRR
+O, (_4, (, 1.0, OR
+O, COMMA_20, COMMA, 1.0, ORRRRRRRRRRRR
+O, U_24, U, 1.0, ORRRRRRRRRRRRRRRR
+O, 8_13, 8, 1.0, ORRRRRRSupR
+O, t_19, t, 1.0, ORRRRRRRRRRR
+O, \geq_8, \geq, 1.0, ORRRRR
+O, )_18, ), 1.0, ORRRRRRRRRR
+O, u_17, u, 1.0, ORRRRRRRRR
+
+# Relations from SRT:
+R, (_16, u_17, Right, 1.0
+R, (_4, u_5, Right, 1.0
+R, )_18, t_19, Right, 1.0
+R, )_7, \geq_8, Right, 1.0
+R, -_12, 8_13, Right, 1.0
+R, COMMA_20, \forall_21, Right, 1.0
+R, \forall_21, t_22, Right, 1.0
+R, \geq_8, t_10, Right, 1.0
+R, \propto_23, U_24, Right, 1.0
+R, _14, (_16, Right, 1.0
+R, _14, \phi_15, Inside, 1.0
+R, _2, (_4, Right, 1.0
+R, _2, \phi_3, Inside, 1.0
+R, t_10, -_12, Sup, 1.0
+R, t_10, _14, Right, 1.0
+R, t_19, COMMA_20, Right, 1.0
+R, t_22, \propto_23, Right, 1.0
+R, t_6, )_7, Right, 1.0
+R, u_17, )_18, Right, 1.0
+R, u_5, t_6, Right, 1.0

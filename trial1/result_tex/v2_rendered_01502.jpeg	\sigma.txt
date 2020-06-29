@@ -1,0 +1,3 @@
+\begin{equation}
+	\omega _ { \Delta } ^ { a } = C _ { b c } ^ { a } \omega _ { \Delta } ^ { b } C ^ { c }
+\end{equation}

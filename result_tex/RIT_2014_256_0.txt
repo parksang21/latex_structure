@@ -1,0 +1,3 @@
+\begin{equation}
+	c _ { 1 } , c _ { 2 } , \lsqrts , C _ { m } , c _ { m - 1 }
+\end{equation}

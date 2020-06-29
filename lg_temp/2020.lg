@@ -1,0 +1,23 @@
+# IUD, 2020
+# Objects(10):
+O, S_3, S, 1.0, 0
+O, X_12, X, 1.0, 6
+O, F_6, F, 1.0, 2
+O, i_13, i, 1.0, 7
+O, F_15, F, 1.0, 8
+O, M_10, M, 1.0, 5
+O, \int_9, \int, 1.0, 4
+O, B_5, B, 1.0, 1
+O, =_7, =, 1.0, 3
+O, i_16, i, 1.0, 9
+
+# Relations from SRT:
+R, =_7, \int_9, Right, 1.0
+R, B_5, F_6, Right, 1.0
+R, F_15, i_16, Sub, 1.0
+R, S_3, =_7, Right, 1.0
+R, S_3, B_5, Sub, 1.0
+R, X_12, F_15, Right, 1.0
+R, X_12, i_13, Sup, 1.0
+R, \int_9, M_10, Sub, 1.0
+R, \int_9, X_12, Right, 1.0

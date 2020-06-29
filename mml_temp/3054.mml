@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>g</mi><mo stretchy="false" form="prefix">(</mo><mi>τ</mi><mo stretchy="false" form="postfix">)</mo><mo>=</mo><mfrac><mrow><msub><mi>A</mi><mi>T</mi></msub><mo>+</mo><mi>B</mi></mrow><mrow><msub><mi>C</mi><mi>T</mi></msub><mo>+</mo><mi>D</mi></mrow></mfrac><mo>,</mo><mi>A</mi><mi>D</mi><mo>−</mo><mi>B</mi><mi>C</mi><mo>=</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">\begin{equation}
+    g ( \tau ) = \frac { A _ { T } + B } { C _ { T } + D } , A D - B C = 1
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

@@ -1,0 +1,3 @@
+\begin{equation}
+	H = \{ \sqrt { \psi } \propto \angle _ { n } \vert D _ { k } \sqrt { \psi } = 0 \}
+\end{equation}

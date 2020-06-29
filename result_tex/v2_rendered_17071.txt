@@ -1,0 +1,3 @@
+\begin{equation}
+	S _ { 0 } = - \int d \tau p _ { - } \frac { d x ^ { - } } { d \tau }
+\end{equation}

@@ -1,0 +1,111 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_22466</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msub><mi xml:id="D_3">D</mi><mi xml:id="\mu_4">μ</mi></msub><msup><mi xml:id="\beta_6">β</mi><mi xml:id="a_7">a</mi></msup><mo xml:id="=_8">=</mo><msub><mi xml:id="\Delta_10">Δ</mi><mi xml:id="\mu_11">μ</mi></msub><msup><mi xml:id="\beta_13">β</mi><mi xml:id="a_14">a</mi></msup><mo xml:id="-_15">−</mo><mi xml:id="g_16">g</mi><msub><mi xml:id="\tau_18">τ</mi><mrow><mi xml:id="a_20">a</mi><mi xml:id="b_21">b</mi><mi xml:id="c_22">c</mi></mrow></msub><msubsup><mi xml:id="ω_24">ω</mi><mi xml:id="\mu_25">μ</mi><mi xml:id="b_26">b</mi></msubsup><msup><mi xml:id="\beta_28">β</mi><mi xml:id="c_29">c</mi></msup></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">D</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="D_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\mu_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\beta</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\beta_6"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">a</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="a_7"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="=_8"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\Delta</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\Delta_10"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="\mu_11"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\beta</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\beta_13"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">a</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="a_14"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="-_15"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">g</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="g_16"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">\tau</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="\tau_18"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">a</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="a_20"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">b</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="b_21"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">c</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="c_22"/>
+	</traceGroup>
+ <traceGroup xml:id="16">
+    <annotation type="truth">ω</annotation>
+	<traceView traceDataRef="15"/>
+    <annotationXML href="ω_24"/>
+	</traceGroup>
+ <traceGroup xml:id="17">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="16"/>
+    <annotationXML href="\mu_25"/>
+	</traceGroup>
+ <traceGroup xml:id="18">
+    <annotation type="truth">b</annotation>
+	<traceView traceDataRef="17"/>
+    <annotationXML href="b_26"/>
+	</traceGroup>
+ <traceGroup xml:id="19">
+    <annotation type="truth">\beta</annotation>
+	<traceView traceDataRef="18"/>
+    <annotationXML href="\beta_28"/>
+	</traceGroup>
+ <traceGroup xml:id="20">
+    <annotation type="truth">c</annotation>
+	<traceView traceDataRef="19"/>
+    <annotationXML href="c_29"/>
+	</traceGroup>
+</traceGroup>
+</ink>

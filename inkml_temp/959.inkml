@@ -1,0 +1,111 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">959</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msub><msqrt xml:id="_3"><mi xml:id="\Delta_4">Δ</mi></msqrt><mi xml:id="\varepsilon_5">ε</mi></msub><msub><msqrt xml:id="_7"><mi xml:id="\Delta_8">Δ</mi></msqrt><mrow><mo xml:id="+_10">+</mo><mo xml:id="+_11">+</mo></mrow></msub><msqrt xml:id="_12"><mi xml:id="u_13">u</mi></msqrt><mo xml:id="=_14">=</mo><msup><mi xml:id="e_16">e</mi><mrow><mn xml:id="2_18">2</mn><msqrt xml:id="_19"><mi xml:id="u_20">u</mi></msqrt></mrow></msup><msub><msqrt xml:id="_22"><mi xml:id="F_23">F</mi></msqrt><mi xml:id="L_24">L</mi></msub><msub><msqrt xml:id="_26"><mi xml:id="F_27">F</mi></msqrt><mi xml:id="R_28">R</mi></msub></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\Delta</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\Delta_4"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\varepsilon</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\varepsilon_5"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\Delta</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\Delta_8"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">+</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="+_10"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">+</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="+_11"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">u</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="u_13"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="=_14"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">e</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="e_16"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">2</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="2_18"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">u</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="u_20"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">F</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="F_23"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">L</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="L_24"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">F</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="F_27"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">R</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="R_28"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="_3"/>
+	</traceGroup>
+ <traceGroup xml:id="16">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="15"/>
+    <annotationXML href="_7"/>
+	</traceGroup>
+ <traceGroup xml:id="17">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="16"/>
+    <annotationXML href="_12"/>
+	</traceGroup>
+ <traceGroup xml:id="18">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="17"/>
+    <annotationXML href="_19"/>
+	</traceGroup>
+ <traceGroup xml:id="19">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="18"/>
+    <annotationXML href="_22"/>
+	</traceGroup>
+ <traceGroup xml:id="20">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="19"/>
+    <annotationXML href="_26"/>
+	</traceGroup>
+</traceGroup>
+</ink>

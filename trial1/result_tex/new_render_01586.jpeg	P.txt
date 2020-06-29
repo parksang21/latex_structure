@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \delta x } \leqq \frac { k ^ { 3 } } { 2 \pi ^ { 2 } } \vert \delta x \vert ^ { 2 }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\langle \csqrts ) ^ { ( T ) } = \lim _ { L \rightarrow \infty } \langle \csqrts ) ^ { ( T , L ) }
+\end{equation}

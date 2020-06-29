@@ -1,0 +1,35 @@
+# IUD, v2_rendered_02091
+# Objects(16):
+O, 0_12, 0, 1.0, ORRSub
+O, [_18, [, 1.0, ORRRRSup
+O, ]_8, ], 1.0, OSupRR
+O, +_7, +, 1.0, OSupR
+O, ]_20, ], 1.0, ORRRRSupRR
+O, e_19, e, 1.0, ORRRRSupR
+O, \rangle_13, \rangle, 1.0, ORRR
+O, g_16, g, 1.0, ORRRRSub
+O, [_6, [, 1.0, OSup
+O, g_4, g, 1.0, OSub
+O, \rho_15, \rho, 1.0, ORRRR
+O, -_9, -, 1.0, OR
+O, Z_11, Z, 1.0, ORR
+O, \gt_21, \gt, 1.0, ORRRRR
+O, \rho_3, \rho, 1.0, O
+O, 0_22, 0, 1.0, ORRRRRR
+
+# Relations from SRT:
+R, +_7, ]_8, Right, 1.0
+R, -_9, Z_11, Right, 1.0
+R, Z_11, 0_12, Sub, 1.0
+R, Z_11, \rangle_13, Right, 1.0
+R, [_18, e_19, Right, 1.0
+R, [_6, +_7, Right, 1.0
+R, \gt_21, 0_22, Right, 1.0
+R, \rangle_13, \rho_15, Right, 1.0
+R, \rho_15, [_18, Sup, 1.0
+R, \rho_15, \gt_21, Right, 1.0
+R, \rho_15, g_16, Sub, 1.0
+R, \rho_3, -_9, Right, 1.0
+R, \rho_3, [_6, Sup, 1.0
+R, \rho_3, g_4, Sub, 1.0
+R, e_19, ]_20, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	\sqrt { g } = [ \sin ( \rho - \alpha ) J _ { 2 } - \cos ( \rho - \alpha ) J _ { 1 } ]
+\end{equation}

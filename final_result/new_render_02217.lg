@@ -1,0 +1,47 @@
+# IUD, new_render_02217
+# Objects(22):
+O, f_21, f, 1.0, ORRRRRRRRRRRRR
+O, )_10, ), 1.0, ORRRRRR
+O, q_24, q, 1.0, ORRRRRRRRRRRRRRRR
+O, COMMA_8, COMMA, 1.0, ORRRR
+O, r_16, r, 1.0, ORRRRRRRRRR
+O, f_9, f, 1.0, ORRRRR
+O, )_22, ), 1.0, ORRRRRRRRRRRRRR
+O, \Delta_2, \Delta, 1.0, O
+O, \Delta_13, \Delta, 1.0, ORRRRRRRR
+O, q_7, q, 1.0, ORRRSub
+O, \leqq_11, \leqq, 1.0, ORRRRRRR
+O, (_15, (, 1.0, ORRRRRRRRR
+O, 0_26, 0, 1.0, ORRRRRRRRRRRRRRRRRR
+O, COMMA_20, COMMA, 1.0, ORRRRRRRRRRRR
+O, W_14, W, 1.0, ORRRRRRRRSub
+O, \exists_23, \exists, 1.0, ORRRRRRRRRRRRRRR
+O, ω_6, ω, 1.0, ORRR
+O, (_3, (, 1.0, OR
+O, q_19, q, 1.0, ORRRRRRRRRRRSub
+O, ω_18, ω, 1.0, ORRRRRRRRRRR
+O, \geq_25, \geq, 1.0, ORRRRRRRRRRRRRRRRR
+O, r_4, r, 1.0, ORR
+
+# Relations from SRT:
+R, (_15, r_16, Right, 1.0
+R, (_3, r_4, Right, 1.0
+R, )_10, \leqq_11, Right, 1.0
+R, )_22, \exists_23, Right, 1.0
+R, COMMA_20, f_21, Right, 1.0
+R, COMMA_8, f_9, Right, 1.0
+R, \Delta_13, (_15, Right, 1.0
+R, \Delta_13, W_14, Sub, 1.0
+R, \Delta_2, (_3, Right, 1.0
+R, \exists_23, q_24, Right, 1.0
+R, \geq_25, 0_26, Right, 1.0
+R, \leqq_11, \Delta_13, Right, 1.0
+R, f_21, )_22, Right, 1.0
+R, f_9, )_10, Right, 1.0
+R, q_24, \geq_25, Right, 1.0
+R, r_16, ω_18, Right, 1.0
+R, r_4, ω_6, Right, 1.0
+R, ω_18, COMMA_20, Right, 1.0
+R, ω_18, q_19, Sub, 1.0
+R, ω_6, COMMA_8, Right, 1.0
+R, ω_6, q_7, Sub, 1.0

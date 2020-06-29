@@ -1,0 +1,31 @@
+# IUD, v2_rendered_20225
+# Objects(14):
+O, \mu_18, \mu, 1.0, ORRSupRRR
+O, (_15, (, 1.0, ORRSup
+O, COMMA_7, COMMA, 1.0, OSupRR
+O, )_9, ), 1.0, OSupRRRR
+O, _12, \sqrt, 1.0, ORR
+O, (_5, (, 1.0, OSup
+O, )_19, ), 1.0, ORRSupRRRR
+O, \lambda_6, \lambda, 1.0, OSupR
+O, \triangle_3, \triangle, 1.0, O
+O, COMMA_17, COMMA, 1.0, ORRSupRR
+O, \geq_10, \geq, 1.0, OR
+O, \lambda_16, \lambda, 1.0, ORRSupR
+O, \triangle_13, \triangle, 1.0, ORRInside
+O, \mu_8, \mu, 1.0, OSupRRR
+
+# Relations from SRT:
+R, (_15, \lambda_16, Right, 1.0
+R, (_5, \lambda_6, Right, 1.0
+R, COMMA_17, \mu_18, Right, 1.0
+R, COMMA_7, \mu_8, Right, 1.0
+R, \geq_10, _12, Right, 1.0
+R, \lambda_16, COMMA_17, Right, 1.0
+R, \lambda_6, COMMA_7, Right, 1.0
+R, \mu_18, )_19, Right, 1.0
+R, \mu_8, )_9, Right, 1.0
+R, \triangle_3, (_5, Sup, 1.0
+R, \triangle_3, \geq_10, Right, 1.0
+R, _12, (_15, Sup, 1.0
+R, _12, \triangle_13, Inside, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	( x ^ { \mu } - z ^ { \mu } ( \tau ) ) ( x _ { \mu } - z _ { \mu } ( \tau ) ) = 0
+\end{equation}

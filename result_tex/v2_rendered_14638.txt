@@ -1,0 +1,3 @@
+\begin{equation}
+	I _ { S } \osqrt O _ { T } \rightarrow O _ { T }
+\end{equation}

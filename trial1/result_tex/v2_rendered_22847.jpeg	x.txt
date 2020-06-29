@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { H } = - \frac { 1 } { 2 \lambda } \log \frac { M } { 2 \lambda }
+\end{equation}

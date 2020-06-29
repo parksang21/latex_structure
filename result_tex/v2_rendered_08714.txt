@@ -1,0 +1,3 @@
+\begin{equation}
+	\phi ^ { a } = \phi ^ { a } ( x ) , a = 1 , 2 , \csqrts , d
+\end{equation}

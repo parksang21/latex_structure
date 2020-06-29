@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { 1 } { 2 } \varphi G ^ { - 1 } \varphi - \frac { \lambda } { 4 ! } \varphi ^ { 4 } - \frac { 1 } { 2 } Q \phi
+\end{equation}

@@ -1,0 +1,37 @@
+# IUD, v2_rendered_06102
+# Objects(17):
+O, c_9, c, 1.0, ORSupR
+O, _12, -, 1.0, ORRR
+O, N_23, N, 1.0, ORRRR
+O, \Delta_3, \Delta, 1.0, O
+O, 1_13, 1, 1.0, ORRRAbove
+O, \theta_6, \theta, 1.0, OR
+O, c_15, c, 1.0, ORRRBelow
+O, p_4, p, 1.0, OSub
+O, )_19, ), 1.0, ORRRBelowRRRR
+O, !_20, !, 1.0, ORRRBelowRRRRR
+O, *_21, *, 1.0, ORRRSup
+O, p_8, p, 1.0, ORSup
+O, =_10, =, 1.0, ORR
+O, q_16, q, 1.0, ORRRBelowR
+O, /_17, /, 1.0, ORRRBelowRR
+O, 2_18, 2, 1.0, ORRRBelowRRR
+O, c_24, c, 1.0, ORRRRSup
+
+# Relations from SRT:
+R, )_19, !_20, Right, 1.0
+R, /_17, 2_18, Right, 1.0
+R, 2_18, )_19, Right, 1.0
+R, =_10, _12, Right, 1.0
+R, N_23, c_24, Sup, 1.0
+R, \Delta_3, \theta_6, Right, 1.0
+R, \Delta_3, p_4, Sub, 1.0
+R, \theta_6, =_10, Right, 1.0
+R, \theta_6, p_8, Sup, 1.0
+R, _12, *_21, Sup, 1.0
+R, _12, 1_13, Above, 1.0
+R, _12, N_23, Right, 1.0
+R, _12, c_15, Below, 1.0
+R, c_15, q_16, Right, 1.0
+R, p_8, c_9, Right, 1.0
+R, q_16, /_17, Right, 1.0

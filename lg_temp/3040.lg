@@ -1,0 +1,47 @@
+# IUD, 3040
+# Objects(22):
+O, M_2, M, 1.0, 0
+O, (_11, (, 1.0, 8
+O, 1_10, 1, 1.0, 7
+O, )_13, ), 1.0, 10
+O, /_23, /, 1.0, 20
+O, \pi_9, \pi, 1.0, 6
+O, H_4, H, 1.0, 2
+O, m_6, m, 1.0, 4
+O, O_16, O, 1.0, 13
+O, )_21, ), 1.0, 18
+O, 1_20, 1, 1.0, 17
+O, (_17, (, 1.0, 14
+O, S_15, S, 1.0, 12
+O, =_3, =, 1.0, 1
+O, (_7, (, 1.0, 5
+O, COMMA_14, COMMA, 1.0, 11
+O, COMMA_19, COMMA, 1.0, 16
+O, \Omega_12, \Omega, 1.0, 9
+O, )_22, ), 1.0, 19
+O, 3_18, 3, 1.0, 15
+O, o_5, o, 1.0, 3
+O, \sim_24, \sim, 1.0, 21
+
+# Relations from SRT:
+R, (_11, \Omega_12, Right, 1.0
+R, (_17, 3_18, Right, 1.0
+R, (_7, \pi_9, Right, 1.0
+R, )_13, COMMA_14, Right, 1.0
+R, )_21, )_22, Right, 1.0
+R, )_22, /_23, Right, 1.0
+R, /_23, \sim_24, Right, 1.0
+R, 1_20, )_21, Right, 1.0
+R, 3_18, COMMA_19, Right, 1.0
+R, =_3, H_4, Right, 1.0
+R, COMMA_14, S_15, Right, 1.0
+R, COMMA_19, 1_20, Right, 1.0
+R, H_4, o_5, Right, 1.0
+R, M_2, =_3, Right, 1.0
+R, O_16, (_17, Right, 1.0
+R, S_15, O_16, Right, 1.0
+R, \Omega_12, )_13, Right, 1.0
+R, \pi_9, (_11, Right, 1.0
+R, \pi_9, 1_10, Sub, 1.0
+R, m_6, (_7, Right, 1.0
+R, o_5, m_6, Right, 1.0

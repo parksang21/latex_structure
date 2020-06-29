@@ -1,0 +1,33 @@
+# IUD, v2_rendered_05426
+# Objects(15):
+O, i_8, i, 1.0, ORRRRBelow
+O, \rangle_18, \rangle, 1.0, ORRRRRRRRRR
+O, \rangle_4, \rangle, 1.0, ORR
+O, _15, \sqrt, 1.0, ORRRRRRRRR
+O, \vert_14, \vert, 1.0, ORRRRRRRR
+O, \rangle_12, \rangle, 1.0, ORRRRRRR
+O, 2_19, 2, 1.0, ORRRRRRRRRRSub
+O, \vert_9, \vert, 1.0, ORRRRR
+O, \sum_7, \sum, 1.0, ORRRR
+O, =_5, =, 1.0, ORRR
+O, 1_13, 1, 1.0, ORRRRRRRSub
+O, i_16, i, 1.0, ORRRRRRRRRInside
+O, i_10, i, 1.0, ORRRRRR
+O, \vert_2, \vert, 1.0, O
+O, \psi_3, \psi, 1.0, OR
+
+# Relations from SRT:
+R, =_5, \sum_7, Right, 1.0
+R, \psi_3, \rangle_4, Right, 1.0
+R, \rangle_12, 1_13, Sub, 1.0
+R, \rangle_12, \vert_14, Right, 1.0
+R, \rangle_18, 2_19, Sub, 1.0
+R, \rangle_4, =_5, Right, 1.0
+R, \sum_7, \vert_9, Right, 1.0
+R, \sum_7, i_8, Below, 1.0
+R, \vert_14, _15, Right, 1.0
+R, \vert_2, \psi_3, Right, 1.0
+R, \vert_9, i_10, Right, 1.0
+R, _15, \rangle_18, Right, 1.0
+R, _15, i_16, Inside, 1.0
+R, i_10, \rangle_12, Right, 1.0

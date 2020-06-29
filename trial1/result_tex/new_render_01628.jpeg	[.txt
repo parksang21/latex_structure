@@ -1,0 +1,3 @@
+\begin{equation}
+	K _ { a } , P _ { b } ] \geqq - m \delta _ { a b } \cdot P _ { + }
+\end{equation}

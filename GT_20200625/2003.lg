@@ -1,0 +1,45 @@
+# IUD, 2003
+# Objects(21):
+O, u_17, u, 1.0, ORRRRRBelow
+O, (_19, (, 1.0, ORRRRRRR
+O, )_13, ), 1.0, ORRRR
+O, 6_6, 6, 1.0, OBelowSup
+O, +_18, +, 1.0, ORRRRRR
+O, F_3, F, 1.0, OAbove
+O, )_24, ), 1.0, ORRRRRRRRR
+O, w_16, w, 1.0, ORRRRRAbove
+O, u_22, u, 1.0, ORRRRRRRRBelow
+O, _2, -, 1.0, O
+O, 3_14, 3, 1.0, ORRRRSup
+O, _15, -, 1.0, ORRRRR
+O, u_11, u, 1.0, ORRRBelow
+O, v_21, v, 1.0, ORRRRRRRRAbove
+O, _9, -, 1.0, ORRR
+O, 2_25, 2, 1.0, ORRRRRRRRRSup
+O, v_10, v, 1.0, ORRRAbove
+O, u_5, u, 1.0, OBelow
+O, _20, -, 1.0, ORRRRRRRR
+O, (_8, (, 1.0, ORR
+O, =_7, =, 1.0, OR
+
+# Relations from SRT:
+R, (_19, _20, Right, 1.0
+R, (_8, _9, Right, 1.0
+R, )_13, 3_14, Sup, 1.0
+R, )_13, _15, Right, 1.0
+R, )_24, 2_25, Sup, 1.0
+R, +_18, (_19, Right, 1.0
+R, =_7, (_8, Right, 1.0
+R, _15, +_18, Right, 1.0
+R, _15, u_17, Below, 1.0
+R, _15, w_16, Above, 1.0
+R, _20, )_24, Right, 1.0
+R, _20, u_22, Below, 1.0
+R, _20, v_21, Above, 1.0
+R, _2, =_7, Right, 1.0
+R, _2, F_3, Above, 1.0
+R, _2, u_5, Below, 1.0
+R, _9, )_13, Right, 1.0
+R, _9, u_11, Below, 1.0
+R, _9, v_10, Above, 1.0
+R, u_5, 6_6, Sup, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	= \int d ^ { D } x d ^ { D _ { G } } \theta \tilde { F } ( x , \theta )
+\end{equation}

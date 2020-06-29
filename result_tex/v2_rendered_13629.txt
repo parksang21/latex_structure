@@ -1,0 +1,3 @@
+\begin{equation}
+	\delta x ^ { u } = n _ { \not\subset } ^ { \mu } \delta x ^ { \not\subset } + n _ { 1 } ^ { \mu } \delta x \vert
+\end{equation}

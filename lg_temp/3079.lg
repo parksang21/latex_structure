@@ -1,0 +1,49 @@
+# IUD, 3079
+# Objects(23):
+O, \int_5, \int, 1.0, 2
+O, )_25, ), 1.0, 21
+O, d_10, d, 1.0, 6
+O, \delta_23, \delta, 1.0, 19
+O, (_22, (, 1.0, 18
+O, \delta_20, \delta, 1.0, 16
+O, x_13, x, 1.0, 9
+O, L_21, L, 1.0, 17
+O, \mu_24, \mu, 1.0, 20
+O, (_16, (, 1.0, 12
+O, S_2, S, 1.0, 0
+O, d_12, d, 1.0, 8
+O, x_8, x, 1.0, 4
+O, +_19, +, 1.0, 15
+O, T_7, T, 1.0, 3
+O, =_3, =, 1.0, 1
+O, )_18, ), 1.0, 14
+O, m_17, m, 1.0, 13
+O, L_9, L, 1.0, 5
+O, (_14, (, 1.0, 10
+O, L_15, L, 1.0, 11
+O, )_26, ), 1.0, 22
+O, t_11, t, 1.0, 7
+
+# Relations from SRT:
+R, (_14, L_15, Right, 1.0
+R, (_16, m_17, Right, 1.0
+R, (_22, \delta_23, Right, 1.0
+R, )_18, +_19, Right, 1.0
+R, )_25, )_26, Right, 1.0
+R, +_19, \delta_20, Right, 1.0
+R, =_3, \int_5, Right, 1.0
+R, L_15, (_16, Right, 1.0
+R, L_21, (_22, Right, 1.0
+R, S_2, =_3, Right, 1.0
+R, T_7, x_8, Right, 1.0
+R, \delta_20, L_21, Right, 1.0
+R, \delta_23, \mu_24, Right, 1.0
+R, \int_5, T_7, Sub, 1.0
+R, \int_5, d_10, Right, 1.0
+R, \mu_24, )_25, Right, 1.0
+R, d_10, t_11, Right, 1.0
+R, d_12, x_13, Right, 1.0
+R, m_17, )_18, Right, 1.0
+R, t_11, d_12, Right, 1.0
+R, x_13, (_14, Right, 1.0
+R, x_8, L_9, Right, 1.0

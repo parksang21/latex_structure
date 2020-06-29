@@ -1,0 +1,19 @@
+# IUD, v2_rendered_10547
+# Objects(8):
+O, \notin_4, \notin, 1.0, ORR
+O, d_2, d, 1.0, O
+O, R_11, R, 1.0, ORRRRR
+O, R_6, R, 1.0, ORRR
+O, -_8, -, 1.0, ORRRSup
+O, 4_9, 4, 1.0, ORRRSupR
+O, n_3, n, 1.0, OR
+O, d_10, d, 1.0, ORRRR
+
+# Relations from SRT:
+R, -_8, 4_9, Right, 1.0
+R, R_6, -_8, Sup, 1.0
+R, R_6, d_10, Right, 1.0
+R, \notin_4, R_6, Right, 1.0
+R, d_10, R_11, Right, 1.0
+R, d_2, n_3, Right, 1.0
+R, n_3, \notin_4, Right, 1.0

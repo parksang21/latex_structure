@@ -1,0 +1,33 @@
+# IUD, v2_rendered_13619
+# Objects(15):
+O, _11, -, 1.0, ORRRR
+O, \Delta_14, \Delta, 1.0, ORRRRAbove
+O, A_8, A, 1.0, ORR
+O, T_5, T, 1.0, OSup
+O, A_3, A, 1.0, O
+O, \mu_4, \mu, 1.0, OSub
+O, -_10, -, 1.0, ORRR
+O, \mu_9, \mu, 1.0, ORRSub
+O, \varepsilon_18, \varepsilon, 1.0, ORRRRAboveRSub
+O, =_6, =, 1.0, OR
+O, \varepsilon_22, \varepsilon, 1.0, ORRRRRSub
+O, \mu_15, \mu, 1.0, ORRRRAboveSub
+O, A_21, A, 1.0, ORRRRR
+O, \Delta_17, \Delta, 1.0, ORRRRAboveR
+O, \angle_19, \angle, 1.0, ORRRRBelow
+
+# Relations from SRT:
+R, -_10, _11, Right, 1.0
+R, =_6, A_8, Right, 1.0
+R, A_21, \varepsilon_22, Sub, 1.0
+R, A_3, =_6, Right, 1.0
+R, A_3, T_5, Sup, 1.0
+R, A_3, \mu_4, Sub, 1.0
+R, A_8, -_10, Right, 1.0
+R, A_8, \mu_9, Sub, 1.0
+R, \Delta_14, \Delta_17, Right, 1.0
+R, \Delta_14, \mu_15, Sub, 1.0
+R, \Delta_17, \varepsilon_18, Sub, 1.0
+R, _11, A_21, Right, 1.0
+R, _11, \Delta_14, Above, 1.0
+R, _11, \angle_19, Below, 1.0

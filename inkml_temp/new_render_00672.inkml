@@ -1,0 +1,56 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">new_render_00672</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mo form="postfix" stretchy="false" xml:id="\vert_2">|</mo><msub><mi xml:id="y_4">y</mi><mi xml:id="H_5">H</mi></msub><mo form="postfix" stretchy="false" xml:id="\vert_6">|</mo><mo xml:id="\leq_7">≤</mo><mi xml:id="u_8">u</mi><mo xml:id=",_9">,</mo><mo xml:id="\therefore_10">∴</mo><mi xml:id="H_11">H</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\vert</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\vert_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">y</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="y_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">H</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="H_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\vert</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\vert_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">\leq</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="\leq_7"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">u</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="u_8"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">,</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href=",_9"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\therefore</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\therefore_10"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">H</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="H_11"/>
+	</traceGroup>
+</traceGroup>
+</ink>

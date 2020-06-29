@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { 2 } = \frac { \omega ^ { 2 } + \sqrt { \omega ^ { 4 } + 2 g ^ { 2 } } } { 2 }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { A } ^ { i } = \rho _ { i j k } \bar { f } _ { A } ^ { j } \bar { C } ^ { k }
+\end{equation}

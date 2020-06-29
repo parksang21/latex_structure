@@ -1,0 +1,3 @@
+\begin{equation}
+	c _ { 3 } = \frac { 1 } { 4 } \mu ^ { i \gamma } c _ { 1 } \forall \gamma
+\end{equation}

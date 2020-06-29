@@ -1,0 +1,37 @@
+# IUD, v2_rendered_21316
+# Objects(17):
+O, s_12, s, 1.0, 10
+O, s_3, s, 1.0, 1
+O, \geq_9, \geq, 1.0, 7
+O, \gt_17, \gt, 1.0, 15
+O, Z_14, Z, 1.0, 12
+O, \vert_10, \vert, 1.0, 8
+O, H_5, H, 1.0, 3
+O, \vert_6, \vert, 1.0, 4
+O, \langle_2, \langle, 1.0, 0
+O, \langle_11, \langle, 1.0, 9
+O, \rangle_8, \rangle, 1.0, 6
+O, \vert_4, \vert, 1.0, 2
+O, s_16, s, 1.0, 14
+O, 1_18, 1, 1.0, 16
+O, (_15, (, 1.0, 13
+O, \vert_13, \vert, 1.0, 11
+O, s_7, s, 1.0, 5
+
+# Relations from SRT:
+R, (_15, s_16, Right, 1.0
+R, H_5, \vert_6, Right, 1.0
+R, Z_14, (_15, Right, 1.0
+R, \geq_9, \vert_10, Right, 1.0
+R, \gt_17, 1_18, Right, 1.0
+R, \langle_11, s_12, Right, 1.0
+R, \langle_2, s_3, Right, 1.0
+R, \rangle_8, \geq_9, Right, 1.0
+R, \vert_10, \langle_11, Right, 1.0
+R, \vert_13, Z_14, Right, 1.0
+R, \vert_4, H_5, Right, 1.0
+R, \vert_6, s_7, Right, 1.0
+R, s_12, \vert_13, Right, 1.0
+R, s_16, \gt_17, Right, 1.0
+R, s_3, \vert_4, Right, 1.0
+R, s_7, \rangle_8, Right, 1.0

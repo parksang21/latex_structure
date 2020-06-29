@@ -1,0 +1,41 @@
+# IUD, v2_rendered_19890
+# Objects(19):
+O, !_21, !, 1.0, ORRRRRRAboveRR
+O, K_25, K, 1.0, ORRRRRRBelowR
+O, \vert_23, \vert, 1.0, ORRRRRRBelow
+O, \equiv_7, \equiv, 1.0, ORRRRR
+O, K_18, K, 1.0, ORRRRRRAboveSubRR
+O, \langle_2, \langle, 1.0, O
+O, _8, -, 1.0, ORRRRRR
+O, \vert_4, \vert, 1.0, ORR
+O, \varepsilon_11, \varepsilon, 1.0, ORRRRRRAbove
+O, \delta_5, \delta, 1.0, ORRR
+O, COMMA_16, COMMA, 1.0, ORRRRRRAboveSubR
+O, K_14, K, 1.0, ORRRRRRAboveSub
+O, \rangle_6, \rangle, 1.0, ORRRR
+O, b_20, b, 1.0, ORRRRRRAboveR
+O, \vert_27, \vert, 1.0, ORRRRRRBelowRR
+O, \lambda_26, \lambda, 1.0, ORRRRRRBelowRSub
+O, \delta_19, \delta, 1.0, ORRRRRRAboveSubRRSub
+O, \lambda_15, \lambda, 1.0, ORRRRRRAboveSubSub
+O, \lambda_3, \lambda, 1.0, OR
+
+# Relations from SRT:
+R, COMMA_16, K_18, Right, 1.0
+R, K_14, COMMA_16, Right, 1.0
+R, K_14, \lambda_15, Sub, 1.0
+R, K_18, \delta_19, Sub, 1.0
+R, K_25, \lambda_26, Sub, 1.0
+R, K_25, \vert_27, Right, 1.0
+R, \delta_5, \rangle_6, Right, 1.0
+R, \equiv_7, _8, Right, 1.0
+R, \lambda_3, \vert_4, Right, 1.0
+R, \langle_2, \lambda_3, Right, 1.0
+R, \rangle_6, \equiv_7, Right, 1.0
+R, \varepsilon_11, K_14, Sub, 1.0
+R, \varepsilon_11, b_20, Right, 1.0
+R, \vert_23, K_25, Right, 1.0
+R, \vert_4, \delta_5, Right, 1.0
+R, _8, \varepsilon_11, Above, 1.0
+R, _8, \vert_23, Below, 1.0
+R, b_20, !_21, Right, 1.0

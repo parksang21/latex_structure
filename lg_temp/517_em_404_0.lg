@@ -1,0 +1,7 @@
+# IUD, 517_em_404_0
+# Objects(2):
+O, p_2, p, 1.0, 0
+O, a_3, a, 1.0, 1
+
+# Relations from SRT:
+R, p_2, a_3, Sub, 1.0

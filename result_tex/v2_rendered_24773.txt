@@ -1,0 +1,3 @@
+\begin{equation}
+	K = - \ln \sigma ( \sqrt { s } - s ) - \ln X ^ { I } \varepsilon _ { 2 J } \sqrt { X } ^ { 3 }
+\end{equation}

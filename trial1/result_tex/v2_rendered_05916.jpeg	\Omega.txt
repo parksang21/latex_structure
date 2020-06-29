@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { U V } \Omega _ { V W } \Omega _ { W U } \leq i d
+\end{equation}

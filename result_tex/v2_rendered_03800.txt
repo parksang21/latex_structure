@@ -1,0 +1,3 @@
+\begin{equation}
+	1 + \frac { 2 \pi \tau G } { 9 \alpha } \subset 0
+\end{equation}

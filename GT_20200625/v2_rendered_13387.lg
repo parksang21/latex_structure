@@ -1,0 +1,35 @@
+# IUD, v2_rendered_13387
+# Objects(16):
+O, )_17, ), 1.0, ORRRRRRRRRRRRRRR
+O, )_10, ), 1.0, ORRRRRRRR
+O, R_5, R, 1.0, ORRR
+O, W_7, W, 1.0, ORRRRR
+O, M_2, M, 1.0, O
+O, z_9, z, 1.0, ORRRRRRR
+O, \leftrightarrow_3, \leftrightarrow, 1.0, OR
+O, \leftrightarrow_6, \leftrightarrow, 1.0, ORRRR
+O, (_13, (, 1.0, ORRRRRRRRRRR
+O, W_12, W, 1.0, ORRRRRRRRRR
+O, \otimes_15, \otimes, 1.0, ORRRRRRRRRRRRR
+O, z_16, z, 1.0, ORRRRRRRRRRRRRR
+O, (_8, (, 1.0, ORRRRRR
+O, \leftrightarrow_11, \leftrightarrow, 1.0, ORRRRRRRRR
+O, M_4, M, 1.0, ORR
+O, R_14, R, 1.0, ORRRRRRRRRRRR
+
+# Relations from SRT:
+R, (_13, R_14, Right, 1.0
+R, (_8, z_9, Right, 1.0
+R, )_10, \leftrightarrow_11, Right, 1.0
+R, M_2, \leftrightarrow_3, Right, 1.0
+R, M_4, R_5, Right, 1.0
+R, R_14, \otimes_15, Right, 1.0
+R, R_5, \leftrightarrow_6, Right, 1.0
+R, W_12, (_13, Right, 1.0
+R, W_7, (_8, Right, 1.0
+R, \leftrightarrow_11, W_12, Right, 1.0
+R, \leftrightarrow_3, M_4, Right, 1.0
+R, \leftrightarrow_6, W_7, Right, 1.0
+R, \otimes_15, z_16, Right, 1.0
+R, z_16, )_17, Right, 1.0
+R, z_9, )_10, Right, 1.0

@@ -1,0 +1,39 @@
+# IUD, v2_rendered_00448
+# Objects(18):
+O, \alpha_17, \alpha, 1.0, ORRRRSub
+O, =_10, =, 1.0, ORR
+O, \gt_21, \gt, 1.0, ORRRRRRR
+O, v_12, v, 1.0, ORRR
+O, \alpha_13, \alpha, 1.0, ORRRSub
+O, \alpha_8, \alpha, 1.0, ORSub
+O, k_18, k, 1.0, ORRRRSup
+O, k_14, k, 1.0, ORRRSup
+O, \rho_23, \rho, 1.0, ORRRRRRRR
+O, 0_9, 0, 1.0, ORSup
+O, \rho_20, \rho, 1.0, ORRRRRR
+O, v_7, v, 1.0, OR
+O, 0_5, 0, 1.0, OSup
+O, COMMA_19, COMMA, 1.0, ORRRRR
+O, v_3, v, 1.0, O
+O, \alpha_4, \alpha, 1.0, OSub
+O, c_24, c, 1.0, ORRRRRRRRSub
+O, v_16, v, 1.0, ORRRR
+
+# Relations from SRT:
+R, =_10, v_12, Right, 1.0
+R, COMMA_19, \rho_20, Right, 1.0
+R, \gt_21, \rho_23, Right, 1.0
+R, \rho_20, \gt_21, Right, 1.0
+R, \rho_23, c_24, Sub, 1.0
+R, v_12, \alpha_13, Sub, 1.0
+R, v_12, k_14, Sup, 1.0
+R, v_12, v_16, Right, 1.0
+R, v_16, COMMA_19, Right, 1.0
+R, v_16, \alpha_17, Sub, 1.0
+R, v_16, k_18, Sup, 1.0
+R, v_3, 0_5, Sup, 1.0
+R, v_3, \alpha_4, Sub, 1.0
+R, v_3, v_7, Right, 1.0
+R, v_7, 0_9, Sup, 1.0
+R, v_7, =_10, Right, 1.0
+R, v_7, \alpha_8, Sub, 1.0

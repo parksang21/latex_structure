@@ -1,0 +1,3 @@
+\begin{equation}
+	\sqrt { Q } = e ^ { - K } Q _ { B } ( e ^ { k } )
+\end{equation}

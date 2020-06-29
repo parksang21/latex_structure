@@ -1,0 +1,37 @@
+# IUD, v2_rendered_11563
+# Objects(17):
+O, k_4, k, 1.0, OR
+O, \lambda_17, \lambda, 1.0, ORRRRRRRR
+O, \prime_6, \prime, 1.0, ORSup
+O, \prime_20, \prime, 1.0, ORRRRRRRRRSup
+O, -_16, -, 1.0, ORRRRRRR
+O, +_9, +, 1.0, ORR
+O, 0_22, 0, 1.0, ORRRRRRRRRRR
+O, \mu_11, \mu, 1.0, ORRRR
+O, 3_10, 3, 1.0, ORRR
+O, k_12, k, 1.0, ORRRRR
+O, \mu_2, \mu, 1.0, O
+O, \prime_7, \prime, 1.0, ORSupR
+O, \prime_15, \prime, 1.0, ORRRRRRSup
+O, \prime_8, \prime, 1.0, ORSupRR
+O, k_14, k, 1.0, ORRRRRR
+O, =_21, =, 1.0, ORRRRRRRRRR
+O, k_19, k, 1.0, ORRRRRRRRR
+
+# Relations from SRT:
+R, +_9, 3_10, Right, 1.0
+R, -_16, \lambda_17, Right, 1.0
+R, 3_10, \mu_11, Right, 1.0
+R, =_21, 0_22, Right, 1.0
+R, \lambda_17, k_19, Right, 1.0
+R, \mu_11, k_12, Right, 1.0
+R, \mu_2, k_4, Right, 1.0
+R, \prime_6, \prime_7, Right, 1.0
+R, \prime_7, \prime_8, Right, 1.0
+R, k_12, k_14, Right, 1.0
+R, k_14, -_16, Right, 1.0
+R, k_14, \prime_15, Sup, 1.0
+R, k_19, =_21, Right, 1.0
+R, k_19, \prime_20, Sup, 1.0
+R, k_4, +_9, Right, 1.0
+R, k_4, \prime_6, Sup, 1.0

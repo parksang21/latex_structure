@@ -1,0 +1,3 @@
+\begin{equation}
+	\tau _ { p } = \sqrt { \frac { 4 } { \Delta } \mu _ { p } ) }
+\end{equation}

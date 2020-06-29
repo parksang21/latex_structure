@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { A D M } = \mu ( \infty ) \sqrt { 4 \pi } \frac { m _ { P l } } { e }
+\end{equation}

@@ -1,0 +1,37 @@
+# IUD, v2_rendered_17866
+# Objects(17):
+O, \lambda_7, \lambda, 1.0, ORRBelow
+O, d_21, d, 1.0, ORRRRRRRSup
+O, S_19, S, 1.0, ORRRRRRR
+O, D_15, D, 1.0, ORRRRR
+O, 0_9, 0, 1.0, ORRBelowRR
+O, \lambda_16, \lambda, 1.0, ORRRRRSub
+O, I_11, I, 1.0, ORRR
+O, ]_24, ], 1.0, ORRRRRRRR
+O, =_3, =, 1.0, OR
+O, L_12, L, 1.0, ORRRSub
+O, S_2, S, 1.0, O
+O, \lim_5, \lim, 1.0, ORR
+O, [_13, [, 1.0, ORRRR
+O, \times_17, \times, 1.0, ORRRRRR
+O, -_22, -, 1.0, ORRRRRRRSupR
+O, 2_23, 2, 1.0, ORRRRRRRSupRR
+O, \rightarrow_8, \rightarrow, 1.0, ORRBelowR
+
+# Relations from SRT:
+R, -_22, 2_23, Right, 1.0
+R, =_3, \lim_5, Right, 1.0
+R, D_15, \lambda_16, Sub, 1.0
+R, D_15, \times_17, Right, 1.0
+R, I_11, L_12, Sub, 1.0
+R, I_11, [_13, Right, 1.0
+R, S_19, ]_24, Right, 1.0
+R, S_19, d_21, Sup, 1.0
+R, S_2, =_3, Right, 1.0
+R, [_13, D_15, Right, 1.0
+R, \lambda_7, \rightarrow_8, Right, 1.0
+R, \lim_5, I_11, Right, 1.0
+R, \lim_5, \lambda_7, Below, 1.0
+R, \rightarrow_8, 0_9, Right, 1.0
+R, \times_17, S_19, Right, 1.0
+R, d_21, -_22, Right, 1.0

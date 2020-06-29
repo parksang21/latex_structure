@@ -1,0 +1,3 @@
+\begin{equation}
+	\tan x - \tan y = \frac { \sin ( x - y ) } { \cos x \cos y }
+\end{equation}

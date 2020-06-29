@@ -1,0 +1,3 @@
+\begin{equation}
+	A = \sum _ { i } \alpha _ { i } \rangle \langle x _ { i } J , B = \sum _ { = } b _ { i } \rangle \langle y _ { i } J
+\end{equation}

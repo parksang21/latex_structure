@@ -1,0 +1,3 @@
+\begin{equation}
+	Z _ { T } \approx Z _ { 3 } \csqrt Z _ { S i r n o n s } ^ { c h e r m }
+\end{equation}

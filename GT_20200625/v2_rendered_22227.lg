@@ -1,0 +1,37 @@
+# IUD, v2_rendered_22227
+# Objects(17):
+O, COMMA_13, COMMA, 1.0, ORRRR
+O, \mu_5, \mu, 1.0, OSupInside
+O, \psi_12, \psi, 1.0, ORRRSupR
+O, \equiv_6, \equiv, 1.0, OR
+O, -_11, -, 1.0, ORRRSup
+O, e_9, e, 1.0, ORRR
+O, (_7, (, 1.0, ORR
+O, e_15, e, 1.0, ORRRRR
+O, 0_20, 0, 1.0, ORRRRRRR
+O, k_3, k, 1.0, O
+O, -_17, -, 1.0, ORRRRRSup
+O, COMMA_21, COMMA, 1.0, ORRRRRRRR
+O, COMMA_19, COMMA, 1.0, ORRRRRR
+O, _4, \sqrt, 1.0, OSup
+O, 0_22, 0, 1.0, ORRRRRRRRR
+O, \psi_18, \psi, 1.0, ORRRRRSupR
+O, )_23, ), 1.0, ORRRRRRRRRR
+
+# Relations from SRT:
+R, (_7, e_9, Right, 1.0
+R, -_11, \psi_12, Right, 1.0
+R, -_17, \psi_18, Right, 1.0
+R, 0_20, COMMA_21, Right, 1.0
+R, 0_22, )_23, Right, 1.0
+R, COMMA_13, e_15, Right, 1.0
+R, COMMA_19, 0_20, Right, 1.0
+R, COMMA_21, 0_22, Right, 1.0
+R, \equiv_6, (_7, Right, 1.0
+R, _4, \mu_5, Inside, 1.0
+R, e_15, -_17, Sup, 1.0
+R, e_15, COMMA_19, Right, 1.0
+R, e_9, -_11, Sup, 1.0
+R, e_9, COMMA_13, Right, 1.0
+R, k_3, \equiv_6, Right, 1.0
+R, k_3, _4, Sup, 1.0

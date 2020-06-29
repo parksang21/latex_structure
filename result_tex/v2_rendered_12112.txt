@@ -1,0 +1,3 @@
+\begin{equation}
+	J _ { r } ^ { \mu } ( x ) = e \sqrt { \psi } \frac { ( 1 - r \gamma _ { 5 } ) } { 2 } \gamma ^ { \mu } \psi
+\end{equation}

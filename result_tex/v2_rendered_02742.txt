@@ -1,0 +1,3 @@
+\begin{equation}
+	3 2 \rightarrow ( 2 , 8 _ { s } ) \oplus ( 2 , 8 _ { c } ) ,
+\end{equation}

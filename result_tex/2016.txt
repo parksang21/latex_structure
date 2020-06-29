@@ -1,0 +1,3 @@
+\begin{equation}
+	R _ { \alpha \beta } - \frac { 1 } { 2 } g _ { \alpha \beta } R = \beta \theta _ { \alpha \beta }
+\end{equation}

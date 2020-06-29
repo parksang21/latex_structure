@@ -1,0 +1,3 @@
+\begin{equation}
+	\beta F _ { b o s e } \leqq 9 N ^ { 2 } \log [ 2 \sin ( 2 \beta R _ { r m s } ) ]
+\end{equation}

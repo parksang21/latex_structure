@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { 1 , 2 j + 1 } = \frac { j ( ( \delta - 2 ) j - 2 ) } { 2 \delta }
+\end{equation}

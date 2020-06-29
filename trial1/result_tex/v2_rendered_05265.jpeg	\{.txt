@@ -1,0 +1,3 @@
+\begin{equation}
+	\varphi _ { a } , \varphi _ { b } \} = f _ { a b c } \varphi _ { c }
+\end{equation}

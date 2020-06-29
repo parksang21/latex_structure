@@ -1,0 +1,41 @@
+# IUD, v2_rendered_14292
+# Objects(19):
+O, COMMA_8, COMMA, 1.0, ORRRR
+O, C_2, C, 1.0, O
+O, n_20, n, 1.0, ORRRRRRRAboveRSub
+O, 1_26, 1, 1.0, ORRRRRRRBelow
+O, 6_27, 6, 1.0, ORRRRRRRBelowR
+O, 2_17, 2, 1.0, ORRRRRRRAboveSup
+O, 2_11, 2, 1.0, ORRRRRSup
+O, M_7, M, 1.0, ORRR
+O, 2_21, 2, 1.0, ORRRRRRRAboveRSup
+O, Q_10, Q, 1.0, ORRRRR
+O, ω_19, ω, 1.0, ORRRRRRRAboveR
+O, n_16, n, 1.0, ORRRRRRRAbove
+O, =_12, =, 1.0, ORRRRRR
+O, Q_23, Q, 1.0, ORRRRRRRAboveRR
+O, 2_24, 2, 1.0, ORRRRRRRAboveRRSup
+O, _13, -, 1.0, ORRRRRRR
+O, =_3, =, 1.0, OR
+O, ω_5, ω, 1.0, ORR
+O, n_6, n, 1.0, ORRSub
+
+# Relations from SRT:
+R, 1_26, 6_27, Right, 1.0
+R, =_12, _13, Right, 1.0
+R, =_3, ω_5, Right, 1.0
+R, COMMA_8, Q_10, Right, 1.0
+R, C_2, =_3, Right, 1.0
+R, M_7, COMMA_8, Right, 1.0
+R, Q_10, 2_11, Sup, 1.0
+R, Q_10, =_12, Right, 1.0
+R, Q_23, 2_24, Sup, 1.0
+R, _13, 1_26, Below, 1.0
+R, _13, n_16, Above, 1.0
+R, n_16, 2_17, Sup, 1.0
+R, n_16, ω_19, Right, 1.0
+R, ω_19, 2_21, Sup, 1.0
+R, ω_19, Q_23, Right, 1.0
+R, ω_19, n_20, Sub, 1.0
+R, ω_5, M_7, Right, 1.0
+R, ω_5, n_6, Sub, 1.0

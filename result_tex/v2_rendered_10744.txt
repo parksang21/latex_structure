@@ -1,0 +1,3 @@
+\begin{equation}
+	\sqrt { H } _ { 0 } \equiv p _ { 0 } ^ { 2 } + p _ { 0 } \omega _ { p } = 0
+\end{equation}

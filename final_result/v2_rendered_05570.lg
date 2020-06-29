@@ -1,0 +1,31 @@
+# IUD, v2_rendered_05570
+# Objects(14):
+O, K_11, K, 1.0, ORRRRRSub
+O, 2_17, 2, 1.0, ORRRRRRRSub
+O, Z_8, Z, 1.0, ORRRRSub
+O, \angle_16, \angle, 1.0, ORRRRRRR
+O, M_2, M, 1.0, O
+O, 0_14, 0, 1.0, ORRRRRRSup
+O, (_5, (, 1.0, ORRR
+O, [_4, [, 1.0, ORR
+O, )_13, ), 1.0, ORRRRRR
+O, \angle_7, \angle, 1.0, ORRRR
+O, \prime_18, \prime, 1.0, ORRRRRRRSup
+O, \angle_10, \angle, 1.0, ORRRRR
+O, ]_19, ], 1.0, ORRRRRRRR
+O, t_3, t, 1.0, OR
+
+# Relations from SRT:
+R, (_5, \angle_7, Right, 1.0
+R, )_13, 0_14, Sup, 1.0
+R, )_13, \angle_16, Right, 1.0
+R, M_2, t_3, Right, 1.0
+R, [_4, (_5, Right, 1.0
+R, \angle_10, )_13, Right, 1.0
+R, \angle_10, K_11, Sub, 1.0
+R, \angle_16, 2_17, Sub, 1.0
+R, \angle_16, \prime_18, Sup, 1.0
+R, \angle_16, ]_19, Right, 1.0
+R, \angle_7, Z_8, Sub, 1.0
+R, \angle_7, \angle_10, Right, 1.0
+R, t_3, [_4, Right, 1.0

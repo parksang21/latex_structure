@@ -1,0 +1,7 @@
+# IUD, v2_rendered_12772
+# Objects(2):
+O, m_2, m, 1.0, 0
+O, J_3, J, 1.0, 1
+
+# Relations from SRT:
+R, m_2, J_3, Sub, 1.0

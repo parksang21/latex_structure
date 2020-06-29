@@ -1,0 +1,3 @@
+\begin{equation}
+	( i \pi - \theta ) = - i t a n h ( \frac { \theta } { 2 } ) \bar { Y } ( \theta )
+\end{equation}

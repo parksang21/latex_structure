@@ -1,0 +1,3 @@
+\begin{equation}
+	( a _ { j } , b _ { j } \csqrt \theta _ { a } , a n d \tau _ { I } ) \vert 0 \vee = 0
+\end{equation}

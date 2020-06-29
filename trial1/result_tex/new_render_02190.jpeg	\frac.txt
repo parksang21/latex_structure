@@ -1,0 +1,3 @@
+\begin{equation}
+	{ \Delta } { \Delta \triangle _ { m } } I _ { k + 2 } \geqq I
+\end{equation}

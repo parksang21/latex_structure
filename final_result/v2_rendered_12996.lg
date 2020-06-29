@@ -1,0 +1,35 @@
+# IUD, v2_rendered_12996
+# Objects(16):
+O, =_11, =, 1.0, ORRRRRRRRR
+O, \psi_21, \psi, 1.0, ORRRRRRRRRRR
+O, z_6, z, 1.0, ORRRR
+O, 0_9, 0, 1.0, ORRRRRRR
+O, L_17, L, 1.0, ORRRRRRRRRRSupR
+O, \psi_4, \psi, 1.0, ORR
+O, z_15, z, 1.0, ORRRRRRRRRRSup
+O, (_3, (, 1.0, OR
+O, \rangle_10, \rangle, 1.0, ORRRRRRRR
+O, 1_20, 1, 1.0, ORRRRRRRRRRSupRSubR
+O, )_7, ), 1.0, ORRRRR
+O, COMMA_5, COMMA, 1.0, ORRR
+O, e_13, e, 1.0, ORRRRRRRRRR
+O, \vert_8, \vert, 1.0, ORRRRRR
+O, V_2, V, 1.0, O
+O, -_19, -, 1.0, ORRRRRRRRRRSupRSub
+
+# Relations from SRT:
+R, (_3, \psi_4, Right, 1.0
+R, )_7, \vert_8, Right, 1.0
+R, -_19, 1_20, Right, 1.0
+R, 0_9, \rangle_10, Right, 1.0
+R, =_11, e_13, Right, 1.0
+R, COMMA_5, z_6, Right, 1.0
+R, L_17, -_19, Sub, 1.0
+R, V_2, (_3, Right, 1.0
+R, \psi_4, COMMA_5, Right, 1.0
+R, \rangle_10, =_11, Right, 1.0
+R, \vert_8, 0_9, Right, 1.0
+R, e_13, \psi_21, Right, 1.0
+R, e_13, z_15, Sup, 1.0
+R, z_15, L_17, Right, 1.0
+R, z_6, )_7, Right, 1.0

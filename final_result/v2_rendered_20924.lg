@@ -1,0 +1,43 @@
+# IUD, v2_rendered_20924
+# Objects(20):
+O, F_10, F, 1.0, ORRRRRRRR
+O, -_9, -, 1.0, ORRRRRRR
+O, COMMA_13, COMMA, 1.0, ORRRRRRRRRRR
+O, \subset_20, \subset, 1.0, ORRRRRRRRRRRRRRRRRR
+O, x_17, x, 1.0, ORRRRRRRRRRRRRRR
+O, x_12, x, 1.0, ORRRRRRRRRR
+O, y_6, y, 1.0, ORRRR
+O, )_15, ), 1.0, ORRRRRRRRRRRRR
+O, COMMA_18, COMMA, 1.0, ORRRRRRRRRRRRRRRR
+O, E_21, E, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, \times_3, \times, 1.0, OR
+O, COMMA_16, COMMA, 1.0, ORRRRRRRRRRRRRR
+O, \times_7, \times, 1.0, ORRRRR
+O, (_11, (, 1.0, ORRRRRRRRR
+O, y_19, y, 1.0, ORRRRRRRRRRRRRRRRR
+O, y_14, y, 1.0, ORRRRRRRRRRRR
+O, y_4, y, 1.0, ORR
+O, x_2, x, 1.0, O
+O, x_8, x, 1.0, ORRRRRR
+O, -_5, -, 1.0, ORRR
+
+# Relations from SRT:
+R, (_11, x_12, Right, 1.0
+R, )_15, COMMA_16, Right, 1.0
+R, -_5, y_6, Right, 1.0
+R, -_9, F_10, Right, 1.0
+R, COMMA_13, y_14, Right, 1.0
+R, COMMA_16, x_17, Right, 1.0
+R, COMMA_18, y_19, Right, 1.0
+R, F_10, (_11, Right, 1.0
+R, \subset_20, E_21, Right, 1.0
+R, \times_3, y_4, Right, 1.0
+R, \times_7, x_8, Right, 1.0
+R, x_12, COMMA_13, Right, 1.0
+R, x_17, COMMA_18, Right, 1.0
+R, x_2, \times_3, Right, 1.0
+R, x_8, -_9, Right, 1.0
+R, y_14, )_15, Right, 1.0
+R, y_19, \subset_20, Right, 1.0
+R, y_4, -_5, Right, 1.0
+R, y_6, \times_7, Right, 1.0

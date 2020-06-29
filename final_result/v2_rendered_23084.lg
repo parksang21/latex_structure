@@ -1,0 +1,35 @@
+# IUD, v2_rendered_23084
+# Objects(16):
+O, \cos_18, \cos, 1.0, ORRRRRRRRRRRR
+O, y_3, y, 1.0, O
+O, y_14, y, 1.0, ORRRRRRRRR
+O, \theta_19, \theta, 1.0, ORRRRRRRRRRRRR
+O, \sin_9, \sin, 1.0, ORRRRR
+O, \rho_6, \rho, 1.0, ORR
+O, \theta_10, \theta, 1.0, ORRRRRR
+O, \beta_8, \beta, 1.0, ORRRR
+O, \rho_17, \rho, 1.0, ORRRRRRRRRRR
+O, \sin_11, \sin, 1.0, ORRRRRRR
+O, 3_15, 3, 1.0, ORRRRRRRRRSup
+O, \sin_7, \sin, 1.0, ORRR
+O, \neq_5, \neq, 1.0, OR
+O, \neq_16, \neq, 1.0, ORRRRRRRRRR
+O, \phi_12, \phi, 1.0, ORRRRRRRR
+O, 2_4, 2, 1.0, OSup
+
+# Relations from SRT:
+R, \beta_8, \sin_9, Right, 1.0
+R, \cos_18, \theta_19, Right, 1.0
+R, \neq_16, \rho_17, Right, 1.0
+R, \neq_5, \rho_6, Right, 1.0
+R, \phi_12, y_14, Right, 1.0
+R, \rho_17, \cos_18, Right, 1.0
+R, \rho_6, \sin_7, Right, 1.0
+R, \sin_11, \phi_12, Right, 1.0
+R, \sin_7, \beta_8, Right, 1.0
+R, \sin_9, \theta_10, Right, 1.0
+R, \theta_10, \sin_11, Right, 1.0
+R, y_14, 3_15, Sup, 1.0
+R, y_14, \neq_16, Right, 1.0
+R, y_3, 2_4, Sup, 1.0
+R, y_3, \neq_5, Right, 1.0

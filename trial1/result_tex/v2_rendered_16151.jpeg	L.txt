@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { R } = \alpha ^ { \prime } \sigma c ^ { - 1 } \equiv L _ { S } ^ { 2 }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\dot { x } ^ { \mu } = F ^ { \mu } ( x , \dot { x } )
+\end{equation}

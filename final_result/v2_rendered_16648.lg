@@ -1,0 +1,37 @@
+# IUD, v2_rendered_16648
+# Objects(17):
+O, 2_13, 2, 1.0, ORRRRAboveRSup
+O, 2_14, 2, 1.0, ORRRRBelow
+O, +_15, +, 1.0, ORRRRR
+O, w_18, w, 1.0, ORRRRRRAbove
+O, 9_21, 9, 1.0, ORRRRRRAboveRSup
+O, g_3, g, 1.0, O
+O, v_20, v, 1.0, ORRRRRRAboveR
+O, \lambda_10, \lambda, 1.0, ORRRRAbove
+O, _16, -, 1.0, ORRRRRR
+O, r_6, r, 1.0, ORR
+O, \equiv_5, \equiv, 1.0, OR
+O, 9_24, 9, 1.0, ORRRRRRBelowR
+O, 2_4, 2, 1.0, OSub
+O, 2_23, 2, 1.0, ORRRRRRBelow
+O, +_7, +, 1.0, ORRR
+O, _8, -, 1.0, ORRRR
+O, v_12, v, 1.0, ORRRRAboveR
+
+# Relations from SRT:
+R, +_15, _16, Right, 1.0
+R, +_7, _8, Right, 1.0
+R, 2_23, 9_24, Right, 1.0
+R, \equiv_5, r_6, Right, 1.0
+R, \lambda_10, v_12, Right, 1.0
+R, _16, 2_23, Below, 1.0
+R, _16, w_18, Above, 1.0
+R, _8, +_15, Right, 1.0
+R, _8, 2_14, Below, 1.0
+R, _8, \lambda_10, Above, 1.0
+R, g_3, 2_4, Sub, 1.0
+R, g_3, \equiv_5, Right, 1.0
+R, r_6, +_7, Right, 1.0
+R, v_12, 2_13, Sup, 1.0
+R, v_20, 9_21, Sup, 1.0
+R, w_18, v_20, Right, 1.0

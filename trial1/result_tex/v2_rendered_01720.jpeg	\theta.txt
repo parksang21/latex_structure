@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { b } \equiv \frac { ( 9 - \beta ) _ { b } } { ( b / 6 ) ! ( 6 - \beta ) ^ { b } }
+\end{equation}

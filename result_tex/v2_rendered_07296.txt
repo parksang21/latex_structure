@@ -1,0 +1,3 @@
+\begin{equation}
+	( \Delta _ { \mu } + \omega _ { \mu } + A _ { \mu } \vert \gamma = \Delta _ { \mu } \gamma
+\end{equation}

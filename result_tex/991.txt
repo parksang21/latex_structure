@@ -1,0 +1,3 @@
+\begin{equation}
+	\theta _ { i } = \sigma _ { i } - \frac { \sum k \sigma _ { k } n _ { k } } { \sum _ { l } n _ { l } }
+\end{equation}

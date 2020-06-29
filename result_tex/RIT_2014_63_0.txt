@@ -1,0 +1,3 @@
+\begin{equation}
+	c _ { X } C _ { X + 1 }
+\end{equation}

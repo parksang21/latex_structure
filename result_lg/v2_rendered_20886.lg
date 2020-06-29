@@ -1,0 +1,37 @@
+# IUD, v2_rendered_20886
+# Objects(17):
+O, \sim_11, \sim, 1.0, ORRR
+O, g_18, g, 1.0, ORRRRSubRRR
+O, p_4, p, 1.0, OSub
+O, e_19, e, 1.0, ORRRRSubRRRR
+O, \phi_23, \phi, 1.0, ORRRRRRSup
+O, u_17, u, 1.0, ORRRRSubRR
+O, \alpha_13, \alpha, 1.0, ORRRR
+O, 2_5, 2, 1.0, OSup
+O, l_3, l, 1.0, O
+O, \sim_20, \sim, 1.0, ORRRRR
+O, a_16, a, 1.0, ORRRRSubR
+O, e_22, e, 1.0, ORRRRRR
+O, g_15, g, 1.0, ORRRRSub
+O, /_6, /, 1.0, OR
+O, 2_10, 2, 1.0, ORRSup
+O, s_9, s, 1.0, ORRSub
+O, \lambda_8, \lambda, 1.0, ORR
+
+# Relations from SRT:
+R, /_6, \lambda_8, Right, 1.0
+R, \alpha_13, \sim_20, Right, 1.0
+R, \alpha_13, g_15, Sub, 1.0
+R, \lambda_8, 2_10, Sup, 1.0
+R, \lambda_8, \sim_11, Right, 1.0
+R, \lambda_8, s_9, Sub, 1.0
+R, \sim_11, \alpha_13, Right, 1.0
+R, \sim_20, e_22, Right, 1.0
+R, a_16, u_17, Right, 1.0
+R, e_22, \phi_23, Sup, 1.0
+R, g_15, a_16, Right, 1.0
+R, g_18, e_19, Right, 1.0
+R, l_3, /_6, Right, 1.0
+R, l_3, 2_5, Sup, 1.0
+R, l_3, p_4, Sub, 1.0
+R, u_17, g_18, Right, 1.0

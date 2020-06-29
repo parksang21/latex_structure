@@ -1,0 +1,3 @@
+\begin{equation}
+	= \frac { 2 \pi l } { n } \sqrt { \vert E _ { c } \vert ( 2 E - E _ { c } ) }
+\end{equation}

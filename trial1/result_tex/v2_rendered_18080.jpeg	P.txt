@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { T } \vee e x p ( - \vert S _ { E } \vert ) \sim e x p ( - 1 2 2 )
+\end{equation}

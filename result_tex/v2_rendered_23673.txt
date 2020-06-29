@@ -1,0 +1,3 @@
+\begin{equation}
+	x _ { i } ( t ) = \frac { 2 } { N } \gamma ( t ) J _ { i } , i \subset \{ 1 , 2 , 3 \}
+\end{equation}

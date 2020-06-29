@@ -1,0 +1,3 @@
+\begin{equation}
+	\rho ( \alpha ) , p ( \beta ) = \rho ( a I + \varepsilon b J ) , \rho ( m I + \varepsilon n J )
+\end{equation}

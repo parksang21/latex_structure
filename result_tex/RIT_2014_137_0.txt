@@ -1,0 +1,3 @@
+\begin{equation}
+	1 - d = ( 1 - \frac { d ^ { ( m ) } } { m } ) ^ { n }
+\end{equation}

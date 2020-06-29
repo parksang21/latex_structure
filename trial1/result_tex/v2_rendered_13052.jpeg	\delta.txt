@@ -1,0 +1,3 @@
+\begin{equation}
+	x _ { R } ( \tau , \sigma ) = \sum _ { n } C _ { n R } ( \tau ) e ^ { - i n \sigma }
+\end{equation}

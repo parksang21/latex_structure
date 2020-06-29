@@ -1,0 +1,3 @@
+\begin{equation}
+	e ^ { z } + \frac { z ^ { 8 } } { 2 } + \frac { 6 } { z ^ { 3 } }
+\end{equation}

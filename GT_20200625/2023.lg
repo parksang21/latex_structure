@@ -1,0 +1,45 @@
+# IUD, 2023
+# Objects(21):
+O, \vert_11, \vert, 1.0, ORRRRRRRRR
+O, \vert_2, \vert, 1.0, O
+O, \rangle_18, \rangle, 1.0, ORRRRRRRRRRRRRRRR
+O, B_3, B, 1.0, OR
+O, \otimes_10, \otimes, 1.0, ORRRRRRRR
+O, \rangle_4, \rangle, 1.0, ORR
+O, N_12, N, 1.0, ORRRRRRRRRR
+O, N_7, N, 1.0, ORRRRR
+O, \vert_20, \vert, 1.0, ORRRRRRRRRRRRRRRRRR
+O, \rangle_14, \rangle, 1.0, ORRRRRRRRRRRR
+O, \rangle_22, \rangle, 1.0, ORRRRRRRRRRRRRRRRRRRR
+O, \vert_6, \vert, 1.0, ORRRR
+O, R_17, R, 1.0, ORRRRRRRRRRRRRRR
+O, \vert_16, \vert, 1.0, ORRRRRRRRRRRRRR
+O, \otimes_19, \otimes, 1.0, ORRRRRRRRRRRRRRRRR
+O, \rangle_9, \rangle, 1.0, ORRRRRRR
+O, +_15, +, 1.0, ORRRRRRRRRRRRR
+O, R_21, R, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, S_8, S, 1.0, ORRRRRR
+O, S_13, S, 1.0, ORRRRRRRRRRR
+O, =_5, =, 1.0, ORRR
+
+# Relations from SRT:
+R, +_15, \vert_16, Right, 1.0
+R, =_5, \vert_6, Right, 1.0
+R, B_3, \rangle_4, Right, 1.0
+R, N_12, S_13, Right, 1.0
+R, N_7, S_8, Right, 1.0
+R, R_17, \rangle_18, Right, 1.0
+R, R_21, \rangle_22, Right, 1.0
+R, S_13, \rangle_14, Right, 1.0
+R, S_8, \rangle_9, Right, 1.0
+R, \otimes_10, \vert_11, Right, 1.0
+R, \otimes_19, \vert_20, Right, 1.0
+R, \rangle_14, +_15, Right, 1.0
+R, \rangle_18, \otimes_19, Right, 1.0
+R, \rangle_4, =_5, Right, 1.0
+R, \rangle_9, \otimes_10, Right, 1.0
+R, \vert_11, N_12, Right, 1.0
+R, \vert_16, R_17, Right, 1.0
+R, \vert_20, R_21, Right, 1.0
+R, \vert_2, B_3, Right, 1.0
+R, \vert_6, N_7, Right, 1.0

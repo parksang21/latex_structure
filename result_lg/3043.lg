@@ -1,0 +1,39 @@
+# IUD, 3043
+# Objects(18):
+O, \rho_10, \rho, 1.0, ORRRR
+O, \sigma_12, \sigma, 1.0, ORRRRR
+O, \mu_19, \mu, 1.0, ORRRRRRRRRSub
+O, (_21, (, 1.0, ORRRRRRRRRR
+O, )_23, ), 1.0, ORRRRRRRRRRRR
+O, \rho_22, \rho, 1.0, ORRRRRRRRRRR
+O, \pm_4, \pm, 1.0, OSup
+O, \mu_13, \mu, 1.0, ORRRRRSup
+O, )_16, ), 1.0, ORRRRRRRR
+O, c_18, c, 1.0, ORRRRRRRRR
+O, d_8, d, 1.0, ORRR
+O, \rho_15, \rho, 1.0, ORRRRRRR
+O, Q_3, Q, 1.0, O
+O, P_9, P, 1.0, ORRRSup
+O, =_5, =, 1.0, OR
+O, \pm_20, \pm, 1.0, ORRRRRRRRRSup
+O, (_14, (, 1.0, ORRRRRR
+O, \int_6, \int, 1.0, ORR
+
+# Relations from SRT:
+R, (_14, \rho_15, Right, 1.0
+R, (_21, \rho_22, Right, 1.0
+R, )_16, c_18, Right, 1.0
+R, =_5, \int_6, Right, 1.0
+R, Q_3, =_5, Right, 1.0
+R, Q_3, \pm_4, Sup, 1.0
+R, \int_6, d_8, Right, 1.0
+R, \rho_10, \sigma_12, Right, 1.0
+R, \rho_15, )_16, Right, 1.0
+R, \rho_22, )_23, Right, 1.0
+R, \sigma_12, (_14, Right, 1.0
+R, \sigma_12, \mu_13, Sup, 1.0
+R, c_18, (_21, Right, 1.0
+R, c_18, \mu_19, Sub, 1.0
+R, c_18, \pm_20, Sup, 1.0
+R, d_8, P_9, Sup, 1.0
+R, d_8, \rho_10, Right, 1.0

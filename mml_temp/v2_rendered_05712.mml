@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mfrac><mrow><mo stretchy="false" form="prefix">(</mo><msub><mi>γ</mi><mo>+</mo></msub><mo>−</mo><msub><mi>γ</mi><mo>−</mo></msub><mo stretchy="false" form="postfix">)</mo></mrow><mrow><mn>4</mn><mi>π</mi><msubsup><mi>r</mi><mo>+</mo><mn>2</mn></msubsup></mrow></mfrac><mo>≡</mo><mfrac><mi>A</mi><mrow><mn>2</mn><mi>π</mi></mrow></mfrac></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \frac { ( \gamma _ { + } - \gamma _ { - } ) } { 4 \pi r _ { + } ^ { 2 } } \equiv \frac { A } { 2 \pi }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

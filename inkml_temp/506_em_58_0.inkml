@@ -1,0 +1,91 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">506_em_58_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mo xml:id="\cos_2">cos</mo><mo form="prefix" stretchy="false" xml:id="(_3">(</mo><mi xml:id="x_4">x</mi><mo xml:id="-_5">−</mo><mi xml:id="y_6">y</mi><mo form="postfix" stretchy="false" xml:id=")_7">)</mo><mo xml:id="=_8">=</mo><mo xml:id="\cos_9">cos</mo><mi xml:id="x_10">x</mi><mo xml:id="\cos_11">cos</mo><mi xml:id="y_12">y</mi><mo xml:id="+_13">+</mo><mo xml:id="\sin_14">sin</mo><mi xml:id="x_15">x</mi><mo xml:id="\sin_16">sin</mo><mi xml:id="y_17">y</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\cos</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\cos_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="(_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">x</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="x_4"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="-_5"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">y</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="y_6"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href=")_7"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="=_8"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">\cos</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="\cos_9"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">x</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="x_10"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">\cos</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="\cos_11"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">y</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="y_12"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">+</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="+_13"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">\sin</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="\sin_14"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">x</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="x_15"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">\sin</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="\sin_16"/>
+	</traceGroup>
+ <traceGroup xml:id="16">
+    <annotation type="truth">y</annotation>
+	<traceView traceDataRef="15"/>
+    <annotationXML href="y_17"/>
+	</traceGroup>
+</traceGroup>
+</ink>

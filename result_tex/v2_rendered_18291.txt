@@ -1,0 +1,3 @@
+\begin{equation}
+	\sigma ^ { \rho } + \prod _ { k = 2 } ^ { \rho } t _ { p - k } \sigma ^ { \rho - k } = 0
+\end{equation}

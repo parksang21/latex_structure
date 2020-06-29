@@ -1,0 +1,3 @@
+\begin{equation}
+	^ { t } \cdot M \geqq 0 f o r a l l e n t r i e s .
+\end{equation}

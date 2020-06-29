@@ -1,0 +1,40 @@
+# IUD, v2_rendered_10754
+# Objects(18):
+O, \gamma_11, \gamma, 1.0, ORSub
+O, ω_19, ω, 1.0, ORRRRInsideR
+O, \vee_13, \vee, 1.0, ORRR
+O, \int_3, \int, 1.0, O
+O, ω_12, ω, 1.0, ORR
+O, c_7, c, 1.0, OSubRR
+O, a_6, a, 1.0, OSubR
+O, \alpha_17, \alpha, 1.0, ORRRRInside
+O, _14, \sqrt, 1.0, ORRRR
+O, -_25, -, 1.0, ORRRRRRSupR
+O, \vee_20, \vee, 1.0, ORRRRR
+O, t_22, t, 1.0, ORRRRRR
+O, r_24, r, 1.0, ORRRRRRSup
+O, \gamma_18, \gamma, 1.0, ORRRRInsideSub
+O, \alpha_10, \alpha, 1.0, OR
+O, J_5, J, 1.0, OSub
+O, 1_26, 1, 1.0, ORRRRRRSupRR
+O, \varepsilon_8, \varepsilon, 1.0, OSubRRR
+
+# Relations from SRT:
+R, -_25, 1_26, Right, 1.0
+R, J_5, a_6, Right, 1.0
+R, \alpha_10, \gamma_11, Sub, 1.0
+R, \alpha_10, ω_12, Right, 1.0
+R, \alpha_17, \gamma_18, Sub, 1.0
+R, \alpha_17, ω_19, Right, 1.0
+R, \int_3, J_5, Sub, 1.0
+R, \int_3, \alpha_10, Right, 1.0
+R, \vee_13, _14, Right, 1.0
+R, \vee_20, t_22, Right, 1.0
+R, _14, \alpha_17, Inside, 1.0
+R, _14, \vee_20, Right, 1.0
+R, _14, ω_19, Inside, 1.0
+R, a_6, c_7, Right, 1.0
+R, c_7, \varepsilon_8, Right, 1.0
+R, r_24, -_25, Right, 1.0
+R, t_22, r_24, Sup, 1.0
+R, ω_12, \vee_13, Right, 1.0

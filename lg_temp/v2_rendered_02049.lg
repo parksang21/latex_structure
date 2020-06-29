@@ -1,0 +1,47 @@
+# IUD, v2_rendered_02049
+# Objects(22):
+O, [_5, [, 1.0, 2
+O, _2, \sqrt, 1.0, 21
+O, (_17, (, 1.0, 13
+O, \alpha_20, \alpha, 1.0, 16
+O, )_21, ), 1.0, 17
+O, 1_24, 1, 1.0, 19
+O, ]_25, ], 1.0, 20
+O, 2_14, 2, 1.0, 10
+O, g_3, g, 1.0, 0
+O, \cos_16, \cos, 1.0, 12
+O, (_7, (, 1.0, 4
+O, J_23, J, 1.0, 18
+O, \sin_6, \sin, 1.0, 3
+O, \rho_8, \rho, 1.0, 5
+O, -_19, -, 1.0, 15
+O, =_4, =, 1.0, 1
+O, -_9, -, 1.0, 6
+O, )_11, ), 1.0, 8
+O, -_15, -, 1.0, 11
+O, \alpha_10, \alpha, 1.0, 7
+O, J_13, J, 1.0, 9
+O, \rho_18, \rho, 1.0, 14
+
+# Relations from SRT:
+R, (_17, \rho_18, Right, 1.0
+R, (_7, \rho_8, Right, 1.0
+R, )_11, J_13, Right, 1.0
+R, )_21, J_23, Right, 1.0
+R, -_15, \cos_16, Right, 1.0
+R, -_19, \alpha_20, Right, 1.0
+R, -_9, \alpha_10, Right, 1.0
+R, =_4, [_5, Right, 1.0
+R, J_13, -_15, Right, 1.0
+R, J_13, 2_14, Sub, 1.0
+R, J_23, 1_24, Sub, 1.0
+R, J_23, ]_25, Right, 1.0
+R, [_5, \sin_6, Right, 1.0
+R, \alpha_10, )_11, Right, 1.0
+R, \alpha_20, )_21, Right, 1.0
+R, \cos_16, (_17, Right, 1.0
+R, \rho_18, -_19, Right, 1.0
+R, \rho_8, -_9, Right, 1.0
+R, \sin_6, (_7, Right, 1.0
+R, _2, =_4, Right, 1.0
+R, _2, g_3, Inside, 1.0

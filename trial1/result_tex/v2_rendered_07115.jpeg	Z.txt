@@ -1,0 +1,3 @@
+\begin{equation}
+	= \int _ { - \infty } ^ { + \infty } [ d X ] e ^ { - S _ { E } }
+\end{equation}

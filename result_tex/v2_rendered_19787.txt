@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { \Delta W } { \Delta \sqrt { q } } = 0 \Leftrightarrow q = Q
+\end{equation}

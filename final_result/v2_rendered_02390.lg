@@ -1,0 +1,19 @@
+# IUD, v2_rendered_02390
+# Objects(8):
+O, \circle_9, \circle, 1.0, ORSubR
+O, \leq_11, \leq, 1.0, ORR
+O, \gamma_6, \gamma, 1.0, OR
+O, 9_12, 9, 1.0, ORRR
+O, w_4, w, 1.0, OSup
+O, w_10, w, 1.0, ORSup
+O, j_3, j, 1.0, O
+O, l_8, l, 1.0, ORSub
+
+# Relations from SRT:
+R, \gamma_6, \leq_11, Right, 1.0
+R, \gamma_6, l_8, Sub, 1.0
+R, \gamma_6, w_10, Sup, 1.0
+R, \leq_11, 9_12, Right, 1.0
+R, j_3, \gamma_6, Right, 1.0
+R, j_3, w_4, Sup, 1.0
+R, l_8, \circle_9, Right, 1.0

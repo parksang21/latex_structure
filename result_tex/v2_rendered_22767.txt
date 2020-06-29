@@ -1,0 +1,3 @@
+\begin{equation}
+	W _ { F } = K ( K - D \csqrts ( K - N + 1 ) ) N !
+\end{equation}

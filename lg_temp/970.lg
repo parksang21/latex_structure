@@ -1,0 +1,47 @@
+# IUD, 970
+# Objects(22):
+O, 3_14, 3, 1.0, 9
+O, )_26, ), 1.0, 21
+O, 0_9, 0, 1.0, 5
+O, e_8, e, 1.0, 4
+O, \mu_10, \mu, 1.0, 6
+O, (_17, (, 1.0, 12
+O, COMMA_21, COMMA, 1.0, 16
+O, \mu_15, \mu, 1.0, 10
+O, =_6, =, 1.0, 3
+O, \pm_4, \pm, 1.0, 1
+O, COMMA_23, COMMA, 1.0, 18
+O, e_13, e, 1.0, 8
+O, 1_25, 1, 1.0, 20
+O, COMMA_19, COMMA, 1.0, 14
+O, \pm_24, \pm, 1.0, 19
+O, 0_22, 0, 1.0, 17
+O, =_16, =, 1.0, 11
+O, e_3, e, 1.0, 0
+O, \mu_5, \mu, 1.0, 2
+O, 0_20, 0, 1.0, 15
+O, 1_18, 1, 1.0, 13
+O, \pm_11, \pm, 1.0, 7
+
+# Relations from SRT:
+R, (_17, 1_18, Right, 1.0
+R, 0_20, COMMA_21, Right, 1.0
+R, 0_22, COMMA_23, Right, 1.0
+R, 1_18, COMMA_19, Right, 1.0
+R, 1_25, )_26, Right, 1.0
+R, =_16, (_17, Right, 1.0
+R, =_6, e_8, Right, 1.0
+R, COMMA_19, 0_20, Right, 1.0
+R, COMMA_21, 0_22, Right, 1.0
+R, COMMA_23, \pm_24, Right, 1.0
+R, \pm_11, e_13, Right, 1.0
+R, \pm_24, 1_25, Right, 1.0
+R, e_13, 3_14, Sub, 1.0
+R, e_13, =_16, Right, 1.0
+R, e_13, \mu_15, Sup, 1.0
+R, e_3, =_6, Right, 1.0
+R, e_3, \mu_5, Sup, 1.0
+R, e_3, \pm_4, Sub, 1.0
+R, e_8, 0_9, Sub, 1.0
+R, e_8, \mu_10, Sup, 1.0
+R, e_8, \pm_11, Right, 1.0

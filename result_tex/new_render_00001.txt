@@ -1,0 +1,3 @@
+\begin{equation}
+	V ( s \omega ( y ) , s \omega ( q ) ) \approx V ( y , q ) , \therefore \omega \in \Delta
+\end{equation}

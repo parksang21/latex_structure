@@ -1,0 +1,3 @@
+\begin{equation}
+	< J _ { 5 } ^ { \mu } ( x ) \rangle _ { r e g }
+\end{equation}

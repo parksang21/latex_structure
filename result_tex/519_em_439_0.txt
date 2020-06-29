@@ -1,0 +1,3 @@
+\begin{equation}
+	- h ( k a _ { i , j } + a _ { i , j } ) + k d _ { i j } + a _ { i j }
+\end{equation}

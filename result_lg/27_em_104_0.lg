@@ -1,0 +1,19 @@
+# IUD, 27_em_104_0
+# Objects(8):
+O, H_8, H, 1.0, ORRSub
+O, =_5, =, 1.0, OR
+O, -_9, -, 1.0, ORRR
+O, q_11, q, 1.0, ORRRR
+O, e_12, e, 1.0, ORRRRSub
+O, q_7, q, 1.0, ORR
+O, \theta_4, \theta, 1.0, OSup
+O, w_3, w, 1.0, O
+
+# Relations from SRT:
+R, -_9, q_11, Right, 1.0
+R, =_5, q_7, Right, 1.0
+R, q_11, e_12, Sub, 1.0
+R, q_7, -_9, Right, 1.0
+R, q_7, H_8, Sub, 1.0
+R, w_3, =_5, Right, 1.0
+R, w_3, \theta_4, Sup, 1.0

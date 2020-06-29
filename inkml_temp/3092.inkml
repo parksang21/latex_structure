@@ -1,0 +1,96 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">3092</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msubsup><mi xml:id="D_3">D</mi><mrow><mi xml:id="m_5">m</mi><mi xml:id="n_6">n</mi></mrow><mi xml:id="j_7">j</mi></msubsup><mo form="prefix" stretchy="false" xml:id="(_8">(</mo><mi xml:id="u_9">u</mi><mo form="postfix" stretchy="false" xml:id=")_10">)</mo><mo xml:id="=_11">=</mo><mo form="prefix" stretchy="false" xml:id="(_12">(</mo><msub><mi xml:id="e_14">e</mi><mi xml:id="m_15">m</mi></msub><mo xml:id=",_16">,</mo><msup><mi xml:id="T_18">T</mi><mi xml:id="j_19">j</mi></msup><msub><mi xml:id="e_21">e</mi><mi xml:id="n_22">n</mi></msub><mo form="postfix" stretchy="false" xml:id=")_23">)</mo></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">D</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="D_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">m</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="m_5"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">n</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="n_6"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">j</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="j_7"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="(_8"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">u</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="u_9"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href=")_10"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="=_11"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="(_12"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">e</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="e_14"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">m</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="m_15"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">,</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href=",_16"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">T</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="T_18"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">j</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="j_19"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">e</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="e_21"/>
+	</traceGroup>
+ <traceGroup xml:id="16">
+    <annotation type="truth">n</annotation>
+	<traceView traceDataRef="15"/>
+    <annotationXML href="n_22"/>
+	</traceGroup>
+ <traceGroup xml:id="17">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="16"/>
+    <annotationXML href=")_23"/>
+	</traceGroup>
+</traceGroup>
+</ink>

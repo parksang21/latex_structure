@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { r } = \Omega _ { r _ { 3 } } \circ A _ { r _ { 2 } } \circ \Omega _ { r _ { 3 } }
+\end{equation}

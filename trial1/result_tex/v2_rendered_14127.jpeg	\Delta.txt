@@ -1,0 +1,3 @@
+\begin{equation}
+	K ^ { x } \equiv d K ^ { x } + \varphi ^ { x y z } \omega ^ { y } \wedge K ^ { z } = 0
+\end{equation}

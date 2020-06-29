@@ -1,0 +1,29 @@
+# IUD, new_render_00421
+# Objects(13):
+O, \sigma_2, \sigma, 1.0, 0
+O, \in_9, \in, 1.0, 7
+O, \pi_3, \pi, 1.0, 1
+O, J_10, J, 1.0, 8
+O, A_8, A, 1.0, 6
+O, \in_13, \in, 1.0, 11
+O, A_12, A, 1.0, 10
+O, )_6, ), 1.0, 4
+O, A_5, A, 1.0, 3
+O, P_14, P, 1.0, 12
+O, \therefore_11, \therefore, 1.0, 9
+O, -_7, -, 1.0, 5
+O, (_4, (, 1.0, 2
+
+# Relations from SRT:
+R, (_4, A_5, Right, 1.0
+R, )_6, -_7, Right, 1.0
+R, -_7, A_8, Right, 1.0
+R, A_12, \in_13, Right, 1.0
+R, A_5, )_6, Right, 1.0
+R, A_8, \in_9, Right, 1.0
+R, J_10, \therefore_11, Right, 1.0
+R, \in_13, P_14, Right, 1.0
+R, \in_9, J_10, Right, 1.0
+R, \pi_3, (_4, Right, 1.0
+R, \sigma_2, \pi_3, Right, 1.0
+R, \therefore_11, A_12, Right, 1.0

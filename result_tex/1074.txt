@@ -1,0 +1,3 @@
+\begin{equation}
+	E _ { \alpha } ^ { a } = E _ { \alpha } ^ { b } + O ( \lambda ^ { n } , ( \mu / \beta ) ^ { m } )
+\end{equation}

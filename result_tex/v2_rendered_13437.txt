@@ -1,0 +1,3 @@
+\begin{equation}
+	L _ { i j } = ( 1 / 2 ) \Delta q _ { j }
+\end{equation}

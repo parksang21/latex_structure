@@ -1,0 +1,3 @@
+\begin{equation}
+	T _ { i } ^ { 0 } = B \sqrt { E } _ { i } - 2 a \psi \Delta _ { j } E _ { j } A _ { i }
+\end{equation}

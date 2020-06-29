@@ -1,0 +1,51 @@
+# IUD, 26_em_84_0
+# Objects(24):
+O, (_15, (, 1.0, ORRRAboveR
+O, \infty_11, \infty, 1.0, ORRBelowRR
+O, S_3, S, 1.0, O
+O, \lim_7, \lim, 1.0, ORR
+O, r_19, r, 1.0, ORRRAboveRRRR
+O, \infty_32, \infty, 1.0, ORRRRRBelowRR
+O, a_28, a, 1.0, ORRRRRAbove
+O, -_17, -, 1.0, ORRRAboveRRR
+O, -_24, -, 1.0, ORRRBelowR
+O, \infty_4, \infty, 1.0, OSub
+O, 1_16, 1, 1.0, ORRRAboveRR
+O, \rightarrow_10, \rightarrow, 1.0, ORRBelowR
+O, 1_30, 1, 1.0, ORRRRRBelow
+O, =_26, =, 1.0, ORRRR
+O, v_25, v, 1.0, ORRRBelowRR
+O, =_5, =, 1.0, OR
+O, _12, -, 1.0, ORRR
+O, a_14, a, 1.0, ORRRAbove
+O, 1_23, 1, 1.0, ORRRBelow
+O, n_9, n, 1.0, ORRBelow
+O, -_31, -, 1.0, ORRRRRBelowR
+O, )_21, ), 1.0, ORRRAboveRRRRR
+O, n_20, n, 1.0, ORRRAboveRRRRSup
+O, _27, -, 1.0, ORRRRR
+
+# Relations from SRT:
+R, (_15, 1_16, Right, 1.0
+R, -_17, r_19, Right, 1.0
+R, -_24, v_25, Right, 1.0
+R, -_31, \infty_32, Right, 1.0
+R, 1_16, -_17, Right, 1.0
+R, 1_23, -_24, Right, 1.0
+R, 1_30, -_31, Right, 1.0
+R, =_26, _27, Right, 1.0
+R, =_5, \lim_7, Right, 1.0
+R, S_3, =_5, Right, 1.0
+R, S_3, \infty_4, Sub, 1.0
+R, \lim_7, _12, Right, 1.0
+R, \lim_7, n_9, Below, 1.0
+R, \rightarrow_10, \infty_11, Right, 1.0
+R, _12, 1_23, Below, 1.0
+R, _12, =_26, Right, 1.0
+R, _12, a_14, Above, 1.0
+R, _27, 1_30, Below, 1.0
+R, _27, a_28, Above, 1.0
+R, a_14, (_15, Right, 1.0
+R, n_9, \rightarrow_10, Right, 1.0
+R, r_19, )_21, Right, 1.0
+R, r_19, n_20, Sup, 1.0

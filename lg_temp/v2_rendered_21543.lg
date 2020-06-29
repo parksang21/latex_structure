@@ -1,0 +1,41 @@
+# IUD, v2_rendered_21543
+# Objects(19):
+O, \sum_7, \sum, 1.0, 3
+O, i_19, i, 1.0, 12
+O, =_5, =, 1.0, 2
+O, C_3, C, 1.0, 0
+O, \Delta_26, \Delta, 1.0, 17
+O, j_13, j, 1.0, 8
+O, \leq_10, \leq, 1.0, 5
+O, j_20, j, 1.0, 13
+O, i_24, i, 1.0, 16
+O, \lt_12, \lt, 1.0, 7
+O, 2_21, 2, 1.0, 14
+O, x_17, x, 1.0, 11
+O, i_11, i, 1.0, 6
+O, N_15, N, 1.0, 10
+O, 1_9, 1, 1.0, 4
+O, \leq_14, \leq, 1.0, 9
+O, \Delta_23, \Delta, 1.0, 15
+O, N_4, N, 1.0, 1
+O, j_27, j, 1.0, 18
+
+# Relations from SRT:
+R, 1_9, \leq_10, Right, 1.0
+R, =_5, \sum_7, Right, 1.0
+R, C_3, =_5, Right, 1.0
+R, C_3, N_4, Sub, 1.0
+R, \Delta_23, \Delta_26, Right, 1.0
+R, \Delta_23, i_24, Sub, 1.0
+R, \Delta_26, j_27, Sub, 1.0
+R, \leq_10, i_11, Right, 1.0
+R, \leq_14, N_15, Right, 1.0
+R, \lt_12, j_13, Right, 1.0
+R, \sum_7, 1_9, Below, 1.0
+R, \sum_7, x_17, Right, 1.0
+R, i_11, \lt_12, Right, 1.0
+R, i_19, j_20, Right, 1.0
+R, j_13, \leq_14, Right, 1.0
+R, x_17, 2_21, Sup, 1.0
+R, x_17, \Delta_23, Right, 1.0
+R, x_17, i_19, Sub, 1.0

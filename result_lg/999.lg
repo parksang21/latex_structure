@@ -1,0 +1,29 @@
+# IUD, 999
+# Objects(13):
+O, COMMA_16, COMMA, 1.0, ORRRSupRRR
+O, P_18, P, 1.0, ORRRSupRRRRR
+O, 0_7, 0, 1.0, OSubRR
+O, =_6, =, 1.0, OSubR
+O, \tau_11, \tau, 1.0, ORRR
+O, COMMA_14, COMMA, 1.0, ORRRSupR
+O, l_15, l, 1.0, ORRRSupRR
+O, \log_9, \log, 1.0, ORR
+O, k_17, k, 1.0, ORRRSupRRRR
+O, g_5, g, 1.0, OSub
+O, d_13, d, 1.0, ORRRSup
+O, F_3, F, 1.0, O
+O, =_8, =, 1.0, OR
+
+# Relations from SRT:
+R, =_6, 0_7, Right, 1.0
+R, =_8, \log_9, Right, 1.0
+R, COMMA_14, l_15, Right, 1.0
+R, COMMA_16, k_17, Right, 1.0
+R, F_3, =_8, Right, 1.0
+R, F_3, g_5, Sub, 1.0
+R, \log_9, \tau_11, Right, 1.0
+R, \tau_11, d_13, Sup, 1.0
+R, d_13, COMMA_14, Right, 1.0
+R, g_5, =_6, Right, 1.0
+R, k_17, P_18, Right, 1.0
+R, l_15, COMMA_16, Right, 1.0

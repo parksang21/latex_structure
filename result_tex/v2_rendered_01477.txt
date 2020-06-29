@@ -1,0 +1,3 @@
+\begin{equation}
+	\sqrt { \Delta } _ { \delta } = k _ { \vert } ^ { 2 } - \Delta _ { \bot } ^ { 2 } \times M _ { H } ( h ) ^ { 2 }
+\end{equation}

@@ -1,0 +1,47 @@
+# IUD, new_render_00822
+# Objects(22):
+O, =_18, =, 1.0, ORRRRRRRRRRRRRRRR
+O, D_8, D, 1.0, ORRRRRR
+O, =_21, =, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, D_16, D, 1.0, ORRRRRRRRRRRRRR
+O, +_15, +, 1.0, ORRRRRRRRRRRRR
+O, J_13, J, 1.0, ORRRRRRRRRRR
+O, D_14, D, 1.0, ORRRRRRRRRRRR
+O, =_12, =, 1.0, ORRRRRRRRRR
+O, D_4, D, 1.0, ORR
+O, \square_2, \square, 1.0, O
+O, D_10, D, 1.0, ORRRRRRRR
+O, J_19, J, 1.0, ORRRRRRRRRRRRRRRRR
+O, A_5, A, 1.0, ORRR
+O, A_11, A, 1.0, ORRRRRRRRR
+O, \rightarrow_6, \rightarrow, 1.0, ORRRR
+O, Z_20, Z, 1.0, ORRRRRRRRRRRRRRRRRR
+O, Z_17, Z, 1.0, ORRRRRRRRRRRRRRR
+O, J_22, J, 1.0, ORRRRRRRRRRRRRRRRRRRR
+O, Z_3, Z, 1.0, OR
+O, J_7, J, 1.0, ORRRRR
+O, +_9, +, 1.0, ORRRRRRR
+O, K_23, K, 1.0, ORRRRRRRRRRRRRRRRRRRRR
+
+# Relations from SRT:
+R, +_15, D_16, Right, 1.0
+R, +_9, D_10, Right, 1.0
+R, =_12, J_13, Right, 1.0
+R, =_18, J_19, Right, 1.0
+R, =_21, J_22, Right, 1.0
+R, A_11, =_12, Right, 1.0
+R, A_5, \rightarrow_6, Right, 1.0
+R, D_10, A_11, Right, 1.0
+R, D_14, +_15, Right, 1.0
+R, D_16, Z_17, Right, 1.0
+R, D_4, A_5, Right, 1.0
+R, D_8, +_9, Right, 1.0
+R, J_13, D_14, Right, 1.0
+R, J_19, Z_20, Right, 1.0
+R, J_22, K_23, Right, 1.0
+R, J_7, D_8, Right, 1.0
+R, Z_17, =_18, Right, 1.0
+R, Z_20, =_21, Right, 1.0
+R, Z_3, D_4, Right, 1.0
+R, \rightarrow_6, J_7, Right, 1.0
+R, \square_2, Z_3, Right, 1.0

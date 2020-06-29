@@ -1,0 +1,35 @@
+# IUD, new_render_00478
+# Objects(16):
+O, \square_19, \square, 1.0, 13
+O, \alpha_16, \alpha, 1.0, 10
+O, COMMA_13, COMMA, 1.0, 8
+O, _3, \sqrt, 1.0, 15
+O, \alpha_9, \alpha, 1.0, 4
+O, \gamma_4, \gamma, 1.0, 0
+O, (_8, (, 1.0, 3
+O, n_15, n, 1.0, 9
+O, \alpha_20, \alpha, 1.0, 14
+O, \alpha_7, \alpha, 1.0, 2
+O, \geqq_11, \geqq, 1.0, 6
+O, )_10, ), 1.0, 5
+O, \alpha_17, \alpha, 1.0, 11
+O, \gt_18, \gt, 1.0, 12
+O, \square_6, \square, 1.0, 1
+O, 0_12, 0, 1.0, 7
+
+# Relations from SRT:
+R, (_8, \alpha_9, Right, 1.0
+R, )_10, \geqq_11, Right, 1.0
+R, 0_12, COMMA_13, Right, 1.0
+R, COMMA_13, n_15, Right, 1.0
+R, \alpha_17, \gt_18, Right, 1.0
+R, \alpha_9, )_10, Right, 1.0
+R, \geqq_11, 0_12, Right, 1.0
+R, \gt_18, \square_19, Right, 1.0
+R, \square_19, \alpha_20, Right, 1.0
+R, \square_6, \alpha_7, Right, 1.0
+R, _3, (_8, Right, 1.0
+R, _3, \gamma_4, Inside, 1.0
+R, _3, \square_6, Sub, 1.0
+R, n_15, \alpha_16, Sub, 1.0
+R, n_15, \alpha_17, Right, 1.0

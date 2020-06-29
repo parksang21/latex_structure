@@ -1,0 +1,29 @@
+# IUD, 2056
+# Objects(13):
+O, \phi_12, \phi, 1.0, ORRRRRR
+O, 2_8, 2, 1.0, ORRRRAbove
+O, +_5, +, 1.0, ORRR
+O, \beta_10, \beta, 1.0, ORRRRBelow
+O, COMMA_11, COMMA, 1.0, ORRRRR
+O, \phi_15, \phi, 1.0, ORRRRRRRRR
+O, \phi_4, \phi, 1.0, ORR
+O, \rightarrow_13, \rightarrow, 1.0, ORRRRRRR
+O, \rightarrow_3, \rightarrow, 1.0, OR
+O, \pi_9, \pi, 1.0, ORRRRAboveR
+O, _6, -, 1.0, ORRRR
+O, -_14, -, 1.0, ORRRRRRRR
+O, \phi_2, \phi, 1.0, O
+
+# Relations from SRT:
+R, +_5, _6, Right, 1.0
+R, -_14, \phi_15, Right, 1.0
+R, 2_8, \pi_9, Right, 1.0
+R, COMMA_11, \phi_12, Right, 1.0
+R, \phi_12, \rightarrow_13, Right, 1.0
+R, \phi_2, \rightarrow_3, Right, 1.0
+R, \phi_4, +_5, Right, 1.0
+R, \rightarrow_13, -_14, Right, 1.0
+R, \rightarrow_3, \phi_4, Right, 1.0
+R, _6, 2_8, Above, 1.0
+R, _6, COMMA_11, Right, 1.0
+R, _6, \beta_10, Below, 1.0

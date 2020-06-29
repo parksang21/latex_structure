@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { i } e _ { e } \cdot o _ { i e } ^ { * } e _ { e } e _ { i } = 0 , \forall i , e \in S
+\end{equation}

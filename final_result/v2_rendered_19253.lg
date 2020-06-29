@@ -1,0 +1,35 @@
+# IUD, v2_rendered_19253
+# Objects(16):
+O, _20, \sqrt, 1.0, ORRRInside
+O, 1_11, 1, 1.0, ORRAboveR
+O, _8, -, 1.0, ORR
+O, P_4, P, 1.0, OInside
+O, \mu_22, \mu, 1.0, ORRRSub
+O, \pi_14, \pi, 1.0, ORRBelowR
+O, x_21, x, 1.0, ORRRInsideInside
+O, _19, \sqrt, 1.0, ORRR
+O, 2_13, 2, 1.0, ORRBelow
+O, \prime_17, \prime, 1.0, ORRBelowRRSup
+O, =_7, =, 1.0, OR
+O, \alpha_16, \alpha, 1.0, ORRBelowRR
+O, \mu_5, \mu, 1.0, OSub
+O, -_10, -, 1.0, ORRAbove
+O, \tau_6, \tau, 1.0, OSup
+O, _3, \sqrt, 1.0, O
+
+# Relations from SRT:
+R, -_10, 1_11, Right, 1.0
+R, 2_13, \pi_14, Right, 1.0
+R, =_7, _8, Right, 1.0
+R, \alpha_16, \prime_17, Sup, 1.0
+R, \pi_14, \alpha_16, Right, 1.0
+R, _19, \mu_22, Sub, 1.0
+R, _19, _20, Inside, 1.0
+R, _20, x_21, Inside, 1.0
+R, _3, =_7, Right, 1.0
+R, _3, P_4, Inside, 1.0
+R, _3, \mu_5, Sub, 1.0
+R, _3, \tau_6, Sup, 1.0
+R, _8, -_10, Above, 1.0
+R, _8, 2_13, Below, 1.0
+R, _8, _19, Right, 1.0

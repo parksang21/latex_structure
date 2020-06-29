@@ -1,0 +1,45 @@
+# IUD, v2_rendered_24875
+# Objects(21):
+O, z_8, z, 1.0, ORSubInside
+O, H_24, H, 1.0, ORRRRRRRRRR
+O, 1_12, 1, 1.0, ORRRRAbove
+O, _11, -, 1.0, ORRRR
+O, 2_23, 2, 1.0, ORRRRRRRRRSup
+O, \Delta_6, \Delta, 1.0, OR
+O, \pi_15, \pi, 1.0, ORRRRBelowR
+O, 0_26, 0, 1.0, ORRRRRRRRRRRR
+O, x_22, x, 1.0, ORRRRRRRRRSub
+O, z_18, z, 1.0, ORRRRRRR
+O, z_4, z, 1.0, OSub
+O, =_25, =, 1.0, ORRRRRRRRRRR
+O, \Delta_21, \Delta, 1.0, ORRRRRRRRR
+O, H_9, H, 1.0, ORR
+O, _7, \sqrt, 1.0, ORSub
+O, \vert_19, \vert, 1.0, ORRRRRRRR
+O, \Delta_3, \Delta, 1.0, O
+O, \vert_17, \vert, 1.0, ORRRRRR
+O, -_10, -, 1.0, ORRR
+O, \log_16, \log, 1.0, ORRRRR
+O, 2_14, 2, 1.0, ORRRRBelow
+
+# Relations from SRT:
+R, -_10, _11, Right, 1.0
+R, 2_14, \pi_15, Right, 1.0
+R, =_25, 0_26, Right, 1.0
+R, H_24, =_25, Right, 1.0
+R, H_9, -_10, Right, 1.0
+R, \Delta_21, 2_23, Sup, 1.0
+R, \Delta_21, H_24, Right, 1.0
+R, \Delta_21, x_22, Sub, 1.0
+R, \Delta_3, \Delta_6, Right, 1.0
+R, \Delta_3, z_4, Sub, 1.0
+R, \Delta_6, H_9, Right, 1.0
+R, \Delta_6, _7, Sub, 1.0
+R, \log_16, \vert_17, Right, 1.0
+R, \vert_17, z_18, Right, 1.0
+R, \vert_19, \Delta_21, Right, 1.0
+R, _11, 1_12, Above, 1.0
+R, _11, 2_14, Below, 1.0
+R, _11, \log_16, Right, 1.0
+R, _7, z_8, Inside, 1.0
+R, z_18, \vert_19, Right, 1.0

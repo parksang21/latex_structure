@@ -1,0 +1,3 @@
+\begin{equation}
+	K ^ { 2 } ( r ) = e ^ { - 2 r / \lambda } r \cap \alpha \lambda
+\end{equation}

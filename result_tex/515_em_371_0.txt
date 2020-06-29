@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { 1 } { 4 \pi E _ { 0 } }
+\end{equation}

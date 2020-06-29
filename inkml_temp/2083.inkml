@@ -1,0 +1,56 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">2083</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msub><mi xml:id="P_3">P</mi><mrow><mi xml:id="\mu_5">μ</mi><mi xml:id="\varepsilon_6">ε</mi></mrow></msub><msub><mi xml:id="p_8">p</mi><mi xml:id="\sigma_9">σ</mi></msub><mo form="prefix" stretchy="false" xml:id="(_10">(</mo><mi xml:id="V_11">V</mi><mo form="postfix" stretchy="false" xml:id=")_12">)</mo><mo xml:id="=_13">=</mo></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">P</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="P_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\mu_5"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\varepsilon</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\varepsilon_6"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">p</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="p_8"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">\sigma</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="\sigma_9"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="(_10"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">V</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="V_11"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href=")_12"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="=_13"/>
+	</traceGroup>
+</traceGroup>
+</ink>

@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { n } ^ { ( 1 ) } ( \gamma ) = d _ { \gamma } e ^ { - c _ { \gamma } n }
+\end{equation}

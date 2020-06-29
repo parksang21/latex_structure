@@ -1,0 +1,3 @@
+\begin{equation}
+	\alpha \frac { d v _ { R } ^ { 2 } } { d \alpha } = A _ { \delta } v _ { R } ^ { 2 }
+\end{equation}

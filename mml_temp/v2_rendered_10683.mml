@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>M</mi><mo>=</mo><mo stretchy="false" form="postfix">|</mo><mi>m</mi><mo stretchy="false" form="postfix">|</mo><msqrt><mrow><mo stretchy="false" form="prefix">(</mo><mi>S</mi><mo>+</mo><mfrac><mi>θ</mi><mrow><mn>2</mn><mi>π</mi></mrow></mfrac><msup><mo stretchy="false" form="postfix">)</mo><mn>2</mn></msup><mo>+</mo><msup><mi>r</mi><mn>2</mn></msup></mrow></msqrt></mrow><annotation encoding="application/x-tex">\begin{equation}
+    M = \vert m \vert \sqrt { ( S + \frac { \theta } { 2 \pi } ) ^ { 2 } + r ^ { 2 } }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

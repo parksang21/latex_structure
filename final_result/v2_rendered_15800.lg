@@ -1,0 +1,31 @@
+# IUD, v2_rendered_15800
+# Objects(14):
+O, \theta_10, \theta, 1.0, ORRRRRR
+O, r_15, r, 1.0, ORRRRRRRRR
+O, p_6, p, 1.0, ORRR
+O, -_4, -, 1.0, ORR
+O, F_2, F, 1.0, O
+O, \cos_9, \cos, 1.0, ORRRRR
+O, y_14, y, 1.0, ORRRRRRRRSub
+O, r_8, r, 1.0, ORRRR
+O, \theta_17, \theta, 1.0, ORRRRRRRRRRR
+O, p_13, p, 1.0, ORRRRRRRR
+O, x_7, x, 1.0, ORRRSub
+O, =_3, =, 1.0, OR
+O, \tan_16, \tan, 1.0, ORRRRRRRRRR
+O, -_11, -, 1.0, ORRRRRRR
+
+# Relations from SRT:
+R, -_11, p_13, Right, 1.0
+R, -_4, p_6, Right, 1.0
+R, =_3, -_4, Right, 1.0
+R, F_2, =_3, Right, 1.0
+R, \cos_9, \theta_10, Right, 1.0
+R, \tan_16, \theta_17, Right, 1.0
+R, \theta_10, -_11, Right, 1.0
+R, p_13, r_15, Right, 1.0
+R, p_13, y_14, Sub, 1.0
+R, p_6, r_8, Right, 1.0
+R, p_6, x_7, Sub, 1.0
+R, r_15, \tan_16, Right, 1.0
+R, r_8, \cos_9, Right, 1.0

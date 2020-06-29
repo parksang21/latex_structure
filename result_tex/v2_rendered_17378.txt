@@ -1,0 +1,3 @@
+\begin{equation}
+	Z = f ( u ) - g ( v ) , \tau = f ( u ) + g ( u )
+\end{equation}

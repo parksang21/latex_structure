@@ -1,0 +1,3 @@
+\begin{equation}
+	\rho ( \beta , L ) = \rho ( \beta , L ) = \frac { 1 } { \angle ^ { 2 } } f ^ { \prime } ( \frac { \beta } { L } )
+\end{equation}

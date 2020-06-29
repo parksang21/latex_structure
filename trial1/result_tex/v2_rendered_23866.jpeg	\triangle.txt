@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { 1 } w ( n ) \geq \tilde { \delta } A ^ { 4 } w ( n )
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\varphi = \div \dot { \pi } \div K \pi , \pi S = \dot { \varphi } \div \varphi K
+\end{equation}

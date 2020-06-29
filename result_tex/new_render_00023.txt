@@ -1,0 +1,3 @@
+\begin{equation}
+	\vert h _ { z } \vert \leqq r , \therefore z
+\end{equation}

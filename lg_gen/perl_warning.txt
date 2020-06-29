@@ -1,0 +1,13 @@
+  ERROR: unknown tag :mover
+unknown tag :mover
+./batch_mml2lg: line 59: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+./batch_mml2lg: line 60: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+  ERROR:  !! inkml_temp//RIT_2014_199.inkml: unused symbol (symbol 12)
+ !! inkml_temp//RIT_2014_199.inkml: invalid symbol (symbol 12)
+mi problem detected : no label
+./batch_mml2lg: line 59: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+./batch_mml2lg: line 60: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+  ERROR: unknown tag :mover
+unknown tag :mover
+./batch_mml2lg: line 59: ConvertCrohmeLgErrors-inkml_temp/: Is a directory
+./batch_mml2lg: line 60: ConvertCrohmeLgErrors-inkml_temp/: Is a directory

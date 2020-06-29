@@ -1,0 +1,43 @@
+# IUD, v2_rendered_01679
+# Objects(20):
+O, Z_26, Z, 1.0, ORRRRRRRRRRRRSub
+O, \beta_17, \beta, 1.0, ORRRRRRRR
+O, \beta_3, \beta, 1.0, O
+O, X_21, X, 1.0, ORRRRRRRRRSub
+O, F_13, F, 1.0, ORRRRR
+O, \vee_23, \vee, 1.0, ORRRRRRRRRRR
+O, \vee_12, \vee, 1.0, ORRRR
+O, F_27, F, 1.0, ORRRRRRRRRRRRR
+O, F_11, F, 1.0, ORRR
+O, F_22, F, 1.0, ORRRRRRRRRR
+O, Z_4, Z, 1.0, OSub
+O, Y_7, Y, 1.0, ORSub
+O, \beta_25, \beta, 1.0, ORRRRRRRRRRRR
+O, \beta_20, \beta, 1.0, ORRRRRRRRR
+O, =_14, =, 1.0, ORRRRRR
+O, -_15, -, 1.0, ORRRRRRR
+O, \beta_6, \beta, 1.0, OR
+O, X_10, X, 1.0, ORRSub
+O, Y_18, Y, 1.0, ORRRRRRRRSub
+O, \beta_9, \beta, 1.0, ORR
+
+# Relations from SRT:
+R, -_15, \beta_17, Right, 1.0
+R, =_14, -_15, Right, 1.0
+R, F_11, \vee_12, Right, 1.0
+R, F_13, =_14, Right, 1.0
+R, F_22, \vee_23, Right, 1.0
+R, \beta_17, Y_18, Sub, 1.0
+R, \beta_17, \beta_20, Right, 1.0
+R, \beta_20, F_22, Right, 1.0
+R, \beta_20, X_21, Sub, 1.0
+R, \beta_25, F_27, Right, 1.0
+R, \beta_25, Z_26, Sub, 1.0
+R, \beta_3, Z_4, Sub, 1.0
+R, \beta_3, \beta_6, Right, 1.0
+R, \beta_6, Y_7, Sub, 1.0
+R, \beta_6, \beta_9, Right, 1.0
+R, \beta_9, F_11, Right, 1.0
+R, \beta_9, X_10, Sub, 1.0
+R, \vee_12, F_13, Right, 1.0
+R, \vee_23, \beta_25, Right, 1.0

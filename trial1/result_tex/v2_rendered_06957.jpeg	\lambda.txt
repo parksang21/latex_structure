@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \varphi } \equiv \mu \frac { \Delta \log Z _ { \varphi } } { \Delta \mu } = \frac { t } { 2 \pi ^ { 2 } }
+\end{equation}

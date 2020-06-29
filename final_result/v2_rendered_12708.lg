@@ -1,0 +1,35 @@
+# IUD, v2_rendered_12708
+# Objects(16):
+O, \}_21, \}, 1.0, ORRRRRR
+O, N_8, N, 1.0, ORRBelow
+O, n_17, n, 1.0, ORRRRSub
+O, \prod_10, \prod, 1.0, ORRR
+O, n_12, n, 1.0, ORRRBelow
+O, 1_3, 1, 1.0, OAbove
+O, COMMA_13, COMMA, 1.0, ORRRBelowR
+O, _6, -, 1.0, ORR
+O, m_14, m, 1.0, ORRRBelowRR
+O, \{_5, \{, 1.0, OR
+O, \lambda_19, \lambda, 1.0, ORRRRR
+O, m_20, m, 1.0, ORRRRRSub
+O, g_7, g, 1.0, ORRAbove
+O, \lambda_16, \lambda, 1.0, ORRRR
+O, 2_4, 2, 1.0, OBelow
+O, _2, -, 1.0, O
+
+# Relations from SRT:
+R, COMMA_13, m_14, Right, 1.0
+R, \lambda_16, \lambda_19, Right, 1.0
+R, \lambda_16, n_17, Sub, 1.0
+R, \lambda_19, \}_21, Right, 1.0
+R, \lambda_19, m_20, Sub, 1.0
+R, \prod_10, \lambda_16, Right, 1.0
+R, \prod_10, n_12, Below, 1.0
+R, \{_5, _6, Right, 1.0
+R, _2, 1_3, Above, 1.0
+R, _2, 2_4, Below, 1.0
+R, _2, \{_5, Right, 1.0
+R, _6, N_8, Below, 1.0
+R, _6, \prod_10, Right, 1.0
+R, _6, g_7, Above, 1.0
+R, n_12, COMMA_13, Right, 1.0

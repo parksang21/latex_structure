@@ -1,0 +1,3 @@
+\begin{equation}
+	L _ { j } ( \omega ) = \frac { 1 } { j \vert } ( \frac { d \ln } { d \omega } ) ^ { j } f ( \omega )
+\end{equation}

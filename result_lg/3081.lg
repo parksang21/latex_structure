@@ -1,0 +1,51 @@
+# IUD, 3081
+# Objects(24):
+O, -_22, -, 1.0, ORRRRRRRRRR
+O, 0_27, 0, 1.0, ORRRRRRRRRRRRRSub
+O, N_23, N, 1.0, ORRRRRRRRRRR
+O, \mu_9, \mu, 1.0, ORRRSub
+O, 2_21, 2, 1.0, ORRRRRRRRRSup
+O, 2_6, 2, 1.0, ORRBelow
+O, _15, -, 1.0, ORRRRRRR
+O, 2_28, 2, 1.0, ORRRRRRRRRRRRRSup
+O, g_26, g, 1.0, ORRRRRRRRRRRRR
+O, 1_5, 1, 1.0, ORRAbove
+O, L_2, L, 1.0, O
+O, (_18, (, 1.0, ORRRRRRRR
+O, =_3, =, 1.0, OR
+O, +_14, +, 1.0, ORRRRRR
+O, n_20, n, 1.0, ORRRRRRRRR
+O, )_29, ), 1.0, ORRRRRRRRRRRRRR
+O, _4, -, 1.0, ORR
+O, 2_17, 2, 1.0, ORRRRRRRBelow
+O, \sigma_16, \sigma, 1.0, ORRRRRRRAbove
+O, /_24, /, 1.0, ORRRRRRRRRRRR
+O, \Delta_12, \Delta, 1.0, ORRRRR
+O, m_10, m, 1.0, ORRRR
+O, \mu_13, \mu, 1.0, ORRRRRSub
+O, \Delta_8, \Delta, 1.0, ORRR
+
+# Relations from SRT:
+R, (_18, n_20, Right, 1.0
+R, +_14, _15, Right, 1.0
+R, -_22, N_23, Right, 1.0
+R, /_24, g_26, Right, 1.0
+R, =_3, _4, Right, 1.0
+R, L_2, =_3, Right, 1.0
+R, N_23, /_24, Right, 1.0
+R, \Delta_12, +_14, Right, 1.0
+R, \Delta_12, \mu_13, Sub, 1.0
+R, \Delta_8, \mu_9, Sub, 1.0
+R, \Delta_8, m_10, Right, 1.0
+R, _15, (_18, Right, 1.0
+R, _15, 2_17, Below, 1.0
+R, _15, \sigma_16, Above, 1.0
+R, _4, 1_5, Above, 1.0
+R, _4, 2_6, Below, 1.0
+R, _4, \Delta_8, Right, 1.0
+R, g_26, )_29, Right, 1.0
+R, g_26, 0_27, Sub, 1.0
+R, g_26, 2_28, Sup, 1.0
+R, m_10, \Delta_12, Right, 1.0
+R, n_20, -_22, Right, 1.0
+R, n_20, 2_21, Sup, 1.0

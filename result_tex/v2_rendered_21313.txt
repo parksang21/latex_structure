@@ -1,0 +1,3 @@
+\begin{equation}
+	f ( r ) = 1 + ( \frac { r _ { 0 } } { r } ) ^ { D - 3 } \sin ^ { 2 } \alpha
+\end{equation}

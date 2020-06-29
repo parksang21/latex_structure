@@ -1,0 +1,111 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_25100</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mi xml:id="g_2">g</mi><mo form="prefix" stretchy="false" xml:id="(_3">(</mo><msubsup><mi xml:id="A_5">A</mi><mi xml:id="\mu_6">μ</mi><mi xml:id="ω_7">ω</mi></msubsup><mo form="postfix" stretchy="false" xml:id=")_8">)</mo><mo xml:id="\equiv_9">≡</mo><mi xml:id="f_10">f</mi><mo form="prefix" stretchy="false" xml:id="(_11">(</mo><msubsup><mi xml:id="A_13">A</mi><mi xml:id="\mu_14">μ</mi><mi xml:id="ω_15">ω</mi></msubsup><mo form="postfix" stretchy="false" xml:id=")_16">)</mo><mo xml:id="-_17">−</mo><mi xml:id="f_18">f</mi><mo form="prefix" stretchy="false" xml:id="(_19">(</mo><msubsup><mi xml:id="A_21">A</mi><mi xml:id="\mu_22">μ</mi><mi xml:id="ω_23">ω</mi></msubsup><mo form="postfix" stretchy="false" xml:id=")_24">)</mo></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">g</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="g_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="(_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">A</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="A_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\mu_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">ω</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="ω_7"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href=")_8"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">\equiv</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="\equiv_9"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">f</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="f_10"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="(_11"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">A</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="A_13"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="\mu_14"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">ω</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="ω_15"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href=")_16"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="-_17"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">f</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="f_18"/>
+	</traceGroup>
+ <traceGroup xml:id="16">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="15"/>
+    <annotationXML href="(_19"/>
+	</traceGroup>
+ <traceGroup xml:id="17">
+    <annotation type="truth">A</annotation>
+	<traceView traceDataRef="16"/>
+    <annotationXML href="A_21"/>
+	</traceGroup>
+ <traceGroup xml:id="18">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="17"/>
+    <annotationXML href="\mu_22"/>
+	</traceGroup>
+ <traceGroup xml:id="19">
+    <annotation type="truth">ω</annotation>
+	<traceView traceDataRef="18"/>
+    <annotationXML href="ω_23"/>
+	</traceGroup>
+ <traceGroup xml:id="20">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="19"/>
+    <annotationXML href=")_24"/>
+	</traceGroup>
+</traceGroup>
+</ink>

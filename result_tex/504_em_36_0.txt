@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { 1 1 2 \div 2 } { 1 2 6 \div 2 } = \frac { 5 \sigma } { 6 3 }
+\end{equation}

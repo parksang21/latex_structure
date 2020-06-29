@@ -1,0 +1,35 @@
+# IUD, v2_rendered_24785
+# Objects(16):
+O, )_22, ), 1.0, ORRRBelowRRRRRR
+O, 2_20, 2, 1.0, ORRRBelowRRRR
+O, \gamma_19, \gamma, 1.0, ORRRBelowRRR
+O, m_8, m, 1.0, ORRRAbove
+O, T_2, T, 1.0, O
+O, \cap_3, \cap, 1.0, OR
+O, _17, , 1.0, ORRRBelowRRBelow
+O, _14, -, 1.0, ORRRBelowRR
+O, \lambda_10, \lambda, 1.0, ORRRAboveR
+O, W_9, W, 1.0, ORRRAboveSub
+O, c_21, c, 1.0, ORRRBelowRRRRR
+O, (_13, (, 1.0, ORRRBelowR
+O, \ln_12, \ln, 1.0, ORRRBelow
+O, e_15, e, 1.0, ORRRBelowRRAbove
+O, -_4, -, 1.0, ORR
+O, _5, -, 1.0, ORRR
+
+# Relations from SRT:
+R, (_13, _14, Right, 1.0
+R, -_4, _5, Right, 1.0
+R, 2_20, c_21, Right, 1.0
+R, T_2, \cap_3, Right, 1.0
+R, \cap_3, -_4, Right, 1.0
+R, \gamma_19, 2_20, Right, 1.0
+R, \ln_12, (_13, Right, 1.0
+R, _14, \gamma_19, Right, 1.0
+R, _14, _17, Below, 1.0
+R, _14, e_15, Above, 1.0
+R, _5, \ln_12, Below, 1.0
+R, _5, m_8, Above, 1.0
+R, c_21, )_22, Right, 1.0
+R, m_8, W_9, Sub, 1.0
+R, m_8, \lambda_10, Right, 1.0

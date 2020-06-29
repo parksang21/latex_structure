@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { 1 1 0 } = \frac { 3 } { 2 } \log 3 - 3 \log 2 + - \log \delta _ { z } + \log \varepsilon
+\end{equation}

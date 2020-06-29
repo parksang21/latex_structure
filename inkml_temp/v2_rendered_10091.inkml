@@ -1,0 +1,86 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_10091</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><munderover><mo xml:id="\prod_3">∏</mo><mrow><mi xml:id="i_5">i</mi><mo xml:id="\geq_6">≥</mo><mn xml:id="4_7">4</mn></mrow><mi xml:id="Z_8">Z</mi></munderover><msubsup><mi xml:id="Y_10">Y</mi><mi xml:id="i_11">i</mi><mrow><mo form="prefix" stretchy="false" xml:id="(_13">(</mo><mi xml:id="l_14">l</mi><mo form="postfix" stretchy="false" xml:id=")_15">)</mo></mrow></msubsup><mo xml:id="\geq_16">≥</mo><mn xml:id="0_17">0</mn><mo xml:id=",_18">,</mo><mo xml:id="\forall_19">∀</mo><mi xml:id="l_20">l</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\prod</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\prod_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">i</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="i_5"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\geq</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\geq_6"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">4</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="4_7"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">Z</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="Z_8"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">Y</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="Y_10"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">i</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="i_11"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="(_13"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">l</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="l_14"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href=")_15"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">\geq</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="\geq_16"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">0</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="0_17"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">,</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href=",_18"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">\forall</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="\forall_19"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">l</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="l_20"/>
+	</traceGroup>
+</traceGroup>
+</ink>

@@ -1,0 +1,3 @@
+\begin{equation}
+	( P ) \vee V _ { 3 } ( p , q )
+\end{equation}

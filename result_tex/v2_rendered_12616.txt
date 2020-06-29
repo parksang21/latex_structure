@@ -1,0 +1,3 @@
+\begin{equation}
+	E ( L ) - E _ { 0 } ( L ) = E _ { R } + E _ { L } + M \sin \theta
+\end{equation}

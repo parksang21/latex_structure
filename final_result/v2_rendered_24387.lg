@@ -1,0 +1,47 @@
+# IUD, v2_rendered_24387
+# Objects(22):
+O, 2_28, 2, 1.0, ORRRRRRRRBelowRRRRRSup
+O, t_4, t, 1.0, ORR
+O, 8_20, 8, 1.0, ORRRRRRRRBelowR
+O, +_21, +, 1.0, ORRRRRRRRBelowRR
+O, 4_12, 4, 1.0, ORRRRRRRRAbove
+O, _10, -, 1.0, ORRRRRRRR
+O, )_5, ), 1.0, ORRR
+O, R_2, R, 1.0, O
+O, =_6, =, 1.0, ORRRR
+O, t_17, t, 1.0, ORRRRRRRRAboveRRR
+O, )_27, ), 1.0, ORRRRRRRRBelowRRRRR
+O, \cos_23, \cos, 1.0, ORRRRRRRRBelowRRR
+O, 2_24, 2, 1.0, ORRRRRRRRBelowRRRSup
+O, (_19, (, 1.0, ORRRRRRRRBelow
+O, \cos_15, \cos, 1.0, ORRRRRRRRAboveRR
+O, 2_9, 2, 1.0, ORRRRRRR
+O, -_13, -, 1.0, ORRRRRRRRAboveR
+O, -_7, -, 1.0, ORRRRR
+O, t_25, t, 1.0, ORRRRRRRRBelowRRRR
+O, (_3, (, 1.0, OR
+O, 2_16, 2, 1.0, ORRRRRRRRAboveRRSup
+O, 7_8, 7, 1.0, ORRRRRR
+
+# Relations from SRT:
+R, (_19, 8_20, Right, 1.0
+R, (_3, t_4, Right, 1.0
+R, )_27, 2_28, Sup, 1.0
+R, )_5, =_6, Right, 1.0
+R, +_21, \cos_23, Right, 1.0
+R, -_13, \cos_15, Right, 1.0
+R, -_7, 7_8, Right, 1.0
+R, 2_9, _10, Right, 1.0
+R, 4_12, -_13, Right, 1.0
+R, 7_8, 2_9, Right, 1.0
+R, 8_20, +_21, Right, 1.0
+R, =_6, -_7, Right, 1.0
+R, R_2, (_3, Right, 1.0
+R, \cos_15, 2_16, Sup, 1.0
+R, \cos_15, t_17, Right, 1.0
+R, \cos_23, 2_24, Sup, 1.0
+R, \cos_23, t_25, Right, 1.0
+R, _10, (_19, Below, 1.0
+R, _10, 4_12, Above, 1.0
+R, t_25, )_27, Right, 1.0
+R, t_4, )_5, Right, 1.0

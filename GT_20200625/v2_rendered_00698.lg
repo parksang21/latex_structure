@@ -1,0 +1,53 @@
+# IUD, v2_rendered_00698
+# Objects(25):
+O, \psi_4, \psi, 1.0, OR
+O, \langle_10, \langle, 1.0, ORRRRRR
+O, \psi_19, \psi, 1.0, ORRRRRRRRRRRRR
+O, \psi_26, \psi, 1.0, ORRRRRRRRRRRRRRRRRRRR
+O, \langle_18, \langle, 1.0, ORRRRRRRRRRRR
+O, COMMA_17, COMMA, 1.0, ORRRRRRRRRRR
+O, \neq_27, \neq, 1.0, ORRRRRRRRRRRRRRRRRRRRR
+O, \prime_15, \prime, 1.0, ORRRRRRRRRSup
+O, \forall_25, \forall, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, COMMA_6, COMMA, 1.0, ORR
+O, \rangle_16, \rangle, 1.0, ORRRRRRRRRR
+O, \langle_2, \langle, 1.0, O
+O, \psi_11, \psi, 1.0, ORRRRRRR
+O, =_9, =, 1.0, ORRRRR
+O, \prime_5, \prime, 1.0, ORSup
+O, \rangle_8, \rangle, 1.0, ORRRR
+O, \psi_7, \psi, 1.0, ORRR
+O, COMMA_12, COMMA, 1.0, ORRRRRRRR
+O, COMMA_20, COMMA, 1.0, ORRRRRRRRRRRRRR
+O, \rangle_22, \rangle, 1.0, ORRRRRRRRRRRRRRRR
+O, \psi_14, \psi, 1.0, ORRRRRRRRR
+O, 4_24, 4, 1.0, ORRRRRRRRRRRRRRRRRR
+O, \gt_23, \gt, 1.0, ORRRRRRRRRRRRRRRRR
+O, \psi_21, \psi, 1.0, ORRRRRRRRRRRRRRR
+O, 4_28, 4, 1.0, ORRRRRRRRRRRRRRRRRRRRRR
+
+# Relations from SRT:
+R, 4_24, \forall_25, Right, 1.0
+R, =_9, \langle_10, Right, 1.0
+R, COMMA_12, \psi_14, Right, 1.0
+R, COMMA_17, \langle_18, Right, 1.0
+R, COMMA_20, \psi_21, Right, 1.0
+R, COMMA_6, \psi_7, Right, 1.0
+R, \forall_25, \psi_26, Right, 1.0
+R, \gt_23, 4_24, Right, 1.0
+R, \langle_10, \psi_11, Right, 1.0
+R, \langle_18, \psi_19, Right, 1.0
+R, \langle_2, \psi_4, Right, 1.0
+R, \neq_27, 4_28, Right, 1.0
+R, \psi_11, COMMA_12, Right, 1.0
+R, \psi_14, \prime_15, Sup, 1.0
+R, \psi_14, \rangle_16, Right, 1.0
+R, \psi_19, COMMA_20, Right, 1.0
+R, \psi_21, \rangle_22, Right, 1.0
+R, \psi_26, \neq_27, Right, 1.0
+R, \psi_4, COMMA_6, Right, 1.0
+R, \psi_4, \prime_5, Sup, 1.0
+R, \psi_7, \rangle_8, Right, 1.0
+R, \rangle_16, COMMA_17, Right, 1.0
+R, \rangle_22, \gt_23, Right, 1.0
+R, \rangle_8, =_9, Right, 1.0

@@ -1,0 +1,37 @@
+# IUD, v2_rendered_19628
+# Objects(17):
+O, \sin_11, \sin, 1.0, ORRR
+O, \beta_21, \beta, 1.0, ORRRRRRRRR
+O, m_15, m, 1.0, ORRRRRSub
+O, J_14, J, 1.0, ORRRRR
+O, \gamma_18, \gamma, 1.0, ORRRRRRR
+O, J_23, J, 1.0, ORRRRRRRRRR
+O, m_24, m, 1.0, ORRRRRRRRRRSub
+O, 5_19, 5, 1.0, ORRRRRRRSub
+O, =_10, =, 1.0, ORR
+O, \div_16, \div, 1.0, ORRRRRR
+O, \cos_20, \cos, 1.0, ORRRRRRRR
+O, \beta_8, \beta, 1.0, OSupR
+O, J_9, J, 1.0, OR
+O, \beta_12, \beta, 1.0, ORRRR
+O, 5_7, 5, 1.0, OSupSub
+O, e_3, e, 1.0, O
+O, \gamma_6, \gamma, 1.0, OSup
+
+# Relations from SRT:
+R, =_10, \sin_11, Right, 1.0
+R, J_14, \div_16, Right, 1.0
+R, J_14, m_15, Sub, 1.0
+R, J_23, m_24, Sub, 1.0
+R, J_9, =_10, Right, 1.0
+R, \beta_12, J_14, Right, 1.0
+R, \beta_21, J_23, Right, 1.0
+R, \cos_20, \beta_21, Right, 1.0
+R, \div_16, \gamma_18, Right, 1.0
+R, \gamma_18, 5_19, Sub, 1.0
+R, \gamma_18, \cos_20, Right, 1.0
+R, \gamma_6, 5_7, Sub, 1.0
+R, \gamma_6, \beta_8, Right, 1.0
+R, \sin_11, \beta_12, Right, 1.0
+R, e_3, J_9, Right, 1.0
+R, e_3, \gamma_6, Sup, 1.0

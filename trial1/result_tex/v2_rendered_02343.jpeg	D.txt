@@ -1,0 +1,3 @@
+\begin{equation}
+	\equiv D _ { + } + D _ { - } = \Delta _ { \theta } + 2 \theta \Delta _ { t }
+\end{equation}

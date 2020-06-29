@@ -1,0 +1,33 @@
+# IUD, 917
+# Objects(15):
+O, \prime_19, \prime, 1.0, ORRRRRRRRSup
+O, ω_11, ω, 1.0, ORRRSub
+O, \prime_8, \prime, 1.0, ORRSup
+O, _15, \sqrt, 1.0, ORRRRRRR
+O, b_18, b, 1.0, ORRRRRRRR
+O, U_3, U, 1.0, O
+O, \Omega_14, \Omega, 1.0, ORRRRRR
+O, ω_4, ω, 1.0, OSub
+O, a_5, a, 1.0, OR
+O, \otimes_16, \otimes, 1.0, ORRRRRRRInside
+O, =_12, =, 1.0, ORRRR
+O, a_13, a, 1.0, ORRRRR
+O, b_7, b, 1.0, ORR
+O, \Omega_20, \Omega, 1.0, ORRRRRRRRR
+O, \Omega_10, \Omega, 1.0, ORRR
+
+# Relations from SRT:
+R, =_12, a_13, Right, 1.0
+R, U_3, a_5, Right, 1.0
+R, U_3, ω_4, Sub, 1.0
+R, \Omega_10, =_12, Right, 1.0
+R, \Omega_10, ω_11, Sub, 1.0
+R, \Omega_14, _15, Right, 1.0
+R, _15, \otimes_16, Inside, 1.0
+R, _15, b_18, Right, 1.0
+R, a_13, \Omega_14, Right, 1.0
+R, a_5, b_7, Right, 1.0
+R, b_18, \Omega_20, Right, 1.0
+R, b_18, \prime_19, Sup, 1.0
+R, b_7, \Omega_10, Right, 1.0
+R, b_7, \prime_8, Sup, 1.0

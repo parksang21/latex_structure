@@ -1,0 +1,35 @@
+# IUD, v2_rendered_16833
+# Objects(16):
+O, d_19, d, 1.0, ORRRRRRRRR
+O, g_7, g, 1.0, ORR
+O, \mu_17, \mu, 1.0, ORRRRRRRSup
+O, (_11, (, 1.0, ORRR
+O, \otimes_18, \otimes, 1.0, ORRRRRRRR
+O, \mu_9, \mu, 1.0, ORRSub
+O, )_13, ), 1.0, ORRRRR
+O, x_21, x, 1.0, ORRRRRRRRRR
+O, Y_4, Y, 1.0, OSub
+O, =_5, =, 1.0, OR
+O, Y_12, Y, 1.0, ORRRR
+O, x_16, x, 1.0, ORRRRRRR
+O, d_14, d, 1.0, ORRRRRR
+O, \tau_10, \tau, 1.0, ORRSubR
+O, g_3, g, 1.0, O
+O, \tau_22, \tau, 1.0, ORRRRRRRRRRSup
+
+# Relations from SRT:
+R, (_11, Y_12, Right, 1.0
+R, )_13, d_14, Right, 1.0
+R, =_5, g_7, Right, 1.0
+R, Y_12, )_13, Right, 1.0
+R, \mu_9, \tau_10, Right, 1.0
+R, \otimes_18, d_19, Right, 1.0
+R, d_14, x_16, Right, 1.0
+R, d_19, x_21, Right, 1.0
+R, g_3, =_5, Right, 1.0
+R, g_3, Y_4, Sub, 1.0
+R, g_7, (_11, Right, 1.0
+R, g_7, \mu_9, Sub, 1.0
+R, x_16, \mu_17, Sup, 1.0
+R, x_16, \otimes_18, Right, 1.0
+R, x_21, \tau_22, Sup, 1.0

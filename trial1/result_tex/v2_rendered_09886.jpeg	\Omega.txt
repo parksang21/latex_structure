@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { i } = \gamma _ { i } \oplus \sigma _ { 3 } , \Omega _ { \pm } = 1 \oplus \sigma _ { \pm }
+\end{equation}

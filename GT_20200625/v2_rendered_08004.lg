@@ -1,0 +1,37 @@
+# IUD, v2_rendered_08004
+# Objects(17):
+O, \lt_8, \lt, 1.0, ORRRRR
+O, )_5, ), 1.0, ORRR
+O, n_17, n, 1.0, ORRRRRRRR
+O, (_16, (, 1.0, ORRRRRRR
+O, m_12, m, 1.0, ORRRRRBelowRR
+O, (_3, (, 1.0, OR
+O, \equiv_6, \equiv, 1.0, ORRRR
+O, U_2, U, 1.0, O
+O, \approx_11, \approx, 1.0, ORRRRRBelowR
+O, COMMA_18, COMMA, 1.0, ORRRRRRRRR
+O, U_15, U, 1.0, ORRRRRR
+O, n_14, n, 1.0, ORRRRRBelowRRRR
+O, 1_10, 1, 1.0, ORRRRRBelow
+O, n_4, n, 1.0, ORR
+O, m_19, m, 1.0, ORRRRRRRRRR
+O, )_20, ), 1.0, ORRRRRRRRRRR
+O, \approx_13, \approx, 1.0, ORRRRRBelowRRR
+
+# Relations from SRT:
+R, (_16, n_17, Right, 1.0
+R, (_3, n_4, Right, 1.0
+R, )_5, \equiv_6, Right, 1.0
+R, 1_10, \approx_11, Right, 1.0
+R, COMMA_18, m_19, Right, 1.0
+R, U_15, (_16, Right, 1.0
+R, U_2, (_3, Right, 1.0
+R, \approx_11, m_12, Right, 1.0
+R, \approx_13, n_14, Right, 1.0
+R, \equiv_6, \lt_8, Right, 1.0
+R, \lt_8, 1_10, Below, 1.0
+R, \lt_8, U_15, Right, 1.0
+R, m_12, \approx_13, Right, 1.0
+R, m_19, )_20, Right, 1.0
+R, n_17, COMMA_18, Right, 1.0
+R, n_4, )_5, Right, 1.0

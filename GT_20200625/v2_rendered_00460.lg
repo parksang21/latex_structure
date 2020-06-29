@@ -1,0 +1,37 @@
+# IUD, v2_rendered_00460
+# Objects(17):
+O, _7, -, 1.0, ORRRRR
+O, 2_16, 2, 1.0, ORRRRRRRRRRAbove
+O, 1_8, 1, 1.0, ORRRRRAbove
+O, \log_10, \log, 1.0, ORRRRRR
+O, 1_12, 1, 1.0, ORRRRRRRR
+O, \phi_2, \phi, 1.0, O
+O, r_4, r, 1.0, ORR
+O, )_5, ), 1.0, ORRR
+O, =_6, =, 1.0, ORRRR
+O, (_11, (, 1.0, ORRRRRRR
+O, D_17, D, 1.0, ORRRRRRRRRRAboveR
+O, 2_9, 2, 1.0, ORRRRRBelow
+O, )_19, ), 1.0, ORRRRRRRRRRR
+O, r_18, r, 1.0, ORRRRRRRRRRBelow
+O, (_3, (, 1.0, OR
+O, _14, -, 1.0, ORRRRRRRRRR
+O, -_13, -, 1.0, ORRRRRRRRR
+
+# Relations from SRT:
+R, (_11, 1_12, Right, 1.0
+R, (_3, r_4, Right, 1.0
+R, )_5, =_6, Right, 1.0
+R, -_13, _14, Right, 1.0
+R, 1_12, -_13, Right, 1.0
+R, 2_16, D_17, Right, 1.0
+R, =_6, _7, Right, 1.0
+R, \log_10, (_11, Right, 1.0
+R, \phi_2, (_3, Right, 1.0
+R, _14, )_19, Right, 1.0
+R, _14, 2_16, Above, 1.0
+R, _14, r_18, Below, 1.0
+R, _7, 1_8, Above, 1.0
+R, _7, 2_9, Below, 1.0
+R, _7, \log_10, Right, 1.0
+R, r_4, )_5, Right, 1.0

@@ -1,0 +1,46 @@
+# IUD, v2_rendered_13762
+# Objects(21):
+O, z_13, z, 1.0, ORRRRRRRInsideRR
+O, \lambda_20, \lambda, 1.0, ORRRRRRRRRRRRR
+O, (_21, (, 1.0, ORRRRRRRRRRRRRR
+O, z_22, z, 1.0, ORRRRRRRRRRRRRRR
+O, _9, \sqrt, 1.0, ORRRRRRR
+O, =_7, =, 1.0, ORRRRR
+O, f_3, f, 1.0, OR
+O, (_2, (, 1.0, O
+O, )_6, ), 1.0, ORRRR
+O, (_12, (, 1.0, ORRRRRRRInsideR
+O, )_23, ), 1.0, ORRRRRRRRRRRRRRRR
+O, \int_8, \int, 1.0, ORRRRRR
+O, g_15, g, 1.0, ORRRRRRRR
+O, )_14, ), 1.0, ORRRRRRRInsideRRR
+O, )_18, ), 1.0, ORRRRRRRRRRR
+O, (_16, (, 1.0, ORRRRRRRRR
+O, g_5, g, 1.0, ORRR
+O, d_19, d, 1.0, ORRRRRRRRRRRR
+O, f_11, f, 1.0, ORRRRRRRInside
+O, z_17, z, 1.0, ORRRRRRRRRR
+O, COMMA_4, COMMA, 1.0, ORR
+
+# Relations from SRT:
+R, (_12, z_13, Right, 1.0
+R, (_16, z_17, Right, 1.0
+R, (_21, z_22, Right, 1.0
+R, (_2, f_3, Right, 1.0
+R, )_18, d_19, Right, 1.0
+R, )_6, =_7, Right, 1.0
+R, =_7, \int_8, Right, 1.0
+R, COMMA_4, g_5, Right, 1.0
+R, \int_8, _9, Right, 1.0
+R, \lambda_20, (_21, Right, 1.0
+R, _9, (_12, Inside, 1.0
+R, _9, f_11, Inside, 1.0
+R, _9, g_15, Right, 1.0
+R, d_19, \lambda_20, Right, 1.0
+R, f_11, (_12, Right, 1.0
+R, f_3, COMMA_4, Right, 1.0
+R, g_15, (_16, Right, 1.0
+R, g_5, )_6, Right, 1.0
+R, z_13, )_14, Right, 1.0
+R, z_17, )_18, Right, 1.0
+R, z_22, )_23, Right, 1.0

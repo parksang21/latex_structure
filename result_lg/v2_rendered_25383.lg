@@ -1,0 +1,49 @@
+# IUD, v2_rendered_25383
+# Objects(23):
+O, (_5, (, 1.0, OR
+O, _14, \sqrt, 1.0, ORRRRRRR
+O, G_18, G, 1.0, ORRRRRRRRR
+O, q_12, q, 1.0, ORRRRRSub
+O, (_13, (, 1.0, ORRRRRR
+O, q_24, q, 1.0, ORRRRRRRRRRRRSub
+O, q_4, q, 1.0, OSub
+O, (_25, (, 1.0, ORRRRRRRRRRRRR
+O, G_27, G, 1.0, ORRRRRRRRRRRRRR
+O, \pi_23, \pi, 1.0, ORRRRRRRRRRRR
+O, *_28, *, 1.0, ORRRRRRRRRRRRRRSub
+O, )_8, ), 1.0, ORRR
+O, _6, \sqrt, 1.0, ORR
+O, A_15, A, 1.0, ORRRRRRRInside
+O, \tau_11, \tau, 1.0, ORRRRR
+O, \pi_3, \pi, 1.0, O
+O, y_19, y, 1.0, ORRRRRRRRRSub
+O, /_16, /, 1.0, ORRRRRRRR
+O, )_20, ), 1.0, ORRRRRRRRRR
+O, )_29, ), 1.0, ORRRRRRRRRRRRRRR
+O, \otimes_21, \otimes, 1.0, ORRRRRRRRRRR
+O, \approx_9, \approx, 1.0, ORRRR
+O, A_7, A, 1.0, ORRInside
+
+# Relations from SRT:
+R, (_13, _14, Right, 1.0
+R, (_25, G_27, Right, 1.0
+R, (_5, _6, Right, 1.0
+R, )_20, \otimes_21, Right, 1.0
+R, )_8, \approx_9, Right, 1.0
+R, /_16, G_18, Right, 1.0
+R, G_18, )_20, Right, 1.0
+R, G_18, y_19, Sub, 1.0
+R, G_27, )_29, Right, 1.0
+R, G_27, *_28, Sub, 1.0
+R, \approx_9, \tau_11, Right, 1.0
+R, \otimes_21, \pi_23, Right, 1.0
+R, \pi_23, (_25, Right, 1.0
+R, \pi_23, q_24, Sub, 1.0
+R, \pi_3, (_5, Right, 1.0
+R, \pi_3, q_4, Sub, 1.0
+R, \tau_11, (_13, Right, 1.0
+R, \tau_11, q_12, Sub, 1.0
+R, _14, /_16, Right, 1.0
+R, _14, A_15, Inside, 1.0
+R, _6, )_8, Right, 1.0
+R, _6, A_7, Inside, 1.0

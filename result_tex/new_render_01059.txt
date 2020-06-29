@@ -1,0 +1,3 @@
+\begin{equation}
+	K ( z , \sqrt { z } ) \neq 0 , \therefore z \vee C
+\end{equation}

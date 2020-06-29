@@ -1,0 +1,3 @@
+\begin{equation}
+	C _ { 3 } = \lim _ { s } m _ { s } ^ { 2 } - \Delta \lim _ { d } m _ { d } ^ { 2 } = 0
+\end{equation}

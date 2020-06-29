@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { r a n g e } ( \vert n a i v e v a c \cup ) = ( - \infty , \infty )
+\end{equation}

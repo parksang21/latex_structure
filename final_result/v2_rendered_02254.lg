@@ -1,0 +1,35 @@
+# IUD, v2_rendered_02254
+# Objects(16):
+O, s_11, s, 1.0, ORRRRRRRRR
+O, (_3, (, 1.0, OR
+O, COMMA_13, COMMA, 1.0, ORRRRRRRRRRR
+O, V_9, V, 1.0, ORRRRRRR
+O, s_15, s, 1.0, ORRRRRRRRRRRRR
+O, [_8, [, 1.0, ORRRRRR
+O, s_5, s, 1.0, ORRR
+O, COMMA_10, COMMA, 1.0, ORRRRRRRR
+O, \notin_16, \notin, 1.0, ORRRRRRRRRRRRRR
+O, d_4, d, 1.0, ORR
+O, ]_12, ], 1.0, ORRRRRRRRRR
+O, \equiv_7, \equiv, 1.0, ORRRRR
+O, \pi_2, \pi, 1.0, O
+O, \forall_14, \forall, 1.0, ORRRRRRRRRRRR
+O, )_6, ), 1.0, ORRRR
+O, S_17, S, 1.0, ORRRRRRRRRRRRRRR
+
+# Relations from SRT:
+R, (_3, d_4, Right, 1.0
+R, )_6, \equiv_7, Right, 1.0
+R, COMMA_10, s_11, Right, 1.0
+R, COMMA_13, \forall_14, Right, 1.0
+R, V_9, COMMA_10, Right, 1.0
+R, [_8, V_9, Right, 1.0
+R, \equiv_7, [_8, Right, 1.0
+R, \forall_14, s_15, Right, 1.0
+R, \notin_16, S_17, Right, 1.0
+R, \pi_2, (_3, Right, 1.0
+R, ]_12, COMMA_13, Right, 1.0
+R, d_4, s_5, Right, 1.0
+R, s_11, ]_12, Right, 1.0
+R, s_15, \notin_16, Right, 1.0
+R, s_5, )_6, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta ( a s ) = \delta a \oplus s + a \Delta s
+\end{equation}

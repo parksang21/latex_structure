@@ -1,0 +1,3 @@
+\begin{equation}
+	[ W _ { n } > t \forall n \geqq s ] \equiv P [ \prod _ { n \geqq s } W _ { n } > s ]
+\end{equation}

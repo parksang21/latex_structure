@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mi>T</mi><mrow><mn>3</mn><mi>D</mi></mrow></msup><mo>=</mo><mo>−</mo><mn>2</mn><mi>i</mi><mi>π</mi><msub><mi>β</mi><mn>1</mn></msub><msub><mi>β</mi><mn>2</mn></msub><msup><mi>T</mi><mrow><mo>+</mo><mo>+</mo></mrow></msup><mo stretchy="false" form="prefix">(</mo><mi>s</mi><mo>,</mo><mi>s</mi><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">\begin{equation}
+    T ^ { 3 D } = - 2 i \pi \beta _ { 1 } \beta _ { 2 } T ^ { + + } ( s , s )
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

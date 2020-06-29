@@ -1,0 +1,42 @@
+# IUD, v2_rendered_11418
+# Objects(19):
+O, -_20, -, 1.0, ORRBelowRRRRSupRR
+O, C_2, C, 1.0, O
+O, =_3, =, 1.0, OR
+O, \pi_14, \pi, 1.0, ORRBelowRRR
+O, )_22, ), 1.0, ORRBelowRRRRSupRRRR
+O, 2_13, 2, 1.0, ORRBelowRR
+O, \pi_11, \pi, 1.0, ORRBelow
+O, /_23, /, 1.0, ORRBelowRRRRSupRRRRR
+O, ω_8, ω, 1.0, ORRAboveInsideR
+O, \pi_9, \pi, 1.0, ORRAboveInsideRR
+O, D_19, D, 1.0, ORRBelowRRRRSupR
+O, \cos_7, \cos, 1.0, ORRAboveInside
+O, _4, -, 1.0, ORR
+O, 1_21, 1, 1.0, ORRBelowRRRRSupRRR
+O, (_18, (, 1.0, ORRBelowRRRRSup
+O, 2_24, 2, 1.0, ORRBelowRRRRSupRRRRRR
+O, (_12, (, 1.0, ORRBelowR
+O, _5, \sqrt, 1.0, ORRAbove
+O, )_16, ), 1.0, ORRBelowRRRR
+
+# Relations from SRT:
+R, (_12, 2_13, Right, 1.0
+R, (_18, D_19, Right, 1.0
+R, )_16, (_18, Sup, 1.0
+R, )_22, /_23, Right, 1.0
+R, -_20, 1_21, Right, 1.0
+R, /_23, 2_24, Right, 1.0
+R, 1_21, )_22, Right, 1.0
+R, 2_13, \pi_14, Right, 1.0
+R, =_3, _4, Right, 1.0
+R, C_2, =_3, Right, 1.0
+R, D_19, -_20, Right, 1.0
+R, \cos_7, ω_8, Right, 1.0
+R, \pi_11, (_12, Right, 1.0
+R, \pi_14, )_16, Right, 1.0
+R, _4, \pi_11, Below, 1.0
+R, _4, _5, Above, 1.0
+R, _5, \cos_7, Inside, 1.0
+R, _5, ω_8, Inside, 1.0
+R, ω_8, \pi_9, Right, 1.0

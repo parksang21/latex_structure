@@ -1,0 +1,43 @@
+# IUD, new_render_00983
+# Objects(20):
+O, 7_18, 7, 1.0, ORRRRRRRRRRRRRRRR
+O, \therefore_14, \therefore, 1.0, ORRRRRRRRRRRR
+O, c_15, c, 1.0, ORRRRRRRRRRRRR
+O, (_10, (, 1.0, ORRRRRRRR
+O, )_12, ), 1.0, ORRRRRRRRRR
+O, c_11, c, 1.0, ORRRRRRRRR
+O, )_7, ), 1.0, ORRRRR
+O, H_9, H, 1.0, ORRRRRRR
+O, [_17, [, 1.0, ORRRRRRRRRRRRRRR
+O, B_6, B, 1.0, ORRRR
+O, \equiv_8, \equiv, 1.0, ORRRRRR
+O, B_20, B, 1.0, ORRRRRRRRRRRRRRRRRR
+O, -_5, -, 1.0, ORRR
+O, \cup_16, \cup, 1.0, ORRRRRRRRRRRRRR
+O, H_2, H, 1.0, O
+O, ]_21, ], 1.0, ORRRRRRRRRRRRRRRRRRR
+O, COMMA_19, COMMA, 1.0, ORRRRRRRRRRRRRRRRR
+O, COMMA_13, COMMA, 1.0, ORRRRRRRRRRR
+O, (_3, (, 1.0, OR
+O, c_4, c, 1.0, ORR
+
+# Relations from SRT:
+R, (_10, c_11, Right, 1.0
+R, (_3, c_4, Right, 1.0
+R, )_12, COMMA_13, Right, 1.0
+R, )_7, \equiv_8, Right, 1.0
+R, -_5, B_6, Right, 1.0
+R, 7_18, COMMA_19, Right, 1.0
+R, B_20, ]_21, Right, 1.0
+R, B_6, )_7, Right, 1.0
+R, COMMA_13, \therefore_14, Right, 1.0
+R, COMMA_19, B_20, Right, 1.0
+R, H_2, (_3, Right, 1.0
+R, H_9, (_10, Right, 1.0
+R, [_17, 7_18, Right, 1.0
+R, \cup_16, [_17, Right, 1.0
+R, \equiv_8, H_9, Right, 1.0
+R, \therefore_14, c_15, Right, 1.0
+R, c_11, )_12, Right, 1.0
+R, c_15, \cup_16, Right, 1.0
+R, c_4, -_5, Right, 1.0

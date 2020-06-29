@@ -1,0 +1,3 @@
+\begin{equation}
+	q _ { i + a }
+\end{equation}

@@ -1,0 +1,39 @@
+# IUD, v2_rendered_01600
+# Objects(18):
+O, )_5, ), 1.0, ORRR
+O, _7, -, 1.0, ORRRRR
+O, T_16, T, 1.0, ORRRRRRR
+O, A_22, A, 1.0, ORRRRRRRRSubSub
+O, S_24, S, 1.0, ORRRRRRRRRR
+O, (_3, (, 1.0, OR
+O, A_14, A, 1.0, ORRRRRRBelowSub
+O, T_21, T, 1.0, ORRRRRRRRSub
+O, =_6, =, 1.0, ORRRR
+O, \int_19, \int, 1.0, ORRRRRRRR
+O, 2_9, 2, 1.0, ORRRRRBelow
+O, T_4, T, 1.0, ORR
+O, F_2, F, 1.0, O
+O, T_13, T, 1.0, ORRRRRRBelow
+O, d_23, d, 1.0, ORRRRRRRRR
+O, 1_8, 1, 1.0, ORRRRRAbove
+O, \sum_11, \sum, 1.0, ORRRRRR
+O, A_17, A, 1.0, ORRRRRRRSub
+
+# Relations from SRT:
+R, (_3, T_4, Right, 1.0
+R, )_5, =_6, Right, 1.0
+R, =_6, _7, Right, 1.0
+R, F_2, (_3, Right, 1.0
+R, T_13, A_14, Sub, 1.0
+R, T_16, A_17, Sub, 1.0
+R, T_16, \int_19, Right, 1.0
+R, T_21, A_22, Sub, 1.0
+R, T_4, )_5, Right, 1.0
+R, \int_19, T_21, Sub, 1.0
+R, \int_19, d_23, Right, 1.0
+R, \sum_11, T_13, Below, 1.0
+R, \sum_11, T_16, Right, 1.0
+R, _7, 1_8, Above, 1.0
+R, _7, 2_9, Below, 1.0
+R, _7, \sum_11, Right, 1.0
+R, d_23, S_24, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	\psi ^ { \prime } = e ^ { 2 } \psi , x ^ { \prime } = e ^ { - l } x
+\end{equation}

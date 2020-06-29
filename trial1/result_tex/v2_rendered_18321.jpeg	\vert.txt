@@ -1,0 +1,3 @@
+\begin{equation}
+	\lambda p \vee = \lim _ { z , \bar { z } \rightarrow 0 } V ( z , \bar { z } ) \vert 0 \vee
+\end{equation}

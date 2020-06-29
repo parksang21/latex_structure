@@ -1,0 +1,3 @@
+\begin{equation}
+	\delta B _ { 0 } = \delta \delta _ { 0 } f _ { 0 } = - \delta _ { 0 } \delta f _ { 0 } = 0
+\end{equation}

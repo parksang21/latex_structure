@@ -1,0 +1,37 @@
+# IUD, v2_rendered_23122
+# Objects(17):
+O, \lambda_4, \lambda, 1.0, OSup
+O, A_3, A, 1.0, O
+O, k_6, k, 1.0, ORR
+O, =_8, =, 1.0, ORRRR
+O, k_21, k, 1.0, ORRRRRRRRRRR
+O, \lambda_12, \lambda, 1.0, ORRRRRSup
+O, (_5, (, 1.0, OR
+O, )_22, ), 1.0, ORRRRRRRRRRRR
+O, \varepsilon_13, \varepsilon, 1.0, ORRRRRSupR
+O, \varepsilon_19, \varepsilon, 1.0, ORRRRRRRRRSub
+O, A_18, A, 1.0, ORRRRRRRRR
+O, )_7, ), 1.0, ORRR
+O, e_10, e, 1.0, ORRRRR
+O, (_14, (, 1.0, ORRRRRR
+O, (_20, (, 1.0, ORRRRRRRRRR
+O, k_15, k, 1.0, ORRRRRRR
+O, )_16, ), 1.0, ORRRRRRRR
+
+# Relations from SRT:
+R, (_14, k_15, Right, 1.0
+R, (_20, k_21, Right, 1.0
+R, (_5, k_6, Right, 1.0
+R, )_16, A_18, Right, 1.0
+R, )_7, =_8, Right, 1.0
+R, =_8, e_10, Right, 1.0
+R, A_18, (_20, Right, 1.0
+R, A_18, \varepsilon_19, Sub, 1.0
+R, A_3, (_5, Right, 1.0
+R, A_3, \lambda_4, Sup, 1.0
+R, \lambda_12, \varepsilon_13, Right, 1.0
+R, e_10, (_14, Right, 1.0
+R, e_10, \lambda_12, Sup, 1.0
+R, k_15, )_16, Right, 1.0
+R, k_21, )_22, Right, 1.0
+R, k_6, )_7, Right, 1.0

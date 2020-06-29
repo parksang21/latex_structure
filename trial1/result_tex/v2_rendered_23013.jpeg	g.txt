@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \mu \beta } ( x ) = \delta _ { \mu \beta } + \delta h _ { \mu \beta } ( x )
+\end{equation}

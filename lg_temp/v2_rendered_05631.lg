@@ -1,0 +1,47 @@
+# IUD, v2_rendered_05631
+# Objects(22):
+O, _4, \sqrt, 1.0, 19
+O, \mu_10, \mu, 1.0, 6
+O, )_16, ), 1.0, 11
+O, (_6, (, 1.0, 3
+O, \mu_20, \mu, 1.0, 14
+O, \gamma_9, \gamma, 1.0, 5
+O, \psi_5, \psi, 1.0, 2
+O, +_18, +, 1.0, 13
+O, -_14, -, 1.0, 9
+O, _19, \sqrt, 1.0, 20
+O, m_15, m, 1.0, 10
+O, \mu_25, \mu, 1.0, 18
+O, \neq_3, \neq, 1.0, 1
+O, \psi_17, \psi, 1.0, 12
+O, i_7, i, 1.0, 4
+O, \psi_24, \psi, 1.0, 17
+O, \mu_13, \mu, 1.0, 8
+O, _23, \sqrt, 1.0, 21
+O, \Delta_12, \Delta, 1.0, 7
+O, L_2, L, 1.0, 0
+O, \psi_21, \psi, 1.0, 15
+O, +_22, +, 1.0, 16
+
+# Relations from SRT:
+R, (_6, i_7, Right, 1.0
+R, )_16, \psi_17, Right, 1.0
+R, +_18, _19, Right, 1.0
+R, +_22, _23, Right, 1.0
+R, -_14, m_15, Right, 1.0
+R, L_2, \neq_3, Right, 1.0
+R, \Delta_12, -_14, Right, 1.0
+R, \Delta_12, \mu_13, Sup, 1.0
+R, \gamma_9, \Delta_12, Right, 1.0
+R, \gamma_9, \mu_10, Sup, 1.0
+R, \neq_3, _4, Right, 1.0
+R, \psi_17, +_18, Right, 1.0
+R, \psi_21, +_22, Right, 1.0
+R, _19, \mu_20, Inside, 1.0
+R, _19, \psi_21, Right, 1.0
+R, _23, \mu_25, Right, 1.0
+R, _23, \psi_24, Inside, 1.0
+R, _4, (_6, Right, 1.0
+R, _4, \psi_5, Inside, 1.0
+R, i_7, \gamma_9, Right, 1.0
+R, m_15, )_16, Right, 1.0

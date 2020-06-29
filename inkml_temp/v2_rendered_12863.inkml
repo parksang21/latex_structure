@@ -1,0 +1,71 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_12863</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msubsup><msqrt xml:id="_3"><msqrt xml:id="_4"><mi xml:id="\Omega_5">Ω</mi></msqrt></msqrt><mi xml:id="A_6">A</mi><mi xml:id="C_7">C</mi></msubsup><msqrt xml:id="_8"><mrow><msubsup><msqrt xml:id="_11"><mi xml:id="\Omega_12">Ω</mi></msqrt><mi xml:id="C_13">C</mi><mi xml:id="B_14">B</mi></msubsup><mo xml:id="=_15">=</mo><mn xml:id="0_16">0</mn></mrow></msqrt></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\Omega</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\Omega_5"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">A</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="A_6"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">C</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="C_7"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\Omega</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\Omega_12"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">C</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="C_13"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">B</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="B_14"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="=_15"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">0</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="0_16"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="_3"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="_4"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="_8"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="_11"/>
+	</traceGroup>
+</traceGroup>
+</ink>

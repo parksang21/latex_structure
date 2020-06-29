@@ -1,0 +1,3 @@
+\begin{equation}
+	F ( Y ) \approx \frac { i } { 2 \pi } Y ^ { 2 } \log Y ^ { 2 } + \lsqrts f o r Y \Leftrightarrow \infty
+\end{equation}

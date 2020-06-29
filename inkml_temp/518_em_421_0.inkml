@@ -1,0 +1,26 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">518_em_421_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mo xml:id="\sum_2">∑</mo><msub><mi xml:id="F_4">F</mi><mi xml:id="y_5">y</mi></msub></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\sum</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\sum_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">F</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="F_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">y</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="y_5"/>
+	</traceGroup>
+</traceGroup>
+</ink>

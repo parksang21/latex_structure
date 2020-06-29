@@ -1,0 +1,37 @@
+# IUD, new_render_01485
+# Objects(17):
+O, n_17, n, 1.0, ORRRRRRR
+O, i_14, i, 1.0, ORRRR
+O, \rho_8, \rho, 1.0, ORR
+O, \rho_3, \rho, 1.0, O
+O, l_11, l, 1.0, ORRSup
+O, i_19, i, 1.0, ORRRRRRRRR
+O, i_4, i, 1.0, OSub
+O, y_21, y, 1.0, ORRRRRRRRRRR
+O, i_9, i, 1.0, ORRSub
+O, l_5, l, 1.0, OSup
+O, i_12, i, 1.0, ORRSupR
+O, t_20, t, 1.0, ORRRRRRRRRR
+O, \geqq_13, \geqq, 1.0, ORRR
+O, e_16, e, 1.0, ORRRRRR
+O, d_15, d, 1.0, ORRRRR
+O, \geqq_6, \geqq, 1.0, OR
+O, t_18, t, 1.0, ORRRRRRRR
+
+# Relations from SRT:
+R, \geqq_13, i_14, Right, 1.0
+R, \geqq_6, \rho_8, Right, 1.0
+R, \rho_3, \geqq_6, Right, 1.0
+R, \rho_3, i_4, Sub, 1.0
+R, \rho_3, l_5, Sup, 1.0
+R, \rho_8, \geqq_13, Right, 1.0
+R, \rho_8, i_9, Sub, 1.0
+R, \rho_8, l_11, Sup, 1.0
+R, d_15, e_16, Right, 1.0
+R, e_16, n_17, Right, 1.0
+R, i_14, d_15, Right, 1.0
+R, i_19, t_20, Right, 1.0
+R, l_11, i_12, Right, 1.0
+R, n_17, t_18, Right, 1.0
+R, t_18, i_19, Right, 1.0
+R, t_20, y_21, Right, 1.0

@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msqrt><mi>F</mi></msqrt><mo>=</mo><mn>2</mn><mi>π</mi><mi>i</mi><mfrac><mrow><mi>P</mi><mi>θ</mi></mrow><mrow><mi>P</mi><mo>−</mo><mi>q</mi><mi>θ</mi></mrow></mfrac><msup><mi>α</mi><mn>1</mn></msup><msup><mi>α</mi><mn>2</mn></msup></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \sqrt { F } = 2 \pi i \frac { P \theta } { P - q \theta } \alpha ^ { 1 } \alpha ^ { 2 }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

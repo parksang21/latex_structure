@@ -1,0 +1,21 @@
+# IUD, 3038
+# Objects(9):
+O, \approx_8, \approx, 1.0, ORRRR
+O, k_3, k, 1.0, O
+O, )_7, ), 1.0, ORRR
+O, z_6, z, 1.0, ORR
+O, 1_10, 1, 1.0, ORRRRRAbove
+O, 2_11, 2, 1.0, ORRRRRBelow
+O, (_5, (, 1.0, OR
+O, 1_4, 1, 1.0, OSub
+O, _9, -, 1.0, ORRRRR
+
+# Relations from SRT:
+R, (_5, z_6, Right, 1.0
+R, )_7, \approx_8, Right, 1.0
+R, \approx_8, _9, Right, 1.0
+R, _9, 1_10, Above, 1.0
+R, _9, 2_11, Below, 1.0
+R, k_3, (_5, Right, 1.0
+R, k_3, 1_4, Sub, 1.0
+R, z_6, )_7, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	\alpha _ { G } ^ { 1 / 2 0 } \log \alpha _ { G } = - 0 . 2 \pi F
+\end{equation}

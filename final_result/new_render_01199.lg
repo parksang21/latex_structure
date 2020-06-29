@@ -1,0 +1,43 @@
+# IUD, new_render_01199
+# Objects(20):
+O, \beta_21, \beta, 1.0, ORRRRRRR
+O, _7, -, 1.0, ORRR
+O, 0_12, 0, 1.0, ORRRRSub
+O, 0_5, 0, 1.0, ORSub
+O, b_8, b, 1.0, ORRRAbove
+O, a_2, a, 1.0, O
+O, _15, -, 1.0, ORRRRRR
+O, \geqq_24, \geqq, 1.0, ORRRRRRRR
+O, 4_18, 4, 1.0, ORRRRRRBelow
+O, +_6, +, 1.0, ORR
+O, 0_22, 0, 1.0, ORRRRRRRSub
+O, \beta_4, \beta, 1.0, OR
+O, 6_9, 6, 1.0, ORRRBelow
+O, +_14, +, 1.0, ORRRRR
+O, \beta_11, \beta, 1.0, ORRRR
+O, x_25, x, 1.0, ORRRRRRRRR
+O, 4_23, 4, 1.0, ORRRRRRRSup
+O, 6_13, 6, 1.0, ORRRRSup
+O, f_16, f, 1.0, ORRRRRRAbove
+O, !_19, !, 1.0, ORRRRRRBelowR
+
+# Relations from SRT:
+R, +_14, _15, Right, 1.0
+R, +_6, _7, Right, 1.0
+R, 4_18, !_19, Right, 1.0
+R, \beta_11, +_14, Right, 1.0
+R, \beta_11, 0_12, Sub, 1.0
+R, \beta_11, 6_13, Sup, 1.0
+R, \beta_21, 0_22, Sub, 1.0
+R, \beta_21, 4_23, Sup, 1.0
+R, \beta_21, \geqq_24, Right, 1.0
+R, \beta_4, +_6, Right, 1.0
+R, \beta_4, 0_5, Sub, 1.0
+R, \geqq_24, x_25, Right, 1.0
+R, _15, 4_18, Below, 1.0
+R, _15, \beta_21, Right, 1.0
+R, _15, f_16, Above, 1.0
+R, _7, 6_9, Below, 1.0
+R, _7, \beta_11, Right, 1.0
+R, _7, b_8, Above, 1.0
+R, a_2, \beta_4, Right, 1.0

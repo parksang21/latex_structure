@@ -1,0 +1,3 @@
+\begin{equation}
+	\gamma ( z ) = \sum _ { i = 2 , \lsqrts , N } \gamma _ { i } ( z ) \osqrt \omega _ { i }
+\end{equation}

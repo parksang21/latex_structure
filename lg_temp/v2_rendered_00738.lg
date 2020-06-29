@@ -1,0 +1,39 @@
+# IUD, v2_rendered_00738
+# Objects(18):
+O, d_12, d, 1.0, 8
+O, \rangle_5, \rangle, 1.0, 2
+O, \lambda_13, \lambda, 1.0, 9
+O, e_16, e, 1.0, 11
+O, \propto_23, \propto, 1.0, 16
+O, \langle_2, \langle, 1.0, 0
+O, \lambda_21, \lambda, 1.0, 14
+O, \sim_7, \sim, 1.0, 4
+O, 2_22, 2, 1.0, 15
+O, \infty_11, \infty, 1.0, 7
+O, t_19, t, 1.0, 13
+O, 0_10, 0, 1.0, 6
+O, d_3, d, 1.0, 1
+O, \int_9, \int, 1.0, 5
+O, \infty_24, \infty, 1.0, 17
+O, -_18, -, 1.0, 12
+O, F_6, F, 1.0, 3
+O, \lambda_14, \lambda, 1.0, 10
+
+# Relations from SRT:
+R, -_18, t_19, Right, 1.0
+R, \int_9, 0_10, Sub, 1.0
+R, \int_9, \infty_11, Sup, 1.0
+R, \int_9, d_12, Right, 1.0
+R, \lambda_13, \lambda_14, Right, 1.0
+R, \lambda_14, e_16, Right, 1.0
+R, \lambda_21, 2_22, Sup, 1.0
+R, \langle_2, d_3, Right, 1.0
+R, \propto_23, \infty_24, Right, 1.0
+R, \rangle_5, F_6, Sub, 1.0
+R, \rangle_5, \sim_7, Right, 1.0
+R, \sim_7, \int_9, Right, 1.0
+R, d_12, \lambda_13, Right, 1.0
+R, d_3, \rangle_5, Right, 1.0
+R, e_16, -_18, Sup, 1.0
+R, e_16, \propto_23, Right, 1.0
+R, t_19, \lambda_21, Right, 1.0

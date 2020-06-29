@@ -1,0 +1,3 @@
+\begin{equation}
+	e _ { a } e _ { b } = - e _ { b } e _ { a } , a = b \subset \{ 1 , . . . , 7 \}
+\end{equation}

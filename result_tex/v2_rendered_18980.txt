@@ -1,0 +1,3 @@
+\begin{equation}
+	V ( \beta \phi ) = \frac { \Omega } { 4 ! } \sqrt { \phi } ^ { 4 }
+\end{equation}

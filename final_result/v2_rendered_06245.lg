@@ -1,0 +1,37 @@
+# IUD, v2_rendered_06245
+# Objects(17):
+O, \geq_5, \geq, 1.0, OR
+O, )_18, ), 1.0, ORRBelowRRR
+O, g_15, g, 1.0, ORRBelowR
+O, U_19, U, 1.0, ORRBelowRRRSup
+O, !_16, !, 1.0, ORRBelowRR
+O, (_14, (, 1.0, ORRBelow
+O, (_8, (, 1.0, ORRAbove
+O, _6, -, 1.0, ORR
+O, )_11, ), 1.0, ORRAboveRRR
+O, U_21, U, 1.0, ORRBelowRRRR
+O, !_12, !, 1.0, ORRAboveRRRR
+O, g_4, g, 1.0, OSub
+O, g_10, g, 1.0, ORRAboveRR
+O, U_23, U, 1.0, ORRBelowRRRRSup
+O, g_24, g, 1.0, ORRBelowRRRRSupR
+O, p_3, p, 1.0, O
+O, U_9, U, 1.0, ORRAboveR
+
+# Relations from SRT:
+R, !_16, )_18, Right, 1.0
+R, (_14, g_15, Right, 1.0
+R, (_8, U_9, Right, 1.0
+R, )_11, !_12, Right, 1.0
+R, )_18, U_19, Sup, 1.0
+R, )_18, U_21, Right, 1.0
+R, U_21, U_23, Sup, 1.0
+R, U_23, g_24, Right, 1.0
+R, U_9, g_10, Right, 1.0
+R, \geq_5, _6, Right, 1.0
+R, _6, (_14, Below, 1.0
+R, _6, (_8, Above, 1.0
+R, g_10, )_11, Right, 1.0
+R, g_15, !_16, Right, 1.0
+R, p_3, \geq_5, Right, 1.0
+R, p_3, g_4, Sub, 1.0

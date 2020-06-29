@@ -1,0 +1,23 @@
+# IUD, v2_rendered_19077
+# Objects(10):
+O, Q_7, Q, 1.0, 2
+O, \geq_3, \geq, 1.0, 1
+O, _5, \sqrt, 1.0, 9
+O, \div_10, \div, 1.0, 5
+O, E_2, E, 1.0, 0
+O, M_13, M, 1.0, 7
+O, 2_9, 2, 1.0, 4
+O, 2_14, 2, 1.0, 8
+O, E_8, E, 1.0, 3
+O, Q_12, Q, 1.0, 6
+
+# Relations from SRT:
+R, E_2, \geq_3, Right, 1.0
+R, Q_12, 2_14, Sup, 1.0
+R, Q_12, M_13, Sub, 1.0
+R, Q_7, E_8, Sub, 1.0
+R, \div_10, Q_12, Right, 1.0
+R, \geq_3, _5, Right, 1.0
+R, _5, 2_9, Sup, 1.0
+R, _5, Q_7, Inside, 1.0
+R, _5, \div_10, Right, 1.0

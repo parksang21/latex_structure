@@ -1,0 +1,3 @@
+\begin{equation}
+	( \alpha ) e _ { \delta } = e _ { \alpha \cdot \delta } \therefore \alpha , \delta \in \theta
+\end{equation}

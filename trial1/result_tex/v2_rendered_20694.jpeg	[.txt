@@ -1,0 +1,3 @@
+\begin{equation}
+	\tilde { P } , \tilde { W } ] = - 2 \tilde { W }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	- \delta _ { h } = ( 1 - h ) \gamma _ { 1 } , \gamma _ { 1 } + \gamma _ { 0 } = 2
+\end{equation}

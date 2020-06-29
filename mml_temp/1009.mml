@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>−</mo><mfrac><mrow><mn>3</mn><mo stretchy="false" form="prefix">(</mo><mi>β</mi><mo>−</mo><mn>3</mn><mi>α</mi><mo stretchy="false" form="postfix">)</mo></mrow><mrow><mn>2</mn><msup><mi>a</mi><mn>2</mn></msup><msubsup><mi>γ</mi><mn>0</mn><mn>4</mn></msubsup></mrow></mfrac><msub><mi>v</mi><mi>a</mi></msub><msup><mi>v</mi><mi>a</mi></msup></mrow><annotation encoding="application/x-tex">\begin{equation}
+    - \frac { 3 ( \beta - 3 \alpha ) } { 2 a ^ { 2 } \gamma _ { 0 } ^ { 4 } } v _ { a } v ^ { a }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

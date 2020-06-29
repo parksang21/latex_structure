@@ -1,0 +1,41 @@
+# IUD, v2_rendered_01791
+# Objects(19):
+O, o_16, o, 1.0, ORRRRRRRRRRRR
+O, (_8, (, 1.0, ORRRR
+O, H_6, H, 1.0, ORRBelow
+O, \sigma_10, \sigma, 1.0, ORRRRRR
+O, r_2, r, 1.0, O
+O, H_9, H, 1.0, ORRRRR
+O, c_15, c, 1.0, ORRRRRRRRRRR
+O, n_17, n, 1.0, ORRRRRRRRRRRRR
+O, \phi_13, \phi, 1.0, ORRRRRRRRR
+O, COMMA_12, COMMA, 1.0, ORRRRRRRR
+O, t_19, t, 1.0, ORRRRRRRRRRRRRRR
+O, _4, -, 1.0, ORR
+O, =_14, =, 1.0, ORRRRRRRRRR
+O, =_3, =, 1.0, OR
+O, )_11, ), 1.0, ORRRRRRR
+O, \cos_7, \cos, 1.0, ORRR
+O, ._20, ., 1.0, ORRRRRRRRRRRRRRRR
+O, s_18, s, 1.0, ORRRRRRRRRRRRRR
+O, 1_5, 1, 1.0, ORRAbove
+
+# Relations from SRT:
+R, (_8, H_9, Right, 1.0
+R, )_11, COMMA_12, Right, 1.0
+R, =_14, c_15, Right, 1.0
+R, =_3, _4, Right, 1.0
+R, COMMA_12, \phi_13, Right, 1.0
+R, H_9, \sigma_10, Right, 1.0
+R, \cos_7, (_8, Right, 1.0
+R, \phi_13, =_14, Right, 1.0
+R, \sigma_10, )_11, Right, 1.0
+R, _4, 1_5, Above, 1.0
+R, _4, H_6, Below, 1.0
+R, _4, \cos_7, Right, 1.0
+R, c_15, o_16, Right, 1.0
+R, n_17, s_18, Right, 1.0
+R, o_16, n_17, Right, 1.0
+R, r_2, =_3, Right, 1.0
+R, s_18, t_19, Right, 1.0
+R, t_19, ._20, Right, 1.0

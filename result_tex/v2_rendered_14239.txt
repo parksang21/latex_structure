@@ -1,0 +1,3 @@
+\begin{equation}
+	e _ { j } - e _ { k } , ( j \not\subset k ) , e _ { j } + e _ { k } , e _ { j }
+\end{equation}

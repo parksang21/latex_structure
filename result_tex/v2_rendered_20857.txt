@@ -1,0 +1,3 @@
+\begin{equation}
+	k \equiv \frac { d ^ { 2 } r } { d s ^ { 2 } } = k _ { \bot } + k _ { 1 }
+\end{equation}

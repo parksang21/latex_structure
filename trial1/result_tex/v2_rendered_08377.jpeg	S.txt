@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { B I } = \int d t d \theta d \phi L _ { B I }
+\end{equation}

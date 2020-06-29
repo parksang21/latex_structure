@@ -1,0 +1,41 @@
+# IUD, v2_rendered_08021
+# Objects(19):
+O, \varepsilon_21, \varepsilon, 1.0, ORRRRRRRRRRR
+O, x_3, x, 1.0, OR
+O, =_7, =, 1.0, ORRRRR
+O, \mu_15, \mu, 1.0, ORRRRRRRSup
+O, g_9, g, 1.0, ORRRRRR
+O, (_2, (, 1.0, O
+O, y_5, y, 1.0, ORRR
+O, \varepsilon_14, \varepsilon, 1.0, ORRRRRRR
+O, =_19, =, 1.0, ORRRRRRRRR
+O, \vert_22, \vert, 1.0, ORRRRRRRRRRRR
+O, (_20, (, 1.0, ORRRRRRRRRR
+O, \lambda_18, \lambda, 1.0, ORRRRRRRRSup
+O, )_6, ), 1.0, ORRRR
+O, )_24, ), 1.0, ORRRRRRRRRRRRRR
+O, \mu_11, \mu, 1.0, ORRRRRRSub
+O, \vert_4, \vert, 1.0, ORR
+O, \theta_23, \theta, 1.0, ORRRRRRRRRRRRR
+O, \theta_17, \theta, 1.0, ORRRRRRRR
+O, \lambda_12, \lambda, 1.0, ORRRRRRSubR
+
+# Relations from SRT:
+R, (_20, \varepsilon_21, Right, 1.0
+R, (_2, x_3, Right, 1.0
+R, )_6, =_7, Right, 1.0
+R, =_19, (_20, Right, 1.0
+R, =_7, g_9, Right, 1.0
+R, \mu_11, \lambda_12, Right, 1.0
+R, \theta_17, =_19, Right, 1.0
+R, \theta_17, \lambda_18, Sup, 1.0
+R, \theta_23, )_24, Right, 1.0
+R, \varepsilon_14, \mu_15, Sup, 1.0
+R, \varepsilon_14, \theta_17, Right, 1.0
+R, \varepsilon_21, \vert_22, Right, 1.0
+R, \vert_22, \theta_23, Right, 1.0
+R, \vert_4, y_5, Right, 1.0
+R, g_9, \mu_11, Sub, 1.0
+R, g_9, \varepsilon_14, Right, 1.0
+R, x_3, \vert_4, Right, 1.0
+R, y_5, )_6, Right, 1.0

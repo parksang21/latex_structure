@@ -1,0 +1,43 @@
+# IUD, new_render_02288
+# Objects(20):
+O, -_22, -, 1.0, ORRRRSupRR
+O, 1_23, 1, 1.0, ORRRRSupRRR
+O, )_24, ), 1.0, ORRRRSupRRRR
+O, (_12, (, 1.0, ORRRInsideBelowR
+O, )_16, ), 1.0, ORRRInsideBelowRRRRR
+O, (_20, (, 1.0, ORRRRSup
+O, 3_11, 3, 1.0, ORRRInsideBelow
+O, \leqq_5, \leqq, 1.0, OR
+O, 1_13, 1, 1.0, ORRRInsideBelowRR
+O, 4_9, 4, 1.0, ORRRInsideAbove
+O, \pm_6, \pm, 1.0, ORR
+O, -_14, -, 1.0, ORRRInsideBelowRRR
+O, \phi_25, \phi, 1.0, ORRRRSupRRRRR
+O, \alpha_15, \alpha, 1.0, ORRRInsideBelowRRRR
+O, _7, \sqrt, 1.0, ORRR
+O, _8, -, 1.0, ORRRInside
+O, e_18, e, 1.0, ORRRR
+O, 0_4, 0, 1.0, OSub
+O, \alpha_21, \alpha, 1.0, ORRRRSupR
+O, A_3, A, 1.0, O
+
+# Relations from SRT:
+R, (_12, 1_13, Right, 1.0
+R, (_20, \alpha_21, Right, 1.0
+R, )_24, \phi_25, Right, 1.0
+R, -_14, \alpha_15, Right, 1.0
+R, -_22, 1_23, Right, 1.0
+R, 1_13, -_14, Right, 1.0
+R, 1_23, )_24, Right, 1.0
+R, 3_11, (_12, Right, 1.0
+R, A_3, 0_4, Sub, 1.0
+R, A_3, \leqq_5, Right, 1.0
+R, \alpha_15, )_16, Right, 1.0
+R, \alpha_21, -_22, Right, 1.0
+R, \leqq_5, \pm_6, Right, 1.0
+R, \pm_6, _7, Right, 1.0
+R, _7, _8, Inside, 1.0
+R, _7, e_18, Right, 1.0
+R, _8, 3_11, Below, 1.0
+R, _8, 4_9, Above, 1.0
+R, e_18, (_20, Sup, 1.0

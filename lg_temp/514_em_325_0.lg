@@ -1,0 +1,49 @@
+# IUD, 514_em_325_0
+# Objects(23):
+O, x_3, x, 1.0, 0
+O, x_20, x, 1.0, 17
+O, x_19, x, 1.0, 16
+O, x_18, x, 1.0, 15
+O, x_21, x, 1.0, 18
+O, x_12, x, 1.0, 9
+O, x_6, x, 1.0, 3
+O, x_13, x, 1.0, 10
+O, x_14, x, 1.0, 11
+O, x_8, x, 1.0, 5
+O, x_11, x, 1.0, 8
+O, x_22, x, 1.0, 19
+O, x_16, x, 1.0, 13
+O, x_17, x, 1.0, 14
+O, x_24, x, 1.0, 21
+O, x_15, x, 1.0, 12
+O, x_9, x, 1.0, 6
+O, _1, -, 1.0, 22
+O, x_10, x, 1.0, 7
+O, x_23, x, 1.0, 20
+O, x_7, x, 1.0, 4
+O, x_5, x, 1.0, 2
+O, x_4, x, 1.0, 1
+
+# Relations from SRT:
+R, _1, x_24, Below, 1.0
+R, _1, x_3, Above, 1.0
+R, x_10, x_11, Right, 1.0
+R, x_11, x_12, Right, 1.0
+R, x_12, x_13, Right, 1.0
+R, x_13, x_14, Right, 1.0
+R, x_14, x_15, Right, 1.0
+R, x_15, x_16, Right, 1.0
+R, x_16, x_17, Right, 1.0
+R, x_17, x_18, Right, 1.0
+R, x_18, x_19, Right, 1.0
+R, x_19, x_20, Right, 1.0
+R, x_20, x_21, Right, 1.0
+R, x_21, x_22, Right, 1.0
+R, x_22, x_23, Right, 1.0
+R, x_3, x_4, Right, 1.0
+R, x_4, x_5, Right, 1.0
+R, x_5, x_6, Right, 1.0
+R, x_6, x_7, Right, 1.0
+R, x_7, x_8, Right, 1.0
+R, x_8, x_9, Right, 1.0
+R, x_9, x_10, Right, 1.0

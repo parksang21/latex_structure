@@ -1,0 +1,3 @@
+\begin{equation}
+	{ x } = \frac { x + x ^ { \prime } } { 2 } , \Delta = x - x ^ { \prime }
+\end{equation}

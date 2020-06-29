@@ -1,0 +1,43 @@
+# IUD, v2_rendered_15105
+# Objects(20):
+O, 3_7, 3, 1.0, ORRR
+O, =_27, =, 1.0, ORRRRRRRRRRR
+O, \Delta_4, \Delta, 1.0, OR
+O, H_23, H, 1.0, ORRRRRRRRRR
+O, t_13, t, 1.0, ORRRRRRSub
+O, i_25, i, 1.0, ORRRRRRRRRRSub
+O, t_14, t, 1.0, ORRRRRRSubR
+O, H_11, H, 1.0, ORRRRRR
+O, \lim_17, \lim, 1.0, ORRRRRRRR
+O, +_6, +, 1.0, ORR
+O, )_9, ), 1.0, ORRRRR
+O, H_8, H, 1.0, ORRRR
+O, (_2, (, 1.0, O
+O, H_20, H, 1.0, ORRRRRRRRR
+O, i_21, i, 1.0, ORRRRRRRRRSub
+O, i_18, i, 1.0, ORRRRRRRRBelow
+O, +_15, +, 1.0, ORRRRRRR
+O, i_26, i, 1.0, ORRRRRRRRRRSubR
+O, t_5, t, 1.0, ORSub
+O, 0_28, 0, 1.0, ORRRRRRRRRRRR
+
+# Relations from SRT:
+R, (_2, \Delta_4, Right, 1.0
+R, )_9, H_11, Right, 1.0
+R, +_15, \lim_17, Right, 1.0
+R, +_6, 3_7, Right, 1.0
+R, 3_7, H_8, Right, 1.0
+R, =_27, 0_28, Right, 1.0
+R, H_11, +_15, Right, 1.0
+R, H_11, t_13, Sub, 1.0
+R, H_20, H_23, Right, 1.0
+R, H_20, i_21, Sub, 1.0
+R, H_23, =_27, Right, 1.0
+R, H_23, i_25, Sub, 1.0
+R, H_8, )_9, Right, 1.0
+R, \Delta_4, +_6, Right, 1.0
+R, \Delta_4, t_5, Sub, 1.0
+R, \lim_17, H_20, Right, 1.0
+R, \lim_17, i_18, Below, 1.0
+R, i_25, i_26, Right, 1.0
+R, t_13, t_14, Right, 1.0

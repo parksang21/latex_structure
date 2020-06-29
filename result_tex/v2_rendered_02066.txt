@@ -1,0 +1,3 @@
+\begin{equation}
+	\sqrt { \Omega } - 2 \sqrt { \rho } \sqrt { \Omega } + \frac { 1 } { 2 } \Omega ^ { \delta } \sqrt { f } ^ { 2 } = 0
+\end{equation}

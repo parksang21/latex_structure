@@ -1,0 +1,39 @@
+# IUD, new_render_02189
+# Objects(18):
+O, n_10, n, 1.0, 6
+O, \gamma_22, \gamma, 1.0, 15
+O, ]_12, ], 1.0, 8
+O, \theta_25, \theta, 1.0, 17
+O, COMMA_7, COMMA, 1.0, 4
+O, m_18, m, 1.0, 12
+O, +_19, +, 1.0, 13
+O, \theta_11, \theta, 1.0, 7
+O, n_5, n, 1.0, 2
+O, \alpha_9, \alpha, 1.0, 5
+O, m_14, m, 1.0, 10
+O, \mu_24, \mu, 1.0, 16
+O, \mu_6, \mu, 1.0, 3
+O, \alpha_4, \alpha, 1.0, 1
+O, [_2, [, 1.0, 0
+O, \leqq_13, \leqq, 1.0, 9
+O, \delta_16, \delta, 1.0, 11
+O, n_20, n, 1.0, 14
+
+# Relations from SRT:
+R, +_19, n_20, Right, 1.0
+R, COMMA_7, \alpha_9, Right, 1.0
+R, [_2, \alpha_4, Right, 1.0
+R, \alpha_4, COMMA_7, Right, 1.0
+R, \alpha_4, \mu_6, Sup, 1.0
+R, \alpha_4, n_5, Sub, 1.0
+R, \alpha_9, \theta_11, Sup, 1.0
+R, \alpha_9, ]_12, Right, 1.0
+R, \alpha_9, n_10, Sub, 1.0
+R, \delta_16, \gamma_22, Right, 1.0
+R, \delta_16, m_18, Sub, 1.0
+R, \gamma_22, \mu_24, Sup, 1.0
+R, \leqq_13, m_14, Right, 1.0
+R, \mu_24, \theta_25, Right, 1.0
+R, ]_12, \leqq_13, Right, 1.0
+R, m_14, \delta_16, Right, 1.0
+R, m_18, +_19, Right, 1.0

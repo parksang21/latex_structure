@@ -1,0 +1,3 @@
+\begin{equation}
+	\vert x + y \vert \leq \vert x \vert + \vert y \vert
+\end{equation}

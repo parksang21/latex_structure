@@ -1,0 +1,3 @@
+\begin{equation}
+	= - \frac { q } { r ^ { 9 } } d r \wedge d \dot { \phi }
+\end{equation}

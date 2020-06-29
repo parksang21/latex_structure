@@ -1,0 +1,3 @@
+\begin{equation}
+	i M ( k , w ) \vee \beta _ { d } ( k , w ) - \beta _ { i } ( k , w )
+\end{equation}

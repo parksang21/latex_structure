@@ -1,0 +1,3 @@
+\begin{equation}
+	m = \frac { M } { \tan \beta }
+\end{equation}

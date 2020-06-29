@@ -1,0 +1,3 @@
+\begin{equation}
+	\forall z \leqq m B _ { z } \cap g ) \Leftrightarrow \prod _ { z \leqq m } B _ { z } \cap g
+\end{equation}

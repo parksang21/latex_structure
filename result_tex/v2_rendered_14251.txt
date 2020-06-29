@@ -1,0 +1,3 @@
+\begin{equation}
+	\delta _ { k \lambda } ( \tau ) = \frac { \tan ( \pi ( 1 + k ) \tau ) } { \tan ( \pi \tau ) }
+\end{equation}

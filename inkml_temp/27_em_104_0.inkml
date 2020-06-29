@@ -1,0 +1,51 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">27_em_104_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msup><mi xml:id="w_3">w</mi><mi xml:id="\theta_4">θ</mi></msup><mo xml:id="=_5">=</mo><msub><mi xml:id="q_7">q</mi><mi xml:id="H_8">H</mi></msub><mo xml:id="-_9">−</mo><msub><mi xml:id="q_11">q</mi><mi xml:id="e_12">e</mi></msub></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">w</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="w_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\theta</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\theta_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="=_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">q</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="q_7"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">H</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="H_8"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="-_9"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">q</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="q_11"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">e</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="e_12"/>
+	</traceGroup>
+</traceGroup>
+</ink>

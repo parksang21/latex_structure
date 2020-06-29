@@ -1,0 +1,3 @@
+\begin{equation}
+	\langle \phi \vert A \psi \rangle = \langle \psi \vert \sqrt { A } ^ { + } \phi \rangle ^ { * }
+\end{equation}

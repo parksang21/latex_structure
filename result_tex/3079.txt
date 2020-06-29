@@ -1,0 +1,3 @@
+\begin{equation}
+	S = \int _ { T x L } d t d x ( L ( m ) + \delta L ( \delta \mu ) )
+\end{equation}

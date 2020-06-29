@@ -1,0 +1,21 @@
+# IUD, v2_rendered_10455
+# Objects(9):
+O, COMMA_7, COMMA, 1.0, ORRR
+O, 0_12, 0, 1.0, ORRRRRR
+O, B_3, B, 1.0, O
+O, B_9, B, 1.0, ORRRR
+O, \leftrightarrow_5, \leftrightarrow, 1.0, OR
+O, 1_4, 1, 1.0, OSub
+O, \neq_11, \neq, 1.0, ORRRRR
+O, 0_6, 0, 1.0, ORR
+O, 2_10, 2, 1.0, ORRRRSub
+
+# Relations from SRT:
+R, 0_6, COMMA_7, Right, 1.0
+R, B_3, 1_4, Sub, 1.0
+R, B_3, \leftrightarrow_5, Right, 1.0
+R, B_9, 2_10, Sub, 1.0
+R, B_9, \neq_11, Right, 1.0
+R, COMMA_7, B_9, Right, 1.0
+R, \leftrightarrow_5, 0_6, Right, 1.0
+R, \neq_11, 0_12, Right, 1.0

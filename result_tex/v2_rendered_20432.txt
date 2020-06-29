@@ -1,0 +1,3 @@
+\begin{equation}
+	e ^ { \gamma _ { 1 } \beta } J = \sin \beta J _ { m } - \gamma _ { 7 } \cos \beta J _ { m }
+\end{equation}

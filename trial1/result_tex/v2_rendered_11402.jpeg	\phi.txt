@@ -1,0 +1,3 @@
+\begin{equation}
+	( P \Leftrightarrow M ) \in \Omega ^ { t o p } ( T P ) ^ { v e r t i c a l }
+\end{equation}

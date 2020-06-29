@@ -1,0 +1,3 @@
+\begin{equation}
+	\varepsilon \equiv \Delta ^ { j } A ^ { j } = 0
+\end{equation}

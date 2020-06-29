@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { n o n l o c } = \frac { 1 } { 2 } \vert \sigma ( k ) \vert ^ { 2 } \sqrt { k ^ { 2 } }
+\end{equation}

@@ -1,0 +1,47 @@
+# IUD, v2_rendered_19798
+# Objects(22):
+O, A_14, A, 1.0, ORRRRRRR
+O, \mu_15, \mu, 1.0, ORRRRRRRSub
+O, =_8, =, 1.0, ORRRR
+O, 9_25, 9, 1.0, ORRRRRRRRRRRBelow
+O, B_7, B, 1.0, ORRR
+O, N_28, N, 1.0, ORRRRRRRRRRRRBelow
+O, d_16, d, 1.0, ORRRRRRRR
+O, \Delta_12, \Delta, 1.0, ORRRRRR
+O, 2_23, 2, 1.0, ORRRRRRRRRRRAbove
+O, C_11, C, 1.0, ORRRRRSub
+O, \pi_24, \pi, 1.0, ORRRRRRRRRRRAboveR
+O, \int_3, \int, 1.0, O
+O, S_4, S, 1.0, OSub
+O, x_18, x, 1.0, ORRRRRRRRR
+O, \int_10, \int, 1.0, ORRRRR
+O, d_5, d, 1.0, OR
+O, _26, -, 1.0, ORRRRRRRRRRRR
+O, S_6, S, 1.0, ORR
+O, =_20, =, 1.0, ORRRRRRRRRR
+O, \mu_19, \mu, 1.0, ORRRRRRRRRSup
+O, _21, -, 1.0, ORRRRRRRRRRR
+O, n_27, n, 1.0, ORRRRRRRRRRRRAbove
+
+# Relations from SRT:
+R, 2_23, \pi_24, Right, 1.0
+R, =_20, _21, Right, 1.0
+R, =_8, \int_10, Right, 1.0
+R, A_14, \mu_15, Sub, 1.0
+R, A_14, d_16, Right, 1.0
+R, B_7, =_8, Right, 1.0
+R, S_6, B_7, Right, 1.0
+R, \Delta_12, A_14, Right, 1.0
+R, \int_10, C_11, Sub, 1.0
+R, \int_10, \Delta_12, Right, 1.0
+R, \int_3, S_4, Sub, 1.0
+R, \int_3, d_5, Right, 1.0
+R, _21, 2_23, Above, 1.0
+R, _21, 9_25, Below, 1.0
+R, _21, _26, Right, 1.0
+R, _26, N_28, Below, 1.0
+R, _26, n_27, Above, 1.0
+R, d_16, x_18, Right, 1.0
+R, d_5, S_6, Right, 1.0
+R, x_18, =_20, Right, 1.0
+R, x_18, \mu_19, Sup, 1.0

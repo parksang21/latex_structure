@@ -1,0 +1,45 @@
+# IUD, v2_rendered_13098
+# Objects(21):
+O, \sum_12, \sum, 1.0, ORR
+O, i_5, i, 1.0, OSup
+O, J_24, J, 1.0, ORRRRR
+O, (_26, (, 1.0, ORRRRRR
+O, n_25, n, 1.0, ORRRRRSub
+O, =_10, =, 1.0, OR
+O, k_27, k, 1.0, ORRRRRRR
+O, i_15, i, 1.0, ORRR
+O, \tan_8, \tan, 1.0, OSupRRR
+O, n_21, n, 1.0, ORRRRSupR
+O, \theta_9, \theta, 1.0, OSupRRRR
+O, r_28, r, 1.0, ORRRRRRRR
+O, \theta_22, \theta, 1.0, ORRRRSupRR
+O, e_18, e, 1.0, ORRRR
+O, e_3, e, 1.0, O
+O, )_29, ), 1.0, ORRRRRRRRR
+O, n_16, n, 1.0, ORRRSup
+O, r_7, r, 1.0, OSupRR
+O, i_20, i, 1.0, ORRRRSup
+O, n_13, n, 1.0, ORRBelow
+O, k_6, k, 1.0, OSupR
+
+# Relations from SRT:
+R, (_26, k_27, Right, 1.0
+R, =_10, \sum_12, Right, 1.0
+R, J_24, (_26, Right, 1.0
+R, J_24, n_25, Sub, 1.0
+R, \sum_12, i_15, Right, 1.0
+R, \sum_12, n_13, Below, 1.0
+R, \tan_8, \theta_9, Right, 1.0
+R, e_18, J_24, Right, 1.0
+R, e_18, i_20, Sup, 1.0
+R, e_3, =_10, Right, 1.0
+R, e_3, i_5, Sup, 1.0
+R, i_15, e_18, Right, 1.0
+R, i_15, n_16, Sup, 1.0
+R, i_20, n_21, Right, 1.0
+R, i_5, k_6, Right, 1.0
+R, k_27, r_28, Right, 1.0
+R, k_6, r_7, Right, 1.0
+R, n_21, \theta_22, Right, 1.0
+R, r_28, )_29, Right, 1.0
+R, r_7, \tan_8, Right, 1.0

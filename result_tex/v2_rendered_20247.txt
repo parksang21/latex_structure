@@ -1,0 +1,3 @@
+\begin{equation}
+	\sqrt { \beta } _ { N } ( z ) = - < \phi _ { N } b ( z , \sqrt { z } ) >
+\end{equation}

@@ -1,0 +1,45 @@
+# IUD, v2_rendered_15081
+# Objects(21):
+O, d_5, d, 1.0, OBelow
+O, _20, -, 1.0, ORRRRRRRR
+O, \infty_19, \infty, 1.0, ORRRRRRRAbove
+O, h_23, h, 1.0, ORRRRRRRRBelow
+O, d_3, d, 1.0, OAbove
+O, =_12, =, 1.0, ORRRRRR
+O, n_16, n, 1.0, ORRRRRRRBelow
+O, _2, -, 1.0, O
+O, 1_21, 1, 1.0, ORRRRRRRRAbove
+O, h_26, h, 1.0, ORRRRRRRRBelowRR
+O, \sum_14, \sum, 1.0, ORRRRRRR
+O, 0_18, 0, 1.0, ORRRRRRRBelowRR
+O, )_11, ), 1.0, ORRRRR
+O, h_6, h, 1.0, OBelowR
+O, \div_24, \div, 1.0, ORRRRRRRRBelowR
+O, \log_7, \log, 1.0, OR
+O, h_10, h, 1.0, ORRRR
+O, z_8, z, 1.0, ORR
+O, =_17, =, 1.0, ORRRRRRRBelowR
+O, n_27, n, 1.0, ORRRRRRRRBelowRRSub
+O, (_9, (, 1.0, ORRR
+
+# Relations from SRT:
+R, (_9, h_10, Right, 1.0
+R, )_11, =_12, Right, 1.0
+R, =_12, \sum_14, Right, 1.0
+R, =_17, 0_18, Right, 1.0
+R, \div_24, h_26, Right, 1.0
+R, \log_7, z_8, Right, 1.0
+R, \sum_14, \infty_19, Above, 1.0
+R, \sum_14, _20, Right, 1.0
+R, \sum_14, n_16, Below, 1.0
+R, _20, 1_21, Above, 1.0
+R, _20, h_23, Below, 1.0
+R, _2, \log_7, Right, 1.0
+R, _2, d_3, Above, 1.0
+R, _2, d_5, Below, 1.0
+R, d_5, h_6, Right, 1.0
+R, h_10, )_11, Right, 1.0
+R, h_23, \div_24, Right, 1.0
+R, h_26, n_27, Sub, 1.0
+R, n_16, =_17, Right, 1.0
+R, z_8, (_9, Right, 1.0

@@ -1,0 +1,3 @@
+\begin{equation}
+	{ H } = \oplus _ { q , n \in Z } \dot { H } ^ { n q }
+\end{equation}

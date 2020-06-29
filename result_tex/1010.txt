@@ -1,0 +1,3 @@
+\begin{equation}
+	\vert f \vert _ { \infty } = e s s \prod \vert f ( \theta ) \vert
+\end{equation}

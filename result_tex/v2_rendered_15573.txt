@@ -1,0 +1,3 @@
+\begin{equation}
+	F _ { f ( t ) \sqrt { x } _ { t } } V = f ( t ) F _ { \sqrt { x } _ { t } } V
+\end{equation}

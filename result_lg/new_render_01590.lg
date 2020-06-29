@@ -1,0 +1,41 @@
+# IUD, new_render_01590
+# Objects(19):
+O, P_22, P, 1.0, ORRRRSub
+O, H_10, H, 1.0, OSup
+O, -_15, -, 1.0, ORRSub
+O, H_21, H, 1.0, ORRRRInside
+O, _20, \sqrt, 1.0, ORRRR
+O, p_17, p, 1.0, ORRSubRR
+O, P_8, P, 1.0, OSubRRR
+O, S_25, S, 1.0, ORRRRRR
+O, -_6, -, 1.0, OSubR
+O, *_16, *, 1.0, ORRSubR
+O, M_23, M, 1.0, ORRRRSup
+O, (_7, (, 1.0, OSubRR
+O, \circle_18, \circle, 1.0, ORRR
+O, \geqq_24, \geqq, 1.0, ORRRRR
+O, \circle_11, \circle, 1.0, OR
+O, H_3, H, 1.0, O
+O, )_9, ), 1.0, OSubRRRR
+O, \beta_5, \beta, 1.0, OSub
+O, \beta_13, \beta, 1.0, ORR
+
+# Relations from SRT:
+R, (_7, P_8, Right, 1.0
+R, *_16, p_17, Right, 1.0
+R, -_15, *_16, Right, 1.0
+R, -_6, (_7, Right, 1.0
+R, H_3, H_10, Sup, 1.0
+R, H_3, \beta_5, Sub, 1.0
+R, H_3, \circle_11, Right, 1.0
+R, P_8, )_9, Right, 1.0
+R, \beta_13, -_15, Sub, 1.0
+R, \beta_13, \circle_18, Right, 1.0
+R, \beta_5, -_6, Right, 1.0
+R, \circle_11, \beta_13, Right, 1.0
+R, \circle_18, _20, Right, 1.0
+R, \geqq_24, S_25, Right, 1.0
+R, _20, H_21, Inside, 1.0
+R, _20, M_23, Sup, 1.0
+R, _20, P_22, Sub, 1.0
+R, _20, \geqq_24, Right, 1.0

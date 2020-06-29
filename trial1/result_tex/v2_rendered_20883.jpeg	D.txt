@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { \omega } ^ { 2 } ( \varphi ) = - \lim _ { k } \varphi _ { k } R _ { \omega } \pi ( c _ { k } )
+\end{equation}

@@ -1,0 +1,37 @@
+# IUD, v2_rendered_23891
+# Objects(17):
+O, \exists_15, \exists, 1.0, ORRRRRRRRR
+O, =_12, =, 1.0, ORRRRRR
+O, n_10, n, 1.0, ORRRRSub
+O, n_18, n, 1.0, ORRRRRRRRRRRR
+O, Y_9, Y, 1.0, ORRRR
+O, \circle_3, \circle, 1.0, OR
+O, i_6, i, 1.0, ORRSup
+O, 0_13, 0, 1.0, ORRRRRRR
+O, (_7, (, 1.0, ORRR
+O, h_20, h, 1.0, ORRRRRRRRRRRRRR
+O, COMMA_17, COMMA, 1.0, ORRRRRRRRRRR
+O, )_11, ), 1.0, ORRRRR
+O, \lt_19, \lt, 1.0, ORRRRRRRRRRRRR
+O, COMMA_14, COMMA, 1.0, ORRRRRRRR
+O, i_16, i, 1.0, ORRRRRRRRRR
+O, \Delta_5, \Delta, 1.0, ORR
+O, \gamma_2, \gamma, 1.0, O
+
+# Relations from SRT:
+R, (_7, Y_9, Right, 1.0
+R, )_11, =_12, Right, 1.0
+R, 0_13, COMMA_14, Right, 1.0
+R, =_12, 0_13, Right, 1.0
+R, COMMA_14, \exists_15, Right, 1.0
+R, COMMA_17, n_18, Right, 1.0
+R, Y_9, )_11, Right, 1.0
+R, Y_9, n_10, Sub, 1.0
+R, \Delta_5, (_7, Right, 1.0
+R, \Delta_5, i_6, Sup, 1.0
+R, \circle_3, \Delta_5, Right, 1.0
+R, \exists_15, i_16, Right, 1.0
+R, \gamma_2, \circle_3, Right, 1.0
+R, \lt_19, h_20, Right, 1.0
+R, i_16, COMMA_17, Right, 1.0
+R, n_18, \lt_19, Right, 1.0

@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>4</mn><msub><mi>N</mi><mn>1</mn></msub><mo>≤</mo><mn>5</mn><mi>/</mi><msub><mi>V</mi><mn>3</mn></msub><mo>−</mo><mo stretchy="false" form="prefix">(</mo><mo stretchy="false" form="prefix">(</mo><mo>sin</mo><mo>−</mo><mn>4</mn><mi>Ω</mi><mo stretchy="false" form="postfix">)</mo><mi>t</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+    4 N _ { 1 } \leq 5 / V _ { 3 } - ( ( \sin - 4 \Omega ) t
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

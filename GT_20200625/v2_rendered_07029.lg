@@ -1,0 +1,37 @@
+# IUD, v2_rendered_07029
+# Objects(17):
+O, A_19, A, 1.0, ORRRRSup
+O, G_4, G, 1.0, OSub
+O, 2_8, 2, 1.0, ORRBelow
+O, =_23, =, 1.0, ORRRRRR
+O, \varepsilon_10, \varepsilon, 1.0, ORRR
+O, \pm_5, \pm, 1.0, OR
+O, i_17, i, 1.0, ORRRRSub
+O, i_12, i, 1.0, ORRRSub
+O, 0_24, 0, 1.0, ORRRRRRR
+O, 1_7, 1, 1.0, ORRAbove
+O, A_22, A, 1.0, ORRRRRSup
+O, F_15, F, 1.0, ORRRR
+O, j_18, j, 1.0, ORRRRSubR
+O, j_13, j, 1.0, ORRRSubR
+O, W_3, W, 1.0, O
+O, _6, -, 1.0, ORR
+O, Q_21, Q, 1.0, ORRRRR
+
+# Relations from SRT:
+R, =_23, 0_24, Right, 1.0
+R, F_15, A_19, Sup, 1.0
+R, F_15, Q_21, Right, 1.0
+R, F_15, i_17, Sub, 1.0
+R, Q_21, =_23, Right, 1.0
+R, Q_21, A_22, Sup, 1.0
+R, W_3, G_4, Sub, 1.0
+R, W_3, \pm_5, Right, 1.0
+R, \pm_5, _6, Right, 1.0
+R, \varepsilon_10, F_15, Right, 1.0
+R, \varepsilon_10, i_12, Sub, 1.0
+R, _6, 1_7, Above, 1.0
+R, _6, 2_8, Below, 1.0
+R, _6, \varepsilon_10, Right, 1.0
+R, i_12, j_13, Right, 1.0
+R, i_17, j_18, Right, 1.0

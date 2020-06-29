@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { s } ^ { ( \Omega , \psi ) } ( 6 ) \neq \frac { ( \Omega - 6 ) _ { s } } { s ! }
+\end{equation}

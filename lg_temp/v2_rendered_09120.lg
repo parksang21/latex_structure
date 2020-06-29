@@ -1,0 +1,31 @@
+# IUD, v2_rendered_09120
+# Objects(14):
+O, \}_16, \}, 1.0, 13
+O, s_14, s, 1.0, 11
+O, n_4, n, 1.0, 2
+O, \vert_5, \vert, 1.0, 3
+O, \vert_7, \vert, 1.0, 5
+O, \tau_13, \tau, 1.0, 10
+O, \cap_11, \cap, 1.0, 9
+O, p_8, p, 1.0, 6
+O, \langle_3, \langle, 1.0, 1
+O, \prime_15, \prime, 1.0, 12
+O, \ln_10, \ln, 1.0, 8
+O, \rangle_9, \rangle, 1.0, 7
+O, 0_6, 0, 1.0, 4
+O, \{_2, \{, 1.0, 0
+
+# Relations from SRT:
+R, 0_6, \vert_7, Right, 1.0
+R, \cap_11, \tau_13, Right, 1.0
+R, \langle_3, n_4, Right, 1.0
+R, \ln_10, \cap_11, Right, 1.0
+R, \rangle_9, \ln_10, Right, 1.0
+R, \tau_13, \prime_15, Sup, 1.0
+R, \tau_13, \}_16, Right, 1.0
+R, \tau_13, s_14, Sub, 1.0
+R, \vert_5, 0_6, Right, 1.0
+R, \vert_7, p_8, Right, 1.0
+R, \{_2, \langle_3, Right, 1.0
+R, n_4, \vert_5, Right, 1.0
+R, p_8, \rangle_9, Right, 1.0

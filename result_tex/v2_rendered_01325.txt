@@ -1,0 +1,3 @@
+\begin{equation}
+	\sqrt { f } ( M ) = \lim _ { k = 1 } ^ { \infty } \sqrt { f } _ { k } M ^ { k }
+\end{equation}

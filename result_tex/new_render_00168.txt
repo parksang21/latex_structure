@@ -1,0 +1,3 @@
+\begin{equation}
+	\sigma = \{ n \in Y ^ { N + 1 } \vert m \csqrt n \equiv 0 , \therefore m \in \sqrt { \sigma } \}
+\end{equation}

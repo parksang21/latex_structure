@@ -1,0 +1,111 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">new_render_01027</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msub><msqrt xml:id="_3"><mi xml:id="h_4">h</mi></msqrt><mi xml:id="\rho_5">ρ</mi></msub><msub><mi xml:id="\theta_7">θ</mi><mn xml:id="0_8">0</mn></msub><mo xml:id="=_9">=</mo><msub><mi xml:id="\theta_11">θ</mi><mn xml:id="0_12">0</mn></msub><mo xml:id=",_13">,</mo><msub><msqrt xml:id="_15"><mi xml:id="n_16">n</mi></msqrt><mi xml:id="\rho_17">ρ</mi></msub><mi xml:id="W_18">W</mi><mo xml:id="=_19">=</mo><mi xml:id="W_20">W</mi><mo xml:id=",_21">,</mo><mo xml:id="\therefore_22">∴</mo><mi xml:id="\rho_23">ρ</mi><mo xml:id="\in_24">∈</mo><mi xml:id="\Delta_25">Δ</mi></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">h</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="h_4"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\rho</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\rho_5"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\theta</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\theta_7"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">0</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="0_8"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="=_9"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">\theta</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="\theta_11"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">0</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="0_12"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">,</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href=",_13"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">n</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="n_16"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">\rho</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="\rho_17"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">W</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="W_18"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="=_19"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">W</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="W_20"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">,</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href=",_21"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">\therefore</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="\therefore_22"/>
+	</traceGroup>
+ <traceGroup xml:id="16">
+    <annotation type="truth">\rho</annotation>
+	<traceView traceDataRef="15"/>
+    <annotationXML href="\rho_23"/>
+	</traceGroup>
+ <traceGroup xml:id="17">
+    <annotation type="truth">\in</annotation>
+	<traceView traceDataRef="16"/>
+    <annotationXML href="\in_24"/>
+	</traceGroup>
+ <traceGroup xml:id="18">
+    <annotation type="truth">\Delta</annotation>
+	<traceView traceDataRef="17"/>
+    <annotationXML href="\Delta_25"/>
+	</traceGroup>
+ <traceGroup xml:id="19">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="18"/>
+    <annotationXML href="_3"/>
+	</traceGroup>
+ <traceGroup xml:id="20">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="19"/>
+    <annotationXML href="_15"/>
+	</traceGroup>
+</traceGroup>
+</ink>

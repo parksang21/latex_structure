@@ -1,0 +1,3 @@
+\begin{equation}
+	= \frac { 1 } { 2 } ( \Delta _ { \mu } \phi ) ^ { 2 } - U ( \phi )
+\end{equation}

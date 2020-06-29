@@ -1,0 +1,3 @@
+\begin{equation}
+	\tau = \frac { \tau _ { 0 } + k } { 2 N - 2 } , k = 0 , \csqrts 2 N - 1
+\end{equation}

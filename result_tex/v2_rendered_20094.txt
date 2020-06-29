@@ -1,0 +1,3 @@
+\begin{equation}
+	\beta J = - i [ \beta k \times \Delta / \Delta \beta k ] - i [ \sqrt { n } \times \Delta / \Delta \sqrt { n } ]
+\end{equation}

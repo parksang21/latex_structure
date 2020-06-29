@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { 1 } { 2 } ( \Delta ^ { \mu } h _ { \mu \lambda } \div \frac { 1 } { 2 } \Delta ^ { \lambda } h _ { \mu } ^ { \mu } ) ^ { 2 }
+\end{equation}

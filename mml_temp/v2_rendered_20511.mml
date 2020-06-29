@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>A</mi><mo>=</mo><mo stretchy="false" form="prefix">(</mo><mo>±</mo><msub><mi>e</mi><mi>a</mi></msub><mo>±</mo><mi>e</mi><mi>b</mi><mo>±</mo><msub><mi>e</mi><mi>c</mi></msub><mo>±</mo><msub><mi>e</mi><mi>d</mi></msub><mo stretchy="false" form="postfix">)</mo><mi>/</mi><mn>2</mn><mo>⊄</mo><msub><mi>β</mi><mn>2</mn></msub></mrow><annotation encoding="application/x-tex">\begin{equation}
+    A = ( \pm e _ { a } \pm e b \pm e _ { c } \pm e _ { d } ) / 2 \not\subset \beta _ { 2 }
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

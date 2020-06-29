@@ -1,0 +1,3 @@
+\begin{equation}
+	d P ^ { \mu } = P _ { \sigma } ^ { \mu } d \tau
+\end{equation}

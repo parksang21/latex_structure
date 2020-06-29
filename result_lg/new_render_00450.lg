@@ -1,0 +1,49 @@
+# IUD, new_render_00450
+# Objects(23):
+O, \geqq_10, \geqq, 1.0, ORRRRRR
+O, )_18, ), 1.0, ORRRRRRRRRRRR
+O, q_23, q, 1.0, ORRRRRRRRRRRRRRRRR
+O, S_16, S, 1.0, ORRRRRRRRRR
+O, H_17, H, 1.0, ORRRRRRRRRRR
+O, N_26, N, 1.0, ORRRRRRRRRRRRRRRRRRRR
+O, H_24, H, 1.0, ORRRRRRRRRRRRRRRRRR
+O, F_6, F, 1.0, ORR
+O, )_8, ), 1.0, ORRRR
+O, H_9, H, 1.0, ORRRRR
+O, (_15, (, 1.0, ORRRRRRRRR
+O, (_5, (, 1.0, OR
+O, COMMA_19, COMMA, 1.0, ORRRRRRRRRRRRR
+O, \varepsilon_13, \varepsilon, 1.0, ORRRRRRRR
+O, F_11, F, 1.0, ORRRRRRR
+O, S_7, S, 1.0, ORRR
+O, \therefore_20, \therefore, 1.0, ORRRRRRRRRRRRRR
+O, COMMA_22, COMMA, 1.0, ORRRRRRRRRRRRRRRR
+O, \lt_25, \lt, 1.0, ORRRRRRRRRRRRRRRRRRR
+O, F_21, F, 1.0, ORRRRRRRRRRRRRRR
+O, 1_14, 1, 1.0, ORRRRRRRRSub
+O, \varepsilon_3, \varepsilon, 1.0, O
+O, 1_4, 1, 1.0, OSub
+
+# Relations from SRT:
+R, (_15, S_16, Right, 1.0
+R, (_5, F_6, Right, 1.0
+R, )_18, COMMA_19, Right, 1.0
+R, )_8, H_9, Right, 1.0
+R, COMMA_19, \therefore_20, Right, 1.0
+R, COMMA_22, q_23, Right, 1.0
+R, F_11, \varepsilon_13, Right, 1.0
+R, F_21, COMMA_22, Right, 1.0
+R, F_6, S_7, Right, 1.0
+R, H_17, )_18, Right, 1.0
+R, H_24, \lt_25, Right, 1.0
+R, H_9, \geqq_10, Right, 1.0
+R, S_16, H_17, Right, 1.0
+R, S_7, )_8, Right, 1.0
+R, \geqq_10, F_11, Right, 1.0
+R, \lt_25, N_26, Right, 1.0
+R, \therefore_20, F_21, Right, 1.0
+R, \varepsilon_13, (_15, Right, 1.0
+R, \varepsilon_13, 1_14, Sub, 1.0
+R, \varepsilon_3, (_5, Right, 1.0
+R, \varepsilon_3, 1_4, Sub, 1.0
+R, q_23, H_24, Right, 1.0

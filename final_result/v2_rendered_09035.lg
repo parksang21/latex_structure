@@ -1,0 +1,45 @@
+# IUD, v2_rendered_09035
+# Objects(21):
+O, \lambda_8, \lambda, 1.0, OR
+O, 1_3, 1, 1.0, OAbove
+O, 3_20, 3, 1.0, ORRRRRR
+O, =_15, =, 1.0, ORRR
+O, -_21, -, 1.0, ORRRRRRR
+O, j_9, j, 1.0, ORSub
+O, \lambda_5, \lambda, 1.0, OBelow
+O, 2_24, 2, 1.0, ORRRRRRRRSup
+O, \lambda_12, \lambda, 1.0, ORR
+O, j_14, j, 1.0, ORRSup
+O, (_19, (, 1.0, ORRRRR
+O, _16, -, 1.0, ORRRR
+O, i_10, i, 1.0, ORSup
+O, 2_6, 2, 1.0, OBelowSup
+O, _2, -, 1.0, O
+O, 1_17, 1, 1.0, ORRRRAbove
+O, \beta_25, \beta, 1.0, ORRRRRRRRR
+O, 6_18, 6, 1.0, ORRRRBelow
+O, )_26, ), 1.0, ORRRRRRRRRR
+O, \cos_23, \cos, 1.0, ORRRRRRRR
+O, i_13, i, 1.0, ORRSub
+
+# Relations from SRT:
+R, (_19, 3_20, Right, 1.0
+R, -_21, \cos_23, Right, 1.0
+R, 3_20, -_21, Right, 1.0
+R, =_15, _16, Right, 1.0
+R, \beta_25, )_26, Right, 1.0
+R, \cos_23, 2_24, Sup, 1.0
+R, \cos_23, \beta_25, Right, 1.0
+R, \lambda_12, =_15, Right, 1.0
+R, \lambda_12, i_13, Sub, 1.0
+R, \lambda_12, j_14, Sup, 1.0
+R, \lambda_5, 2_6, Sup, 1.0
+R, \lambda_8, \lambda_12, Right, 1.0
+R, \lambda_8, i_10, Sup, 1.0
+R, \lambda_8, j_9, Sub, 1.0
+R, _16, (_19, Right, 1.0
+R, _16, 1_17, Above, 1.0
+R, _16, 6_18, Below, 1.0
+R, _2, 1_3, Above, 1.0
+R, _2, \lambda_5, Below, 1.0
+R, _2, \lambda_8, Right, 1.0

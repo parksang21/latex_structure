@@ -1,0 +1,35 @@
+# IUD, v2_rendered_23079
+# Objects(16):
+O, a_17, a, 1.0, ORRRRRRRRR
+O, \mu_19, \mu, 1.0, ORRRRRRRRRRR
+O, =_5, =, 1.0, OR
+O, H_3, H, 1.0, O
+O, \mu_8, \mu, 1.0, ORRBelow
+O, \beta_12, \beta, 1.0, ORRRR
+O, \mu_15, \mu, 1.0, ORRRRRRR
+O, )_20, ), 1.0, ORRRRRRRRRRRR
+O, \mu_10, \mu, 1.0, ORRR
+O, (_14, (, 1.0, ORRRRRR
+O, )_16, ), 1.0, ORRRRRRRR
+O, 0_4, 0, 1.0, OSub
+O, 2_11, 2, 1.0, ORRRSup
+O, (_18, (, 1.0, ORRRRRRRRRR
+O, \sum_7, \sum, 1.0, ORR
+O, a_13, a, 1.0, ORRRRR
+
+# Relations from SRT:
+R, (_14, \mu_15, Right, 1.0
+R, (_18, \mu_19, Right, 1.0
+R, )_16, a_17, Right, 1.0
+R, =_5, \sum_7, Right, 1.0
+R, H_3, 0_4, Sub, 1.0
+R, H_3, =_5, Right, 1.0
+R, \beta_12, a_13, Right, 1.0
+R, \mu_10, 2_11, Sup, 1.0
+R, \mu_10, \beta_12, Right, 1.0
+R, \mu_15, )_16, Right, 1.0
+R, \mu_19, )_20, Right, 1.0
+R, \sum_7, \mu_10, Right, 1.0
+R, \sum_7, \mu_8, Below, 1.0
+R, a_13, (_14, Right, 1.0
+R, a_17, (_18, Right, 1.0

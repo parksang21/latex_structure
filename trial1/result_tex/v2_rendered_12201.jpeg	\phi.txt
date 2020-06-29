@@ -1,0 +1,3 @@
+\begin{equation}
+	( \sigma ) = \sin [ \frac { \tan ( \sqrt { K } \sigma ) } { \sqrt { K } L } ]
+\end{equation}

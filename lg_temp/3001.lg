@@ -1,0 +1,48 @@
+# IUD, 3001
+# Objects(22):
+O, _12, \sqrt, 1.0, 21
+O, g_19, g, 1.0, 14
+O, L_5, L, 1.0, 3
+O, COMMA_8, COMMA, 1.0, 6
+O, \int_4, \int, 1.0, 2
+O, )_23, ), 1.0, 17
+O, \gamma_22, \gamma, 1.0, 16
+O, )_11, ), 1.0, 9
+O, x_27, x, 1.0, 20
+O, I_2, I, 1.0, 0
+O, d_14, d, 1.0, 10
+O, (_17, (, 1.0, 13
+O, d_25, d, 1.0, 18
+O, \phi_10, \phi, 1.0, 8
+O, \phi_7, \phi, 1.0, 5
+O, 4_26, 4, 1.0, 19
+O, D_9, D, 1.0, 7
+O, t_16, t, 1.0, 12
+O, e_15, e, 1.0, 11
+O, =_3, =, 1.0, 1
+O, \mu_21, \mu, 1.0, 15
+O, (_6, (, 1.0, 4
+
+# Relations from SRT:
+R, (_17, g_19, Right, 1.0
+R, (_6, \phi_7, Right, 1.0
+R, )_11, _12, Right, 1.0
+R, =_3, \int_4, Right, 1.0
+R, COMMA_8, D_9, Right, 1.0
+R, D_9, \phi_10, Right, 1.0
+R, I_2, =_3, Right, 1.0
+R, L_5, (_6, Right, 1.0
+R, \int_4, L_5, Right, 1.0
+R, \mu_21, \gamma_22, Right, 1.0
+R, \phi_10, )_11, Right, 1.0
+R, \phi_7, COMMA_8, Right, 1.0
+R, _12, d_14, Inside, 1.0
+R, _12, d_25, Right, 1.0
+R, _12, e_15, Inside, 1.0
+R, d_14, e_15, Right, 1.0
+R, d_25, 4_26, Sup, 1.0
+R, d_25, x_27, Right, 1.0
+R, e_15, t_16, Right, 1.0
+R, g_19, )_23, Right, 1.0
+R, g_19, \mu_21, Sub, 1.0
+R, t_16, (_17, Right, 1.0

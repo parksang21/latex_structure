@@ -1,0 +1,3 @@
+\begin{equation}
+	\psi _ { 2 } ^ { 2 } = \psi _ { 3 } ^ { 3 } , \psi _ { 4 } ^ { a } = \psi _ { 5 } ^ { 5 }
+\end{equation}

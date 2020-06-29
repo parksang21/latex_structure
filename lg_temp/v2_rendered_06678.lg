@@ -1,0 +1,39 @@
+# IUD, v2_rendered_06678
+# Objects(18):
+O, 0_24, 0, 1.0, 17
+O, -_15, -, 1.0, 10
+O, \delta_19, \delta, 1.0, 13
+O, \delta_9, \delta, 1.0, 5
+O, 0_10, 0, 1.0, 6
+O, f_12, f, 1.0, 7
+O, 0_22, 0, 1.0, 15
+O, f_21, f, 1.0, 14
+O, \delta_17, \delta, 1.0, 11
+O, \delta_7, \delta, 1.0, 4
+O, =_6, =, 1.0, 3
+O, 0_18, 0, 1.0, 12
+O, \delta_2, \delta, 1.0, 0
+O, B_4, B, 1.0, 1
+O, 0_13, 0, 1.0, 8
+O, 0_5, 0, 1.0, 2
+O, =_14, =, 1.0, 9
+O, =_23, =, 1.0, 16
+
+# Relations from SRT:
+R, -_15, \delta_17, Right, 1.0
+R, =_14, -_15, Right, 1.0
+R, =_23, 0_24, Right, 1.0
+R, =_6, \delta_7, Right, 1.0
+R, B_4, 0_5, Sub, 1.0
+R, B_4, =_6, Right, 1.0
+R, \delta_17, 0_18, Sub, 1.0
+R, \delta_17, \delta_19, Right, 1.0
+R, \delta_19, f_21, Right, 1.0
+R, \delta_2, B_4, Right, 1.0
+R, \delta_7, \delta_9, Right, 1.0
+R, \delta_9, 0_10, Sub, 1.0
+R, \delta_9, f_12, Right, 1.0
+R, f_12, 0_13, Sub, 1.0
+R, f_12, =_14, Right, 1.0
+R, f_21, 0_22, Sub, 1.0
+R, f_21, =_23, Right, 1.0

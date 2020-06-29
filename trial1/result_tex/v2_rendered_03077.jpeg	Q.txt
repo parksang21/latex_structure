@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { L } ( u ) Q _ { R } ( v ) = Q _ { L } ( v ) Q _ { R } ( u )
+\end{equation}

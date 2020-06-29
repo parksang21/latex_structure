@@ -1,0 +1,3 @@
+\begin{equation}
+	\sum _ { k = 1 } ^ { n } ( ( a _ { k } ) = \sum _ { i = 1 } ^ { n } ( a _ { s } )
+\end{equation}

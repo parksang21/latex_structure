@@ -1,0 +1,3 @@
+\begin{equation}
+	L _ { - m } ^ { X } = \sqrt { 2 \alpha } K _ { 0 } \alpha _ { - m } ^ { 0 } + \csqrts
+\end{equation}

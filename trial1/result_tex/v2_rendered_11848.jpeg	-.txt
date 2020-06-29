@@ -1,0 +1,3 @@
+\begin{equation}
+	n _ { 1 } \approx 2 k \approx 0 , - n _ { 1 } \approx l \approx 0
+\end{equation}

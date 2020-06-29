@@ -1,0 +1,17 @@
+# IUD, v2_rendered_18785
+# Objects(7):
+O, i_5, i, 1.0, OSup
+O, ω_3, ω, 1.0, O
+O, j_12, j, 1.0, ORRSupR
+O, i_11, i, 1.0, ORRSup
+O, \beta_9, \beta, 1.0, ORR
+O, j_6, j, 1.0, OSupR
+O, =_7, =, 1.0, OR
+
+# Relations from SRT:
+R, =_7, \beta_9, Right, 1.0
+R, \beta_9, i_11, Sup, 1.0
+R, i_11, j_12, Right, 1.0
+R, i_5, j_6, Right, 1.0
+R, ω_3, =_7, Right, 1.0
+R, ω_3, i_5, Sup, 1.0

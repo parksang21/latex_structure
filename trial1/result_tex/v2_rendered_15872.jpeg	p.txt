@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { i } = \varepsilon _ { i j } \frac { E _ { j } } { B }
+\end{equation}

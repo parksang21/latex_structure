@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { Q E D } = \bar { \psi } ( i \Delta / - e A / ) \psi - \frac { 1 } { 4 }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	\langle W ( C ) \rangle \sim - i \frac { 2 \pi } { S } \beta ( C )
+\end{equation}

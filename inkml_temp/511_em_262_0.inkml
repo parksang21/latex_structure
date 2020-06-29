@@ -1,0 +1,111 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">511_em_262_0</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><munder><mo xml:id="\lim_3">lim</mo><mrow><mi xml:id="n_5">n</mi><mo xml:id="\rightarrow_6">→</mo><mi xml:id="\infty_7">∞</mi></mrow></munder><mfrac xml:id="_8"><msup><mi xml:id="x_10">x</mi><mn xml:id="3_11">3</mn></msup><msup><mn xml:id="6_13">6</mn><mn xml:id="3_14">3</mn></msup></mfrac><mfrac xml:id="_15"><mrow><mn xml:id="2_17">2</mn><msup><mi xml:id="n_19">n</mi><mn xml:id="3_20">3</mn></msup><mo xml:id="+_21">+</mo><mn xml:id="3_22">3</mn><msup><mi xml:id="n_24">n</mi><mn xml:id="2_25">2</mn></msup><mo xml:id="+_26">+</mo><mi xml:id="n_27">n</mi></mrow><mn xml:id="6_28">6</mn></mfrac></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">\lim</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="\lim_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">n</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="n_5"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">\rightarrow</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="\rightarrow_6"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\infty</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\infty_7"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">x</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="x_10"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">3</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="3_11"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">6</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="6_13"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">3</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="3_14"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">2</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="2_17"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">n</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="n_19"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">3</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="3_20"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">+</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="+_21"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">3</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="3_22"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">n</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="n_24"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">2</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="2_25"/>
+	</traceGroup>
+ <traceGroup xml:id="16">
+    <annotation type="truth">+</annotation>
+	<traceView traceDataRef="15"/>
+    <annotationXML href="+_26"/>
+	</traceGroup>
+ <traceGroup xml:id="17">
+    <annotation type="truth">n</annotation>
+	<traceView traceDataRef="16"/>
+    <annotationXML href="n_27"/>
+	</traceGroup>
+ <traceGroup xml:id="18">
+    <annotation type="truth">6</annotation>
+	<traceView traceDataRef="17"/>
+    <annotationXML href="6_28"/>
+	</traceGroup>
+ <traceGroup xml:id="19">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="18"/>
+    <annotationXML href="_8"/>
+	</traceGroup>
+ <traceGroup xml:id="20">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="19"/>
+    <annotationXML href="_15"/>
+	</traceGroup>
+</traceGroup>
+</ink>

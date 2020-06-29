@@ -1,0 +1,37 @@
+# IUD, v2_rendered_20186
+# Objects(17):
+O, 6_13, 6, 1.0, ORRRBelow
+O, \lambda_10, \lambda, 1.0, ORRRAbove
+O, )_22, ), 1.0, ORRRRRRRR
+O, -_7, -, 1.0, ORR
+O, 4_14, 4, 1.0, ORRRBelowR
+O, 3_5, 3, 1.0, OSub
+O, 3_17, 3, 1.0, ORRRBelowRRSup
+O, T_21, T, 1.0, ORRRRRRR
+O, _3, \sqrt, 1.0, O
+O, \alpha_4, \alpha, 1.0, OInside
+O, l_18, l, 1.0, ORRRR
+O, 3_11, 3, 1.0, ORRRAboveSup
+O, _8, -, 1.0, ORRR
+O, n_19, n, 1.0, ORRRRR
+O, (_20, (, 1.0, ORRRRRR
+O, \pi_16, \pi, 1.0, ORRRBelowRR
+O, \leq_6, \leq, 1.0, OR
+
+# Relations from SRT:
+R, (_20, T_21, Right, 1.0
+R, -_7, _8, Right, 1.0
+R, 4_14, \pi_16, Right, 1.0
+R, 6_13, 4_14, Right, 1.0
+R, T_21, )_22, Right, 1.0
+R, \lambda_10, 3_11, Sup, 1.0
+R, \leq_6, -_7, Right, 1.0
+R, \pi_16, 3_17, Sup, 1.0
+R, _3, 3_5, Sub, 1.0
+R, _3, \alpha_4, Inside, 1.0
+R, _3, \leq_6, Right, 1.0
+R, _8, 6_13, Below, 1.0
+R, _8, \lambda_10, Above, 1.0
+R, _8, l_18, Right, 1.0
+R, l_18, n_19, Right, 1.0
+R, n_19, (_20, Right, 1.0

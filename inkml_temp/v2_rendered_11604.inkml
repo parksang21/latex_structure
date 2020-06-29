@@ -1,0 +1,116 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_11604</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><mn xml:id="1_2">1</mn><mo xml:id="\leq_3">≤</mo><mi xml:id="I_4">I</mi><mo xml:id="\leq_5">≤</mo><mi xml:id="p_6">p</mi><mo xml:id="-_7">−</mo><mn xml:id="1_8">1</mn><mi xml:id="a_9">a</mi><mi xml:id="n_10">n</mi><mi xml:id="d_11">d</mi><mi xml:id="N_12">N</mi><mo xml:id="-_13">−</mo><mi xml:id="q_14">q</mi><mo xml:id="+_15">+</mo><mn xml:id="1_16">1</mn><mo xml:id="\leq_17">≤</mo><mi xml:id="I_18">I</mi><mo xml:id="\leq_19">≤</mo><mi xml:id="N_20">N</mi><mo xml:id="-_21">−</mo><mn xml:id="1_22">1</mn></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">1</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="1_2"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\leq</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\leq_3"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">I</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="I_4"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\leq</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\leq_5"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">p</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="p_6"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="-_7"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">1</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="1_8"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">a</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="a_9"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">n</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="n_10"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">d</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="d_11"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">N</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="N_12"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="-_13"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">q</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="q_14"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">+</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="+_15"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">1</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href="1_16"/>
+	</traceGroup>
+ <traceGroup xml:id="16">
+    <annotation type="truth">\leq</annotation>
+	<traceView traceDataRef="15"/>
+    <annotationXML href="\leq_17"/>
+	</traceGroup>
+ <traceGroup xml:id="17">
+    <annotation type="truth">I</annotation>
+	<traceView traceDataRef="16"/>
+    <annotationXML href="I_18"/>
+	</traceGroup>
+ <traceGroup xml:id="18">
+    <annotation type="truth">\leq</annotation>
+	<traceView traceDataRef="17"/>
+    <annotationXML href="\leq_19"/>
+	</traceGroup>
+ <traceGroup xml:id="19">
+    <annotation type="truth">N</annotation>
+	<traceView traceDataRef="18"/>
+    <annotationXML href="N_20"/>
+	</traceGroup>
+ <traceGroup xml:id="20">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="19"/>
+    <annotationXML href="-_21"/>
+	</traceGroup>
+ <traceGroup xml:id="21">
+    <annotation type="truth">1</annotation>
+	<traceView traceDataRef="20"/>
+    <annotationXML href="1_22"/>
+	</traceGroup>
+</traceGroup>
+</ink>

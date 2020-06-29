@@ -1,0 +1,39 @@
+# IUD, v2_rendered_23403
+# Objects(18):
+O, \delta_19, \delta, 1.0, 12
+O, )_5, ), 1.0, 3
+O, P_4, P, 1.0, 2
+O, (_21, (, 1.0, 14
+O, 1_13, 1, 1.0, 9
+O, D_2, D, 1.0, 0
+O, (_3, (, 1.0, 1
+O, p_22, p, 1.0, 15
+O, \Delta_15, \Delta, 1.0, 10
+O, )_23, ), 1.0, 16
+O, _14, -, 1.0, 17
+O, \Delta_17, \Delta, 1.0, 11
+O, \sum_7, \sum, 1.0, 5
+O, +_12, +, 1.0, 8
+O, n_11, n, 1.0, 7
+O, =_6, =, 1.0, 4
+O, n_20, n, 1.0, 13
+O, \delta_9, \delta, 1.0, 6
+
+# Relations from SRT:
+R, (_21, p_22, Right, 1.0
+R, (_3, P_4, Right, 1.0
+R, )_5, =_6, Right, 1.0
+R, +_12, 1_13, Right, 1.0
+R, =_6, \sum_7, Right, 1.0
+R, D_2, (_3, Right, 1.0
+R, P_4, )_5, Right, 1.0
+R, \Delta_17, \delta_19, Right, 1.0
+R, \delta_19, n_20, Sub, 1.0
+R, \delta_9, _14, Right, 1.0
+R, \delta_9, n_11, Sub, 1.0
+R, \sum_7, \delta_9, Right, 1.0
+R, _14, (_21, Right, 1.0
+R, _14, \Delta_15, Above, 1.0
+R, _14, \Delta_17, Below, 1.0
+R, n_11, +_12, Right, 1.0
+R, p_22, )_23, Right, 1.0

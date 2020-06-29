@@ -1,0 +1,7 @@
+# IUD, 511_em_257_0
+# Objects(2):
+O, z_3, z, 1.0, 1
+O, H_2, H, 1.0, 0
+
+# Relations from SRT:
+R, H_2, z_3, Sub, 1.0

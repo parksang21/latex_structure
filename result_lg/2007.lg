@@ -1,0 +1,49 @@
+# IUD, 2007
+# Objects(23):
+O, ._19, ., 1.0, ORRRRRRRR
+O, p_3, p, 1.0, O
+O, \gamma_16, \gamma, 1.0, ORRRRR
+O, +_9, +, 1.0, ORRSup
+O, =_5, =, 1.0, OR
+O, \pm_23, \pm, 1.0, ORRRRRRRRRRRR
+O, COMMA_15, COMMA, 1.0, ORRRR
+O, 6_20, 6, 1.0, ORRRRRRRRR
+O, \rho_7, \rho, 1.0, ORR
+O, 0_24, 0, 1.0, ORRRRRRRRRRRRR
+O, 3_21, 3, 1.0, ORRRRRRRRRR
+O, -_13, -, 1.0, ORRRSup
+O, 2_28, 2, 1.0, ORRRRRRRRRRRRRRRRR
+O, 0_22, 0, 1.0, ORRRRRRRRRRR
+O, =_17, =, 1.0, ORRRRRR
+O, ._25, ., 1.0, ORRRRRRRRRRRRRR
+O, \gamma_14, \gamma, 1.0, ORRRSupR
+O, 0_27, 0, 1.0, ORRRRRRRRRRRRRRRR
+O, 0_26, 0, 1.0, ORRRRRRRRRRRRRRR
+O, t_11, t, 1.0, ORRR
+O, +_4, +, 1.0, OSup
+O, 0_8, 0, 1.0, ORRSub
+O, 0_18, 0, 1.0, ORRRRRRR
+
+# Relations from SRT:
+R, -_13, \gamma_14, Right, 1.0
+R, ._19, 6_20, Right, 1.0
+R, ._25, 0_26, Right, 1.0
+R, 0_18, ._19, Right, 1.0
+R, 0_22, \pm_23, Right, 1.0
+R, 0_24, ._25, Right, 1.0
+R, 0_26, 0_27, Right, 1.0
+R, 0_27, 2_28, Right, 1.0
+R, 3_21, 0_22, Right, 1.0
+R, 6_20, 3_21, Right, 1.0
+R, =_17, 0_18, Right, 1.0
+R, =_5, \rho_7, Right, 1.0
+R, COMMA_15, \gamma_16, Right, 1.0
+R, \gamma_16, =_17, Right, 1.0
+R, \pm_23, 0_24, Right, 1.0
+R, \rho_7, +_9, Sup, 1.0
+R, \rho_7, 0_8, Sub, 1.0
+R, \rho_7, t_11, Right, 1.0
+R, p_3, +_4, Sup, 1.0
+R, p_3, =_5, Right, 1.0
+R, t_11, -_13, Sup, 1.0
+R, t_11, COMMA_15, Right, 1.0

@@ -1,0 +1,13 @@
+# IUD, 514_em_345_0
+# Objects(5):
+O, _1, -, 1.0, O
+O, \pm_6, \pm, 1.0, OBelow
+O, \infty_7, \infty, 1.0, OBelowR
+O, \infty_4, \infty, 1.0, OAboveR
+O, \pm_3, \pm, 1.0, OAbove
+
+# Relations from SRT:
+R, \pm_3, \infty_4, Right, 1.0
+R, \pm_6, \infty_7, Right, 1.0
+R, _1, \pm_3, Above, 1.0
+R, _1, \pm_6, Below, 1.0

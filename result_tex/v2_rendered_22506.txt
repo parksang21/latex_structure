@@ -1,0 +1,3 @@
+\begin{equation}
+	\int _ { 0 } ^ { \infty } i _ { l } ^ { \div f } f ^ { y } r _ { e } f \leq [ y ] !
+\end{equation}

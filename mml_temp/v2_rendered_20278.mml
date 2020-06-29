@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>R</mi><mo>∼</mo><msup><mi>R</mi><mi>′</mi></msup><mi>i</mi><mi>f</mi><mi>f</mi><mi>R</mi><mo>≈</mo><msup><mi>R</mi><mi>′</mi></msup><mo>+</mo><mi>s</mi><mi>T</mi><mo>,</mo><mi>R</mi><mo>,</mo><msup><mi>R</mi><mi>′</mi></msup><mo>,</mo><mi>T</mi><mo>∈</mo><mi>F</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+    R \sim R ^ { \prime } i f f R \approx R ^ { \prime } + s T , R , R ^ { \prime } , T \in F
+\end{equation}</annotation></semantics></math>
+</body>
+</html>

@@ -1,0 +1,3 @@
+\begin{equation}
+	= \sqrt { \alpha ^ { \prime } } ( g _ { Y M } ^ { 2 } N ) ^ { 1 / 4 }
+\end{equation}

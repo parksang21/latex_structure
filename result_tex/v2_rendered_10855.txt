@@ -1,0 +1,3 @@
+\begin{equation}
+	S = \int d ^ { 2 } x [ e ^ { \lambda } R - V ( \lambda ) ]
+\end{equation}

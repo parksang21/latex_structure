@@ -1,0 +1,13 @@
+# IUD, v2_rendered_05649
+# Objects(5):
+O, f_2, f, 1.0, O
+O, \circle_7, \circle, 1.0, ORRRSup
+O, 3_4, 3, 1.0, ORR
+O, 3_6, 3, 1.0, ORRR
+O, \leq_3, \leq, 1.0, OR
+
+# Relations from SRT:
+R, 3_4, 3_6, Right, 1.0
+R, 3_6, \circle_7, Sup, 1.0
+R, \leq_3, 3_4, Right, 1.0
+R, f_2, \leq_3, Right, 1.0

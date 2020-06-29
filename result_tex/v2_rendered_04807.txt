@@ -1,0 +1,3 @@
+\begin{equation}
+	A _ { \mu } ^ { Q } = A _ { \mu } - \frac { \Delta _ { \mu } \Delta _ { \phi } } \Delta A _ { \phi }
+\end{equation}

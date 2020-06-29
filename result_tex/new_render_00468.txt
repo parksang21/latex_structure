@@ -1,0 +1,3 @@
+\begin{equation}
+	\square \sigma _ { 0 } = P ( \Omega , s , \theta ) e ^ { - S _ { k } ^ { ( \prime ) } }
+\end{equation}

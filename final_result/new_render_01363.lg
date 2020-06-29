@@ -1,0 +1,51 @@
+# IUD, new_render_01363
+# Objects(24):
+O, /_19, /, 1.0, ORRRRRRRRRRRRR
+O, M_6, M, 1.0, ORR
+O, \angle_21, \angle, 1.0, ORRRRRRRRRRRRRR
+O, 5_4, 5, 1.0, OSub
+O, (_5, (, 1.0, OR
+O, P_12, P, 1.0, ORRRRRRR
+O, )_18, ), 1.0, ORRRRRRRRRRRR
+O, \geqq_10, \geqq, 1.0, ORRRRRR
+O, N_28, N, 1.0, ORRRRRRRRRRRRRRRRRR
+O, P_3, P, 1.0, O
+O, COMMA_7, COMMA, 1.0, ORRR
+O, 5_23, 5, 1.0, ORRRRRRRRRRRRRRSub
+O, N_17, N, 1.0, ORRRRRRRRRRR
+O, M_26, M, 1.0, ORRRRRRRRRRRRRRRR
+O, COMMA_16, COMMA, 1.0, ORRRRRRRRRR
+O, M_15, M, 1.0, ORRRRRRRRR
+O, (_14, (, 1.0, ORRRRRRRR
+O, )_9, ), 1.0, ORRRRR
+O, 0_13, 0, 1.0, ORRRRRRRSub
+O, (_25, (, 1.0, ORRRRRRRRRRRRRRR
+O, )_29, ), 1.0, ORRRRRRRRRRRRRRRRRRR
+O, 0_24, 0, 1.0, ORRRRRRRRRRRRRRSubR
+O, COMMA_27, COMMA, 1.0, ORRRRRRRRRRRRRRRRR
+O, N_8, N, 1.0, ORRRR
+
+# Relations from SRT:
+R, (_14, M_15, Right, 1.0
+R, (_25, M_26, Right, 1.0
+R, (_5, M_6, Right, 1.0
+R, )_18, /_19, Right, 1.0
+R, )_9, \geqq_10, Right, 1.0
+R, /_19, \angle_21, Right, 1.0
+R, 5_23, 0_24, Right, 1.0
+R, COMMA_16, N_17, Right, 1.0
+R, COMMA_27, N_28, Right, 1.0
+R, COMMA_7, N_8, Right, 1.0
+R, M_15, COMMA_16, Right, 1.0
+R, M_26, COMMA_27, Right, 1.0
+R, M_6, COMMA_7, Right, 1.0
+R, N_17, )_18, Right, 1.0
+R, N_28, )_29, Right, 1.0
+R, N_8, )_9, Right, 1.0
+R, P_12, (_14, Right, 1.0
+R, P_12, 0_13, Sub, 1.0
+R, P_3, (_5, Right, 1.0
+R, P_3, 5_4, Sub, 1.0
+R, \angle_21, (_25, Right, 1.0
+R, \angle_21, 5_23, Sub, 1.0
+R, \geqq_10, P_12, Right, 1.0

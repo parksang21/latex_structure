@@ -1,0 +1,3 @@
+\begin{equation}
+	\sqrt { X } = \frac { \sqrt { \psi } ^ { 2 } } { 1 - \not\subset D ^ { 2 } \sqrt { X } }
+\end{equation}

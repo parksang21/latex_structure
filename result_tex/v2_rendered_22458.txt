@@ -1,0 +1,3 @@
+\begin{equation}
+	N = M > _ { E } M ^ { \prime }
+\end{equation}

@@ -1,0 +1,3 @@
+\begin{equation}
+	U = \int \varphi ^ { v } ( t ) w ^ { v } ( m ) \Delta _ { \infty } y o m
+\end{equation}

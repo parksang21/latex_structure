@@ -1,0 +1,3 @@
+\begin{equation}
+	\frac { \Delta L } { \Delta t } = \{ L , ( L ^ { 2 } ) 2 1 \} _ { \varepsilon }
+\end{equation}

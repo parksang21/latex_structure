@@ -1,0 +1,41 @@
+# IUD, v2_rendered_14541
+# Objects(19):
+O, (_3, (, 1.0, OR
+O, \Delta_12, \Delta, 1.0, ORRRRRRR
+O, \mu_13, \mu, 1.0, ORRRRRRRSub
+O, \beta_14, \beta, 1.0, ORRRRRRRR
+O, 2_17, 2, 1.0, ORRRRRRRRRSup
+O, 2_9, 2, 1.0, ORRRRRBelow
+O, )_5, ), 1.0, ORRR
+O, )_16, ), 1.0, ORRRRRRRRR
+O, _7, -, 1.0, ORRRRR
+O, \beta_4, \beta, 1.0, ORR
+O, )_22, ), 1.0, ORRRRRRRRRRRRRR
+O, (_10, (, 1.0, ORRRRRR
+O, =_6, =, 1.0, ORRRR
+O, U_19, U, 1.0, ORRRRRRRRRRR
+O, \beta_21, \beta, 1.0, ORRRRRRRRRRRRR
+O, (_20, (, 1.0, ORRRRRRRRRRRR
+O, 1_8, 1, 1.0, ORRRRRAbove
+O, \div_18, \div, 1.0, ORRRRRRRRRR
+O, L_2, L, 1.0, O
+
+# Relations from SRT:
+R, (_10, \Delta_12, Right, 1.0
+R, (_20, \beta_21, Right, 1.0
+R, (_3, \beta_4, Right, 1.0
+R, )_16, 2_17, Sup, 1.0
+R, )_16, \div_18, Right, 1.0
+R, )_5, =_6, Right, 1.0
+R, =_6, _7, Right, 1.0
+R, L_2, (_3, Right, 1.0
+R, U_19, (_20, Right, 1.0
+R, \Delta_12, \beta_14, Right, 1.0
+R, \Delta_12, \mu_13, Sub, 1.0
+R, \beta_14, )_16, Right, 1.0
+R, \beta_21, )_22, Right, 1.0
+R, \beta_4, )_5, Right, 1.0
+R, \div_18, U_19, Right, 1.0
+R, _7, (_10, Right, 1.0
+R, _7, 1_8, Above, 1.0
+R, _7, 2_9, Below, 1.0

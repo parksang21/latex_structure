@@ -1,0 +1,3 @@
+\begin{equation}
+	\triangle = \psi \Delta _ { p } ^ { W } \cdot i D ^ { F } ( x ) \subset 1
+\end{equation}

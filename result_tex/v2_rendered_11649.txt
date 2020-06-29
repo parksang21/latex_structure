@@ -1,0 +1,3 @@
+\begin{equation}
+	[ p _ { i } , p _ { j } ] = - i \omega c _ { i j } ^ { k } p _ { k }
+\end{equation}

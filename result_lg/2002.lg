@@ -1,0 +1,33 @@
+# IUD, 2002
+# Objects(15):
+O, x_16, x, 1.0, ORRRRRRRRRRSub
+O, D_2, D, 1.0, O
+O, m_6, m, 1.0, ORRR
+O, \Delta_13, \Delta, 1.0, ORRRRRRRRR
+O, \Delta_8, \Delta, 1.0, ORRRR
+O, =_3, =, 1.0, OR
+O, +_9, +, 1.0, ORRRRR
+O, -_4, -, 1.0, ORR
+O, 3_10, 3, 1.0, ORRRRRR
+O, =_11, =, 1.0, ORRRRRRR
+O, +_17, +, 1.0, ORRRRRRRRRRR
+O, 3_18, 3, 1.0, ORRRRRRRRRRRR
+O, -_12, -, 1.0, ORRRRRRRR
+O, 2_7, 2, 1.0, ORRRSup
+O, 1_15, 1, 1.0, ORRRRRRRRRR
+
+# Relations from SRT:
+R, +_17, 3_18, Right, 1.0
+R, +_9, 3_10, Right, 1.0
+R, -_12, \Delta_13, Right, 1.0
+R, -_4, m_6, Right, 1.0
+R, 1_15, +_17, Right, 1.0
+R, 1_15, x_16, Sub, 1.0
+R, 3_10, =_11, Right, 1.0
+R, =_11, -_12, Right, 1.0
+R, =_3, -_4, Right, 1.0
+R, D_2, =_3, Right, 1.0
+R, \Delta_13, 1_15, Right, 1.0
+R, \Delta_8, +_9, Right, 1.0
+R, m_6, 2_7, Sup, 1.0
+R, m_6, \Delta_8, Right, 1.0

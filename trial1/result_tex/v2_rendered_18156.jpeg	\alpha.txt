@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { 1 } ( \frac { \gamma } { d } ) \rightarrow 0 , o r \rho _ { 1 } ( \gamma ) \rightarrow 2 - d
+\end{equation}

@@ -1,0 +1,37 @@
+# IUD, v2_rendered_08778
+# Objects(17):
+O, 4_14, 4, 1.0, ORRRRRSub
+O, )_17, ), 1.0, ORRRRRRRR
+O, N_19, N, 1.0, ORRRRRRRRRR
+O, \tau_13, \tau, 1.0, ORRRRR
+O, (_15, (, 1.0, ORRRRRR
+O, a_8, a, 1.0, ORRSubR
+O, \lambda_11, \lambda, 1.0, ORRRR
+O, =_3, =, 1.0, OR
+O, H_5, H, 1.0, ORR
+O, H_2, H, 1.0, O
+O, +_10, +, 1.0, ORRR
+O, COMMA_18, COMMA, 1.0, ORRRRRRRRR
+O, C_7, C, 1.0, ORRSub
+O, l_9, l, 1.0, ORRSubRR
+O, \wedge_20, \wedge, 1.0, ORRRRRRRRRRR
+O, x_16, x, 1.0, ORRRRRRR
+O, 4_21, 4, 1.0, ORRRRRRRRRRRR
+
+# Relations from SRT:
+R, (_15, x_16, Right, 1.0
+R, )_17, COMMA_18, Right, 1.0
+R, +_10, \lambda_11, Right, 1.0
+R, =_3, H_5, Right, 1.0
+R, COMMA_18, N_19, Right, 1.0
+R, C_7, a_8, Right, 1.0
+R, H_2, =_3, Right, 1.0
+R, H_5, +_10, Right, 1.0
+R, H_5, C_7, Sub, 1.0
+R, N_19, \wedge_20, Right, 1.0
+R, \lambda_11, \tau_13, Right, 1.0
+R, \tau_13, (_15, Right, 1.0
+R, \tau_13, 4_14, Sub, 1.0
+R, \wedge_20, 4_21, Right, 1.0
+R, a_8, l_9, Right, 1.0
+R, x_16, )_17, Right, 1.0

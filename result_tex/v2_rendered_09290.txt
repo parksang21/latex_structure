@@ -1,0 +1,3 @@
+\begin{equation}
+	\Delta A = ( \mu _ { + } V _ { + } + \mu _ { - } V _ { - } ) A + \frac { 1 } { 2 }
+\end{equation}

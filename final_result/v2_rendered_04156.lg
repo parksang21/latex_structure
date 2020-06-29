@@ -1,0 +1,39 @@
+# IUD, v2_rendered_04156
+# Objects(18):
+O, \mu_6, \mu, 1.0, ORSup
+O, ]_12, ], 1.0, ORRRR
+O, [_2, [, 1.0, O
+O, \theta_25, \theta, 1.0, ORRRRRRRRSupR
+O, COMMA_7, COMMA, 1.0, ORR
+O, \theta_11, \theta, 1.0, ORRRSup
+O, n_10, n, 1.0, ORRRSub
+O, \gamma_22, \gamma, 1.0, ORRRRRRRR
+O, m_5, m, 1.0, ORSub
+O, \mu_24, \mu, 1.0, ORRRRRRRRSup
+O, =_13, =, 1.0, ORRRRR
+O, \alpha_4, \alpha, 1.0, OR
+O, n_20, n, 1.0, ORRRRRRRSubRR
+O, \alpha_9, \alpha, 1.0, ORRR
+O, m_18, m, 1.0, ORRRRRRRSub
+O, \delta_16, \delta, 1.0, ORRRRRRR
+O, \times_19, \times, 1.0, ORRRRRRRSubR
+O, m_14, m, 1.0, ORRRRRR
+
+# Relations from SRT:
+R, =_13, m_14, Right, 1.0
+R, COMMA_7, \alpha_9, Right, 1.0
+R, [_2, \alpha_4, Right, 1.0
+R, \alpha_4, COMMA_7, Right, 1.0
+R, \alpha_4, \mu_6, Sup, 1.0
+R, \alpha_4, m_5, Sub, 1.0
+R, \alpha_9, \theta_11, Sup, 1.0
+R, \alpha_9, ]_12, Right, 1.0
+R, \alpha_9, n_10, Sub, 1.0
+R, \delta_16, \gamma_22, Right, 1.0
+R, \delta_16, m_18, Sub, 1.0
+R, \gamma_22, \mu_24, Sup, 1.0
+R, \mu_24, \theta_25, Right, 1.0
+R, \times_19, n_20, Right, 1.0
+R, ]_12, =_13, Right, 1.0
+R, m_14, \delta_16, Right, 1.0
+R, m_18, \times_19, Right, 1.0

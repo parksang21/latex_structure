@@ -1,0 +1,21 @@
+# IUD, 515_em_357_0
+# Objects(9):
+O, i_10, i, 1.0, 6
+O, 1_12, 1, 1.0, 8
+O, x_3, x, 1.0, 0
+O, +_11, +, 1.0, 7
+O, x_6, x, 1.0, 3
+O, x_9, x, 1.0, 5
+O, \leq_7, \leq, 1.0, 4
+O, i_4, i, 1.0, 1
+O, \leq_5, \leq, 1.0, 2
+
+# Relations from SRT:
+R, +_11, 1_12, Right, 1.0
+R, \leq_5, x_6, Right, 1.0
+R, \leq_7, x_9, Right, 1.0
+R, x_3, \leq_5, Right, 1.0
+R, x_3, i_4, Sub, 1.0
+R, x_6, \leq_7, Right, 1.0
+R, x_9, +_11, Right, 1.0
+R, x_9, i_10, Sub, 1.0

@@ -1,0 +1,111 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+    <annotation type="UI">v2_rendered_16079</annotation>
+    <annotationXML type="truth" encoding="Content-MathML">
+    <math xmlns='http://www.w3.org/1998/Math/MathML'>
+    <mrow><msup><mi xml:id="G_3">G</mi><mo xml:id="\pm_4">±</mo></msup><mo xml:id="=_5">=</mo><mo xml:id="\pm_6">±</mo><mfrac xml:id="_7"><mn xml:id="1_8">1</mn><msqrt xml:id="_9"><mn xml:id="2_10">2</mn></msqrt></mfrac><mi xml:id="\sigma_11">σ</mi><mo form="prefix" stretchy="false" xml:id="(_12">(</mo><msup><mi xml:id="X_14">X</mi><mi xml:id="\mu_15">μ</mi></msup><mo xml:id="\pm_16">±</mo><mi xml:id="i_17">i</mi><msup><mi xml:id="Y_19">Y</mi><mi xml:id="\mu_20">μ</mi></msup><mo form="postfix" stretchy="false" xml:id=")_21">)</mo><msubsup><mi xml:id="\rho_23">ρ</mi><mi xml:id="\mu_24">μ</mi><mo xml:id="\pm_25">±</mo></msubsup></mrow>
+</math>
+</annotationXML>
+<traceGroup xml:id="0">
+<annotation type="truth">Segmentation</annotation>
+ <traceGroup xml:id="1">
+    <annotation type="truth">G</annotation>
+	<traceView traceDataRef="0"/>
+    <annotationXML href="G_3"/>
+	</traceGroup>
+ <traceGroup xml:id="2">
+    <annotation type="truth">\pm</annotation>
+	<traceView traceDataRef="1"/>
+    <annotationXML href="\pm_4"/>
+	</traceGroup>
+ <traceGroup xml:id="3">
+    <annotation type="truth">=</annotation>
+	<traceView traceDataRef="2"/>
+    <annotationXML href="=_5"/>
+	</traceGroup>
+ <traceGroup xml:id="4">
+    <annotation type="truth">\pm</annotation>
+	<traceView traceDataRef="3"/>
+    <annotationXML href="\pm_6"/>
+	</traceGroup>
+ <traceGroup xml:id="5">
+    <annotation type="truth">1</annotation>
+	<traceView traceDataRef="4"/>
+    <annotationXML href="1_8"/>
+	</traceGroup>
+ <traceGroup xml:id="6">
+    <annotation type="truth">2</annotation>
+	<traceView traceDataRef="5"/>
+    <annotationXML href="2_10"/>
+	</traceGroup>
+ <traceGroup xml:id="7">
+    <annotation type="truth">\sigma</annotation>
+	<traceView traceDataRef="6"/>
+    <annotationXML href="\sigma_11"/>
+	</traceGroup>
+ <traceGroup xml:id="8">
+    <annotation type="truth">(</annotation>
+	<traceView traceDataRef="7"/>
+    <annotationXML href="(_12"/>
+	</traceGroup>
+ <traceGroup xml:id="9">
+    <annotation type="truth">X</annotation>
+	<traceView traceDataRef="8"/>
+    <annotationXML href="X_14"/>
+	</traceGroup>
+ <traceGroup xml:id="10">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="9"/>
+    <annotationXML href="\mu_15"/>
+	</traceGroup>
+ <traceGroup xml:id="11">
+    <annotation type="truth">\pm</annotation>
+	<traceView traceDataRef="10"/>
+    <annotationXML href="\pm_16"/>
+	</traceGroup>
+ <traceGroup xml:id="12">
+    <annotation type="truth">i</annotation>
+	<traceView traceDataRef="11"/>
+    <annotationXML href="i_17"/>
+	</traceGroup>
+ <traceGroup xml:id="13">
+    <annotation type="truth">Y</annotation>
+	<traceView traceDataRef="12"/>
+    <annotationXML href="Y_19"/>
+	</traceGroup>
+ <traceGroup xml:id="14">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="13"/>
+    <annotationXML href="\mu_20"/>
+	</traceGroup>
+ <traceGroup xml:id="15">
+    <annotation type="truth">)</annotation>
+	<traceView traceDataRef="14"/>
+    <annotationXML href=")_21"/>
+	</traceGroup>
+ <traceGroup xml:id="16">
+    <annotation type="truth">\rho</annotation>
+	<traceView traceDataRef="15"/>
+    <annotationXML href="\rho_23"/>
+	</traceGroup>
+ <traceGroup xml:id="17">
+    <annotation type="truth">\mu</annotation>
+	<traceView traceDataRef="16"/>
+    <annotationXML href="\mu_24"/>
+	</traceGroup>
+ <traceGroup xml:id="18">
+    <annotation type="truth">\pm</annotation>
+	<traceView traceDataRef="17"/>
+    <annotationXML href="\pm_25"/>
+	</traceGroup>
+ <traceGroup xml:id="19">
+    <annotation type="truth">-</annotation>
+	<traceView traceDataRef="18"/>
+    <annotationXML href="_7"/>
+	</traceGroup>
+ <traceGroup xml:id="20">
+    <annotation type="truth">\sqrt</annotation>
+	<traceView traceDataRef="19"/>
+    <annotationXML href="_9"/>
+	</traceGroup>
+</traceGroup>
+</ink>

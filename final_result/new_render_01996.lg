@@ -1,0 +1,23 @@
+# IUD, new_render_01996
+# Objects(10):
+O, \geqq_6, \geqq, 1.0, ORR
+O, \pm_5, \pm, 1.0, ORSub
+O, _12, \sqrt, 1.0, ORRRR
+O, L_4, L, 1.0, OR
+O, \delta_2, \delta, 1.0, O
+O, \pm_10, \pm, 1.0, ORRRSub
+O, J_8, J, 1.0, ORRR
+O, \phi_14, \phi, 1.0, ORRRRInside
+O, i_11, i, 1.0, ORRRSubR
+O, i_15, i, 1.0, ORRRRInsideSub
+
+# Relations from SRT:
+R, J_8, \pm_10, Sub, 1.0
+R, J_8, _12, Right, 1.0
+R, L_4, \geqq_6, Right, 1.0
+R, L_4, \pm_5, Sub, 1.0
+R, \delta_2, L_4, Right, 1.0
+R, \geqq_6, J_8, Right, 1.0
+R, \phi_14, i_15, Sub, 1.0
+R, \pm_10, i_11, Right, 1.0
+R, _12, \phi_14, Inside, 1.0

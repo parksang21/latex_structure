@@ -1,0 +1,3 @@
+\begin{equation}
+	\beta _ { 0 0 } = - 2 i M _ { \varepsilon 0 }
+\end{equation}

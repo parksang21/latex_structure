@@ -1,0 +1,3 @@
+\begin{equation}
+	_ { + } + \rho _ { - } = 1 , \rho _ { + } \rho _ { - } = \rho _ { - } \rho _ { + } = 0
+\end{equation}

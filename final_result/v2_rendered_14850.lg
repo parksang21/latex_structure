@@ -1,0 +1,35 @@
+# IUD, v2_rendered_14850
+# Objects(16):
+O, \alpha_12, \alpha, 1.0, ORRSub
+O, \alpha_5, \alpha, 1.0, OSup
+O, \beta_9, \beta, 1.0, ORSub
+O, \beta_6, \beta, 1.0, OSupR
+O, ω_21, ω, 1.0, ORRRRRR
+O, \varepsilon_16, \varepsilon, 1.0, ORRRRR
+O, \varepsilon_3, \varepsilon, 1.0, O
+O, \alpha_18, \alpha, 1.0, ORRRRRSup
+O, -_14, -, 1.0, ORRRR
+O, \beta_25, \beta, 1.0, ORRRRRRRSub
+O, =_13, =, 1.0, ORRR
+O, \psi_8, \psi, 1.0, OR
+O, \beta_19, \beta, 1.0, ORRRRRSupR
+O, \psi_24, \psi, 1.0, ORRRRRRR
+O, ω_11, ω, 1.0, ORR
+O, \alpha_22, \alpha, 1.0, ORRRRRRSub
+
+# Relations from SRT:
+R, -_14, \varepsilon_16, Right, 1.0
+R, =_13, -_14, Right, 1.0
+R, \alpha_18, \beta_19, Right, 1.0
+R, \alpha_5, \beta_6, Right, 1.0
+R, \psi_24, \beta_25, Sub, 1.0
+R, \psi_8, \beta_9, Sub, 1.0
+R, \psi_8, ω_11, Right, 1.0
+R, \varepsilon_16, \alpha_18, Sup, 1.0
+R, \varepsilon_16, ω_21, Right, 1.0
+R, \varepsilon_3, \alpha_5, Sup, 1.0
+R, \varepsilon_3, \psi_8, Right, 1.0
+R, ω_11, =_13, Right, 1.0
+R, ω_11, \alpha_12, Sub, 1.0
+R, ω_21, \alpha_22, Sub, 1.0
+R, ω_21, \psi_24, Right, 1.0

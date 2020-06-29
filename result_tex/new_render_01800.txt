@@ -1,0 +1,3 @@
+\begin{equation}
+	S _ { \psi } ^ { G } \leqq S _ { \psi } / \frac { \Delta \psi \Delta _ { \beta } } { \square } S _ { \beta }
+\end{equation}

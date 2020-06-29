@@ -1,0 +1,37 @@
+# IUD, 920
+# Objects(17):
+O, =_5, =, 1.0, OR
+O, \psi_21, \psi, 1.0, ORRRRRRSupRRAboveRR
+O, c_6, c, 1.0, ORR
+O, \phi_19, \phi, 1.0, ORRRRRRSupRRAbove
+O, 1_4, 1, 1.0, OSub
+O, _9, -, 1.0, ORRRRR
+O, \theta_10, \theta, 1.0, ORRRRRAbove
+O, s_8, s, 1.0, ORRRR
+O, \psi_3, \psi, 1.0, O
+O, e_13, e, 1.0, ORRRRRR
+O, i_16, i, 1.0, ORRRRRRSupR
+O, 2_22, 2, 1.0, ORRRRRRSupRRBelow
+O, 2_11, 2, 1.0, ORRRRRBelow
+O, _17, -, 1.0, ORRRRRRSupRR
+O, o_7, o, 1.0, ORRR
+O, +_20, +, 1.0, ORRRRRRSupRRAboveR
+O, -_15, -, 1.0, ORRRRRRSup
+
+# Relations from SRT:
+R, +_20, \psi_21, Right, 1.0
+R, -_15, i_16, Right, 1.0
+R, =_5, c_6, Right, 1.0
+R, \phi_19, +_20, Right, 1.0
+R, \psi_3, 1_4, Sub, 1.0
+R, \psi_3, =_5, Right, 1.0
+R, _17, 2_22, Below, 1.0
+R, _17, \phi_19, Above, 1.0
+R, _9, 2_11, Below, 1.0
+R, _9, \theta_10, Above, 1.0
+R, _9, e_13, Right, 1.0
+R, c_6, o_7, Right, 1.0
+R, e_13, -_15, Sup, 1.0
+R, i_16, _17, Right, 1.0
+R, o_7, s_8, Right, 1.0
+R, s_8, _9, Right, 1.0

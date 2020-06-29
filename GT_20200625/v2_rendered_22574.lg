@@ -1,0 +1,41 @@
+# IUD, v2_rendered_22574
+# Objects(19):
+O, N_17, N, 1.0, ORRRRRRRRRAbove
+O, \sin_12, \sin, 1.0, ORRRRRR
+O, (_8, (, 1.0, ORRRR
+O, \Delta_7, \Delta, 1.0, ORRR
+O, =_5, =, 1.0, OR
+O, 2_25, 2, 1.0, ORRRRRRRRRRSup
+O, )_24, ), 1.0, ORRRRRRRRRR
+O, o_4, o, 1.0, OSub
+O, 2_18, 2, 1.0, ORRRRRRRRRAboveSup
+O, \theta_22, \theta, 1.0, ORRRRRRRRRBelowRR
+O, \sin_21, \sin, 1.0, ORRRRRRRRRBelowR
+O, -_6, -, 1.0, ORR
+O, _15, -, 1.0, ORRRRRRRRR
+O, \gamma_3, \gamma, 1.0, O
+O, 2_20, 2, 1.0, ORRRRRRRRRBelow
+O, r_10, r, 1.0, ORRRRR
+O, \theta_13, \theta, 1.0, ORRRRRRR
+O, 2_11, 2, 1.0, ORRRRRSup
+O, +_14, +, 1.0, ORRRRRRRR
+
+# Relations from SRT:
+R, (_8, r_10, Right, 1.0
+R, )_24, 2_25, Sup, 1.0
+R, +_14, _15, Right, 1.0
+R, -_6, \Delta_7, Right, 1.0
+R, 2_20, \sin_21, Right, 1.0
+R, =_5, -_6, Right, 1.0
+R, N_17, 2_18, Sup, 1.0
+R, \Delta_7, (_8, Right, 1.0
+R, \gamma_3, =_5, Right, 1.0
+R, \gamma_3, o_4, Sub, 1.0
+R, \sin_12, \theta_13, Right, 1.0
+R, \sin_21, \theta_22, Right, 1.0
+R, \theta_13, +_14, Right, 1.0
+R, _15, )_24, Right, 1.0
+R, _15, 2_20, Below, 1.0
+R, _15, N_17, Above, 1.0
+R, r_10, 2_11, Sup, 1.0
+R, r_10, \sin_12, Right, 1.0

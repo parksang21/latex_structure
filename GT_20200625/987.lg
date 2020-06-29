@@ -1,0 +1,22 @@
+# IUD, 987
+# Objects(9):
+O, _1, -, 1.0, O
+O, c_8, c, 1.0, OBelowRInside
+O, x_11, x, 1.0, OBelowRInsideRR
+O, \delta_4, \delta, 1.0, OBelow
+O, )_12, ), 1.0, OBelowRInsideRRR
+O, _5, \sqrt, 1.0, OBelowR
+O, \delta_2, \delta, 1.0, OAbove
+O, \gamma_9, \gamma, 1.0, OBelowRInsideSup
+O, (_10, (, 1.0, OBelowRInsideR
+
+# Relations from SRT:
+R, (_10, x_11, Right, 1.0
+R, \delta_4, _5, Right, 1.0
+R, _1, \delta_2, Above, 1.0
+R, _1, \delta_4, Below, 1.0
+R, _5, (_10, Inside, 1.0
+R, _5, c_8, Inside, 1.0
+R, c_8, (_10, Right, 1.0
+R, c_8, \gamma_9, Sup, 1.0
+R, x_11, )_12, Right, 1.0

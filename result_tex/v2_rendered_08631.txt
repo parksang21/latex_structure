@@ -1,0 +1,3 @@
+\begin{equation}
+	F = \frac { g } { 4 \pi } \sin \theta d \theta \notin d \phi
+\end{equation}

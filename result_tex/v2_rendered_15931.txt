@@ -1,0 +1,3 @@
+\begin{equation}
+	G = V _ { 0 } \oplus V _ { 1 } \oplus \csqrts \oplus V _ { n } = \osqrt _ { 0 } ^ { n } V _ { p }
+\end{equation}

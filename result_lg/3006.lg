@@ -1,0 +1,33 @@
+# IUD, 3006
+# Objects(15):
+O, 1_19, 1, 1.0, ORRRRRRRR
+O, f_3, f, 1.0, O
+O, 1_7, 1, 1.0, ORR
+O, \theta_16, \theta, 1.0, ORRRRR
+O, 2_5, 2, 1.0, OSup
+O, -_8, -, 1.0, ORRR
+O, \phi_13, \phi, 1.0, ORRRRBelow
+O, =_6, =, 1.0, OR
+O, \theta_15, \theta, 1.0, ORRRRBelowR
+O, \gt_18, \gt, 1.0, ORRRRRRR
+O, _9, -, 1.0, ORRRR
+O, 1_10, 1, 1.0, ORRRRAbove
+O, \gt_17, \gt, 1.0, ORRRRRR
+O, 2_14, 2, 1.0, ORRRRBelowSup
+O, 0_4, 0, 1.0, OSub
+
+# Relations from SRT:
+R, -_8, _9, Right, 1.0
+R, 1_7, -_8, Right, 1.0
+R, =_6, 1_7, Right, 1.0
+R, \gt_17, \gt_18, Right, 1.0
+R, \gt_18, 1_19, Right, 1.0
+R, \phi_13, 2_14, Sup, 1.0
+R, \phi_13, \theta_15, Right, 1.0
+R, \theta_16, \gt_17, Right, 1.0
+R, _9, 1_10, Above, 1.0
+R, _9, \phi_13, Below, 1.0
+R, _9, \theta_16, Right, 1.0
+R, f_3, 0_4, Sub, 1.0
+R, f_3, 2_5, Sup, 1.0
+R, f_3, =_6, Right, 1.0

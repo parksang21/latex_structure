@@ -1,0 +1,3 @@
+\begin{equation}
+	\Omega _ { I } = - \frac { \cos 2 k \sqrt { t } } { \cos \frac { \pi k } { \lambda } } \Omega _ { R }
+\end{equation}

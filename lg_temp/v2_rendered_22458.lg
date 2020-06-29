@@ -1,0 +1,17 @@
+# IUD, v2_rendered_22458
+# Objects(7):
+O, \gt_6, \gt, 1.0, 3
+O, E_7, E, 1.0, 4
+O, M_9, M, 1.0, 5
+O, =_3, =, 1.0, 1
+O, N_2, N, 1.0, 0
+O, \prime_10, \prime, 1.0, 6
+O, M_4, M, 1.0, 2
+
+# Relations from SRT:
+R, =_3, M_4, Right, 1.0
+R, M_4, \gt_6, Right, 1.0
+R, M_9, \prime_10, Sup, 1.0
+R, N_2, =_3, Right, 1.0
+R, \gt_6, E_7, Below, 1.0
+R, \gt_6, M_9, Right, 1.0

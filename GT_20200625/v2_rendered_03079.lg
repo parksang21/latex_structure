@@ -1,0 +1,41 @@
+# IUD, v2_rendered_03079
+# Objects(19):
+O, 1_8, 1, 1.0, ORSub
+O, m_12, m, 1.0, ORSubRRRR
+O, -_13, -, 1.0, ORSubRRRRR
+O, m_26, m, 1.0, ORRRRSubRRRR
+O, COMMA_9, COMMA, 1.0, ORSubR
+O, +_25, +, 1.0, ORRRRSubRRR
+O, k_24, k, 1.0, ORRRRSubRR
+O, 0_22, 0, 1.0, ORRRRSub
+O, COMMA_23, COMMA, 1.0, ORRRRSubR
+O, \Delta_3, \Delta, 1.0, O
+O, +_11, +, 1.0, ORSubRRR
+O, 1_14, 1, 1.0, ORSubRRRRRR
+O, 2_18, 2, 1.0, ORRRSup
+O, =_15, =, 1.0, ORR
+O, \Delta_17, \Delta, 1.0, ORRR
+O, Y_20, Y, 1.0, ORRRR
+O, 1_4, 1, 1.0, OSup
+O, Y_6, Y, 1.0, OR
+O, k_10, k, 1.0, ORSubRR
+
+# Relations from SRT:
+R, +_11, m_12, Right, 1.0
+R, +_25, m_26, Right, 1.0
+R, -_13, 1_14, Right, 1.0
+R, 0_22, COMMA_23, Right, 1.0
+R, 1_8, COMMA_9, Right, 1.0
+R, =_15, \Delta_17, Right, 1.0
+R, COMMA_23, k_24, Right, 1.0
+R, COMMA_9, k_10, Right, 1.0
+R, Y_20, 0_22, Sub, 1.0
+R, Y_6, 1_8, Sub, 1.0
+R, Y_6, =_15, Right, 1.0
+R, \Delta_17, 2_18, Sup, 1.0
+R, \Delta_17, Y_20, Right, 1.0
+R, \Delta_3, 1_4, Sup, 1.0
+R, \Delta_3, Y_6, Right, 1.0
+R, k_10, +_11, Right, 1.0
+R, k_24, +_25, Right, 1.0
+R, m_12, -_13, Right, 1.0

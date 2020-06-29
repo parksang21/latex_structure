@@ -1,0 +1,45 @@
+# IUD, v2_rendered_17605
+# Objects(21):
+O, \pi_14, \pi, 1.0, ORRRR
+O, COMMA_12, COMMA, 1.0, ORRR
+O, a_9, a, 1.0, OSupRRR
+O, 0_11, 0, 1.0, ORR
+O, \approx_26, \approx, 1.0, ORRRRRRRRR
+O, 0_27, 0, 1.0, ORRRRRRRRRR
+O, 2_7, 2, 1.0, OSupR
+O, 0_17, 0, 1.0, ORRRRRR
+O, (_6, (, 1.0, OSup
+O, \approx_10, \approx, 1.0, OR
+O, COMMA_18, COMMA, 1.0, ORRRRRRR
+O, 1_23, 1, 1.0, ORRRRRRRRSupR
+O, a_15, a, 1.0, ORRRRSup
+O, i_4, i, 1.0, OSub
+O, a_25, a, 1.0, ORRRRRRRRSupRRR
+O, G_3, G, 1.0, O
+O, )_24, ), 1.0, ORRRRRRRRSupRR
+O, (_22, (, 1.0, ORRRRRRRRSup
+O, )_8, ), 1.0, OSupRR
+O, \pi_20, \pi, 1.0, ORRRRRRRR
+O, \approx_16, \approx, 1.0, ORRRRR
+
+# Relations from SRT:
+R, (_22, 1_23, Right, 1.0
+R, (_6, 2_7, Right, 1.0
+R, )_24, a_25, Right, 1.0
+R, )_8, a_9, Right, 1.0
+R, 0_11, COMMA_12, Right, 1.0
+R, 0_17, COMMA_18, Right, 1.0
+R, 1_23, )_24, Right, 1.0
+R, 2_7, )_8, Right, 1.0
+R, COMMA_12, \pi_14, Right, 1.0
+R, COMMA_18, \pi_20, Right, 1.0
+R, G_3, (_6, Sup, 1.0
+R, G_3, \approx_10, Right, 1.0
+R, G_3, i_4, Sub, 1.0
+R, \approx_10, 0_11, Right, 1.0
+R, \approx_16, 0_17, Right, 1.0
+R, \approx_26, 0_27, Right, 1.0
+R, \pi_14, \approx_16, Right, 1.0
+R, \pi_14, a_15, Sup, 1.0
+R, \pi_20, (_22, Sup, 1.0
+R, \pi_20, \approx_26, Right, 1.0

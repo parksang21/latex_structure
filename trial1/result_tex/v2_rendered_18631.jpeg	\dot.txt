@@ -1,0 +1,3 @@
+\begin{equation}
+	{ o } _ { \lambda } \psi _ { 5 } \leq \psi _ { 5 } , \dot { o } _ { \lambda } W \leq W , \forall \lambda \in \Delta
+\end{equation}

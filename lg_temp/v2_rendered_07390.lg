@@ -1,0 +1,43 @@
+# IUD, v2_rendered_07390
+# Objects(20):
+O, v_13, v, 1.0, 9
+O, a_21, a, 1.0, 17
+O, \Delta_10, \Delta, 1.0, 6
+O, 1_9, 1, 1.0, 5
+O, =_17, =, 1.0, 13
+O, a_14, a, 1.0, 10
+O, \vert_12, \vert, 1.0, 8
+O, c_15, c, 1.0, 11
+O, ]_23, ], 1.0, 19
+O, \gamma_6, \gamma, 1.0, 3
+O, z_4, z, 1.0, 2
+O, -_8, -, 1.0, 4
+O, \gamma_11, \gamma, 1.0, 7
+O, ]_16, ], 1.0, 12
+O, \int_2, \int, 1.0, 0
+O, v_20, v, 1.0, 16
+O, d_3, d, 1.0, 1
+O, p_18, p, 1.0, 14
+O, \vert_19, \vert, 1.0, 15
+O, c_22, c, 1.0, 18
+
+# Relations from SRT:
+R, -_8, 1_9, Right, 1.0
+R, =_17, p_18, Right, 1.0
+R, \Delta_10, \gamma_11, Right, 1.0
+R, \gamma_11, \vert_12, Right, 1.0
+R, \gamma_6, -_8, Sup, 1.0
+R, \gamma_6, \Delta_10, Right, 1.0
+R, \int_2, d_3, Right, 1.0
+R, \vert_12, v_13, Right, 1.0
+R, \vert_19, v_20, Right, 1.0
+R, ]_16, =_17, Right, 1.0
+R, a_14, c_15, Right, 1.0
+R, a_21, c_22, Right, 1.0
+R, c_15, ]_16, Right, 1.0
+R, c_22, ]_23, Right, 1.0
+R, d_3, z_4, Right, 1.0
+R, p_18, \vert_19, Right, 1.0
+R, v_13, a_14, Right, 1.0
+R, v_20, a_21, Right, 1.0
+R, z_4, \gamma_6, Right, 1.0

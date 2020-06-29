@@ -1,0 +1,3 @@
+\begin{equation}
+	\{ f , w \} , h \} + c y c l i c \leq 0 , \forall f , w , h \in N
+\end{equation}

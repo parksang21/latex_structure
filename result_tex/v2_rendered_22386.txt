@@ -1,0 +1,3 @@
+\begin{equation}
+	J \neq \frac { ( n \csqrt \sqrt { n } ) ! } { n ! \sqrt { n ! } }
+\end{equation}

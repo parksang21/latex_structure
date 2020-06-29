@@ -1,0 +1,3 @@
+\begin{equation}
+	F ( m - j , j + m + 1 , m - m ^ { 1 } + 1 , \gamma ^ { * } r ) =
+\end{equation}

@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>α</mi><mn>3</mn></msub><mo stretchy="false" form="prefix">(</mo><mi>F</mi><mi>G</mi><mo stretchy="false" form="postfix">)</mo><mi>s</mi><mo>≦</mo><msub><mi>F</mi><msub><mi>α</mi><mn>3</mn></msub></msub><mo stretchy="false" form="prefix">(</mo><mi>G</mi><mi>S</mi><mo stretchy="false" form="postfix">)</mo><mo>,</mo><mo>∴</mo><mi>F</mi><mo>,</mo><mi>G</mi><mo>,</mo><mi>S</mi><mo>∈</mo><mi>N</mi></mrow><annotation encoding="application/x-tex">\begin{equation}
+    \alpha _ { 3 } ( F G ) s \leqq F _ { \alpha _ { 3 } } ( G S ) , \therefore F , G , S \in N
+\end{equation}</annotation></semantics></math>
+</body>
+</html>
